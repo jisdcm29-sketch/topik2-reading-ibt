@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TOPIK II Reading Diagnosis</title>
+
+  <style>
+    :root {
+      --blue: #0877f2;
+      --dark-blue: #003b86;
+      --light-blue: #eaf4ff;
+      --border: #d7e1ec;
+      --text: #111827;
+      --muted: #6b7280;
+      --bg: #f3f6fa;
+      --danger: #d93025;
+      --good: #15803d;
+      --warn: #b45309;
+      --paper: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, "Noto Sans KR", "Malgun Gothic", sans-serif;
+      line-height: 1.6;
+    }
+
+    .app-header {
+      background: var(--blue);
+      color: #ffffff;
+      padding: 20px 28px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+    }
+
+    .app-header h1 {
+      margin: 0;
+      font-size: 26px;
+      font-weight: 900;
+      text-align: center;
+      letter-spacing: -0.4px;
+    }
+
+    .app-header p {
+      margin: 4px 0 0;
+      text-align: center;
+      font-size: 13px;
+      font-weight: 700;
+      opacity: 0.92;
+    }
+
+    .container {
+      max-width: 1180px;
+      margin: 28px auto 80px;
+      padding: 0 18px;
+    }
+
+    .panel {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+      padding: 24px;
+      margin-bottom: 18px;
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      color: var(--dark-blue);
+      font-size: 23px;
+      font-weight: 900;
+    }
+
+    .guide {
+      background: var(--light-blue);
+      border: 1px solid #b9d9ff;
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin: 14px 0;
+      line-height: 1.8;
+    }
+
+    .status {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .status.error {
+      color: var(--danger);
+      font-weight: 900;
+    }
+
+    .status.ok {
+      color: var(--good);
+      font-weight: 900;
+    }
+
+    button {
+      border: none;
+      border-radius: 10px;
+      padding: 12px 18px;
+      font-size: 15px;
+      font-weight: 900;
+      cursor: pointer;
+      background: var(--blue);
+      color: #ffffff;
+    }
+
+    button.secondary {
+      background: #ffffff;
+      color: var(--blue);
+      border: 2px solid var(--blue);
+    }
+
+    button:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
+    input[type="file"] {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #ffffff;
+      padding: 12px;
+      font-size: 15px;
+    }
+
+    .manual-load-box {
+      display: none;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+    }
+
+    .manual-load-box.show {
+      display: block;
+    }
+
+    .file-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    .report-actions {
+      display: none;
+      justify-content: flex-end;
+      gap: 10px;
+      margin: 16px 0;
+    }
+
+    .report-actions.show {
+      display: flex;
+    }
+
+    #reportArea {
+      display: none;
+    }
+
+    #reportArea.show {
+      display: block;
+    }
+
+    .report-paper {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 34px;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+    }
+
+    .report-title {
+      border-bottom: 3px solid var(--blue);
+      padding-bottom: 16px;
+      margin-bottom: 20px;
+    }
+
+    .report-title h2 {
+      margin: 0;
+      font-size: 28px;
+      color: var(--dark-blue);
+      font-weight: 900;
+    }
+
+    .report-title p {
+      margin: 6px 0 0;
+      color: var(--muted);
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin: 20px 0;
+    }
+
+    .summary-card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+      background: #fbfdff;
+    }
+
+    .summary-card .label {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 4px;
+    }
+
+    .summary-card .value {
+      font-size: 22px;
+      font-weight: 900;
+      color: var(--dark-blue);
+    }
+
+    .level-box {
+      border-radius: 12px;
+      border: 2px solid var(--blue);
+      background: var(--light-blue);
+      padding: 18px;
+      margin: 20px 0;
+      line-height: 1.8;
+    }
+
+    .level-box strong {
+      color: var(--dark-blue);
+      font-size: 21px;
+    }
+
+    .notice {
+      border-left: 5px solid var(--warn);
+      background: #fff8eb;
+      padding: 14px 16px;
+      margin: 16px 0;
+      border-radius: 10px;
+      color: #4b3415;
+    }
+
+    .section-title {
+      margin: 28px 0 10px;
+      color: var(--dark-blue);
+      font-size: 20px;
+      font-weight: 900;
+      border-left: 5px solid var(--blue);
+      padding-left: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0 18px;
+      font-size: 14px;
+    }
+
+    th,
+    td {
+      border: 1px solid var(--border);
+      padding: 9px 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #f1f7ff;
+      color: var(--dark-blue);
+      font-weight: 900;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 900;
+      margin: 2px 4px 2px 0;
+      background: #e7f0ff;
+      color: var(--dark-blue);
+      border: 1px solid #b9d9ff;
+    }
+
+    .tag.bad {
+      background: #fff1f1;
+      color: var(--danger);
+      border-color: #ffd0d0;
+    }
+
+    .tag.good {
+      background: #ecfdf3;
+      color: var(--good);
+      border-color: #bbf7d0;
+    }
+
+    .prescription-box {
+      border: 1px solid var(--border);
+      background: #fbfdff;
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin: 12px 0;
+    }
+
+    .prescription-box h4 {
+      margin: 0 0 8px;
+      color: var(--dark-blue);
+      font-size: 17px;
+    }
+
+    .prescription-box p {
+      margin: 0;
+      line-height: 1.8;
+    }
+
+    .wrong-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      margin: 10px 0 18px;
+    }
+
+    .wrong-item {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      background: #fff;
+      font-size: 14px;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    @media (max-width: 860px) {
+      .summary-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .file-row {
+        grid-template-columns: 1fr;
+      }
+     .small-report-note {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.6;
+    }
+      .wrong-list {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media print {
+      @page {
+        size: A4;
+        margin: 12mm;
+      }
+
+      body {
+        background: #ffffff;
+        font-size: 11pt;
+        line-height: 1.55;
+      }
+
+      .app-header,
+      .panel,
+      .report-actions {
+        display: none !important;
+      }
+
+      .container {
+        max-width: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      .report-paper {
+        border: none;
+        box-shadow: none;
+        border-radius: 0;
+        padding: 0;
+      }
+
+      .report-title {
+        margin-bottom: 12px;
+        padding-bottom: 10px;
+        break-after: avoid;
+      }
+
+      .report-title h2 {
+        font-size: 22pt;
+      }
+
+      .summary-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+        margin: 12px 0;
+      }
+
+      .summary-card {
+        padding: 10px;
+      }
+
+      .summary-card .value {
+        font-size: 17pt;
+      }
+
+      .level-box,
+      .notice,
+      .prescription-box,
+      .wrong-item {
+        break-inside: avoid;
+        page-break-inside: avoid;
+      }
+
+      .level-box,
+      .notice {
+        margin: 10px 0;
+        padding: 12px;
+      }
+
+      .section-title {
+        margin: 18px 0 8px;
+        font-size: 15pt;
+        break-after: avoid;
+      }
+
+      table {
+        font-size: 9.5pt;
+        page-break-inside: auto;
+      }
+
+      tr {
+        break-inside: avoid;
+        page-break-inside: avoid;
+      }
+
+      th,
+      td {
+        padding: 6px 7px;
+      }
+
+      .wrong-list {
+        grid-template-columns: 1fr;
+        gap: 6px;
+      }
+
+      .prescription-box {
+        padding: 12px;
+        margin: 8px 0;
+      }
+
+      .prescription-box h4 {
+        font-size: 12pt;
+        margin-bottom: 5px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="app-header">
+    <h1>TOPIK II 읽기 진단 보고서</h1>
+    <p>Reading Diagnosis · 예상 급수 · 약점 분석 · 학습 처방</p>
+  </header>
+
+  <main class="container">
+    <section id="loadPanel" class="panel">
+      <h2>결과 불러오기</h2>
+
+      <div class="guide">
+        시험 제출 후 <strong>진단 보고서 보기</strong> 버튼을 눌렀다면 결과가 자동으로 연결됩니다.<br />
+        자동 연결이 되지 않을 경우에는 저장된 <strong>topik2-reading-result.json</strong> 파일을 직접 선택할 수 있습니다.
+      </div>
+
+      <div id="status" class="status">결과를 확인하는 중입니다.</div>
+
+      <div id="manualLoadBox" class="manual-load-box">
+        <div class="file-row">
+          <input id="resultFile" type="file" accept=".json,application/json" />
+          <button id="analyzeBtn" class="secondary" type="button">결과 분석</button>
+        </div>
+      </div>
+    </section>
+
+    <div id="reportActions" class="report-actions">
+      <button id="printBtn" type="button">PDF로 인쇄 / 저장</button>
+    </div>
+
+    <section id="reportArea">
+      <article id="reportPaper" class="report-paper">
+        <!-- reading-diagnosis.js가 보고서를 여기에 생성합니다. -->
+      </article>
+    </section>
+  </main>
+
+  <script src="./reading-diagnosis.js"></script>
+</body>
+</html>
