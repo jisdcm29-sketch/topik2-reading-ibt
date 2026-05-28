@@ -1122,11 +1122,11 @@ function renderReport(report) {
           </div>`
     }
 
-    <h3 class="section-title">유형별 득점 그래프</h3>
-    ${renderTypeBarChart(report.readingTypeAnalysis)}
-
     <h3 class="section-title">시험 정보</h3>
     ${renderExamInfoTable(result)}
+
+    <h3 class="section-title">유형별 득점 그래프</h3>
+    ${renderTypeBarChart(report.readingTypeAnalysis)}
 
     <h3 class="section-title">문항 구간별 분석</h3>
     ${renderZoneTable(report.zoneAnalysis)}

@@ -572,6 +572,119 @@
         margin-bottom: 5px;
       }
     }
+       /* 유형별 득점 그래프 PDF 출력 보정 */
+    .type-chart,
+    .type-chart * {
+      box-sizing: border-box;
+    }
+
+    .type-chart-track {
+      position: relative;
+    }
+
+    .type-chart-fill {
+      display: block;
+    }
+
+    @media print {
+      .type-chart {
+        background: #ffffff !important;
+        border: 1px solid #111111 !important;
+        padding: 8px 10px !important;
+        margin: 8px 0 12px !important;
+        break-inside: auto !important;
+        page-break-inside: auto !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+
+      .type-chart-guide {
+        margin: 0 0 6px !important;
+        color: #111111 !important;
+        font-size: 10.5px !important;
+        line-height: 1.45 !important;
+      }
+
+      .type-chart-row {
+        display: grid !important;
+        grid-template-columns: 135px minmax(150px, 1fr) 42px 76px !important;
+        gap: 6px !important;
+        align-items: center !important;
+        padding: 4px 0 !important;
+        border-bottom: 1px solid #bbbbbb !important;
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+      }
+
+      .type-chart-row:last-child {
+        border-bottom: none !important;
+      }
+
+      .type-chart-label {
+        color: #000000 !important;
+        font-size: 10.5px !important;
+        font-weight: 900 !important;
+        line-height: 1.25 !important;
+      }
+
+      .type-chart-focus {
+        display: none !important;
+      }
+
+      .type-chart-track {
+        height: 12px !important;
+        background: #ffffff !important;
+        border: 1px solid #333333 !important;
+        border-radius: 0 !important;
+        overflow: hidden !important;
+      }
+
+      .type-chart-fill,
+      .type-chart-fill.good,
+      .type-chart-fill.warn,
+      .type-chart-fill.bad {
+        height: 0 !important;
+        min-height: 0 !important;
+        background: transparent !important;
+        border: 0 !important;
+        border-top: 10px solid #111111 !important;
+        border-radius: 0 !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+
+      .type-chart-rate {
+        color: #000000 !important;
+        font-size: 10.5px !important;
+        font-weight: 900 !important;
+        text-align: right !important;
+      }
+
+      .type-chart-score {
+        color: #000000 !important;
+        font-size: 9.8px !important;
+        font-weight: 800 !important;
+        line-height: 1.25 !important;
+        text-align: right !important;
+      }
+
+      .type-chart-summary {
+        margin-top: 7px !important;
+        padding: 6px 8px !important;
+        background: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #777777 !important;
+        border-left: 4px solid #111111 !important;
+        font-size: 10.5px !important;
+        line-height: 1.45 !important;
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+      }
+
+      .type-chart-summary strong {
+        color: #000000 !important;
+      }
+    }
   </style>
 </head>
 
@@ -611,6 +724,6 @@
     </section>
   </main>
 
-  <script src="./reading-diagnosis.js"></script>
+  <script src="./reading-diagnosis.js?v=type-bar-chart-print-1"></script>
 </body>
 </html>
