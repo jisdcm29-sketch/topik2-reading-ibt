@@ -165,7 +165,7 @@ function buildDiagnosisReport(result) {
     weaknesses
   });
 
-  return {
+    return {
     source: result,
     generated_at: new Date().toISOString(),
     score,
@@ -174,6 +174,7 @@ function buildDiagnosisReport(result) {
     categoryAnalysis,
     diagnosticAnalysis,
     zoneAnalysis,
+    readingTypeAnalysis,
     problemItems,
     wrongItems,
     unansweredItems,
