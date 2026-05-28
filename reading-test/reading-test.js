@@ -1475,20 +1475,36 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
 
   const selectedFirst = normalizeSentenceBlockLabel(currentOrder[0] || "");
   const columnCount = Math.min(candidates.length, 2);
+  const hasSelectedFirst = Boolean(selectedFirst);
 
   return `
     <div style="
-      margin: 0 0 14px;
-      padding: 12px 14px;
+      margin: 0 0 18px;
+      padding: 14px 16px;
       border: 1px solid #b9d8ff;
-      border-radius: 10px;
-      background: #f4f9ff;
+      border-radius: 12px;
+      background: #f8fbff;
     ">
       <div style="
-        margin-bottom: 10px;
+        margin: 0 0 10px;
         font-weight: 900;
         color: #003f8f;
-        font-size: 16px;
+        font-size: 19px;
+        line-height: 1.5;
+      ">
+        시작 문장 후보
+      </div>
+
+      <div style="
+        margin: 0 0 12px;
+        padding: 11px 13px;
+        border: 1px solid #b9d8ff;
+        border-radius: 10px;
+        background: #eaf4ff;
+        color: #003f8f;
+        font-size: 17px;
+        font-weight: 900;
+        line-height: 1.55;
       ">
         원래 보기의 첫 문장 후보 중 하나를 먼저 선택하세요.
       </div>
@@ -1496,7 +1512,7 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
       <div style="
         display: grid;
         grid-template-columns: repeat(${columnCount}, minmax(0, 1fr));
-        gap: 10px;
+        gap: 12px;
       ">
         ${candidates.map(function (label) {
           const block = findSentenceBlock(question, label);
@@ -1508,7 +1524,8 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
               class="first-order-candidate-button"
               data-first-order-label="${escapeAttribute(label)}"
               style="
-                padding: 12px 10px;
+                min-height: 86px;
+                padding: 14px 14px;
                 border-radius: 10px;
                 border: 2px solid ${selected ? "#0877f2" : "#b8c7d9"};
                 background: ${selected ? "#e7f1ff" : "#ffffff"};
@@ -1516,24 +1533,55 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
                 font-weight: 900;
                 cursor: pointer;
                 text-align: left;
-                line-height: 1.5;
+                line-height: 1.55;
               "
             >
-              (${escapeHtml(label)})로 시작
-              <br />
               <span style="
                 display:block;
-                margin-top:4px;
-                color:#111827;
-                font-size:14px;
-                font-weight:700;
+                margin-bottom: 5px;
+                color:#003f8f;
+                font-size:17px;
+                font-weight:900;
               ">
-                ${block ? escapeHtml(block.text) : ""}
+                (${escapeHtml(label)})로 시작
+              </span>
+
+              <span style="
+                display:block;
+                color:#111827;
+                font-size:17px;
+                font-weight:800;
+                line-height:1.6;
+              ">
+                (${escapeHtml(label)}) ${block ? escapeHtml(block.text) : ""}
               </span>
             </button>
           `;
         }).join("")}
       </div>
+
+      ${
+        hasSelectedFirst
+          ? `<button
+              type="button"
+              id="changeFirstOrderButton"
+              style="
+                width: 100%;
+                margin-top: 14px;
+                padding: 12px 14px;
+                border: 2px solid #d93025;
+                border-radius: 10px;
+                background: #ffffff;
+                color: #d93025;
+                font-size: 17px;
+                font-weight: 900;
+                cursor: pointer;
+              "
+            >
+              다시 배치
+            </button>`
+          : ""
+      }
     </div>
   `;
 }
@@ -1564,10 +1612,15 @@ function setFirstOrderCandidate(question, label) {
 function renderSentenceOrderQuestion(question) {
   const sentenceBlocks = getSentenceBlocks(question);
   const currentOrder = sentenceOrderAnswers[question.id] || [];
-  const usedLabels = new Set(currentOrder);
-  const sourceCards = sentenceBlocks.filter(function (block) {
-    return !usedLabels.has(block.label);
-  });
+  const selectedFirst = normalizeSentenceBlockLabel(currentOrder[0] || "");
+  const hasSelectedFirst = Boolean(selectedFirst);
+
+  const usedLabels = new Set(currentOrder.filter(Boolean));
+  const sourceCards = hasSelectedFirst
+    ? sentenceBlocks.filter(function (block) {
+        return !usedLabels.has(block.label);
+      })
+    : [];
 
   elements.questionStage.innerHTML = `
     <div class="order-layout">
@@ -1590,8 +1643,9 @@ function renderSentenceOrderQuestion(question) {
           style="
             width: 100%;
             margin-top: 14px;
-            padding: 12px 14px;
+            padding: 13px 14px;
             border-radius: 10px;
+            font-size: 17px;
             font-weight: 900;
           "
         >
@@ -1605,13 +1659,13 @@ function renderSentenceOrderQuestion(question) {
           <small>문장 순서</small>
         </div>
 
-                <div style="
+        <div style="
           margin: 0 0 14px;
-          padding: 12px 14px;
+          padding: 13px 15px;
           border: 1px solid #d7e1ec;
           border-radius: 10px;
           background: #ffffff;
-          font-size: 18px;
+          font-size: 20px;
           font-weight: 900;
           line-height: 1.6;
           color: #111827;
@@ -1622,21 +1676,46 @@ function renderSentenceOrderQuestion(question) {
 
         ${renderFirstOrderCandidateButtons(question, currentOrder)}
 
-        <div class="order-card-list" id="orderSourceList">
-          ${
-            sourceCards.length
-              ? sourceCards.map(renderSentenceCard).join("")
-              : `<div style="
-                  padding:16px;
-                  border:1px solid #e3e6ea;
-                  border-radius:10px;
-                  background:#f8fafc;
-                  text-align:center;
-                  color:#555;
-                  font-weight:800;
-                ">모든 문장을 왼쪽에 배치했습니다.</div>`
-          }
-        </div>
+        ${
+          hasSelectedFirst
+            ? `<div style="
+                margin: 0 0 10px;
+                color: #003f8f;
+                font-size: 18px;
+                font-weight: 900;
+              ">
+                나머지 선택 문장
+              </div>
+
+              <div class="order-card-list" id="orderSourceList">
+                ${
+                  sourceCards.length
+                    ? sourceCards.map(renderSentenceCard).join("")
+                    : `<div style="
+                        padding:16px;
+                        border:1px solid #e3e6ea;
+                        border-radius:10px;
+                        background:#f8fafc;
+                        text-align:center;
+                        color:#555;
+                        font-size:17px;
+                        font-weight:800;
+                      ">모든 문장을 왼쪽에 배치했습니다.</div>`
+                }
+              </div>`
+            : `<div style="
+                padding: 16px;
+                border: 1px dashed #b9c8d8;
+                border-radius: 10px;
+                background: #ffffff;
+                color: #5f6368;
+                font-size: 17px;
+                font-weight: 800;
+                line-height: 1.6;
+              ">
+                먼저 위의 시작 문장 후보 중 하나를 선택하면 나머지 문장이 표시됩니다.
+              </div>`
+        }
       </section>
     </div>
   `;
@@ -1650,6 +1729,13 @@ function renderSentenceCard(block) {
       class="sentence-card"
       draggable="true"
       data-sentence-label="${escapeAttribute(block.label)}"
+      style="
+        padding: 13px 15px;
+        border-radius: 10px;
+        font-size: 18px;
+        line-height: 1.65;
+        font-weight: 800;
+      "
     >
       <strong>(${escapeHtml(block.label)})</strong> ${escapeHtml(block.text)}
     </div>
@@ -1679,6 +1765,7 @@ function bindSentenceOrderEvents(question) {
   const slots = elements.questionStage.querySelectorAll(".order-slot");
   const firstOrderButtons = elements.questionStage.querySelectorAll(".first-order-candidate-button");
   const resetButton = document.getElementById("resetSentenceOrderButton");
+  const changeFirstOrderButton = document.getElementById("changeFirstOrderButton");
 
    firstOrderButtons.forEach(function (button) {
     button.addEventListener("click", function () {
@@ -1686,7 +1773,14 @@ function bindSentenceOrderEvents(question) {
       setFirstOrderCandidate(question, label);
     });
   });
-
+    
+  if (changeFirstOrderButton) {
+    changeFirstOrderButton.addEventListener("click", function () {
+      sentenceOrderAnswers[question.id] = [];
+      delete answers[question.id];
+      renderCurrentQuestion();
+    });
+  }
   cards.forEach(function (card) {
     card.addEventListener("dragstart", function (event) {
       event.dataTransfer.setData("text/plain", card.getAttribute("data-sentence-label"));
