@@ -1034,7 +1034,7 @@ function renderStandardQuestion(question) {
 function renderPassageHtml(question) {
   let source = question.passage_template || question.passage || "";
 
-    if (!source && question.type && question.type.includes("visual")) {
+  if (!source && question.type && question.type.includes("visual")) {
     source = question.image_only ? "" : (question.passage || "자료 이미지 또는 안내문이 표시됩니다.");
   }
 
@@ -1042,7 +1042,50 @@ function renderPassageHtml(question) {
   source = applyCurrentAnswerInsertToPassage(question, source);
 
   const htmlWithInsertMarkers = emphasizeInsertMarkers(escapeHtml(source));
-  return applyUnderlineTargetsToEscapedHtml(question, htmlWithInsertMarkers);
+  const htmlWithUnderlines = applyUnderlineTargetsToEscapedHtml(question, htmlWithInsertMarkers);
+
+  return emphasizeBlankParenthesesInHtml(htmlWithUnderlines);
+}
+
+function emphasizeBlankParenthesesInHtml(html) {
+  let result = String(html || "");
+
+  function makeBlankMarkerHtml(rawText) {
+    const visibleText = String(rawText || "")
+      .replace(/ /g, "&nbsp;")
+      .replace(/\t/g, "&nbsp;&nbsp;");
+
+    return `<span class="passage-blank-marker" style="
+      display:inline-block;
+      color:#d93025;
+      -webkit-text-fill-color:#d93025;
+      font-weight:900;
+      background:#fff3f0;
+      border:1px solid #ffb4aa;
+      border-radius:7px;
+      padding:0 8px;
+      margin:0 3px;
+      line-height:1.45;
+      letter-spacing:2px;
+      vertical-align:baseline;
+      white-space:nowrap;
+    ">${visibleText}</span>`;
+  }
+
+  /*
+    지문 안의 빈칸 괄호만 강조한다.
+    일반 설명 괄호까지 모두 색칠하면 문장 삽입 위치나 일반 괄호까지 과하게 강조될 수 있으므로
+    우선 TOPIK 빈칸 표시인 빈 괄호 형태에 적용한다.
+  */
+  result = result.replace(/\(\s{0,12}\)/g, function (match) {
+    return makeBlankMarkerHtml(match);
+  });
+
+  result = result.replace(/（\s{0,12}）/g, function (match) {
+    return makeBlankMarkerHtml(match);
+  });
+
+  return result;
 }
 function applyUnderlineTargetsToEscapedHtml(question, html) {
   const targets = getUnderlineTargets(question);
