@@ -1418,6 +1418,7 @@ function renderSentenceInsertQuestion(question) {
     });
   });
 }
+
 function getFirstOrderCandidates(question) {
   const manualCandidates = Array.isArray(question.first_order_candidates)
     ? question.first_order_candidates
@@ -1466,11 +1467,27 @@ function getFirstOrderCandidates(question) {
   return candidates;
 }
 
+function getValidFirstOrderLabel(question, currentOrder) {
+  const selectedFirst = normalizeSentenceBlockLabel(
+    Array.isArray(currentOrder) ? currentOrder[0] : ""
+  );
+
+  if (!selectedFirst) {
+    return "";
+  }
+
+  return findSentenceBlock(question, selectedFirst) ? selectedFirst : "";
+}
+
 function renderFirstOrderCandidateButtons(question, currentOrder) {
   const candidates = getFirstOrderCandidates(question);
 
   if (candidates.length < 2) {
-    return "";
+    return `
+      <div class="order-card-list" id="orderSourceList">
+        ${getSentenceBlocks(question).map(renderSentenceCard).join("")}
+      </div>
+    `;
   }
 
   const columnCount = Math.min(candidates.length, 2);
@@ -1491,8 +1508,8 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
             class="first-order-candidate-button"
             data-first-order-label="${escapeAttribute(cleanLabel)}"
             style="
-              min-height: 102px;
-              padding: 15px 16px;
+              min-height: 108px;
+              padding: 16px 17px;
               border-radius: 10px;
               border: 2px solid #b8c7d9;
               background: #ffffff;
@@ -1507,7 +1524,7 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
               display:block;
               margin-bottom: 8px;
               color:#003f8f;
-              font-size:18px;
+              font-size:19px;
               font-weight:900;
             ">
               (${escapeHtml(cleanLabel)})로 시작
@@ -1516,7 +1533,7 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
             <span style="
               display:block;
               color:#111827;
-              font-size:18px;
+              font-size:19px;
               font-weight:900;
               line-height:1.6;
             ">
@@ -1564,9 +1581,21 @@ function setFirstOrderCandidate(question, label) {
 
 function renderSentenceOrderQuestion(question) {
   const sentenceBlocks = getSentenceBlocks(question);
-  const currentOrder = sentenceOrderAnswers[question.id] || [];
-  const selectedFirst = normalizeSentenceBlockLabel(currentOrder[0] || "");
+  let currentOrder = sentenceOrderAnswers[question.id] || [];
+
+  const selectedFirst = getValidFirstOrderLabel(question, currentOrder);
   const hasSelectedFirst = Boolean(selectedFirst);
+
+  /*
+    이전 코드에서 숫자나 잘못된 값이 1번째 문장으로 저장된 경우가 있으면
+    오른쪽에 4개 문장이 모두 보이는 문제가 생긴다.
+    그런 잘못된 상태는 즉시 초기화한다.
+  */
+  if (!hasSelectedFirst && currentOrder.some(Boolean)) {
+    currentOrder = [];
+    sentenceOrderAnswers[question.id] = [];
+    delete answers[question.id];
+  }
 
   const usedLabels = new Set(
     currentOrder
