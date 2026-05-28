@@ -1473,66 +1473,78 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
     return "";
   }
 
-  const selectedFirst = normalizeSentenceBlockLabel(currentOrder[0] || "");
   const columnCount = Math.min(candidates.length, 2);
 
   return `
     <div style="
-      margin: 0;
-      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(${columnCount}, minmax(0, 1fr));
+      gap: 12px;
     ">
-      <div style="
-        display: grid;
-        grid-template-columns: repeat(${columnCount}, minmax(0, 1fr));
-        gap: 12px;
-      ">
-        ${candidates.map(function (label) {
-          const block = findSentenceBlock(question, label);
-          const selected = selectedFirst === label;
+      ${candidates.map(function (label) {
+        const cleanLabel = normalizeSentenceBlockLabel(label);
+        const block = findSentenceBlock(question, cleanLabel);
 
-          return `
-            <button
-              type="button"
-              class="first-order-candidate-button"
-              data-first-order-label="${escapeAttribute(label)}"
-              style="
-                min-height: 102px;
-                padding: 15px 16px;
-                border-radius: 10px;
-                border: 2px solid ${selected ? "#0877f2" : "#b8c7d9"};
-                background: ${selected ? "#e7f1ff" : "#ffffff"};
-                color: #003f8f;
-                font-weight: 900;
-                cursor: pointer;
-                text-align: left;
-                line-height: 1.55;
-              "
-            >
-              <span style="
-                display:block;
-                margin-bottom: 8px;
-                color:#003f8f;
-                font-size:18px;
-                font-weight:900;
-              ">
-                (${escapeHtml(label)})로 시작
-              </span>
+        return `
+          <button
+            type="button"
+            class="first-order-candidate-button"
+            data-first-order-label="${escapeAttribute(cleanLabel)}"
+            style="
+              min-height: 102px;
+              padding: 15px 16px;
+              border-radius: 10px;
+              border: 2px solid #b8c7d9;
+              background: #ffffff;
+              color: #003f8f;
+              font-weight: 900;
+              cursor: pointer;
+              text-align: left;
+              line-height: 1.55;
+            "
+          >
+            <span style="
+              display:block;
+              margin-bottom: 8px;
+              color:#003f8f;
+              font-size:18px;
+              font-weight:900;
+            ">
+              (${escapeHtml(cleanLabel)})로 시작
+            </span>
 
-              <span style="
-                display:block;
-                color:#111827;
-                font-size:18px;
-                font-weight:900;
-                line-height:1.6;
-              ">
-                (${escapeHtml(label)}) ${block ? escapeHtml(block.text) : ""}
-              </span>
-            </button>
-          `;
-        }).join("")}
-      </div>
+            <span style="
+              display:block;
+              color:#111827;
+              font-size:18px;
+              font-weight:900;
+              line-height:1.6;
+            ">
+              (${escapeHtml(cleanLabel)}) ${block ? escapeHtml(block.text) : ""}
+            </span>
+          </button>
+        `;
+      }).join("")}
     </div>
   `;
+}
+
+function updateSentenceOrderAnswerState(question, currentOrder) {
+  const normalizedOrder = (currentOrder || [])
+    .slice(0, 4)
+    .map(function (label) {
+      return label ? normalizeSentenceBlockLabel(label) : null;
+    });
+
+  sentenceOrderAnswers[question.id] = normalizedOrder;
+
+  const completedOrder = normalizedOrder.filter(Boolean);
+
+  if (completedOrder.length === 4) {
+    answers[question.id] = completedOrder;
+  } else {
+    delete answers[question.id];
+  }
 }
 
 function setFirstOrderCandidate(question, label) {
@@ -1542,19 +1554,11 @@ function setFirstOrderCandidate(question, label) {
     return;
   }
 
-  const currentOrder = sentenceOrderAnswers[question.id] || [];
-
-  for (let i = 0; i < currentOrder.length; i += 1) {
-    if (normalizeSentenceBlockLabel(currentOrder[i]) === cleanLabel) {
-      currentOrder[i] = null;
-    }
-  }
+  const currentOrder = [null, null, null, null];
 
   currentOrder[0] = cleanLabel;
 
-  sentenceOrderAnswers[question.id] = currentOrder.slice(0, 4);
-  answers[question.id] = sentenceOrderAnswers[question.id].filter(Boolean);
-
+  updateSentenceOrderAnswerState(question, currentOrder);
   renderCurrentQuestion();
 }
 
@@ -1591,22 +1595,6 @@ function renderSentenceOrderQuestion(question) {
             return renderOrderSlot(question, index, currentOrder[index]);
           }).join("")}
         </div>
-
-        <button
-          type="button"
-          id="resetSentenceOrderButton"
-          class="button secondary"
-          style="
-            width: 100%;
-            margin-top: 14px;
-            padding: 13px 14px;
-            border-radius: 10px;
-            font-size: 17px;
-            font-weight: 900;
-          "
-        >
-          배열 초기화
-        </button>
       </section>
 
       <section class="order-source">
@@ -1685,11 +1673,13 @@ function renderSentenceOrderQuestion(question) {
 }
 
 function renderSentenceCard(block) {
+  const cleanLabel = normalizeSentenceBlockLabel(block.label);
+
   return `
     <div
       class="sentence-card"
       draggable="true"
-      data-sentence-label="${escapeAttribute(block.label)}"
+      data-sentence-label="${escapeAttribute(cleanLabel)}"
       style="
         padding: 14px 16px;
         border-radius: 10px;
@@ -1698,13 +1688,14 @@ function renderSentenceCard(block) {
         font-weight: 900;
       "
     >
-      <strong>(${escapeHtml(block.label)})</strong> ${escapeHtml(block.text)}
+      <strong>(${escapeHtml(cleanLabel)})</strong> ${escapeHtml(block.text)}
     </div>
   `;
 }
 
 function renderOrderSlot(question, index, label) {
-  const block = findSentenceBlock(question, label);
+  const cleanLabel = label ? normalizeSentenceBlockLabel(label) : "";
+  const block = findSentenceBlock(question, cleanLabel);
   const filled = block ? "filled" : "";
 
   return `
@@ -1715,7 +1706,7 @@ function renderOrderSlot(question, index, label) {
           ? `<div
               class="sentence-card"
               draggable="true"
-              data-sentence-label="${escapeAttribute(block.label)}"
+              data-sentence-label="${escapeAttribute(cleanLabel)}"
               style="
                 padding: 14px 16px;
                 border-radius: 10px;
@@ -1724,7 +1715,7 @@ function renderOrderSlot(question, index, label) {
                 font-weight: 900;
               "
             >
-              <strong>(${escapeHtml(block.label)})</strong> ${escapeHtml(block.text)}
+              <strong>(${escapeHtml(cleanLabel)})</strong> ${escapeHtml(block.text)}
             </div>`
           : "여기에 문장을 놓으세요."
       }
@@ -1737,7 +1728,6 @@ function bindSentenceOrderEvents(question) {
   const sourceCards = elements.questionStage.querySelectorAll("#orderSourceList .sentence-card");
   const slots = elements.questionStage.querySelectorAll(".order-slot");
   const firstOrderButtons = elements.questionStage.querySelectorAll(".first-order-candidate-button");
-  const resetButton = document.getElementById("resetSentenceOrderButton");
   const changeFirstOrderButton = document.getElementById("changeFirstOrderButton");
 
   firstOrderButtons.forEach(function (button) {
@@ -1778,14 +1768,6 @@ function bindSentenceOrderEvents(question) {
     });
   });
 
-  if (resetButton) {
-    resetButton.addEventListener("click", function () {
-      sentenceOrderAnswers[question.id] = [];
-      delete answers[question.id];
-      renderCurrentQuestion();
-    });
-  }
-
   if (changeFirstOrderButton) {
     changeFirstOrderButton.addEventListener("click", function () {
       sentenceOrderAnswers[question.id] = [];
@@ -1797,42 +1779,44 @@ function bindSentenceOrderEvents(question) {
 
 function putSentenceIntoFirstEmptySlot(question, label) {
   const currentOrder = sentenceOrderAnswers[question.id] || [];
-  let targetIndex = currentOrder.findIndex(function (value) {
-    return !value;
+  let targetIndex = currentOrder.findIndex(function (value, index) {
+    return index > 0 && !value;
   });
 
   if (targetIndex === -1) {
-    targetIndex = currentOrder.length < 4 ? currentOrder.length : 0;
+    targetIndex = currentOrder.length < 4 ? currentOrder.length : 1;
   }
 
   putSentenceIntoSlot(question, label, targetIndex);
 }
 
 function putSentenceIntoSlot(question, label, slotIndex) {
-  if (!label) {
+  const cleanLabel = normalizeSentenceBlockLabel(label);
+
+  if (!cleanLabel) {
     return;
   }
 
   const currentOrder = sentenceOrderAnswers[question.id] || [];
 
   for (let i = 0; i < currentOrder.length; i += 1) {
-    if (currentOrder[i] === label) {
+    if (normalizeSentenceBlockLabel(currentOrder[i]) === cleanLabel) {
       currentOrder[i] = null;
     }
   }
 
-  currentOrder[slotIndex] = label;
-  sentenceOrderAnswers[question.id] = currentOrder.slice(0, 4);
-  answers[question.id] = sentenceOrderAnswers[question.id].filter(Boolean);
+  currentOrder[slotIndex] = cleanLabel;
 
+  updateSentenceOrderAnswerState(question, currentOrder);
   renderCurrentQuestion();
 }
 
 function clearOrderSlot(question, slotIndex) {
   const currentOrder = sentenceOrderAnswers[question.id] || [];
+
   currentOrder[slotIndex] = null;
-  sentenceOrderAnswers[question.id] = currentOrder;
-  answers[question.id] = currentOrder.filter(Boolean);
+
+  updateSentenceOrderAnswerState(question, currentOrder);
   renderCurrentQuestion();
 }
 
