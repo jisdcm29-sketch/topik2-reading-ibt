@@ -143,6 +143,7 @@ function buildDiagnosisReport(result) {
   const categoryAnalysis = groupStats(items, "category");
   const diagnosticAnalysis = groupStats(items, "diagnostic_area");
   const zoneAnalysis = makeZoneAnalysis(items);
+  const readingTypeAnalysis = makeReadingTypeChartAnalysis(items);
 
   const problemItems = items.filter((item) => !item.is_correct);
   const unansweredItems = items.filter((item) => isUnanswered(item.student_answer));
@@ -160,6 +161,7 @@ function buildDiagnosisReport(result) {
     categoryAnalysis,
     diagnosticAnalysis,
     zoneAnalysis,
+    readingTypeAnalysis,
     weaknesses
   });
 
@@ -252,7 +254,243 @@ function getTopik2ReadingLevel(score) {
     study_focus: "실전 속도 유지, 후반부 장문 근거 찾기, 오답 선택지 분석으로 점수를 안정화하세요."
   };
 }
+const READING_TYPE_CHART_DEFINITIONS = [
+  {
+    id: "T01",
+    label: "문법·표현",
+    focus: "문맥에 맞는 문법 표현 선택"
+  },
+  {
+    id: "T02",
+    label: "유사 표현",
+    focus: "밑줄 친 표현의 의미 이해"
+  },
+  {
+    id: "T03",
+    label: "이미지·안내문 이해",
+    focus: "광고·안내문·이미지 자료의 목적과 대상 파악"
+  },
+  {
+    id: "T04",
+    label: "자료·그래프 이해",
+    focus: "표·그래프·자료의 세부 정보 파악"
+  },
+  {
+    id: "T05",
+    label: "내용 일치",
+    focus: "글의 세부 내용과 선택지 일치 판단"
+  },
+  {
+    id: "T06",
+    label: "문장 순서",
+    focus: "시간 흐름과 인과 관계에 따른 문장 배열"
+  },
+  {
+    id: "T07",
+    label: "빈칸 표현",
+    focus: "문맥에 맞는 연결·문법 표현 선택"
+  },
+  {
+    id: "T08",
+    label: "공통 지문 빈칸",
+    focus: "공통 지문 안의 빈칸 추론"
+  },
+  {
+    id: "T09",
+    label: "공통 지문 주제",
+    focus: "공통 지문의 주제와 중심 내용 파악"
+  },
+  {
+    id: "T10",
+    label: "심정 파악",
+    focus: "인물의 감정과 태도 이해"
+  },
+  {
+    id: "T11",
+    label: "서사 글 이해",
+    focus: "사건 전개와 인물 행동의 의미 파악"
+  },
+  {
+    id: "T12",
+    label: "신문 제목 이해",
+    focus: "신문 제목의 함축 의미 이해"
+  },
+  {
+    id: "T13",
+    label: "중심 내용 파악",
+    focus: "글의 중심 생각과 주제 파악"
+  },
+  {
+    id: "T14",
+    label: "필자 의도·주장",
+    focus: "필자의 의도, 주장, 태도 파악"
+  },
+  {
+    id: "T15",
+    label: "문장 삽입",
+    focus: "주어진 문장과 앞뒤 문맥의 응집성 판단"
+  },
+  {
+    id: "T16",
+    label: "긴 지문 내용 일치",
+    focus: "긴 지문의 세부 정보와 선택지 비교"
+  }
+];
 
+function makeReadingTypeChartAnalysis(items) {
+  const map = new Map();
+
+  READING_TYPE_CHART_DEFINITIONS.forEach(function (definition) {
+    map.set(definition.id, {
+      type_id: definition.id,
+      name: definition.label,
+      focus: definition.focus,
+      total: 0,
+      correct: 0,
+      wrong: 0,
+      unanswered: 0,
+      points_possible: 0,
+      points_earned: 0,
+      wrong_questions: []
+    });
+  });
+
+  items.forEach(function (item) {
+    const typeId = inferReadingTypeChartId(item);
+    const definition = READING_TYPE_CHART_DEFINITIONS.find(function (entry) {
+      return entry.id === typeId;
+    });
+
+    if (!definition) {
+      return;
+    }
+
+    const stat = map.get(typeId);
+    const points = numberOrZero(item.points);
+    const earned = numberOrZero(item.earned_points);
+    const isCorrect = Boolean(item.is_correct);
+
+    stat.total += 1;
+    stat.points_possible += points;
+    stat.points_earned += earned;
+
+    if (isCorrect) {
+      stat.correct += 1;
+    } else {
+      stat.wrong += 1;
+      stat.wrong_questions.push(item.question_number);
+    }
+
+    if (isUnanswered(item.student_answer)) {
+      stat.unanswered += 1;
+    }
+  });
+
+  return READING_TYPE_CHART_DEFINITIONS
+    .map(function (definition) {
+      const stat = map.get(definition.id);
+
+      return {
+        ...stat,
+        accuracy: percent(stat.correct, stat.total),
+        point_rate: stat.points_possible
+          ? Math.round((stat.points_earned / stat.points_possible) * 100)
+          : 0
+      };
+    })
+    .filter(function (stat) {
+      return stat.total > 0;
+    });
+}
+
+function inferReadingTypeChartId(item) {
+  const n = Number(item.question_number);
+  const text = [
+    item.type || "",
+    item.category || "",
+    item.diagnostic_area || "",
+    item.description || ""
+  ].join(" ");
+
+  if (n >= 1 && n <= 2) return "T01";
+  if (n >= 3 && n <= 4) return "T02";
+
+  if (n >= 5 && n <= 8) {
+    if (/표|그래프|자료/.test(text)) {
+      return "T04";
+    }
+
+    return "T03";
+  }
+
+  if (n >= 9 && n <= 12) {
+    if (/표|그래프|자료|이미지/.test(text)) {
+      return "T04";
+    }
+
+    return "T05";
+  }
+
+  if (n >= 13 && n <= 15) return "T06";
+  if (n >= 16 && n <= 18) return "T07";
+
+  if (n === 19) return "T08";
+  if (n === 20) return "T09";
+
+  if (n >= 21 && n <= 24) {
+    if (/심정|감정|기분|태도/.test(text)) {
+      return "T10";
+    }
+
+    return "T11";
+  }
+
+  if (n >= 25 && n <= 27) return "T12";
+
+  if (n >= 28 && n <= 31) {
+    if (/의도|주장|태도|목적/.test(text)) {
+      return "T14";
+    }
+
+    return "T13";
+  }
+
+  if (n >= 32 && n <= 34) return "T05";
+
+  if (n >= 35 && n <= 38) {
+    if (/내용 일치|세부|정보/.test(text)) {
+      return "T05";
+    }
+
+    return "T14";
+  }
+
+  if (n >= 39 && n <= 41) return "T15";
+
+  if (n >= 42 && n <= 43) {
+    if (/심정|감정|기분|태도/.test(text)) {
+      return "T10";
+    }
+
+    return "T11";
+  }
+
+  if (n >= 44 && n <= 47) {
+    if (/의도|주장|태도|목적/.test(text)) {
+      return "T14";
+    }
+
+    if (/중심|주제/.test(text)) {
+      return "T13";
+    }
+
+    return "T05";
+  }
+
+  if (n >= 48 && n <= 50) return "T16";
+
+  return "T05";
+}
 function makeZoneAnalysis(items) {
   const zoneInfo = {
     Z01: {
@@ -883,6 +1121,9 @@ function renderReport(report) {
           </div>`
     }
 
+    <h3 class="section-title">유형별 득점 그래프</h3>
+    ${renderTypeBarChart(report.readingTypeAnalysis)}
+
     <h3 class="section-title">시험 정보</h3>
     ${renderExamInfoTable(result)}
 
@@ -1076,6 +1317,98 @@ function startWrongReview(report) {
   }
 
   window.location.href = WRONG_REVIEW_TEST_URL;
+}
+function renderTypeBarChart(stats) {
+  if (!Array.isArray(stats) || !stats.length) {
+    return `<p>유형별 그래프 데이터가 없습니다.</p>`;
+  }
+
+  const rows = stats.map(function (stat) {
+    const rate = numberOrZero(stat.point_rate);
+    const fillClass = rate >= 70
+      ? "good"
+      : rate >= 50
+        ? "warn"
+        : "bad";
+
+    return `
+      <div class="type-chart-row">
+        <div class="type-chart-label">
+          ${escapeHtml(stat.name)}
+          <span class="type-chart-focus">${escapeHtml(stat.focus || "")}</span>
+        </div>
+
+        <div class="type-chart-track" aria-label="${escapeHtml(stat.name)} 득점률 ${rate}%">
+          <div
+            class="type-chart-fill ${fillClass}"
+            style="width: ${Math.max(0, Math.min(100, rate))}%;"
+          ></div>
+        </div>
+
+        <div class="type-chart-rate">${rate}%</div>
+
+        <div class="type-chart-score">
+          ${numberOrZero(stat.points_earned)} / ${numberOrZero(stat.points_possible)}점
+          <br />
+          ${numberOrZero(stat.correct)} / ${numberOrZero(stat.total)}문항
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  return `
+    <div class="type-chart">
+      <p class="type-chart-guide">
+        아래 그래프는 TOPIK II 읽기 문항을 16개 대표 유형으로 묶어 계산한 득점률입니다.
+        막대가 짧은 유형일수록 우선 복습이 필요한 영역입니다.
+      </p>
+
+      ${rows}
+
+      ${renderTypeChartWeaknessSummary(stats)}
+    </div>
+  `;
+}
+
+function renderTypeChartWeaknessSummary(stats) {
+  const weakStats = stats
+    .filter(function (stat) {
+      return stat.total > 0 && stat.wrong > 0;
+    })
+    .sort(function (a, b) {
+      return a.point_rate - b.point_rate || b.wrong - a.wrong;
+    })
+    .slice(0, 3);
+
+  if (!weakStats.length) {
+    return `
+      <div class="type-chart-summary">
+        <strong>유형별 약점 요약</strong><br />
+        현재 결과에서는 뚜렷한 약점 유형이 확인되지 않았습니다.
+        고득점 유지를 위해 후반 장문과 선택지 함정 분석을 계속 연습하세요.
+      </div>
+    `;
+  }
+
+  const summaryText = weakStats.map(function (stat) {
+    const questionText = makeQuestionListText(stat.wrong_questions);
+
+    return `${escapeHtml(stat.name)} ${numberOrZero(stat.point_rate)}%`;
+  }).join(", ");
+
+  const questionText = weakStats
+    .map(function (stat) {
+      return `${escapeHtml(stat.name)}: ${makeQuestionListText(stat.wrong_questions)}`;
+    })
+    .join(" / ");
+
+  return `
+    <div class="type-chart-summary">
+      <strong>유형별 약점 요약</strong><br />
+      현재 가장 보완이 필요한 유형은 ${summaryText}입니다.<br />
+      관련 오답 문항: ${questionText}
+    </div>
+  `;
 }
 function renderExamInfoTable(result) {
   return `

@@ -319,7 +319,116 @@
       margin: 0;
       line-height: 1.8;
     }
+       .type-chart {
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: #fbfdff;
+      padding: 16px;
+      margin: 10px 0 18px;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
 
+    .type-chart-guide {
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .type-chart-row {
+      display: grid;
+      grid-template-columns: 190px minmax(0, 1fr) 82px 92px;
+      gap: 10px;
+      align-items: center;
+      padding: 9px 0;
+      border-bottom: 1px solid #e5edf6;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .type-chart-row:last-child {
+      border-bottom: none;
+    }
+
+    .type-chart-label {
+      font-weight: 900;
+      color: var(--dark-blue);
+      line-height: 1.35;
+    }
+
+    .type-chart-focus {
+      display: block;
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .type-chart-track {
+      width: 100%;
+      height: 18px;
+      border-radius: 999px;
+      background: #e5edf6;
+      overflow: hidden;
+      border: 1px solid #d5e2f0;
+    }
+
+    .type-chart-fill {
+      height: 100%;
+      border-radius: 999px;
+      background: var(--blue);
+    }
+
+    .type-chart-fill.good {
+      background: var(--good);
+    }
+
+    .type-chart-fill.warn {
+      background: var(--warn);
+    }
+
+    .type-chart-fill.bad {
+      background: var(--danger);
+    }
+
+    .type-chart-rate {
+      text-align: right;
+      font-weight: 900;
+      color: var(--dark-blue);
+    }
+
+    .type-chart-score {
+      text-align: right;
+      color: var(--text);
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .type-chart-summary {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border-radius: 10px;
+      background: #fff8eb;
+      border-left: 5px solid var(--warn);
+      line-height: 1.7;
+    }
+
+    .type-chart-summary strong {
+      color: var(--dark-blue);
+    }
+
+    @media (max-width: 860px) {
+      .type-chart-row {
+        grid-template-columns: 1fr;
+        gap: 6px;
+      }
+
+      .type-chart-rate,
+      .type-chart-score {
+        text-align: left;
+      }
+    }
     .wrong-list {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
