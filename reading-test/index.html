@@ -139,6 +139,159 @@
       margin-bottom: 0;
     }
 
+    .exam-type-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .exam-type-button {
+      width: 100%;
+      min-height: 112px;
+      padding: 16px 14px;
+      border: 2px solid #cfe0f5;
+      border-radius: 14px;
+      background: #ffffff;
+      color: var(--text);
+      cursor: pointer;
+      text-align: left;
+      box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+    }
+
+    .exam-type-button strong {
+      display: block;
+      color: #003f8f;
+      font-size: 18px;
+      font-weight: 900;
+      margin-bottom: 6px;
+      letter-spacing: -0.2px;
+    }
+
+    .exam-type-button span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+      font-weight: 800;
+    }
+
+    .exam-type-button.active {
+      border-color: var(--topik-blue);
+      background: #eef6ff;
+      box-shadow: 0 0 0 3px rgba(8, 119, 242, 0.15);
+    }
+    
+        .exam-sub-section {
+      margin-top: 16px;
+      padding-top: 14px;
+      border-top: 1px solid #d7e7fb;
+    }
+
+    .exam-sub-label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 900;
+      color: #111827;
+    }
+
+    .exam-method-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .exam-method-button {
+      width: 100%;
+      min-height: 72px;
+      padding: 12px 14px;
+      border: 2px solid #cfe0f5;
+      border-radius: 12px;
+      background: #ffffff;
+      color: var(--text);
+      cursor: pointer;
+      text-align: left;
+      box-shadow: 0 2px 8px rgba(15, 23, 42, 0.05);
+    }
+
+    .exam-method-button strong {
+      display: block;
+      color: #003f8f;
+      font-size: 16px;
+      font-weight: 900;
+      margin-bottom: 3px;
+    }
+
+    .exam-method-button span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+      font-weight: 800;
+    }
+
+    .exam-method-button.active {
+      border-color: var(--topik-blue);
+      background: #eef6ff;
+      box-shadow: 0 0 0 3px rgba(8, 119, 242, 0.13);
+    }
+
+    .exam-detail-options {
+      display: grid;
+      gap: 8px;
+    }
+
+    .exam-detail-button {
+      width: 100%;
+      min-height: 48px;
+      padding: 10px 12px;
+      border: 2px solid #cfe0f5;
+      border-radius: 10px;
+      background: #ffffff;
+      color: #003f8f;
+      cursor: pointer;
+      text-align: left;
+      font-size: 15px;
+      font-weight: 900;
+    }
+
+    .exam-detail-button.active {
+      border-color: var(--topik-blue);
+      background: #eef6ff;
+      color: var(--topik-blue-dark);
+    }
+
+    .exam-detail-button:disabled {
+      background: #f4f8fc;
+      color: #9aa8b7;
+      border-color: #d5e2f0;
+      cursor: not-allowed;
+    }
+
+    .exam-detail-reason {
+      display: block;
+      margin-top: 3px;
+      color: #d93025;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .exam-type-button.active strong {
+      color: var(--topik-blue-dark);
+    }
+
+    .visually-hidden-select {
+      position: absolute !important;
+      width: 1px !important;
+      height: 1px !important;
+      padding: 0 !important;
+      margin: -1px !important;
+      overflow: hidden !important;
+      clip: rect(0, 0, 0, 0) !important;
+      white-space: nowrap !important;
+      border: 0 !important;
+    }
+
     .exam-select-note {
       margin: 9px 0 0;
       color: var(--muted);
@@ -186,7 +339,8 @@
     }
 
     @media (max-width: 640px) {
-      .auth-row {
+      .auth-row,
+      .exam-type-grid {
         grid-template-columns: 1fr;
       }
 
@@ -907,7 +1061,269 @@
     .student-hidden-actions {
       display: none !important;
     }
+        /* 첫 화면 한 화면 표시용 간격 압축 */
+    .start-title {
+      min-height: 60px;
+      font-size: 30px;
+    }
 
+    .start-body {
+      width: min(560px, calc(100% - 32px));
+      margin: 24px auto 36px;
+    }
+    /* 시작 화면 추가 압축 및 버튼 중앙 정렬 */
+.start-title {
+  min-height: 54px;
+  font-size: 29px;
+}
+
+.start-body {
+  width: min(560px, calc(100% - 32px));
+  margin: 18px auto 22px;
+}
+
+.login-title {
+  font-size: 25px;
+  margin-bottom: 2px;
+}
+
+.login-subtitle {
+  margin-bottom: 14px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.start-body .form-row {
+  margin-bottom: 8px;
+}
+
+.form-row label {
+  margin-bottom: 4px;
+  font-size: 14px;
+}
+
+.form-row input,
+.form-row select {
+  padding: 9px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+.auth-row {
+  grid-template-columns: minmax(0, 1fr) 132px;
+  gap: 8px;
+}
+
+.auth-button {
+  min-height: 40px;
+  font-size: 14px;
+}
+
+.exam-select-box {
+  margin: 12px 0 12px;
+  padding: 10px 13px;
+}
+
+.exam-type-grid,
+.exam-method-grid {
+  gap: 8px;
+}
+
+.exam-type-button,
+.exam-method-button {
+  min-height: 50px;
+  padding: 8px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.exam-type-button strong,
+.exam-method-button strong {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.exam-type-button span,
+.exam-method-button span {
+  display: none !important;
+}
+
+.exam-sub-section {
+  margin-top: 10px;
+  padding-top: 9px;
+}
+
+.exam-sub-label {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.exam-detail-current {
+  padding: 8px 10px !important;
+}
+
+.exam-detail-dropdown {
+  margin-top: 6px !important;
+}
+
+.exam-detail-dropdown summary {
+  min-height: 34px !important;
+  padding: 7px 10px !important;
+  font-size: 13px !important;
+}
+
+.exam-select-note {
+  display: none !important;
+}
+
+.new-exam-message {
+  min-height: 16px;
+  margin-top: 5px;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.start-main-button {
+  min-height: 44px;
+  margin-top: 14px;
+  font-size: 16px;
+}
+
+.message {
+  min-height: 18px;
+  margin-top: 6px;
+  font-size: 13px;
+}
+    .login-title {
+      margin-bottom: 4px;
+      font-size: 26px;
+    }
+
+    .login-subtitle {
+      margin-bottom: 18px;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    .start-body .form-row {
+      margin-bottom: 10px;
+    }
+
+    .form-row label {
+      margin-bottom: 5px;
+      font-size: 15px;
+    }
+
+    .form-row input,
+    .form-row select {
+      padding: 10px 12px;
+      font-size: 15px;
+      border-radius: 9px;
+    }
+
+    .auth-button {
+      min-height: 42px;
+      font-size: 15px;
+    }
+
+    .exam-select-box {
+      margin: 14px 0 14px;
+      padding: 12px 14px;
+      border-radius: 11px;
+    }
+
+    .exam-type-grid {
+      gap: 10px;
+      margin-top: 6px;
+    }
+
+    .exam-type-button {
+      min-height: 58px;
+      padding: 10px 13px;
+      border-radius: 12px;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .exam-type-button strong {
+      font-size: 17px;
+      margin-bottom: 4px;
+    }
+
+    .exam-type-button span {
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .exam-sub-section {
+      margin-top: 12px;
+      padding-top: 11px;
+    }
+
+    .exam-sub-label {
+      margin-bottom: 6px;
+      font-size: 15px;
+    }
+
+    .exam-method-grid {
+      gap: 8px;
+    }
+
+    .exam-method-button {
+      min-height: 58px;
+      padding: 9px 12px;
+      border-radius: 10px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .exam-method-button strong {
+      font-size: 15px;
+      margin-bottom: 2px;
+    }
+
+    .exam-method-button span {
+      font-size: 11px;
+      line-height: 1.35;
+    }
+
+    .exam-detail-options {
+      gap: 6px;
+    }
+
+    .exam-detail-button {
+      min-height: 42px;
+      padding: 8px 11px;
+      font-size: 14px;
+      border-radius: 9px;
+      text-align: center;
+    }
+
+    .exam-select-note {
+      margin-top: 8px;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .new-exam-message {
+      min-height: 18px;
+      margin-top: 6px;
+      font-size: 13px;
+    }
+
+    .start-main-button {
+      min-height: 48px;
+      margin-top: 18px;
+      font-size: 17px;
+    }
     @media (max-width: 980px) {
       .topik-header {
         grid-template-columns: 1fr;
@@ -962,24 +1378,78 @@
 
       <div class="exam-select-box">
         <div class="form-row">
-          <label for="examModeSelect">시험지 선택</label>
-          <select id="examModeSelect">
-            <option value="round-103" selected>103회 고정 출제</option>
-            <option value="sample" disabled>103회 구조 샘플 7문항</option>
-            <option value="random" disabled>랜덤 출제 준비 중</option>
+          <label for="examModeSelect">시험 유형 선택</label>
+
+          <div class="exam-type-grid" aria-label="시험 유형 선택">
+            <button
+              id="fullExamModeButton"
+              class="exam-type-button active"
+              type="button"
+              data-exam-category-button="true"
+              data-exam-category-value="full"
+            >
+            <strong>50문항 실전시험</strong>
+            </button>
+
+            <button
+              id="levelTestModeButton"
+              class="exam-type-button"
+              type="button"
+              data-exam-category-button="true"
+              data-exam-category-value="level-test"
+            >
+             <strong>레벨테스트</strong>
+            </button>
+          </div>
+
+          <div class="exam-sub-section">
+            <span class="exam-sub-label">출제 방식 선택</span>
+
+            <div class="exam-method-grid" aria-label="출제 방식 선택">
+              <button
+                id="roundExamMethodButton"
+                class="exam-method-button active"
+                type="button"
+                data-exam-selection-type-button="true"
+                data-exam-selection-type-value="round"
+              >
+                <strong>회차별 시험지</strong>
+              </button>
+
+              <button
+                id="randomExamMethodButton"
+                class="exam-method-button"
+                type="button"
+                data-exam-selection-type-button="true"
+                data-exam-selection-type-value="random"
+              >
+                <strong>랜덤 시험지</strong>
+              </button>
+            </div>
+          </div>
+
+          <div class="exam-sub-section">
+            <span class="exam-sub-label">세부 시험지 선택</span>
+            <div id="examDetailOptions" class="exam-detail-options">
+              시험 목록을 불러오는 중입니다.
+            </div>
+          </div>
+
+          <select id="examModeSelect" class="visually-hidden-select" aria-hidden="true" tabindex="-1">
+            <option value="reading-103" selected>103회 50문항 실전시험</option>
+            <option value="reading-random" disabled>랜덤 50문항 실전시험 준비 중</option>
+            <option value="level-test-103">103회 레벨테스트 20문항</option>
+            <option value="level-test-random" disabled>랜덤 레벨테스트 준비 중</option>
           </select>
         </div>
 
-        <p class="exam-select-note">
-          현재는 103회 고정 출제를 기본 시험지로 사용합니다.
-          이후 다른 회차 문제지와 랜덤 출제를 추가할 수 있습니다.
-        </p>
+        <p class="exam-select-note hidden"></p>
 
-        <button id="newExamButton" class="button secondary new-exam-button" type="button" disabled>
+        <button id="newExamButton" class="button secondary new-exam-button hidden" type="button" disabled>
           선택한 시험지 불러오기
         </button>
 
-        <div id="newExamMessage" class="new-exam-message"></div>
+        <div id="newExamMessage" class="new-exam-message">50문항 실전 시험이 선택되었습니다.</div>
       </div>
 
       <div class="form-row">
@@ -1010,7 +1480,7 @@
 
       <div class="exam-title">
         TOPIK II Reading
-        <span class="exam-subtitle">TOPIK II 읽기 · 1~50번 · 70분</span>
+        <span id="examSubtitle" class="exam-subtitle">TOPIK II 읽기 · 1~50번 · 70분</span>
       </div>
 
       <div id="timerCard" class="timer-pill">
@@ -1090,6 +1560,6 @@
     </section>
   </main>
 
-  <script src="./reading-test.js"></script>
+  <script src="./reading-test.js?v=sentence-order-correct-answer-priority-1"></script>
 </body>
 </html>

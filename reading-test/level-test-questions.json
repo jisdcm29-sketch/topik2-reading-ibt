@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "LEVEL103-R01-FROM-R001",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+    "passage": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+    "passage_template": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+    "options": [
+      "가는 중이다",
+      "가기로 했다",
+      "가는 편이다",
+      "간 적이 있다"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "가는 중이다"
+      },
+      {
+        "number": 2,
+        "text": "가기로 했다"
+      },
+      {
+        "number": 3,
+        "text": "가는 편이다"
+      },
+      {
+        "number": 4,
+        "text": "간 적이 있다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "다음 휴가에 제주도 여행을 하기로 결정했다는 뜻이므로 의도·계획을 나타내는 '가기로 했다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "가는 중이다",
+      "가기로 했다",
+      "가는 편이다",
+      "간 적이 있다"
+    ],
+    "source_bank_id": "QB-T2-103-R001",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 1,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 1,
+    "level_test_type_label": "문법·표현",
+    "source_question_number": 1,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R02-FROM-R003",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "벨을 눌러도 대답이 없는 걸 보니 아무도 없는 모양이다.",
+    "passage_template": "벨을 눌러도 대답이 없는 걸 보니 아무도 없는 모양이다.",
+    "options": [
+      "없는 듯하다",
+      "없기 마련이다",
+      "없을 리가 없다",
+      "없었으면 좋겠다"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "없는 듯하다"
+      },
+      {
+        "number": 2,
+        "text": "없기 마련이다"
+      },
+      {
+        "number": 3,
+        "text": "없을 리가 없다"
+      },
+      {
+        "number": 4,
+        "text": "없었으면 좋겠다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "'없는 모양이다'는 어떤 상황을 보고 '없는 듯하다'고 추측하는 의미입니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "없는 듯하다",
+      "없기 마련이다",
+      "없을 리가 없다",
+      "없었으면 좋겠다"
+    ],
+    "source_bank_id": "QB-T2-103-R003",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 2,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "underline_targets": [
+      "아무도 없는 모양이다"
+    ],
+    "underline_source_round": "103",
+    "underline_reviewed": true,
+    "level_test_slot": 2,
+    "level_test_type_label": "밑줄 표현 의미",
+    "source_question_number": 3,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R03-FROM-R005",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "책상",
+      "침대",
+      "운동화",
+      "청바지"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "책상"
+      },
+      {
+        "number": 2,
+        "text": "침대"
+      },
+      {
+        "number": 3,
+        "text": "운동화"
+      },
+      {
+        "number": 4,
+        "text": "청바지"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "편안한 잠, 눕는 순간, 피로가 사라진다는 표현은 침대를 광고하는 내용입니다.",
+    "image_url": "./images/103_R005.png",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "책상",
+      "침대",
+      "운동화",
+      "청바지"
+    ],
+    "source_bank_id": "QB-T2-103-R005",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 3,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "passage_text_backup": "편안한 잠을 위한 최고의 선택!\n눕는 순간, 피로가 싹~",
+    "passage_template_backup": "편안한 잠을 위한 최고의 선택!\n눕는 순간, 피로가 싹~",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "103",
+    "visual_source_question_number": 5,
+    "level_test_slot": 3,
+    "level_test_type_label": "이미지·안내문 목적",
+    "source_question_number": 5,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R04-FROM-R009",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "이메일을 통해 합격자를 알려 준다.",
+      "한 달 동안 SNS 홍보단을 모집한다.",
+      "SNS 홍보단으로 활동하면 활동비를 받는다.",
+      "직접 인주 시청에 가서 지원서를 제출해야 한다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "이메일을 통해 합격자를 알려 준다."
+      },
+      {
+        "number": 2,
+        "text": "한 달 동안 SNS 홍보단을 모집한다."
+      },
+      {
+        "number": 3,
+        "text": "SNS 홍보단으로 활동하면 활동비를 받는다."
+      },
+      {
+        "number": 4,
+        "text": "직접 인주 시청에 가서 지원서를 제출해야 한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "안내문에 활동 기간 동안 월 20만 원의 활동비를 준다고 되어 있으므로 3번이 내용과 같습니다.",
+    "image_url": "./images/103_R009.png",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "이메일을 통해 합격자를 알려 준다.",
+      "한 달 동안 SNS 홍보단을 모집한다.",
+      "SNS 홍보단으로 활동하면 활동비를 받는다.",
+      "직접 인주 시청에 가서 지원서를 제출해야 한다."
+    ],
+    "source_bank_id": "QB-T2-103-R009",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 4,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "passage_text_backup": "인주시 ‘SNS 홍보단’ 모집\n모집 기간: 2025년 11월 24일(월)~12월 5일(금)\n모집 대상 및 인원: SNS 사용자 20명\n활동 기간: 2026년 1월~12월\n지원 방법: 지원서를 이메일(injupr@inju.go.kr)로 제출\n합격자 발표: 12월 12일(금), 인주시 홈페이지 게시\n※ 활동 기간 동안 월 20만 원의 활동비를 드립니다.",
+    "passage_template_backup": "인주시 ‘SNS 홍보단’ 모집\n모집 기간: 2025년 11월 24일(월)~12월 5일(금)\n모집 대상 및 인원: SNS 사용자 20명\n활동 기간: 2026년 1월~12월\n지원 방법: 지원서를 이메일(injupr@inju.go.kr)로 제출\n합격자 발표: 12월 12일(금), 인주시 홈페이지 게시\n※ 활동 기간 동안 월 20만 원의 활동비를 드립니다.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "103",
+    "visual_source_question_number": 9,
+    "level_test_slot": 4,
+    "level_test_type_label": "이미지·안내문 세부 정보",
+    "source_question_number": 9,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R05-FROM-R011",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시는 어린이가 생활 속의 위험 요소를 직접 신고할 수 있도록 올해부터 어린이 전용 신고 사이트를 운영한다. 예컨대 고장 난 공용 자전거를 발견했다면 사진을 찍어 휴대폰으로 신고할 수 있다. 이 사이트는 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다. 사고 예방 효과가 뛰어날 때는 그 신고를 한 어린이에게 도서 상품권도 지급할 계획이다.",
+    "passage_template": "인주시는 어린이가 생활 속의 위험 요소를 직접 신고할 수 있도록 올해부터 어린이 전용 신고 사이트를 운영한다. 예컨대 고장 난 공용 자전거를 발견했다면 사진을 찍어 휴대폰으로 신고할 수 있다. 이 사이트는 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다. 사고 예방 효과가 뛰어날 때는 그 신고를 한 어린이에게 도서 상품권도 지급할 계획이다.",
+    "options": [
+      "휴대폰으로 신고하는 것은 불가능하다.",
+      "이 사이트는 몇 년째 활발하게 운영되고 있다.",
+      "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다.",
+      "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "휴대폰으로 신고하는 것은 불가능하다."
+      },
+      {
+        "number": 2,
+        "text": "이 사이트는 몇 년째 활발하게 운영되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "글에서 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다고 했으므로 3번이 내용과 같습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "휴대폰으로 신고하는 것은 불가능하다.",
+      "이 사이트는 몇 년째 활발하게 운영되고 있다.",
+      "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다.",
+      "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+    ],
+    "source_bank_id": "QB-T2-103-R011",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 5,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 5,
+    "level_test_type_label": "짧은 글 내용 일치",
+    "source_question_number": 11,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R06-FROM-R010",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "전공 공부를 한다는 사람이 두 번째로 많다.",
+      "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다.",
+      "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다.",
+      "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "전공 공부를 한다는 사람이 두 번째로 많다."
+      },
+      {
+        "number": 2,
+        "text": "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다."
+      },
+      {
+        "number": 3,
+        "text": "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다."
+      },
+      {
+        "number": 4,
+        "text": "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "그래프에서 외국어 공부하기와 면접 연습하기가 각각 17%로 같으므로 4번이 내용과 같습니다.",
+    "image_url": "./images/103_R010.png",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "전공 공부를 한다는 사람이 두 번째로 많다.",
+      "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다.",
+      "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다.",
+      "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+    ],
+    "source_bank_id": "QB-T2-103-R010",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 6,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "passage_text_backup": "취업을 위해 가장 열심히 하고 있는 활동은?\n자격증 준비하기 29%, 자기소개서 준비하기 22%, 외국어 공부하기 17%, 면접 연습하기 17%, 전공 공부하기 11%, 기타 4%\n(조사 대상: 20~30대 취업 준비생 1,000명)",
+    "passage_template_backup": "취업을 위해 가장 열심히 하고 있는 활동은?\n자격증 준비하기 29%, 자기소개서 준비하기 22%, 외국어 공부하기 17%, 면접 연습하기 17%, 전공 공부하기 11%, 기타 4%\n(조사 대상: 20~30대 취업 준비생 1,000명)",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "103",
+    "visual_source_question_number": 10,
+    "level_test_slot": 6,
+    "level_test_type_label": "글·그래프 내용 일치",
+    "source_question_number": 10,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R07-FROM-R013",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "'이러다 괜찮아지겠지.' 하고 그냥 신경 쓰지 않았다."
+      },
+      {
+        "label": "(나)",
+        "text": "일주일 전부터 냉장고에서 계속 이상한 소리가 났다."
+      },
+      {
+        "label": "(다)",
+        "text": "그런데 오늘 아침에 냉장고를 열었는데 음식이 상해 있었다."
+      },
+      {
+        "label": "(라)",
+        "text": "상한 음식을 버리며 냉장고 상태를 미리 확인하지 않은 걸 후회했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "'이러다 괜찮아지겠지.' 하고 그냥 신경 쓰지 않았다."
+      },
+      {
+        "label": "(나)",
+        "text": "일주일 전부터 냉장고에서 계속 이상한 소리가 났다."
+      },
+      {
+        "label": "(다)",
+        "text": "그런데 오늘 아침에 냉장고를 열었는데 음식이 상해 있었다."
+      },
+      {
+        "label": "(라)",
+        "text": "상한 음식을 버리며 냉장고 상태를 미리 확인하지 않은 걸 후회했다."
+      }
+    ],
+    "correct_order": [
+      "(나)",
+      "(가)",
+      "(다)",
+      "(라)"
+    ],
+    "options": [
+      "(나)-(가)-(다)-(라)",
+      "(나)-(다)-(라)-(가)",
+      "(라)-(가)-(다)-(나)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(다)-(라)-(가)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "냉장고에서 이상한 소리가 난 사실이 먼저 나오고, 이를 대수롭지 않게 넘긴 뒤, 음식이 상한 것을 발견하고 후회하는 흐름이 자연스럽습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "(나)-(가)-(다)-(라)",
+      "(나)-(다)-(라)-(가)",
+      "(라)-(가)-(다)-(나)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "source_bank_id": "QB-T2-103-R013",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 7,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 7,
+    "level_test_type_label": "문장 순서",
+    "source_question_number": 13,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R08-FROM-R016",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+    "passage": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+    "passage_template": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+    "options": [
+      "제품 가격을 인상하게",
+      "외래어 표현이 사라지게",
+      "식품의 매운맛이 없어지게",
+      "상표로서의 가치가 약해지게"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "제품 가격을 인상하게"
+      },
+      {
+        "number": 2,
+        "text": "외래어 표현이 사라지게"
+      },
+      {
+        "number": 3,
+        "text": "식품의 매운맛이 없어지게"
+      },
+      {
+        "number": 4,
+        "text": "상표로서의 가치가 약해지게"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "상표가 특정 제품명보다 일반 명사처럼 쓰이게 되면 상표로서의 구별 기능과 가치가 약해진다는 내용입니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "제품 가격을 인상하게",
+      "외래어 표현이 사라지게",
+      "식품의 매운맛이 없어지게",
+      "상표로서의 가치가 약해지게"
+    ],
+    "source_bank_id": "QB-T2-103-R016",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 8,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 8,
+    "level_test_type_label": "빈칸 표현",
+    "source_question_number": 16,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R09-FROM-R019",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slot": 19,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+    "passage_template": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+    "options": [
+      "만약",
+      "비록",
+      "차라리",
+      "드디어"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "만약"
+      },
+      {
+        "number": 2,
+        "text": "비록"
+      },
+      {
+        "number": 3,
+        "text": "차라리"
+      },
+      {
+        "number": 4,
+        "text": "드디어"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "'자세히 묘사하지는 않지만 한눈에 알아볼 수 있다'는 양보 관계이므로 '비록'이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "만약",
+      "비록",
+      "차라리",
+      "드디어"
+    ],
+    "source_bank_id": "QB-T2-103-R019",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 9,
+    "passage_group_id": "SET-T2-103-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R019-020",
+    "level_test_slot": 9,
+    "level_test_type_label": "공통 지문 빈칸",
+    "source_question_number": 19,
+    "target_slots": [
+      9
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R10-FROM-R020",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slot": 20,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+    "passage_template": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+    "options": [
+      "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다.",
+      "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다.",
+      "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다.",
+      "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다."
+      },
+      {
+        "number": 2,
+        "text": "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다."
+      },
+      {
+        "number": 4,
+        "text": "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "캐리커처는 몇 개의 선으로 단순하게 그려도 인물의 두드러진 특징과 개성을 잘 나타낼 수 있다는 내용입니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다.",
+      "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다.",
+      "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다.",
+      "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+    ],
+    "source_bank_id": "QB-T2-103-R020",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 10,
+    "passage_group_id": "SET-T2-103-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R019-020",
+    "level_test_slot": 10,
+    "level_test_type_label": "공통 지문 주제",
+    "source_question_number": 20,
+    "target_slots": [
+      10
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R11-FROM-R023",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slot": 23,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+    "passage_template": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+    "options": [
+      "궁금하다",
+      "어색하다",
+      "감격스럽다",
+      "부담스럽다"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "궁금하다"
+      },
+      {
+        "number": 2,
+        "text": "어색하다"
+      },
+      {
+        "number": 3,
+        "text": "감격스럽다"
+      },
+      {
+        "number": 4,
+        "text": "부담스럽다"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "살아 있는 거북이를 구조할 수 있다는 상황에서 가슴이 두근거렸으므로 감격스럽고 벅찬 심정으로 볼 수 있습니다.",
+    "image_url": "",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "궁금하다",
+      "어색하다",
+      "감격스럽다",
+      "부담스럽다"
+    ],
+    "source_bank_id": "QB-T2-103-R023",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 11,
+    "passage_group_id": "SET-T2-103-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R023-024",
+    "underline_targets": [
+      "나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다"
+    ],
+    "underline_source_round": "103",
+    "underline_reviewed": true,
+    "underline_note": "103회 원문 23번 밑줄 친 부분. 23~24번 공통 지문에 표시.",
+    "level_test_slot": 11,
+    "level_test_type_label": "인물 심정",
+    "source_question_number": 23,
+    "target_slots": [
+      11
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R12-FROM-R024",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slot": 24,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+    "passage_template": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+    "options": [
+      "거북이는 바닷가에서 발견되었을 때 움직이지 못했다.",
+      "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다.",
+      "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다.",
+      "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "거북이는 바닷가에서 발견되었을 때 움직이지 못했다."
+      },
+      {
+        "number": 2,
+        "text": "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다."
+      },
+      {
+        "number": 3,
+        "text": "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다."
+      },
+      {
+        "number": 4,
+        "text": "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "거북이는 바위틈에 낀 것은 아니었지만 움직이지 못하고 있었고, 이후 동물 병원으로 옮겨졌습니다.",
+    "image_url": "",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "거북이는 바닷가에서 발견되었을 때 움직이지 못했다.",
+      "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다.",
+      "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다.",
+      "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+    ],
+    "source_bank_id": "QB-T2-103-R024",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 12,
+    "passage_group_id": "SET-T2-103-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R023-024",
+    "underline_targets": [
+      "나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다"
+    ],
+    "underline_source_round": "103",
+    "underline_reviewed": true,
+    "underline_note": "103회 원문 23번 밑줄 친 부분. 23~24번 공통 지문에 표시.",
+    "level_test_slot": 12,
+    "level_test_type_label": "서사 글 내용 이해",
+    "source_question_number": 24,
+    "target_slots": [
+      12
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R13-FROM-R025",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "headline_meaning",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+    "passage": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+    "passage_template": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+    "options": [
+      "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다.",
+      "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다.",
+      "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다.",
+      "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다."
+      },
+      {
+        "number": 2,
+        "text": "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다."
+      },
+      {
+        "number": 3,
+        "text": "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "삽입곡이 큰 반응을 얻어 영화 흥행에도 긍정적 영향을 주고 있다는 제목입니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다.",
+      "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다.",
+      "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다.",
+      "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+    ],
+    "source_bank_id": "QB-T2-103-R025",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 13,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 13,
+    "level_test_type_label": "신문 제목",
+    "source_question_number": 25,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R14-FROM-R035",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "차단봉은 도로의 차량이 인도로 침범하지 못하도록 길가에 설치하는 시설물로 보행자의 안전을 위한 것이다. 그런데 현행법에는 설치 구역에 대한 기준이 없어 어린이 보호 구역에도 차단봉이 없는 곳이 많다. 게다가 강도에 대한 명확한 기준도 없어서 차량 속도가 시속 40km만 되어도 충돌 시 쉽게 파손되고 만다. 보행자의 안전을 실질적으로 보호하려면 설치 구역을 지정하고 고속 차량에도 견딜 수 있게 내구성을 높여야 할 것이다.",
+    "passage_template": "차단봉은 도로의 차량이 인도로 침범하지 못하도록 길가에 설치하는 시설물로 보행자의 안전을 위한 것이다. 그런데 현행법에는 설치 구역에 대한 기준이 없어 어린이 보호 구역에도 차단봉이 없는 곳이 많다. 게다가 강도에 대한 명확한 기준도 없어서 차량 속도가 시속 40km만 되어도 충돌 시 쉽게 파손되고 만다. 보행자의 안전을 실질적으로 보호하려면 설치 구역을 지정하고 고속 차량에도 견딜 수 있게 내구성을 높여야 할 것이다.",
+    "options": [
+      "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다.",
+      "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다.",
+      "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다.",
+      "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "글은 차단봉의 설치 구역과 강도 기준이 부족하므로 보행자 안전을 위해 설치 기준을 확립해야 한다고 주장합니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다.",
+      "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다.",
+      "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다.",
+      "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+    ],
+    "source_bank_id": "QB-T2-103-R035",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 14,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 14,
+    "level_test_type_label": "중심 내용",
+    "source_question_number": 35,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R15-FROM-R032",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "수많은 명작을 남긴 화가 루벤스는 회화의 생산과 판매에서 혁신적인 방식을 도입했다. 그는 왕실과 귀족들로부터 작품 주문이 밀려들자 꽃이나 풍경 등 특정 분야를 잘 그리는 화가들과 분업으로 작품을 완성했다. 이 방식으로 작품의 질은 최상을 유지하면서 생산력을 높여 큰 수익을 냈다. 그는 작품 제작 과정을 공개해 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했다.",
+    "passage_template": "수많은 명작을 남긴 화가 루벤스는 회화의 생산과 판매에서 혁신적인 방식을 도입했다. 그는 왕실과 귀족들로부터 작품 주문이 밀려들자 꽃이나 풍경 등 특정 분야를 잘 그리는 화가들과 분업으로 작품을 완성했다. 이 방식으로 작품의 질은 최상을 유지하면서 생산력을 높여 큰 수익을 냈다. 그는 작품 제작 과정을 공개해 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했다.",
+    "options": [
+      "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다.",
+      "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다.",
+      "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다.",
+      "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다."
+      },
+      {
+        "number": 2,
+        "text": "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다."
+      },
+      {
+        "number": 3,
+        "text": "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다."
+      },
+      {
+        "number": 4,
+        "text": "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "루벤스는 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했으므로 참여 비율에 따라 가격을 다르게 정했다는 내용과 같습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다.",
+      "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다.",
+      "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다.",
+      "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+    ],
+    "source_bank_id": "QB-T2-103-R032",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 15,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "level_test_slot": 15,
+    "level_test_type_label": "선택지 내용 일치",
+    "source_question_number": 32,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R16-FROM-R046",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자의 태도",
+    "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+    "original_question_number": 46,
+    "question_number": 16,
+    "target_slot": 46,
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+    "passage_template": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+    "options": [
+      "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다.",
+      "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다.",
+      "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다.",
+      "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "글은 복지 정책을 설계할 때 사회적 낙인을 미리 대비하고 수혜자 보호 방안을 마련해야 한다고 주장합니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다.",
+      "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다.",
+      "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다.",
+      "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+    ],
+    "source_bank_id": "QB-T2-103-R046",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 16,
+    "passage_group_id": "SET-T2-103-R046-047",
+    "passage_group_title": "[46~47] 공통 지문",
+    "passage_group_numbers": [
+      46,
+      47
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R046-047",
+    "level_test_slot": 16,
+    "level_test_type_label": "필자 의도·주장",
+    "source_question_number": 46,
+    "target_slots": [
+      16
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R17-FROM-R039",
+    "source_round": "103",
+    "source_file": "103회 읽기 문제.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert_interactive",
+    "category": "문장 삽입",
+    "diagnostic_area": "문맥에 맞는 문장 삽입 위치 판단",
+    "original_question_number": 39,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "insert_sentence": "콘텐츠나 메시지의 수준과 상관없이 작가가 누구냐에 따라 시장이 좌우되면 시장이 정상적으로 작동하지 못한다는 것이다.",
+    "passage": "최근 출판계에서는 특정 팬덤이나 열성 독자층을 가진 유명인들이 펴낸 책이 잇달아 베스트셀러가 되고 있다. (ㄱ) 독자가 자신이 좋아하는 사람의 책을 구매해 인기를 끌어올리고 이렇게 높아진 인기가 다시 판매 호조로 이어지는 것이다. (ㄴ) 덕분에 출판계는 활기를 얻었지만 한편 우려의 목소리도 나오고 있다. (ㄷ) 이에 일부 출판사들은 단기적인 판매 경쟁보다 작품의 완성도를 높이는 방향을 모색하고 있다. (ㄹ)",
+    "passage_template": "최근 출판계에서는 특정 팬덤이나 열성 독자층을 가진 유명인들이 펴낸 책이 잇달아 베스트셀러가 되고 있다. (ㄱ) 독자가 자신이 좋아하는 사람의 책을 구매해 인기를 끌어올리고 이렇게 높아진 인기가 다시 판매 호조로 이어지는 것이다. (ㄴ) 덕분에 출판계는 활기를 얻었지만 한편 우려의 목소리도 나오고 있다. (ㄷ) 이에 일부 출판사들은 단기적인 판매 경쟁보다 작품의 완성도를 높이는 방향을 모색하고 있다. (ㄹ)",
+    "insert_positions": [
+      "ㄱ",
+      "ㄴ",
+      "ㄷ",
+      "ㄹ"
+    ],
+    "correct_position": "ㄷ",
+    "options": [
+      {
+        "label": "1",
+        "text": "ㄱ"
+      },
+      {
+        "label": "2",
+        "text": "ㄴ"
+      },
+      {
+        "label": "3",
+        "text": "ㄷ"
+      },
+      {
+        "label": "4",
+        "text": "ㄹ"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "ㄱ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄹ"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "팬덤이 판매를 좌우하는 현상에 대한 우려를 구체화한 문장이므로, 우려의 목소리가 나온다는 문장 뒤인 ㄷ 위치가 자연스럽습니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "ㄱ",
+      "ㄴ",
+      "ㄷ",
+      "ㄹ"
+    ],
+    "source_bank_id": "QB-T2-103-R039",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 17,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "position_labels": [
+      "ㄱ",
+      "ㄴ",
+      "ㄷ",
+      "ㄹ"
+    ],
+    "interaction_mode": "click_insert_sentence_into_position",
+    "correct_insert_position": "ㄷ",
+    "sentence_insert_reviewed": true,
+    "sentence_insert_source_round": "103",
+    "sentence_insert_note": "103회 원문 기준 주어진 문장과 ㄱ/ㄴ/ㄷ/ㄹ 위치를 연결함.",
+    "level_test_slot": 17,
+    "level_test_type_label": "문장 삽입",
+    "source_question_number": 39,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R18-FROM-R042",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 18,
+    "target_slot": 42,
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘경수’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+    "passage_template": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+    "options": [
+      "떨리고 기대된다",
+      "미안하고 고맙다",
+      "후련하고 허전하다",
+      "놀랍고 실망스럽다"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "떨리고 기대된다"
+      },
+      {
+        "number": 2,
+        "text": "미안하고 고맙다"
+      },
+      {
+        "number": 3,
+        "text": "후련하고 허전하다"
+      },
+      {
+        "number": 4,
+        "text": "놀랍고 실망스럽다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "경수는 자신의 어려운 상황을 털어놓은 뒤 아내가 위로하고 함께하겠다고 하자 미안함과 고마움을 느낍니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "떨리고 기대된다",
+      "미안하고 고맙다",
+      "후련하고 허전하다",
+      "놀랍고 실망스럽다"
+    ],
+    "source_bank_id": "QB-T2-103-R042",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 18,
+    "passage_group_id": "SET-T2-103-R042-043",
+    "passage_group_title": "[42~43] 공통 지문",
+    "passage_group_numbers": [
+      42,
+      43
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R042-043",
+    "underline_targets": [
+      "“…… 여보.”"
+    ],
+    "underline_source_round": "103",
+    "underline_reviewed": true,
+    "underline_note": "103회 원문 42번 밑줄 친 부분. 42~43번 공통 지문에 표시.",
+    "level_test_slot": 18,
+    "level_test_type_label": "서사·심정 공통 지문",
+    "source_question_number": 42,
+    "target_slots": [
+      18
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R19-FROM-R045",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "주제 파악",
+    "diagnostic_area": "학술 설명문의 중심 내용 파악",
+    "original_question_number": 45,
+    "question_number": 19,
+    "target_slot": 45,
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+    "passage_template": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+    "options": [
+      "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다.",
+      "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다.",
+      "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다.",
+      "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다."
+      },
+      {
+        "number": 2,
+        "text": "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다."
+      },
+      {
+        "number": 3,
+        "text": "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다."
+      },
+      {
+        "number": 4,
+        "text": "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "글은 지석묘 성혈의 모양과 배열이 별자리와 관련되어 있어 고대 한반도의 천문 지식이 반영되어 있음을 설명합니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다.",
+      "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다.",
+      "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다.",
+      "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+    ],
+    "source_bank_id": "QB-T2-103-R045",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 19,
+    "passage_group_id": "SET-T2-103-R044-045",
+    "passage_group_title": "[44~45] 공통 지문",
+    "passage_group_numbers": [
+      44,
+      45
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_set_id": "SET-T2-103-R044-045",
+    "level_test_slot": 19,
+    "level_test_type_label": "설명문·논설문 이해",
+    "source_question_number": 45,
+    "target_slots": [
+      19
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  },
+  {
+    "id": "LEVEL103-R20-FROM-R050",
+    "source_round": "103",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "긴 지문 내용 일치",
+    "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+    "original_question_number": 50,
+    "question_number": 20,
+    "target_slot": 50,
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+    "options": [
+      "선분양은 견본 주택을 보지 않고 계약하는 방식이다.",
+      "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다.",
+      "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다.",
+      "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "선분양은 견본 주택을 보지 않고 계약하는 방식이다."
+      },
+      {
+        "number": 2,
+        "text": "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다."
+      },
+      {
+        "number": 3,
+        "text": "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다."
+      },
+      {
+        "number": 4,
+        "text": "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "글 첫 문장에서 대다수 국가에서는 완공 후 판매하는 후분양 방식이 일반적이라고 설명합니다.",
+    "image_url": "",
+    "answer_source": "assistant_inferred_from_pdf_context",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "high",
+    "options_text": [
+      "선분양은 견본 주택을 보지 않고 계약하는 방식이다.",
+      "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다.",
+      "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다.",
+      "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+    ],
+    "source_bank_id": "QB-T2-103-R050",
+    "generated_exam_id": "TOPIK2-READING-LEVEL-TEST-103-DRAFT-001",
+    "template_slot": 20,
+    "passage_group_id": "SET-T2-103-R048-050",
+    "passage_group_title": "[48~50] 긴 지문 공통 문제",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "source_set_id": "SET-T2-103-R048-050",
+    "passage_template": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+    "level_test_slot": 20,
+    "level_test_type_label": "긴 지문 내용 일치",
+    "source_question_number": 50,
+    "target_slots": [
+      20
+    ],
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "103",
+    "generated_exam_label": "103회 고정 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "time_limit_minutes": 30,
+    "level_test_note": "103회 50문항 중 유형별 대표 문항으로 구성한 20문항 레벨테스트용 문항입니다."
+  }
+]
