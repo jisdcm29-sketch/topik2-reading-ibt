@@ -1,0 +1,3969 @@
+{
+  "bank_version": "103-full-draft-v1",
+  "bank_name": "TOPIK II Reading Question Bank - 103회 1~50번 1차 입력본",
+  "level": "TOPIK II",
+  "section": "reading",
+  "question_number_start": 1,
+  "question_number_end": 50,
+  "expected_total_questions": 50,
+  "status": "filled_103_round_full_50_draft",
+  "description": "TOPIK II 읽기 103회 1~50번 1차 입력본. PDF 이미지형 자료를 보고 반자동 입력했으며 사람 검수 필요.",
+  "source_round": "103",
+  "source_file": "103회 읽기 문제.pdf",
+  "converted_at": "2026-05-25T00:00:00+09:00",
+  "conversion_mode": "semi_manual_from_pdf_image_review",
+  "total_bank_questions": 50,
+  "single_items": [
+    {
+      "id": "QB-T2-103-R001",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "original_question_number": 1,
+      "question_number": 1,
+      "target_slots": [
+        1
+      ],
+      "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+      "passage": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+      "passage_template": "다음 휴가에 친구들과 제주도로 여행을 (     ).",
+      "options": [
+        {
+          "number": 1,
+          "text": "가는 중이다"
+        },
+        {
+          "number": 2,
+          "text": "가기로 했다"
+        },
+        {
+          "number": 3,
+          "text": "가는 편이다"
+        },
+        {
+          "number": 4,
+          "text": "간 적이 있다"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "가는 중이다"
+        },
+        {
+          "number": 2,
+          "text": "가기로 했다"
+        },
+        {
+          "number": 3,
+          "text": "가는 편이다"
+        },
+        {
+          "number": 4,
+          "text": "간 적이 있다"
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "다음 휴가에 제주도 여행을 하기로 결정했다는 뜻이므로 의도·계획을 나타내는 '가기로 했다'가 알맞습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "가는 중이다",
+        "가기로 했다",
+        "가는 편이다",
+        "간 적이 있다"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R002",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "original_question_number": 2,
+      "question_number": 2,
+      "target_slots": [
+        2
+      ],
+      "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "나는 작년 연말에 전시회를 (     ) 바쁘게 지냈다.",
+      "passage": "나는 작년 연말에 전시회를 (     ) 바쁘게 지냈다.",
+      "passage_template": "나는 작년 연말에 전시회를 (     ) 바쁘게 지냈다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "준비한 지"
+        },
+        {
+          "number": 2,
+          "text": "준비하더니"
+        },
+        {
+          "number": 3,
+          "text": "준비할 텐데"
+        },
+        {
+          "number": 4,
+          "text": "준비하느라고"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "준비한 지"
+        },
+        {
+          "number": 2,
+          "text": "준비하더니"
+        },
+        {
+          "number": 3,
+          "text": "준비할 텐데"
+        },
+        {
+          "number": 4,
+          "text": "준비하느라고"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "전시회를 준비하는 일 때문에 바쁘게 지냈다는 원인·이유의 의미이므로 '준비하느라고'가 알맞습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "준비한 지",
+        "준비하더니",
+        "준비할 텐데",
+        "준비하느라고"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R003",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "original_question_number": 3,
+      "question_number": 3,
+      "target_slots": [
+        3
+      ],
+      "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "벨을 눌러도 대답이 없는 걸 보니 아무도 없는 모양이다.",
+      "passage_template": "벨을 눌러도 대답이 없는 걸 보니 아무도 없는 모양이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "없는 듯하다"
+        },
+        {
+          "number": 2,
+          "text": "없기 마련이다"
+        },
+        {
+          "number": 3,
+          "text": "없을 리가 없다"
+        },
+        {
+          "number": 4,
+          "text": "없었으면 좋겠다"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "없는 듯하다"
+        },
+        {
+          "number": 2,
+          "text": "없기 마련이다"
+        },
+        {
+          "number": 3,
+          "text": "없을 리가 없다"
+        },
+        {
+          "number": 4,
+          "text": "없었으면 좋겠다"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "'없는 모양이다'는 어떤 상황을 보고 '없는 듯하다'고 추측하는 의미입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "없는 듯하다",
+        "없기 마련이다",
+        "없을 리가 없다",
+        "없었으면 좋겠다"
+      ],
+      "underline_targets": [
+        "아무도 없는 모양이다"
+      ],
+      "underline_source_round": "103",
+      "underline_reviewed": true
+    },
+    {
+      "id": "QB-T2-103-R004",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "original_question_number": 4,
+      "question_number": 4,
+      "target_slots": [
+        4
+      ],
+      "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "고객들의 불편 사항을 알아보고자 설문 조사를 실시했다.",
+      "passage_template": "고객들의 불편 사항을 알아보고자 설문 조사를 실시했다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "알아보기 위해"
+        },
+        {
+          "number": 2,
+          "text": "알아보다 보니"
+        },
+        {
+          "number": 3,
+          "text": "알아보는 반면"
+        },
+        {
+          "number": 4,
+          "text": "알아보는 대로"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "알아보기 위해"
+        },
+        {
+          "number": 2,
+          "text": "알아보다 보니"
+        },
+        {
+          "number": 3,
+          "text": "알아보는 반면"
+        },
+        {
+          "number": 4,
+          "text": "알아보는 대로"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "'알아보고자'는 목적을 나타내며 '알아보기 위해'와 의미가 가장 가깝습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "알아보기 위해",
+        "알아보다 보니",
+        "알아보는 반면",
+        "알아보는 대로"
+      ],
+      "underline_targets": [
+        "알아보고자"
+      ],
+      "underline_source_round": "103",
+      "underline_reviewed": true
+    },
+    {
+      "id": "QB-T2-103-R005",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 5,
+      "question_number": 5,
+      "target_slots": [
+        5
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "편안한 잠을 위한 최고의 선택!\n눕는 순간, 피로가 싹~",
+      "passage_template": "편안한 잠을 위한 최고의 선택!\n눕는 순간, 피로가 싹~",
+      "options": [
+        {
+          "number": 1,
+          "text": "책상"
+        },
+        {
+          "number": 2,
+          "text": "침대"
+        },
+        {
+          "number": 3,
+          "text": "운동화"
+        },
+        {
+          "number": 4,
+          "text": "청바지"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "책상"
+        },
+        {
+          "number": 2,
+          "text": "침대"
+        },
+        {
+          "number": 3,
+          "text": "운동화"
+        },
+        {
+          "number": 4,
+          "text": "청바지"
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "편안한 잠, 눕는 순간, 피로가 사라진다는 표현은 침대를 광고하는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "책상",
+        "침대",
+        "운동화",
+        "청바지"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R006",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 6,
+      "question_number": 6,
+      "target_slots": [
+        6
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "먼저 결제를 하면 한 잔의 여유를 즐기세요~\n음료와 샌드위치 함께 주문 시 10% 할인",
+      "passage_template": "먼저 결제를 하면 한 잔의 여유를 즐기세요~\n음료와 샌드위치 함께 주문 시 10% 할인",
+      "options": [
+        {
+          "number": 1,
+          "text": "학원"
+        },
+        {
+          "number": 2,
+          "text": "카페"
+        },
+        {
+          "number": 3,
+          "text": "미용실"
+        },
+        {
+          "number": 4,
+          "text": "여행사"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "학원"
+        },
+        {
+          "number": 2,
+          "text": "카페"
+        },
+        {
+          "number": 3,
+          "text": "미용실"
+        },
+        {
+          "number": 4,
+          "text": "여행사"
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "음료와 샌드위치 주문, 할인 안내는 카페 광고에 해당합니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "학원",
+        "카페",
+        "미용실",
+        "여행사"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R007",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 7,
+      "question_number": 7,
+      "target_slots": [
+        7
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "“어려운 이웃을 위한 도시락 배달”\n이웃 사랑, 다 같이 실천해요!",
+      "passage_template": "“어려운 이웃을 위한 도시락 배달”\n이웃 사랑, 다 같이 실천해요!",
+      "options": [
+        {
+          "number": 1,
+          "text": "봉사 활동"
+        },
+        {
+          "number": 2,
+          "text": "예절 교육"
+        },
+        {
+          "number": 3,
+          "text": "건강 관리"
+        },
+        {
+          "number": 4,
+          "text": "환경 보호"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "봉사 활동"
+        },
+        {
+          "number": 2,
+          "text": "예절 교육"
+        },
+        {
+          "number": 3,
+          "text": "건강 관리"
+        },
+        {
+          "number": 4,
+          "text": "환경 보호"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "어려운 이웃에게 도시락을 배달하고 이웃 사랑을 실천하자는 내용이므로 봉사 활동에 관한 글입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "봉사 활동",
+        "예절 교육",
+        "건강 관리",
+        "환경 보호"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R008",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "안전 안내문의 목적 파악",
+      "original_question_number": 8,
+      "question_number": 8,
+      "target_slots": [
+        8
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "엘리베이터 문에 기대지 마십시오.\n갑자기 멈췄을 때는 비상 버튼을 누르고 안내를 기다리십시오.",
+      "passage_template": "엘리베이터 문에 기대지 마십시오.\n갑자기 멈췄을 때는 비상 버튼을 누르고 안내를 기다리십시오.",
+      "options": [
+        {
+          "number": 1,
+          "text": "이용 순서"
+        },
+        {
+          "number": 2,
+          "text": "신청 안내"
+        },
+        {
+          "number": 3,
+          "text": "안전 규칙"
+        },
+        {
+          "number": 4,
+          "text": "제품 소개"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이용 순서"
+        },
+        {
+          "number": 2,
+          "text": "신청 안내"
+        },
+        {
+          "number": 3,
+          "text": "안전 규칙"
+        },
+        {
+          "number": 4,
+          "text": "제품 소개"
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "엘리베이터 이용 중 주의할 행동과 비상 상황 대처 방법을 안내하므로 안전 규칙에 해당합니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "이용 순서",
+        "신청 안내",
+        "안전 규칙",
+        "제품 소개"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R009",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 4,
+      "source_printed_page": 3,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_visual",
+      "category": "내용 일치",
+      "diagnostic_area": "안내문 세부 정보 파악",
+      "original_question_number": 9,
+      "question_number": 9,
+      "target_slots": [
+        9
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "인주시 ‘SNS 홍보단’ 모집\n모집 기간: 2025년 11월 24일(월)~12월 5일(금)\n모집 대상 및 인원: SNS 사용자 20명\n활동 기간: 2026년 1월~12월\n지원 방법: 지원서를 이메일(injupr@inju.go.kr)로 제출\n합격자 발표: 12월 12일(금), 인주시 홈페이지 게시\n※ 활동 기간 동안 월 20만 원의 활동비를 드립니다.",
+      "passage_template": "인주시 ‘SNS 홍보단’ 모집\n모집 기간: 2025년 11월 24일(월)~12월 5일(금)\n모집 대상 및 인원: SNS 사용자 20명\n활동 기간: 2026년 1월~12월\n지원 방법: 지원서를 이메일(injupr@inju.go.kr)로 제출\n합격자 발표: 12월 12일(금), 인주시 홈페이지 게시\n※ 활동 기간 동안 월 20만 원의 활동비를 드립니다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "이메일을 통해 합격자를 알려 준다."
+        },
+        {
+          "number": 2,
+          "text": "한 달 동안 SNS 홍보단을 모집한다."
+        },
+        {
+          "number": 3,
+          "text": "SNS 홍보단으로 활동하면 활동비를 받는다."
+        },
+        {
+          "number": 4,
+          "text": "직접 인주 시청에 가서 지원서를 제출해야 한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이메일을 통해 합격자를 알려 준다."
+        },
+        {
+          "number": 2,
+          "text": "한 달 동안 SNS 홍보단을 모집한다."
+        },
+        {
+          "number": 3,
+          "text": "SNS 홍보단으로 활동하면 활동비를 받는다."
+        },
+        {
+          "number": 4,
+          "text": "직접 인주 시청에 가서 지원서를 제출해야 한다."
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "안내문에 활동 기간 동안 월 20만 원의 활동비를 준다고 되어 있으므로 3번이 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "이메일을 통해 합격자를 알려 준다.",
+        "한 달 동안 SNS 홍보단을 모집한다.",
+        "SNS 홍보단으로 활동하면 활동비를 받는다.",
+        "직접 인주 시청에 가서 지원서를 제출해야 한다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R010",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 4,
+      "source_printed_page": 3,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_graph",
+      "category": "내용 일치",
+      "diagnostic_area": "그래프 정보 비교",
+      "original_question_number": 10,
+      "question_number": 10,
+      "target_slots": [
+        10
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "취업을 위해 가장 열심히 하고 있는 활동은?\n자격증 준비하기 29%, 자기소개서 준비하기 22%, 외국어 공부하기 17%, 면접 연습하기 17%, 전공 공부하기 11%, 기타 4%\n(조사 대상: 20~30대 취업 준비생 1,000명)",
+      "passage_template": "취업을 위해 가장 열심히 하고 있는 활동은?\n자격증 준비하기 29%, 자기소개서 준비하기 22%, 외국어 공부하기 17%, 면접 연습하기 17%, 전공 공부하기 11%, 기타 4%\n(조사 대상: 20~30대 취업 준비생 1,000명)",
+      "options": [
+        {
+          "number": 1,
+          "text": "전공 공부를 한다는 사람이 두 번째로 많다."
+        },
+        {
+          "number": 2,
+          "text": "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다."
+        },
+        {
+          "number": 3,
+          "text": "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다."
+        },
+        {
+          "number": 4,
+          "text": "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "전공 공부를 한다는 사람이 두 번째로 많다."
+        },
+        {
+          "number": 2,
+          "text": "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다."
+        },
+        {
+          "number": 3,
+          "text": "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다."
+        },
+        {
+          "number": 4,
+          "text": "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "그래프에서 외국어 공부하기와 면접 연습하기가 각각 17%로 같으므로 4번이 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "전공 공부를 한다는 사람이 두 번째로 많다.",
+        "자격증을 준비하고 있다는 응답이 전체의 반을 넘는다.",
+        "취업을 위해 자기소개서를 준비하고 있는 사람이 가장 많다.",
+        "외국어를 공부한다는 응답과 면접을 연습한다는 응답의 비율이 같다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R011",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 5,
+      "source_printed_page": 4,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 이해",
+      "original_question_number": 11,
+      "question_number": 11,
+      "target_slots": [
+        11
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "인주시는 어린이가 생활 속의 위험 요소를 직접 신고할 수 있도록 올해부터 어린이 전용 신고 사이트를 운영한다. 예컨대 고장 난 공용 자전거를 발견했다면 사진을 찍어 휴대폰으로 신고할 수 있다. 이 사이트는 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다. 사고 예방 효과가 뛰어날 때는 그 신고를 한 어린이에게 도서 상품권도 지급할 계획이다.",
+      "passage_template": "인주시는 어린이가 생활 속의 위험 요소를 직접 신고할 수 있도록 올해부터 어린이 전용 신고 사이트를 운영한다. 예컨대 고장 난 공용 자전거를 발견했다면 사진을 찍어 휴대폰으로 신고할 수 있다. 이 사이트는 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다. 사고 예방 효과가 뛰어날 때는 그 신고를 한 어린이에게 도서 상품권도 지급할 계획이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "휴대폰으로 신고하는 것은 불가능하다."
+        },
+        {
+          "number": 2,
+          "text": "이 사이트는 몇 년째 활발하게 운영되고 있다."
+        },
+        {
+          "number": 3,
+          "text": "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "휴대폰으로 신고하는 것은 불가능하다."
+        },
+        {
+          "number": 2,
+          "text": "이 사이트는 몇 년째 활발하게 운영되고 있다."
+        },
+        {
+          "number": 3,
+          "text": "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "글에서 신고 방법이 주로 그림으로 되어 있어 어린이들이 이용하기 쉽다고 했으므로 3번이 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "휴대폰으로 신고하는 것은 불가능하다.",
+        "이 사이트는 몇 년째 활발하게 운영되고 있다.",
+        "이 사이트는 그림을 사용해서 신고 방법을 설명하고 있다.",
+        "인주시는 모든 어린이 신고자에게 도서 상품권을 줄 예정이다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R012",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 5,
+      "source_printed_page": 4,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 이해",
+      "original_question_number": 12,
+      "question_number": 12,
+      "target_slots": [
+        12
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "오늘 낮 인주시에서 마을버스를 타고 가던 20대 외국인 유학생 A씨가 갑자기 쓰러졌다. 버스 운전기사 이씨가 승객들에게 허락을 구하고 다음 버스를 이용하게 한 뒤 신속히 버스를 돌려 가까운 병원으로 향했다. 병원에 도착한 이씨는 A씨를 직접 업고 4층까지 뛰어 올라갔다. A씨는 약 2시간 만에 회복했는데 A씨의 병원비까지 이씨가 내 준 것으로 전해졌다.",
+      "passage_template": "오늘 낮 인주시에서 마을버스를 타고 가던 20대 외국인 유학생 A씨가 갑자기 쓰러졌다. 버스 운전기사 이씨가 승객들에게 허락을 구하고 다음 버스를 이용하게 한 뒤 신속히 버스를 돌려 가까운 병원으로 향했다. 병원에 도착한 이씨는 A씨를 직접 업고 4층까지 뛰어 올라갔다. A씨는 약 2시간 만에 회복했는데 A씨의 병원비까지 이씨가 내 준 것으로 전해졌다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "유학생은 아직 건강을 회복하지 못하고 있다."
+        },
+        {
+          "number": 2,
+          "text": "운전기사는 유학생의 병원비를 대신 결제했다."
+        },
+        {
+          "number": 3,
+          "text": "병원에 도착하자 의사가 나와서 유학생을 옮겼다."
+        },
+        {
+          "number": 4,
+          "text": "정류장에서 마을버스를 기다리던 유학생이 쓰러졌다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "유학생은 아직 건강을 회복하지 못하고 있다."
+        },
+        {
+          "number": 2,
+          "text": "운전기사는 유학생의 병원비를 대신 결제했다."
+        },
+        {
+          "number": 3,
+          "text": "병원에 도착하자 의사가 나와서 유학생을 옮겼다."
+        },
+        {
+          "number": 4,
+          "text": "정류장에서 마을버스를 기다리던 유학생이 쓰러졌다."
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "글에서 A씨의 병원비까지 운전기사 이씨가 내 준 것으로 전해졌다고 했으므로 2번이 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "유학생은 아직 건강을 회복하지 못하고 있다.",
+        "운전기사는 유학생의 병원비를 대신 결제했다.",
+        "병원에 도착하자 의사가 나와서 유학생을 옮겼다.",
+        "정류장에서 마을버스를 기다리던 유학생이 쓰러졌다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R013",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 13,
+      "question_number": 13,
+      "target_slots": [
+        13
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "'이러다 괜찮아지겠지.' 하고 그냥 신경 쓰지 않았다."
+        },
+        {
+          "label": "(나)",
+          "text": "일주일 전부터 냉장고에서 계속 이상한 소리가 났다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 오늘 아침에 냉장고를 열었는데 음식이 상해 있었다."
+        },
+        {
+          "label": "(라)",
+          "text": "상한 음식을 버리며 냉장고 상태를 미리 확인하지 않은 걸 후회했다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "'이러다 괜찮아지겠지.' 하고 그냥 신경 쓰지 않았다."
+        },
+        {
+          "label": "(나)",
+          "text": "일주일 전부터 냉장고에서 계속 이상한 소리가 났다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 오늘 아침에 냉장고를 열었는데 음식이 상해 있었다."
+        },
+        {
+          "label": "(라)",
+          "text": "상한 음식을 버리며 냉장고 상태를 미리 확인하지 않은 걸 후회했다."
+        }
+      ],
+      "correct_order": [
+        "(나)",
+        "(가)",
+        "(다)",
+        "(라)"
+      ],
+      "options": [
+        {
+          "number": 1,
+          "text": "(나)-(가)-(다)-(라)"
+        },
+        {
+          "number": 2,
+          "text": "(나)-(다)-(라)-(가)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(가)-(다)-(나)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(나)-(가)-(다)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(나)-(가)-(다)-(라)"
+        },
+        {
+          "number": 2,
+          "text": "(나)-(다)-(라)-(가)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(가)-(다)-(나)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(나)-(가)-(다)"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "냉장고에서 이상한 소리가 난 사실이 먼저 나오고, 이를 대수롭지 않게 넘긴 뒤, 음식이 상한 것을 발견하고 후회하는 흐름이 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "(나)-(가)-(다)-(라)",
+        "(나)-(다)-(라)-(가)",
+        "(라)-(가)-(다)-(나)",
+        "(라)-(나)-(가)-(다)"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R014",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 14,
+      "question_number": 14,
+      "target_slots": [
+        14
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "사람들은 보통 식사 후 또는 졸리거나 긴장될 때 껌을 씹는다."
+        },
+        {
+          "label": "(나)",
+          "text": "이때 껌을 씹으면 침이 나와서 갈증을 잠시 잊을 수 있었던 것이다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 이전에는 전쟁 중 군인들이 이와 다른 목적으로 껌을 씹었다."
+        },
+        {
+          "label": "(라)",
+          "text": "전쟁 중에는 물이 매우 부족하여 군인들은 갈증 때문에 힘들어 했다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "사람들은 보통 식사 후 또는 졸리거나 긴장될 때 껌을 씹는다."
+        },
+        {
+          "label": "(나)",
+          "text": "이때 껌을 씹으면 침이 나와서 갈증을 잠시 잊을 수 있었던 것이다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 이전에는 전쟁 중 군인들이 이와 다른 목적으로 껌을 씹었다."
+        },
+        {
+          "label": "(라)",
+          "text": "전쟁 중에는 물이 매우 부족하여 군인들은 갈증 때문에 힘들어 했다."
+        }
+      ],
+      "correct_order": [
+        "(가)",
+        "(다)",
+        "(라)",
+        "(나)"
+      ],
+      "options": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(다)-(라)-(나)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(다)-(나)-(가)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(다)-(라)-(나)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(다)-(나)-(가)"
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "일반적인 껌 사용 상황을 먼저 제시한 뒤, 전쟁 중 군인들이 다른 목적으로 껌을 씹었다는 설명과 그 이유가 이어지는 흐름이 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "(가)-(나)-(라)-(다)",
+        "(가)-(다)-(라)-(나)",
+        "(라)-(나)-(가)-(다)",
+        "(라)-(다)-(나)-(가)"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R015",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 15,
+      "question_number": 15,
+      "target_slots": [
+        15
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "'훈맹정음'은 이런 단점을 보완한 점자로 '훈민정음'에서 이름을 땄다."
+        },
+        {
+          "label": "(나)",
+          "text": "그러나 네 개의 점만으로 자모음과 받침을 제대로 표현하기 어려웠다."
+        },
+        {
+          "label": "(다)",
+          "text": "1926년에 여섯 개의 점으로 이루어진 한글 점자 '훈맹정음'이 탄생했다."
+        },
+        {
+          "label": "(라)",
+          "text": "사실 그전에도 시각 장애인을 위한 4점식 한글 점자 체계가 있기는 했다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "'훈맹정음'은 이런 단점을 보완한 점자로 '훈민정음'에서 이름을 땄다."
+        },
+        {
+          "label": "(나)",
+          "text": "그러나 네 개의 점만으로 자모음과 받침을 제대로 표현하기 어려웠다."
+        },
+        {
+          "label": "(다)",
+          "text": "1926년에 여섯 개의 점으로 이루어진 한글 점자 '훈맹정음'이 탄생했다."
+        },
+        {
+          "label": "(라)",
+          "text": "사실 그전에도 시각 장애인을 위한 4점식 한글 점자 체계가 있기는 했다."
+        }
+      ],
+      "correct_order": [
+        "(다)",
+        "(라)",
+        "(나)",
+        "(가)"
+      ],
+      "options": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(라)-(나)-(다)"
+        },
+        {
+          "number": 3,
+          "text": "(다)-(나)-(가)-(라)"
+        },
+        {
+          "number": 4,
+          "text": "(다)-(라)-(나)-(가)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(라)-(나)-(다)"
+        },
+        {
+          "number": 3,
+          "text": "(다)-(나)-(가)-(라)"
+        },
+        {
+          "number": 4,
+          "text": "(다)-(라)-(나)-(가)"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "훈맹정음의 탄생을 먼저 제시하고, 그전의 4점식 점자 체계와 한계를 설명한 뒤 이를 보완했다는 흐름이 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "(가)-(나)-(라)-(다)",
+        "(가)-(라)-(나)-(다)",
+        "(다)-(나)-(가)-(라)",
+        "(다)-(라)-(나)-(가)"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R016",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+      "original_question_number": 16,
+      "question_number": 16,
+      "target_slots": [
+        16
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+      "passage": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+      "passage_template": "'불닭'은 2000년 초반에 큰 인기를 끌었던 식품의 상표였다. 그러나 이것이 매우 닭고기 요리를 뜻하는 일반 단어로 널리 사용되면서 (     ) 되었다. 사람들은 이제 불닭이라고 하면 상표 대신 그저 매운 닭고기 요리를 떠올린다. 이렇게 사람들의 인식에 따라 특정 상표가 일반 명사로 사용되기도 한다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "제품 가격을 인상하게"
+        },
+        {
+          "number": 2,
+          "text": "외래어 표현이 사라지게"
+        },
+        {
+          "number": 3,
+          "text": "식품의 매운맛이 없어지게"
+        },
+        {
+          "number": 4,
+          "text": "상표로서의 가치가 약해지게"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "제품 가격을 인상하게"
+        },
+        {
+          "number": 2,
+          "text": "외래어 표현이 사라지게"
+        },
+        {
+          "number": 3,
+          "text": "식품의 매운맛이 없어지게"
+        },
+        {
+          "number": 4,
+          "text": "상표로서의 가치가 약해지게"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "상표가 특정 제품명보다 일반 명사처럼 쓰이게 되면 상표로서의 구별 기능과 가치가 약해진다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "제품 가격을 인상하게",
+        "외래어 표현이 사라지게",
+        "식품의 매운맛이 없어지게",
+        "상표로서의 가치가 약해지게"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R017",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 조건 표현 선택",
+      "original_question_number": 17,
+      "question_number": 17,
+      "target_slots": [
+        17
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "알약 중에 어떤 것은 표면에 '-'나 '+' 모양으로 선이 그어져 있다. 이는 약을 조금만 복용해야 할 경우를 대비한 것으로 그 선에 따라 알약을 반 또는 4분의 1로 나누어 먹을 수 있다는 의미이다. 그러나 이렇게 알약을 (     ) 약효가 떨어질 수 있으므로 복용하기 전에 반드시 정확한 복용법을 확인할 필요가 있다.",
+      "passage": "알약 중에 어떤 것은 표면에 '-'나 '+' 모양으로 선이 그어져 있다. 이는 약을 조금만 복용해야 할 경우를 대비한 것으로 그 선에 따라 알약을 반 또는 4분의 1로 나누어 먹을 수 있다는 의미이다. 그러나 이렇게 알약을 (     ) 약효가 떨어질 수 있으므로 복용하기 전에 반드시 정확한 복용법을 확인할 필요가 있다.",
+      "passage_template": "알약 중에 어떤 것은 표면에 '-'나 '+' 모양으로 선이 그어져 있다. 이는 약을 조금만 복용해야 할 경우를 대비한 것으로 그 선에 따라 알약을 반 또는 4분의 1로 나누어 먹을 수 있다는 의미이다. 그러나 이렇게 알약을 (     ) 약효가 떨어질 수 있으므로 복용하기 전에 반드시 정확한 복용법을 확인할 필요가 있다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "잘라서 먹으면"
+        },
+        {
+          "number": 2,
+          "text": "한꺼번에 삼키면"
+        },
+        {
+          "number": 3,
+          "text": "물약으로 바꾸면"
+        },
+        {
+          "number": 4,
+          "text": "저렴하게 구입하면"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "잘라서 먹으면"
+        },
+        {
+          "number": 2,
+          "text": "한꺼번에 삼키면"
+        },
+        {
+          "number": 3,
+          "text": "물약으로 바꾸면"
+        },
+        {
+          "number": 4,
+          "text": "저렴하게 구입하면"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "알약을 선에 따라 나누어 먹을 수 있다는 설명 뒤에, 잘라서 먹을 때 약효가 떨어질 수 있다는 주의가 이어집니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "잘라서 먹으면",
+        "한꺼번에 삼키면",
+        "물약으로 바꾸면",
+        "저렴하게 구입하면"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R018",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 목적 표현 선택",
+      "original_question_number": 18,
+      "question_number": 18,
+      "target_slots": [
+        18
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "너무 귀여운 것을 보면 자기도 모르게 살짝 깨물어 주고 싶은 마음이 들 때가 있다. '귀여운 공격성'이라고 불리는 이 현상은 (     ) 위한 뇌의 작용에서 비롯된다. 긍정적인 감정이 매우 심하게 일어나면 과도한 흥분 상태가 되는데 뇌는 이를 막고자 부정적 감정을 이끌어 내서 비슷한 수준으로 맞추려고 한다.",
+      "passage": "너무 귀여운 것을 보면 자기도 모르게 살짝 깨물어 주고 싶은 마음이 들 때가 있다. '귀여운 공격성'이라고 불리는 이 현상은 (     ) 위한 뇌의 작용에서 비롯된다. 긍정적인 감정이 매우 심하게 일어나면 과도한 흥분 상태가 되는데 뇌는 이를 막고자 부정적 감정을 이끌어 내서 비슷한 수준으로 맞추려고 한다.",
+      "passage_template": "너무 귀여운 것을 보면 자기도 모르게 살짝 깨물어 주고 싶은 마음이 들 때가 있다. '귀여운 공격성'이라고 불리는 이 현상은 (     ) 위한 뇌의 작용에서 비롯된다. 긍정적인 감정이 매우 심하게 일어나면 과도한 흥분 상태가 되는데 뇌는 이를 막고자 부정적 감정을 이끌어 내서 비슷한 수준으로 맞추려고 한다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "상대방의 공격을 피하기"
+        },
+        {
+          "number": 2,
+          "text": "눈물의 양을 조절하기"
+        },
+        {
+          "number": 3,
+          "text": "감정의 균형을 유지하기"
+        },
+        {
+          "number": 4,
+          "text": "부정적인 기분을 감추기"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "상대방의 공격을 피하기"
+        },
+        {
+          "number": 2,
+          "text": "눈물의 양을 조절하기"
+        },
+        {
+          "number": 3,
+          "text": "감정의 균형을 유지하기"
+        },
+        {
+          "number": 4,
+          "text": "부정적인 기분을 감추기"
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "과도한 긍정적 감정을 부정적 감정으로 조절해 비슷한 수준으로 맞추려 한다는 내용이므로 감정의 균형 유지가 알맞습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "상대방의 공격을 피하기",
+        "눈물의 양을 조절하기",
+        "감정의 균형을 유지하기",
+        "부정적인 기분을 감추기"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R025",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 25,
+      "question_number": 25,
+      "target_slots": [
+        25
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+      "passage": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+      "passage_template": "영화 ‘꿈’ 삽입곡 반응 폭발, 영화 흥행에 불 지펴",
+      "options": [
+        {
+          "number": 1,
+          "text": "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다."
+        },
+        {
+          "number": 2,
+          "text": "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다."
+        },
+        {
+          "number": 3,
+          "text": "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다."
+        },
+        {
+          "number": 2,
+          "text": "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다."
+        },
+        {
+          "number": 3,
+          "text": "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "삽입곡이 큰 반응을 얻어 영화 흥행에도 긍정적 영향을 주고 있다는 제목입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "영화 ‘꿈’의 흥행을 위해 다양한 주제의 노래가 영화에 삽입됐다.",
+        "영화 ‘꿈’에 나오는 노래가 흥행하면서 영화 음악 창작이 활발해졌다.",
+        "영화 ‘꿈’ 속 노래의 인기로 노래를 부른 가수의 공연도 흥행하고 있다.",
+        "영화 ‘꿈’에 나오는 노래가 큰 호응을 얻으며 영화 흥행에 기여하고 있다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R026",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 26,
+      "question_number": 26,
+      "target_slots": [
+        26
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "인주 배구 팀 세 경기 연승 행진, 마침내 꼴찌 탈출",
+      "passage": "인주 배구 팀 세 경기 연승 행진, 마침내 꼴찌 탈출",
+      "passage_template": "인주 배구 팀 세 경기 연승 행진, 마침내 꼴찌 탈출",
+      "options": [
+        {
+          "number": 1,
+          "text": "인주 배구 팀이 세 경기를 계속 이겨 드디어 최하위에서 벗어났다."
+        },
+        {
+          "number": 2,
+          "text": "세 경기에서 승리했음에도 인주 배구 팀의 최종 우승은 어려워 보인다."
+        },
+        {
+          "number": 3,
+          "text": "세 경기를 연속으로 이긴 인주 배구 팀이 우승을 목표로 훈련하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "인주 배구 팀이 세 경기 만에 첫 승리를 해 꼴찌를 면할 기회를 얻었다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "인주 배구 팀이 세 경기를 계속 이겨 드디어 최하위에서 벗어났다."
+        },
+        {
+          "number": 2,
+          "text": "세 경기에서 승리했음에도 인주 배구 팀의 최종 우승은 어려워 보인다."
+        },
+        {
+          "number": 3,
+          "text": "세 경기를 연속으로 이긴 인주 배구 팀이 우승을 목표로 훈련하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "인주 배구 팀이 세 경기 만에 첫 승리를 해 꼴찌를 면할 기회를 얻었다."
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "세 경기 연승로 최하위, 즉 꼴찌에서 벗어났다는 제목입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "인주 배구 팀이 세 경기를 계속 이겨 드디어 최하위에서 벗어났다.",
+        "세 경기에서 승리했음에도 인주 배구 팀의 최종 우승은 어려워 보인다.",
+        "세 경기를 연속으로 이긴 인주 배구 팀이 우승을 목표로 훈련하고 있다.",
+        "인주 배구 팀이 세 경기 만에 첫 승리를 해 꼴찌를 면할 기회를 얻었다."
+      ],
+      "text_reviewed": true,
+      "headline_fix_note": "103회 26번 신문 제목: '연속 행진'을 '연승 행진'으로 수정"
+    },
+    {
+      "id": "QB-T2-103-R027",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 27,
+      "question_number": 27,
+      "target_slots": [
+        27
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "고물가로 소비 위축, 패션업계 매출 전망 ‘먹구름’",
+      "passage": "고물가로 소비 위축, 패션업계 매출 전망 ‘먹구름’",
+      "passage_template": "고물가로 소비 위축, 패션업계 매출 전망 ‘먹구름’",
+      "options": [
+        {
+          "number": 1,
+          "text": "소비 욕구를 끌어올리려는 패션업계의 다양한 시도에도 매출이 줄었다."
+        },
+        {
+          "number": 2,
+          "text": "패션업계에서 매출을 올리기 위해 소비 활성화 대책을 마련할 예정이다."
+        },
+        {
+          "number": 3,
+          "text": "높은 물가로 소비가 줄면서 패션업계의 매출이 감소할 것으로 예상된다."
+        },
+        {
+          "number": 4,
+          "text": "물가 상승으로 소비가 감소되자 패션업계가 매출 상승을 위해 애쓰고 있다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "소비 욕구를 끌어올리려는 패션업계의 다양한 시도에도 매출이 줄었다."
+        },
+        {
+          "number": 2,
+          "text": "패션업계에서 매출을 올리기 위해 소비 활성화 대책을 마련할 예정이다."
+        },
+        {
+          "number": 3,
+          "text": "높은 물가로 소비가 줄면서 패션업계의 매출이 감소할 것으로 예상된다."
+        },
+        {
+          "number": 4,
+          "text": "물가 상승으로 소비가 감소되자 패션업계가 매출 상승을 위해 애쓰고 있다."
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "고물가로 소비가 줄어 패션업계 매출 전망이 어둡다는 의미의 제목입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "소비 욕구를 끌어올리려는 패션업계의 다양한 시도에도 매출이 줄었다.",
+        "패션업계에서 매출을 올리기 위해 소비 활성화 대책을 마련할 예정이다.",
+        "높은 물가로 소비가 줄면서 패션업계의 매출이 감소할 것으로 예상된다.",
+        "물가 상승으로 소비가 감소되자 패션업계가 매출 상승을 위해 애쓰고 있다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R028",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 12,
+      "source_printed_page": 11,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 28,
+      "question_number": 28,
+      "target_slots": [
+        28
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "인간의 뇌는 청각 자극을 처리하는 과정에서 자신과 직접 관련된 정보에 더 민감하게 반응하도록 설계되어 있다. 그래서 소음이 가득한 환경에서도 (     ) 특별히 잘 들린다. 예를 들면 술집이나 파티장 같은 시끌벅적한 장소에서 사람들과 대화를 나누는 중에도 멀리서 자신의 이름이 들리면 즉각 알아챈다.",
+      "passage_template": "인간의 뇌는 청각 자극을 처리하는 과정에서 자신과 직접 관련된 정보에 더 민감하게 반응하도록 설계되어 있다. 그래서 소음이 가득한 환경에서도 (     ) 특별히 잘 들린다. 예를 들면 술집이나 파티장 같은 시끌벅적한 장소에서 사람들과 대화를 나누는 중에도 멀리서 자신의 이름이 들리면 즉각 알아챈다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "자신에 대한 이야기는"
+        },
+        {
+          "number": 2,
+          "text": "거짓으로 지어낸 내용은"
+        },
+        {
+          "number": 3,
+          "text": "경제적 능력에 대한 자랑은"
+        },
+        {
+          "number": 4,
+          "text": "낯설고 어려운 정치에 대한 토론은"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "자신에 대한 이야기는"
+        },
+        {
+          "number": 2,
+          "text": "거짓으로 지어낸 내용은"
+        },
+        {
+          "number": 3,
+          "text": "경제적 능력에 대한 자랑은"
+        },
+        {
+          "number": 4,
+          "text": "낯설고 어려운 정치에 대한 토론은"
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "자신의 이름처럼 자신과 직접 관련된 정보가 소음 속에서도 잘 들린다는 내용이므로 '자신에 대한 이야기는'이 알맞습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "자신에 대한 이야기는",
+        "거짓으로 지어낸 내용은",
+        "경제적 능력에 대한 자랑은",
+        "낯설고 어려운 정치에 대한 토론은"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R029",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 12,
+      "source_printed_page": 11,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 29,
+      "question_number": 29,
+      "target_slots": [
+        29
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "대형 마트가 처음 생겼을 때는 물건을 실어 나르는 카트가 없었다. 그래서 사람들은 장바구니가 무거워지면 더 이상 물건을 사지 않았다. 이를 본 한 마트 사장이 의자에 바구니와 바퀴를 달아 카트를 만들고 그 편리함을 홍보했다. 그런데 고객들은 카트가 유모차 같다며 사용하지 않았다. 이에 사장은 (     ) 문제를 해결했다. 멋진 모델들을 고객으로 꾸며서 카트를 끌면서 쇼핑하게 했더니 이를 본 고객들이 따라서 사용하기 시작했다.",
+      "passage_template": "대형 마트가 처음 생겼을 때는 물건을 실어 나르는 카트가 없었다. 그래서 사람들은 장바구니가 무거워지면 더 이상 물건을 사지 않았다. 이를 본 한 마트 사장이 의자에 바구니와 바퀴를 달아 카트를 만들고 그 편리함을 홍보했다. 그런데 고객들은 카트가 유모차 같다며 사용하지 않았다. 이에 사장은 (     ) 문제를 해결했다. 멋진 모델들을 고객으로 꾸며서 카트를 끌면서 쇼핑하게 했더니 이를 본 고객들이 따라서 사용하기 시작했다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "카트 종류를 다양화해"
+        },
+        {
+          "number": 2,
+          "text": "새로운 홍보 전략으로"
+        },
+        {
+          "number": 3,
+          "text": "바구니의 크기를 바꿔"
+        },
+        {
+          "number": 4,
+          "text": "할인 행사를 진행함으로써"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "카트 종류를 다양화해"
+        },
+        {
+          "number": 2,
+          "text": "새로운 홍보 전략으로"
+        },
+        {
+          "number": 3,
+          "text": "바구니의 크기를 바꿔"
+        },
+        {
+          "number": 4,
+          "text": "할인 행사를 진행함으로써"
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "모델들이 카트를 사용하는 모습을 보여 주어 고객의 인식을 바꾼 것이므로 새로운 홍보 전략으로 문제를 해결했다는 흐름이 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "카트 종류를 다양화해",
+        "새로운 홍보 전략으로",
+        "바구니의 크기를 바꿔",
+        "할인 행사를 진행함으로써"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R030",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 13,
+      "source_printed_page": 12,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 30,
+      "question_number": 30,
+      "target_slots": [
+        30
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "달 기지에 제주도 돌담 방식의 담장을 건설하려는 연구가 진행 중이다. 달에서는 로켓이 이착륙할 때 거센 폭풍이 생기는데 이로 인해 그 주변의 장비가 큰 손상을 입을 수 있다. 이를 막으려면 담장이 필요한데 웬만한 담장은 바람의 압력이 세지면 붕괴된다. 그런데 실험을 통해 제주도의 돌담은 (     ) 것으로 확인됐다. 제주도의 돌담은 돌들 사이의 틈새로 바람이 빠져나가 그 압력이 약해지므로 바람에 잘 견디는 것이다.",
+      "passage_template": "달 기지에 제주도 돌담 방식의 담장을 건설하려는 연구가 진행 중이다. 달에서는 로켓이 이착륙할 때 거센 폭풍이 생기는데 이로 인해 그 주변의 장비가 큰 손상을 입을 수 있다. 이를 막으려면 담장이 필요한데 웬만한 담장은 바람의 압력이 세지면 붕괴된다. 그런데 실험을 통해 제주도의 돌담은 (     ) 것으로 확인됐다. 제주도의 돌담은 돌들 사이의 틈새로 바람이 빠져나가 그 압력이 약해지므로 바람에 잘 견디는 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "높게 쌓기가 쉽지 않은"
+        },
+        {
+          "number": 2,
+          "text": "돌들 사이의 빈틈이 없어지는"
+        },
+        {
+          "number": 3,
+          "text": "강한 폭풍에도 무너지지 않는"
+        },
+        {
+          "number": 4,
+          "text": "달 기지의 장비를 손상시키는"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "높게 쌓기가 쉽지 않은"
+        },
+        {
+          "number": 2,
+          "text": "돌들 사이의 빈틈이 없어지는"
+        },
+        {
+          "number": 3,
+          "text": "강한 폭풍에도 무너지지 않는"
+        },
+        {
+          "number": 4,
+          "text": "달 기지의 장비를 손상시키는"
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "돌들 사이의 틈으로 바람이 빠져나가 압력이 약해지므로 제주도 돌담은 강한 폭풍에도 잘 무너지지 않는다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "높게 쌓기가 쉽지 않은",
+        "돌들 사이의 빈틈이 없어지는",
+        "강한 폭풍에도 무너지지 않는",
+        "달 기지의 장비를 손상시키는"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R031",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 13,
+      "source_printed_page": 12,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 동사구 선택",
+      "original_question_number": 31,
+      "question_number": 31,
+      "target_slots": [
+        31
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "사람은 내쉬는 날숨과 들이쉬는 들숨을 반복하며 숨을 쉬는데 웃을 때는 '하하' 소리를 내며 날숨 방식으로 웃는다. 그런데 갓 태어난 아기는 아직 성대 구조가 발달하지 않은 탓에 날숨과 들숨을 반복하며 헐떡이듯 웃는다. 생후 6개월 무렵부터는 아기의 성대 구조가 성숙해진다. 그때부터 부모의 웃는 방식을 모방하기 시작하여 아기도 성인들처럼 점차 (     ).",
+      "passage_template": "사람은 내쉬는 날숨과 들이쉬는 들숨을 반복하며 숨을 쉬는데 웃을 때는 '하하' 소리를 내며 날숨 방식으로 웃는다. 그런데 갓 태어난 아기는 아직 성대 구조가 발달하지 않은 탓에 날숨과 들숨을 반복하며 헐떡이듯 웃는다. 생후 6개월 무렵부터는 아기의 성대 구조가 성숙해진다. 그때부터 부모의 웃는 방식을 모방하기 시작하여 아기도 성인들처럼 점차 (     ).",
+      "options": [
+        {
+          "number": 1,
+          "text": "모방을 멈추게 된다"
+        },
+        {
+          "number": 2,
+          "text": "호흡 횟수가 늘어난다"
+        },
+        {
+          "number": 3,
+          "text": "언어로 소통을 시도한다"
+        },
+        {
+          "number": 4,
+          "text": "날숨 방식으로 웃게 된다"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "모방을 멈추게 된다"
+        },
+        {
+          "number": 2,
+          "text": "호흡 횟수가 늘어난다"
+        },
+        {
+          "number": 3,
+          "text": "언어로 소통을 시도한다"
+        },
+        {
+          "number": 4,
+          "text": "날숨 방식으로 웃게 된다"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "성대 구조가 성숙해지고 부모의 웃는 방식을 모방하면서 성인처럼 날숨 방식으로 웃게 된다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "모방을 멈추게 된다",
+        "호흡 횟수가 늘어난다",
+        "언어로 소통을 시도한다",
+        "날숨 방식으로 웃게 된다"
+      ]
+    },
+    {
+      "id": "QB-T2-103-R032",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 14,
+      "source_printed_page": 13,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "original_question_number": 32,
+      "question_number": 32,
+      "target_slots": [
+        32
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "수많은 명작을 남긴 화가 루벤스는 회화의 생산과 판매에서 혁신적인 방식을 도입했다. 그는 왕실과 귀족들로부터 작품 주문이 밀려들자 꽃이나 풍경 등 특정 분야를 잘 그리는 화가들과 분업으로 작품을 완성했다. 이 방식으로 작품의 질은 최상을 유지하면서 생산력을 높여 큰 수익을 냈다. 그는 작품 제작 과정을 공개해 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했다.",
+      "passage_template": "수많은 명작을 남긴 화가 루벤스는 회화의 생산과 판매에서 혁신적인 방식을 도입했다. 그는 왕실과 귀족들로부터 작품 주문이 밀려들자 꽃이나 풍경 등 특정 분야를 잘 그리는 화가들과 분업으로 작품을 완성했다. 이 방식으로 작품의 질은 최상을 유지하면서 생산력을 높여 큰 수익을 냈다. 그는 작품 제작 과정을 공개해 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다."
+        },
+        {
+          "number": 2,
+          "text": "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다."
+        },
+        {
+          "number": 3,
+          "text": "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다."
+        },
+        {
+          "number": 4,
+          "text": "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다."
+        },
+        {
+          "number": 2,
+          "text": "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다."
+        },
+        {
+          "number": 3,
+          "text": "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다."
+        },
+        {
+          "number": 4,
+          "text": "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "루벤스는 자신이 그린 부분이 많으면 비싸게, 적으면 저렴하게 판매했으므로 참여 비율에 따라 가격을 다르게 정했다는 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "이 화가는 그림을 공동으로 제작했다는 사실을 고객에게 숨겼다.",
+        "이 화가가 분업으로 그림을 제작하면서 작품의 수준이 떨어졌다.",
+        "이 화가는 자기가 참여한 비율에 따라 그림 가격을 다르게 정했다.",
+        "이 화가는 귀족들로부터 주문받은 그림 작업에는 참여하지 않았다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R033",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 14,
+      "source_printed_page": 13,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "original_question_number": 33,
+      "question_number": 33,
+      "target_slots": [
+        33
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "비단벌레 날개는 다른 곤충과 달리 17겹의 얇은 층이 있어 빛을 받으면 무지개처럼 화려하게 빛난다. 이 때문에 비단벌레 날개는 신라 시대에 고위층에게 인기 있는 장신구 재료였다. 비단벌레 날개가 사용된 유물로는 귀족의 무덤에서 나온 안장, 허리띠 등이 있었는데 왕족이 쓰는 금동관의 장식에도 쓰였다는 것이 최근에 발견됐다. 이 발견을 통해 비단벌레 날개가 사용된 장신구를 착용한 사람의 사회적 지위가 높았다는 사실이 재확인됐다.",
+      "passage_template": "비단벌레 날개는 다른 곤충과 달리 17겹의 얇은 층이 있어 빛을 받으면 무지개처럼 화려하게 빛난다. 이 때문에 비단벌레 날개는 신라 시대에 고위층에게 인기 있는 장신구 재료였다. 비단벌레 날개가 사용된 유물로는 귀족의 무덤에서 나온 안장, 허리띠 등이 있었는데 왕족이 쓰는 금동관의 장식에도 쓰였다는 것이 최근에 발견됐다. 이 발견을 통해 비단벌레 날개가 사용된 장신구를 착용한 사람의 사회적 지위가 높았다는 사실이 재확인됐다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "비단벌레 날개는 층이 적어 다양한 빛깔을 내지 못한다."
+        },
+        {
+          "number": 2,
+          "text": "서민의 무덤에서 비단벌레 날개가 사용된 허리띠 유물이 발견되었다."
+        },
+        {
+          "number": 3,
+          "text": "신라 시대 고위층은 비단벌레 날개로 만든 장신구를 착용하지 않았다."
+        },
+        {
+          "number": 4,
+          "text": "비단벌레 날개로 만든 장신구를 통해 착용자의 신분을 추측할 수 있다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "비단벌레 날개는 층이 적어 다양한 빛깔을 내지 못한다."
+        },
+        {
+          "number": 2,
+          "text": "서민의 무덤에서 비단벌레 날개가 사용된 허리띠 유물이 발견되었다."
+        },
+        {
+          "number": 3,
+          "text": "신라 시대 고위층은 비단벌레 날개로 만든 장신구를 착용하지 않았다."
+        },
+        {
+          "number": 4,
+          "text": "비단벌레 날개로 만든 장신구를 통해 착용자의 신분을 추측할 수 있다."
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "비단벌레 날개 장신구가 고위층과 관련되어 있으므로, 이를 통해 착용자의 사회적 지위를 추측할 수 있습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "비단벌레 날개는 층이 적어 다양한 빛깔을 내지 못한다.",
+        "서민의 무덤에서 비단벌레 날개가 사용된 허리띠 유물이 발견되었다.",
+        "신라 시대 고위층은 비단벌레 날개로 만든 장신구를 착용하지 않았다.",
+        "비단벌레 날개로 만든 장신구를 통해 착용자의 신분을 추측할 수 있다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R034",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 15,
+      "source_printed_page": 14,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "original_question_number": 34,
+      "question_number": 34,
+      "target_slots": [
+        34
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "조선 시대에는 관리들의 교체가 매우 빈번하여 관리들이 해당 업무에 숙달하지 못하는 경우가 많았다. 그래서 특수한 기술이나 경험을 요구하는 직무에는 특별히 임기를 보장하는 장기 근무자를 두었는데 이들을 구임관이라고 불렀다. 구임관 제도는 처음에는 재정 업무와 지방 수령직에 한하여 적용되다가 이후 제례, 외교, 군수 등 다양한 특수 부서로 확대되었다. 이 제도는 관리들의 전문성을 높이고 행정의 연속성을 확보하는 데 기여했다.",
+      "passage_template": "조선 시대에는 관리들의 교체가 매우 빈번하여 관리들이 해당 업무에 숙달하지 못하는 경우가 많았다. 그래서 특수한 기술이나 경험을 요구하는 직무에는 특별히 임기를 보장하는 장기 근무자를 두었는데 이들을 구임관이라고 불렀다. 구임관 제도는 처음에는 재정 업무와 지방 수령직에 한하여 적용되다가 이후 제례, 외교, 군수 등 다양한 특수 부서로 확대되었다. 이 제도는 관리들의 전문성을 높이고 행정의 연속성을 확보하는 데 기여했다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "시간이 지나면서 구임관 제도는 적용 분야가 축소되었다."
+        },
+        {
+          "number": 2,
+          "text": "구임관은 전문적 역량이 요구되는 직무를 주로 수행했다."
+        },
+        {
+          "number": 3,
+          "text": "조선 시대에는 한 직무를 오래 담당하는 것이 일반적이었다."
+        },
+        {
+          "number": 4,
+          "text": "구임관은 업무의 특성 때문에 정해진 임기를 보호받지 못했다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "시간이 지나면서 구임관 제도는 적용 분야가 축소되었다."
+        },
+        {
+          "number": 2,
+          "text": "구임관은 전문적 역량이 요구되는 직무를 주로 수행했다."
+        },
+        {
+          "number": 3,
+          "text": "조선 시대에는 한 직무를 오래 담당하는 것이 일반적이었다."
+        },
+        {
+          "number": 4,
+          "text": "구임관은 업무의 특성 때문에 정해진 임기를 보호받지 못했다."
+        }
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "구임관은 특수한 기술이나 경험을 요구하는 직무에 장기 근무하도록 둔 관리이므로 전문적 역량이 요구되는 직무를 주로 수행했다는 내용과 같습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "시간이 지나면서 구임관 제도는 적용 분야가 축소되었다.",
+        "구임관은 전문적 역량이 요구되는 직무를 주로 수행했다.",
+        "조선 시대에는 한 직무를 오래 담당하는 것이 일반적이었다.",
+        "구임관은 업무의 특성 때문에 정해진 임기를 보호받지 못했다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R035",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 15,
+      "source_printed_page": 14,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "original_question_number": 35,
+      "question_number": 35,
+      "target_slots": [
+        35
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "차단봉은 도로의 차량이 인도로 침범하지 못하도록 길가에 설치하는 시설물로 보행자의 안전을 위한 것이다. 그런데 현행법에는 설치 구역에 대한 기준이 없어 어린이 보호 구역에도 차단봉이 없는 곳이 많다. 게다가 강도에 대한 명확한 기준도 없어서 차량 속도가 시속 40km만 되어도 충돌 시 쉽게 파손되고 만다. 보행자의 안전을 실질적으로 보호하려면 설치 구역을 지정하고 고속 차량에도 견딜 수 있게 내구성을 높여야 할 것이다.",
+      "passage_template": "차단봉은 도로의 차량이 인도로 침범하지 못하도록 길가에 설치하는 시설물로 보행자의 안전을 위한 것이다. 그런데 현행법에는 설치 구역에 대한 기준이 없어 어린이 보호 구역에도 차단봉이 없는 곳이 많다. 게다가 강도에 대한 명확한 기준도 없어서 차량 속도가 시속 40km만 되어도 충돌 시 쉽게 파손되고 만다. 보행자의 안전을 실질적으로 보호하려면 설치 구역을 지정하고 고속 차량에도 견딜 수 있게 내구성을 높여야 할 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다."
+        },
+        {
+          "number": 2,
+          "text": "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다."
+        },
+        {
+          "number": 3,
+          "text": "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다."
+        },
+        {
+          "number": 4,
+          "text": "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다."
+        },
+        {
+          "number": 2,
+          "text": "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다."
+        },
+        {
+          "number": 3,
+          "text": "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다."
+        },
+        {
+          "number": 4,
+          "text": "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "글은 차단봉의 설치 구역과 강도 기준이 부족하므로 보행자 안전을 위해 설치 기준을 확립해야 한다고 주장합니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "인도 침범 사고에 대한 처벌 기준을 시급히 강화해야 한다.",
+        "어린이 보행자의 안전을 위해 다양한 교통 시설이 마련되어야 한다.",
+        "차단봉은 보행의 편의성을 해치지 않도록 신중하게 설치되어야 한다.",
+        "보행자의 안전을 확보하기 위해 차단봉의 설치 기준을 확립해야 한다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R036",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 16,
+      "source_printed_page": 15,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "original_question_number": 36,
+      "question_number": 36,
+      "target_slots": [
+        36
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "산불 피해 지역을 복원하는 방식에는 인공 조림과 자연 복원이 있다. 인공 조림은 땅을 뒤엎고 몇몇 수종을 심어 숲을 인위적으로 빨리 재건하는 것이다. 하지만 이는 땅속 미생물을 파괴해 장기적으로 생태계 회복에 악영향을 준다. 반면 자연 복원의 경우 화재에서 살아남은 뿌리가 붙은 가지를 양분으로 삼아 다시 스스로 싹을 틔운다. 더디지만 땅의 생명력을 유지해 종 다양성을 회복하게 하는 것이다. 따라서 시간이 걸려도 자연 복원의 비중을 더 늘려야 한다.",
+      "passage_template": "산불 피해 지역을 복원하는 방식에는 인공 조림과 자연 복원이 있다. 인공 조림은 땅을 뒤엎고 몇몇 수종을 심어 숲을 인위적으로 빨리 재건하는 것이다. 하지만 이는 땅속 미생물을 파괴해 장기적으로 생태계 회복에 악영향을 준다. 반면 자연 복원의 경우 화재에서 살아남은 뿌리가 붙은 가지를 양분으로 삼아 다시 스스로 싹을 틔운다. 더디지만 땅의 생명력을 유지해 종 다양성을 회복하게 하는 것이다. 따라서 시간이 걸려도 자연 복원의 비중을 더 늘려야 한다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "숲의 회복을 돕기 위해 복구 시간을 단축해야 한다."
+        },
+        {
+          "number": 2,
+          "text": "빠른 피해 회복을 위해 다양한 복원 방식을 개발해야 한다."
+        },
+        {
+          "number": 3,
+          "text": "숲의 회복을 위해 자연 복원 방식을 보다 확대 적용해야 한다."
+        },
+        {
+          "number": 4,
+          "text": "화재에 강한 수종을 심어 산불이 발생할 가능성을 줄여야 한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "숲의 회복을 돕기 위해 복구 시간을 단축해야 한다."
+        },
+        {
+          "number": 2,
+          "text": "빠른 피해 회복을 위해 다양한 복원 방식을 개발해야 한다."
+        },
+        {
+          "number": 3,
+          "text": "숲의 회복을 위해 자연 복원 방식을 보다 확대 적용해야 한다."
+        },
+        {
+          "number": 4,
+          "text": "화재에 강한 수종을 심어 산불이 발생할 가능성을 줄여야 한다."
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "인공 조림보다 자연 복원이 생태계 회복에 도움이 되므로 시간이 걸려도 자연 복원의 비중을 늘려야 한다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "숲의 회복을 돕기 위해 복구 시간을 단축해야 한다.",
+        "빠른 피해 회복을 위해 다양한 복원 방식을 개발해야 한다.",
+        "숲의 회복을 위해 자연 복원 방식을 보다 확대 적용해야 한다.",
+        "화재에 강한 수종을 심어 산불이 발생할 가능성을 줄여야 한다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R037",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 16,
+      "source_printed_page": 15,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "original_question_number": 37,
+      "question_number": 37,
+      "target_slots": [
+        37
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "비행기의 이착륙은 바람의 영향을 크게 받기 때문에 공항 활주로는 이를 고려해서 설계된다. 앞이나 뒤에서 부는 바람은 비행기의 균형을 흐트러뜨리거나 이착륙 거리를 늘려 사고를 유발할 수 있다. 반면 마주 부는 바람은 비행기를 띄우는 양력을 높이고 안전하게 착륙하도록 돕는다. 실제로 인천국제공항의 경우에도 한반도의 기후를 반영하여 바람을 마주 보는 방향으로 활주로가 설치되어 있다.",
+      "passage_template": "비행기의 이착륙은 바람의 영향을 크게 받기 때문에 공항 활주로는 이를 고려해서 설계된다. 앞이나 뒤에서 부는 바람은 비행기의 균형을 흐트러뜨리거나 이착륙 거리를 늘려 사고를 유발할 수 있다. 반면 마주 부는 바람은 비행기를 띄우는 양력을 높이고 안전하게 착륙하도록 돕는다. 실제로 인천국제공항의 경우에도 한반도의 기후를 반영하여 바람을 마주 보는 방향으로 활주로가 설치되어 있다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "공항의 활주로 배치는 바람의 방향을 고려하여 결정된다."
+        },
+        {
+          "number": 2,
+          "text": "각 공항에서는 안전을 위해 바람을 차단하는 방법을 찾고 있다."
+        },
+        {
+          "number": 3,
+          "text": "바람에 대응하기 위한 기상 관측 기술이 급속도로 발전하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "정면에서 부는 바람이 이착륙을 어렵게 하는 주요 원인이 되고 있다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "공항의 활주로 배치는 바람의 방향을 고려하여 결정된다."
+        },
+        {
+          "number": 2,
+          "text": "각 공항에서는 안전을 위해 바람을 차단하는 방법을 찾고 있다."
+        },
+        {
+          "number": 3,
+          "text": "바람에 대응하기 위한 기상 관측 기술이 급속도로 발전하고 있다."
+        },
+        {
+          "number": 4,
+          "text": "정면에서 부는 바람이 이착륙을 어렵게 하는 주요 원인이 되고 있다."
+        }
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "활주로는 비행기가 마주 보는 바람을 활용해 안전하게 이착륙하도록 바람의 방향을 고려해 설계된다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "공항의 활주로 배치는 바람의 방향을 고려하여 결정된다.",
+        "각 공항에서는 안전을 위해 바람을 차단하는 방법을 찾고 있다.",
+        "바람에 대응하기 위한 기상 관측 기술이 급속도로 발전하고 있다.",
+        "정면에서 부는 바람이 이착륙을 어렵게 하는 주요 원인이 되고 있다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R038",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 17,
+      "source_printed_page": 16,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "original_question_number": 38,
+      "question_number": 38,
+      "target_slots": [
+        38
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "열수공은 뜨거운 물이 솟는 곳으로 수심 2km가 넘는 심해에 있다. 이곳은 해저 화산 활동에 의해 수온이 300℃까지 올라서 지구에서 생명체가 서식하기에 가장 혹독한 환경 중 하나로 꼽힌다. 열수공에는 기존에 발견되지 않았던 신종 생명체들이 서식하는데 이들 생명체에서 신물질이 속속 발견되어 항암제 및 각종 치료제 개발에 활용되고 있다. 극한 환경의 생명체 자원이 기존 치료제와 다른 새로운 의약품 개발의 가능성을 보여 주고 있는 것이다.",
+      "passage_template": "열수공은 뜨거운 물이 솟는 곳으로 수심 2km가 넘는 심해에 있다. 이곳은 해저 화산 활동에 의해 수온이 300℃까지 올라서 지구에서 생명체가 서식하기에 가장 혹독한 환경 중 하나로 꼽힌다. 열수공에는 기존에 발견되지 않았던 신종 생명체들이 서식하는데 이들 생명체에서 신물질이 속속 발견되어 항암제 및 각종 치료제 개발에 활용되고 있다. 극한 환경의 생명체 자원이 기존 치료제와 다른 새로운 의약품 개발의 가능성을 보여 주고 있는 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "열수공의 형성 과정에 대한 새로운 사실들이 계속 밝혀지고 있다."
+        },
+        {
+          "number": 2,
+          "text": "열수공이 해저 화산 활동을 관찰할 수 있는 곳으로 주목받고 있다."
+        },
+        {
+          "number": 3,
+          "text": "열수공 지역의 극한 서식 환경에 대한 연구가 활발하게 이루어지고 있다."
+        },
+        {
+          "number": 4,
+          "text": "열수공의 생명체에서 얻은 물질이 신약 개발의 새로운 자원이 되고 있다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "열수공의 형성 과정에 대한 새로운 사실들이 계속 밝혀지고 있다."
+        },
+        {
+          "number": 2,
+          "text": "열수공이 해저 화산 활동을 관찰할 수 있는 곳으로 주목받고 있다."
+        },
+        {
+          "number": 3,
+          "text": "열수공 지역의 극한 서식 환경에 대한 연구가 활발하게 이루어지고 있다."
+        },
+        {
+          "number": 4,
+          "text": "열수공의 생명체에서 얻은 물질이 신약 개발의 새로운 자원이 되고 있다."
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "열수공 생명체에서 발견된 신물질이 항암제와 치료제 개발에 활용되고 있어 신약 개발의 새로운 자원이 된다는 내용입니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "열수공의 형성 과정에 대한 새로운 사실들이 계속 밝혀지고 있다.",
+        "열수공이 해저 화산 활동을 관찰할 수 있는 곳으로 주목받고 있다.",
+        "열수공 지역의 극한 서식 환경에 대한 연구가 활발하게 이루어지고 있다.",
+        "열수공의 생명체에서 얻은 물질이 신약 개발의 새로운 자원이 되고 있다."
+      ]
+    },
+    {
+      "id": "QB-T2-103-R039",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 17,
+      "source_printed_page": 16,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert_interactive",
+      "category": "문장 삽입",
+      "diagnostic_area": "문맥에 맞는 문장 삽입 위치 판단",
+      "original_question_number": 39,
+      "question_number": 39,
+      "target_slots": [
+        39
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "insert_sentence": "콘텐츠나 메시지의 수준과 상관없이 작가가 누구냐에 따라 시장이 좌우되면 시장이 정상적으로 작동하지 못한다는 것이다.",
+      "passage": "최근 출판계에서는 특정 팬덤이나 열성 독자층을 가진 유명인들이 펴낸 책이 잇달아 베스트셀러가 되고 있다. (ㄱ) 독자가 자신이 좋아하는 사람의 책을 구매해 인기를 끌어올리고 이렇게 높아진 인기가 다시 판매 호조로 이어지는 것이다. (ㄴ) 덕분에 출판계는 활기를 얻었지만 한편 우려의 목소리도 나오고 있다. (ㄷ) 이에 일부 출판사들은 단기적인 판매 경쟁보다 작품의 완성도를 높이는 방향을 모색하고 있다. (ㄹ)",
+      "passage_template": "최근 출판계에서는 특정 팬덤이나 열성 독자층을 가진 유명인들이 펴낸 책이 잇달아 베스트셀러가 되고 있다. (ㄱ) 독자가 자신이 좋아하는 사람의 책을 구매해 인기를 끌어올리고 이렇게 높아진 인기가 다시 판매 호조로 이어지는 것이다. (ㄴ) 덕분에 출판계는 활기를 얻었지만 한편 우려의 목소리도 나오고 있다. (ㄷ) 이에 일부 출판사들은 단기적인 판매 경쟁보다 작품의 완성도를 높이는 방향을 모색하고 있다. (ㄹ)",
+      "insert_positions": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "correct_position": "ㄷ",
+      "options": [
+        {
+          "label": "1",
+          "text": "ㄱ"
+        },
+        {
+          "label": "2",
+          "text": "ㄴ"
+        },
+        {
+          "label": "3",
+          "text": "ㄷ"
+        },
+        {
+          "label": "4",
+          "text": "ㄹ"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "ㄱ"
+        },
+        {
+          "number": 2,
+          "text": "ㄴ"
+        },
+        {
+          "number": 3,
+          "text": "ㄷ"
+        },
+        {
+          "number": 4,
+          "text": "ㄹ"
+        }
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "팬덤이 판매를 좌우하는 현상에 대한 우려를 구체화한 문장이므로, 우려의 목소리가 나온다는 문장 뒤인 ㄷ 위치가 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "position_labels": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "interaction_mode": "click_insert_sentence_into_position",
+      "correct_insert_position": "ㄷ",
+      "sentence_insert_reviewed": true,
+      "sentence_insert_source_round": "103",
+      "sentence_insert_note": "103회 원문 기준 주어진 문장과 ㄱ/ㄴ/ㄷ/ㄹ 위치를 연결함."
+    },
+    {
+      "id": "QB-T2-103-R040",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 18,
+      "source_printed_page": 17,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert_interactive",
+      "category": "문장 삽입",
+      "diagnostic_area": "문맥에 맞는 문장 삽입 위치 판단",
+      "original_question_number": 40,
+      "question_number": 40,
+      "target_slots": [
+        40
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "passage": "월동 시금치는 대부분 겨울 동안 잎과 뿌리로 양분을 모은 뒤 이듬해 봄에 꽃을 피운다. (ㄱ) 자연 상태에서 추위를 견디기 위해 짧은 잎들이 지면에 거의 붙어 방사형으로 펼쳐지면서 자라는 잎다발 구조를 가졌다. (ㄴ) 이 구조는 잎들이 서로 겹치지 않아 햇빛을 고루 받을 수 있다는 장점이 있다. (ㄷ) 그리고 동물에 의한 피해도 적어 생존에 유리하다. (ㄹ)",
+      "passage_template": "월동 시금치는 대부분 겨울 동안 잎과 뿌리로 양분을 모은 뒤 이듬해 봄에 꽃을 피운다. (ㄱ) 자연 상태에서 추위를 견디기 위해 짧은 잎들이 지면에 거의 붙어 방사형으로 펼쳐지면서 자라는 잎다발 구조를 가졌다. (ㄴ) 이 구조는 잎들이 서로 겹치지 않아 햇빛을 고루 받을 수 있다는 장점이 있다. (ㄷ) 그리고 동물에 의한 피해도 적어 생존에 유리하다. (ㄹ)",
+      "options": [
+        {
+          "label": "1",
+          "text": "ㄱ"
+        },
+        {
+          "label": "2",
+          "text": "ㄴ"
+        },
+        {
+          "label": "3",
+          "text": "ㄷ"
+        },
+        {
+          "label": "4",
+          "text": "ㄹ"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "ㄱ"
+        },
+        {
+          "number": 2,
+          "text": "ㄴ"
+        },
+        {
+          "number": 3,
+          "text": "ㄷ"
+        },
+        {
+          "number": 4,
+          "text": "ㄹ"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "주어진 문장은 월동 시금치가 동물 피해를 덜 받는 이유를 설명하므로, 동물 피해가 적다는 내용 뒤인 ㄹ 위치가 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "insert_sentence": "납작하게 땅에 붙어 있어서 밟아도 줄기가 잘 부러지지 않고 뜯어 먹기도 쉽지 않기 때문이다.",
+      "insert_positions": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "correct_position": "ㄹ",
+      "position_labels": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "interaction_mode": "click_insert_sentence_into_position",
+      "correct_insert_position": "ㄹ",
+      "sentence_insert_reviewed": true,
+      "sentence_insert_source_round": "103",
+      "sentence_insert_note": "103회 원문 기준 주어진 문장과 ㄱ/ㄴ/ㄷ/ㄹ 위치를 연결함."
+    },
+    {
+      "id": "QB-T2-103-R041",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 18,
+      "source_printed_page": 17,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert_interactive",
+      "category": "문장 삽입",
+      "diagnostic_area": "문맥에 맞는 문장 삽입 위치 판단",
+      "original_question_number": 41,
+      "question_number": 41,
+      "target_slots": [
+        41
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "passage": "한국의 창작 뮤지컬 ‘해피엔딩’이 해외 시상식에서 작품상을 수상했다. (ㄱ) 이 작품은 인간적인 감정을 지닌 로봇들의 이야기를 한국적 정서로 섬세하게 풀어 냈다. (ㄴ) 해외에서의 초반 흥행은 저조했지만 진정성 있는 연기와 아름다운 선율이 입소문을 타며 인기를 끌었다. (ㄷ) 과감한 현지화 전략도 흥행을 견인한 요소로 꼽힌다. (ㄹ) 이를 통해 새로운 매력을 더하며 대중성도 겸비한 수작으로 찬사받고 있다.",
+      "passage_template": "한국의 창작 뮤지컬 ‘해피엔딩’이 해외 시상식에서 작품상을 수상했다. (ㄱ) 이 작품은 인간적인 감정을 지닌 로봇들의 이야기를 한국적 정서로 섬세하게 풀어 냈다. (ㄴ) 해외에서의 초반 흥행은 저조했지만 진정성 있는 연기와 아름다운 선율이 입소문을 타며 인기를 끌었다. (ㄷ) 과감한 현지화 전략도 흥행을 견인한 요소로 꼽힌다. (ㄹ) 이를 통해 새로운 매력을 더하며 대중성도 겸비한 수작으로 찬사받고 있다.",
+      "options": [
+        {
+          "label": "1",
+          "text": "ㄱ"
+        },
+        {
+          "label": "2",
+          "text": "ㄴ"
+        },
+        {
+          "label": "3",
+          "text": "ㄷ"
+        },
+        {
+          "label": "4",
+          "text": "ㄹ"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "ㄱ"
+        },
+        {
+          "number": 2,
+          "text": "ㄴ"
+        },
+        {
+          "number": 3,
+          "text": "ㄷ"
+        },
+        {
+          "number": 4,
+          "text": "ㄹ"
+        }
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "주어진 문장은 현지화 전략의 구체적 사례이므로, 현지화 전략을 언급한 문장 뒤인 ㄹ 위치가 자연스럽습니다.",
+      "image_url": "",
+      "answer_source": "assistant_inferred_from_pdf_context",
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "high",
+      "options_text": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "insert_sentence": "재즈에 친숙한 해외 관객의 성향을 반영하여 재즈풍 편곡을 대폭 강화한 것이 그 예이다.",
+      "insert_positions": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "correct_position": "ㄹ",
+      "position_labels": [
+        "ㄱ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "interaction_mode": "click_insert_sentence_into_position",
+      "correct_insert_position": "ㄹ",
+      "sentence_insert_reviewed": true,
+      "sentence_insert_source_round": "103",
+      "sentence_insert_note": "103회 원문 기준 주어진 문장과 ㄱ/ㄴ/ㄷ/ㄹ 위치를 연결함."
+    }
+  ],
+  "passage_sets": [
+    {
+      "set_id": "SET-T2-103-R019-020",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 8,
+      "source_printed_page": 7,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[19~20] 공통 지문",
+      "target_slots": [
+        19,
+        20
+      ],
+      "passage": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+      "passage_template": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R019",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+          "original_question_number": 19,
+          "question_number": 19,
+          "target_slot": 19,
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+          "passage_template": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "만약"
+            },
+            {
+              "number": 2,
+              "text": "비록"
+            },
+            {
+              "number": 3,
+              "text": "차라리"
+            },
+            {
+              "number": 4,
+              "text": "드디어"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "만약"
+            },
+            {
+              "number": 2,
+              "text": "비록"
+            },
+            {
+              "number": 3,
+              "text": "차라리"
+            },
+            {
+              "number": 4,
+              "text": "드디어"
+            }
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "'자세히 묘사하지는 않지만 한눈에 알아볼 수 있다'는 양보 관계이므로 '비록'이 알맞습니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "만약",
+            "비록",
+            "차라리",
+            "드디어"
+          ]
+        },
+        {
+          "id": "QB-T2-103-R020",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "짧은 공통 지문의 주제 파악",
+          "original_question_number": 20,
+          "question_number": 20,
+          "target_slot": 20,
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+          "passage": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+          "passage_template": "인물의 개성 있는 신체적 특징을 과장해 그린 그림을 캐리커처라고 한다. 코를 커다랗게 그리거나 턱을 매우 뾰족하게 그리는 식이다. 이렇듯 캐리커처는 외모의 가장 두드러진 곳이 눈에 띄도록 몇 개의 선으로 단순하게 그린다. (     ) 일반적인 초상화처럼 인물을 자세히 묘사하지는 않지만 완성된 그림을 보면 한눈에 누구인지 알아볼 수 있다. 이는 남들과 다른 그 사람만의 고유한 특징을 잡아 표현하는 캐리커처의 기법 덕분이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다."
+            },
+            {
+              "number": 2,
+              "text": "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다."
+            },
+            {
+              "number": 3,
+              "text": "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다."
+            },
+            {
+              "number": 4,
+              "text": "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다."
+            },
+            {
+              "number": 2,
+              "text": "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다."
+            },
+            {
+              "number": 3,
+              "text": "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다."
+            },
+            {
+              "number": 4,
+              "text": "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+            }
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "캐리커처는 몇 개의 선으로 단순하게 그려도 인물의 두드러진 특징과 개성을 잘 나타낼 수 있다는 내용입니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "이 기법은 인물을 단시간에 묘사하는 신속성이 중요하다.",
+            "이 기법을 통해 자신을 표현하려는 경향이 점차 확산되고 있다.",
+            "이 기법은 일반적인 초상화에 대한 비판에서 사용되기 시작했다.",
+            "이 기법으로 자세한 묘사 없이도 인물의 개성을 잘 나타낼 수 있다."
+          ]
+        }
+      ]
+    },
+    {
+      "set_id": "SET-T2-103-R021-022",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 9,
+      "source_printed_page": 8,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[21~22] 공통 지문",
+      "target_slots": [
+        21,
+        22
+      ],
+      "passage": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+      "passage_template": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R021",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 관용 표현 선택",
+          "original_question_number": 21,
+          "question_number": 21,
+          "target_slot": 21,
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+          "passage_template": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "손을 써서"
+            },
+            {
+              "number": 2,
+              "text": "입을 모아"
+            },
+            {
+              "number": 3,
+              "text": "허리를 펴서"
+            },
+            {
+              "number": 4,
+              "text": "고개를 숙여"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "손을 써서"
+            },
+            {
+              "number": 2,
+              "text": "입을 모아"
+            },
+            {
+              "number": 3,
+              "text": "허리를 펴서"
+            },
+            {
+              "number": 4,
+              "text": "고개를 숙여"
+            }
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "위험 요소가 발견되면 미리 조치를 취한다는 의미이므로 '손을 써서'가 알맞습니다.",
+          "image_url": "",
+          "source_pdf_page": 9,
+          "source_printed_page": 8,
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "손을 써서",
+            "입을 모아",
+            "허리를 펴서",
+            "고개를 숙여"
+          ]
+        },
+        {
+          "id": "QB-T2-103-R022",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "공통 지문 내용 일치",
+          "diagnostic_area": "기술 설명문의 세부 내용 파악",
+          "original_question_number": 22,
+          "question_number": 22,
+          "target_slot": 22,
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+          "passage_template": "도로와 터널, 다리 등을 건설할 때 ‘디지털 쌍둥이’ 기술이 많이 활용되고 있다. 이 기술은 현실에 있는 실물을 디지털 공간에 가상으로 똑같이 만들어 다양한 모의실험을 가능하게 한다. 터널 공사를 예로 들면 실제와 동일한 가상 터널을 만들어 위험한 공사 현장에 사람이 직접 들어가지 않고도 혹시 발생할 수 있는 사고를 가상에서 미리 실험해 볼 수 있다. 이러한 실험을 통해 위험 요소가 발견되면 미리 (     ) 사고를 예방할 수 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "건설 분야에 이 기술이 아직 도입되지 못하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "이 기술은 이미 일어난 사고를 분석하는 데 활용된다."
+            },
+            {
+              "number": 3,
+              "text": "이 기술을 활용하면 안전하게 모의실험을 할 수 있다."
+            },
+            {
+              "number": 4,
+              "text": "이 실험으로는 실제 공사 중 발생 가능한 사고를 예상하기 어렵다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "건설 분야에 이 기술이 아직 도입되지 못하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "이 기술은 이미 일어난 사고를 분석하는 데 활용된다."
+            },
+            {
+              "number": 3,
+              "text": "이 기술을 활용하면 안전하게 모의실험을 할 수 있다."
+            },
+            {
+              "number": 4,
+              "text": "이 실험으로는 실제 공사 중 발생 가능한 사고를 예상하기 어렵다."
+            }
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "디지털 쌍둥이 기술은 실제 현장에 직접 들어가지 않고도 위험 상황을 가상에서 실험해 볼 수 있다고 설명합니다.",
+          "image_url": "",
+          "source_pdf_page": 9,
+          "source_printed_page": 8,
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "건설 분야에 이 기술이 아직 도입되지 못하고 있다.",
+            "이 기술은 이미 일어난 사고를 분석하는 데 활용된다.",
+            "이 기술을 활용하면 안전하게 모의실험을 할 수 있다.",
+            "이 실험으로는 실제 공사 중 발생 가능한 사고를 예상하기 어렵다."
+          ]
+        }
+      ]
+    },
+    {
+      "set_id": "SET-T2-103-R023-024",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 10,
+      "source_printed_page": 9,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[23~24] 공통 지문",
+      "target_slots": [
+        23,
+        24
+      ],
+      "passage": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+      "passage_template": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R023",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "original_question_number": 23,
+          "question_number": 23,
+          "target_slot": 23,
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+          "passage": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+          "passage_template": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+          "options": [
+            {
+              "number": 1,
+              "text": "궁금하다"
+            },
+            {
+              "number": 2,
+              "text": "어색하다"
+            },
+            {
+              "number": 3,
+              "text": "감격스럽다"
+            },
+            {
+              "number": 4,
+              "text": "부담스럽다"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "궁금하다"
+            },
+            {
+              "number": 2,
+              "text": "어색하다"
+            },
+            {
+              "number": 3,
+              "text": "감격스럽다"
+            },
+            {
+              "number": 4,
+              "text": "부담스럽다"
+            }
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "살아 있는 거북이를 구조할 수 있다는 상황에서 가슴이 두근거렸으므로 감격스럽고 벅찬 심정으로 볼 수 있습니다.",
+          "image_url": "",
+          "source_pdf_page": 10,
+          "source_printed_page": 9,
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "궁금하다",
+            "어색하다",
+            "감격스럽다",
+            "부담스럽다"
+          ],
+          "underline_targets": [
+            "나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다"
+          ],
+          "underline_source_round": "103",
+          "underline_reviewed": true,
+          "underline_note": "103회 원문 23번 밑줄 친 부분. 23~24번 공통 지문에 표시."
+        },
+        {
+          "id": "QB-T2-103-R024",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "공통 지문 내용 일치",
+          "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+          "original_question_number": 24,
+          "question_number": 24,
+          "target_slot": 24,
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+          "passage_template": "나는 해양 동물 구조대로 일하면서 죽은 거북이를 치워 달라는 전화를 여러 차례 받았다. 그러던 어느 날, 해안가 바위틈에 거북이가 낀 것 같으니 구조해 달라는 신고가 접수되었다. 거북이를 살려 달라는 전화를 받으니 가슴이 두근거렸다. 나는 동료들과 장비를 챙겨서 바닷가로 향했다. 가까이 가서 보니 거북이는 몸이 바위틈에 낀 것도 아닌데 움직이지 못하고 있었다. 우리는 거북이를 동물 병원으로 데리고 가며 마음이 조마조마했다. 수의사가 거북이의 목 안에서 뒤엉킨 낚싯줄과 쓰레기를 빼내는 걸 보고 우리는 모두 할 말을 잃었다. 거북이는 일주일이 지나서야 간신히 회복됐다. 우리는 거북이를 보내 주기 위해 바다로 나갔다. 모래밭에 내려놓자 거북이가 바다를 향해 천천히 기어갔다. 거북이가 바닷속으로 힘껏 헤엄쳐 가는 순간, 나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다. ‘거북아, 잘 가라. 행복하게 살아.’",
+          "options": [
+            {
+              "number": 1,
+              "text": "거북이는 바닷가에서 발견되었을 때 움직이지 못했다."
+            },
+            {
+              "number": 2,
+              "text": "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다."
+            },
+            {
+              "number": 3,
+              "text": "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다."
+            },
+            {
+              "number": 4,
+              "text": "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "거북이는 바닷가에서 발견되었을 때 움직이지 못했다."
+            },
+            {
+              "number": 2,
+              "text": "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다."
+            },
+            {
+              "number": 3,
+              "text": "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다."
+            },
+            {
+              "number": 4,
+              "text": "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+            }
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "거북이는 바위틈에 낀 것은 아니었지만 움직이지 못하고 있었고, 이후 동물 병원으로 옮겨졌습니다.",
+          "image_url": "",
+          "source_pdf_page": 10,
+          "source_printed_page": 9,
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "거북이는 바닷가에서 발견되었을 때 움직이지 못했다.",
+            "우리는 치료를 위해 거북이를 구조대 사무실로 데려갔다.",
+            "구조대원 중 한 명이 거북이 목 안에 있는 쓰레기를 빼 주었다.",
+            "나는 구조대에서 일하면서 처음으로 거북이 관련 신고를 받았다."
+          ],
+          "underline_targets": [
+            "나와 동료들은 누가 먼저랄 것도 없이 서로의 손을 꼭 잡았다"
+          ],
+          "underline_source_round": "103",
+          "underline_reviewed": true,
+          "underline_note": "103회 원문 23번 밑줄 친 부분. 23~24번 공통 지문에 표시."
+        }
+      ]
+    },
+    {
+      "set_id": "SET-T2-103-R048-050",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 22,
+      "source_printed_page": 21,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "long_passage_3_questions",
+      "group_title": "[48~50] 긴 지문 공통 문제",
+      "target_slots": [
+        48,
+        49,
+        50
+      ],
+      "passage": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+      "passage_template": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R048",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "글의 목적",
+          "diagnostic_area": "긴 지문의 필자 의도 파악",
+          "original_question_number": 48,
+          "question_number": 48,
+          "target_slot": 48,
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+          "passage": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "아파트 매매가 활성화된 현 상황을 분석하려고"
+            },
+            {
+              "number": 2,
+              "text": "아파트 후분양 방식의 긍정적인 면을 알리려고"
+            },
+            {
+              "number": 3,
+              "text": "아파트 선분양으로 인한 가격 인상을 비판하려고"
+            },
+            {
+              "number": 4,
+              "text": "아파트 거래에 대한 정부의 무관심을 지적하려고"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "아파트 매매가 활성화된 현 상황을 분석하려고"
+            },
+            {
+              "number": 2,
+              "text": "아파트 후분양 방식의 긍정적인 면을 알리려고"
+            },
+            {
+              "number": 3,
+              "text": "아파트 선분양으로 인한 가격 인상을 비판하려고"
+            },
+            {
+              "number": 4,
+              "text": "아파트 거래에 대한 정부의 무관심을 지적하려고"
+            }
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "글은 선분양의 위험성을 설명한 뒤 후분양 방식의 품질 개선 효과와 긍정적 가능성을 강조합니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "아파트 매매가 활성화된 현 상황을 분석하려고",
+            "아파트 후분양 방식의 긍정적인 면을 알리려고",
+            "아파트 선분양으로 인한 가격 인상을 비판하려고",
+            "아파트 거래에 대한 정부의 무관심을 지적하려고"
+          ]
+        },
+        {
+          "id": "QB-T2-103-R049",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "긴 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+          "original_question_number": 49,
+          "question_number": 49,
+          "target_slot": 49,
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+          "insert_blank_key": "main_blank",
+          "options": [
+            {
+              "number": 1,
+              "text": "선택권이 강화되면서"
+            },
+            {
+              "number": 2,
+              "text": "구매 욕구가 떨어지면서"
+            },
+            {
+              "number": 3,
+              "text": "활동 반경이 넓어지면서"
+            },
+            {
+              "number": 4,
+              "text": "주택 마련이 어려워지면서"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "선택권이 강화되면서"
+            },
+            {
+              "number": 2,
+              "text": "구매 욕구가 떨어지면서"
+            },
+            {
+              "number": 3,
+              "text": "활동 반경이 넓어지면서"
+            },
+            {
+              "number": 4,
+              "text": "주택 마련이 어려워지면서"
+            }
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "후분양이 정착되면 소비자가 완공된 아파트의 품질을 보고 선택할 수 있으므로 소비자의 선택권이 강화된다는 흐름이 자연스럽습니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "선택권이 강화되면서",
+            "구매 욕구가 떨어지면서",
+            "활동 반경이 넓어지면서",
+            "주택 마련이 어려워지면서"
+          ]
+        },
+        {
+          "id": "QB-T2-103-R050",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "긴 지문 내용 일치",
+          "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+          "original_question_number": 50,
+          "question_number": 50,
+          "target_slot": 50,
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "대다수 국가에서는 아파트를 완공한 후에 판매하는 후분양 방식이 일반적이다. 그런데 국내에서는 아파트를 짓기 전에 예약 판매하는 선분양 방식이 주를 이룬다. 이는 심각한 주택 부족 문제로 대량의 아파트가 필요했던 산업화 시대의 흔적이다. 당시 정부에서는 자본이 부족한 건설사들을 위해 입주 예정자들이 내는 계약금으로 막대한 건축 비용을 충당할 수 있게 하는 선분양 방식을 허용했다. 이것이 오늘에까지 이어진 것이다. 그러나 소비자의 입장에서 선분양 방식은 견본 주택만 보고 한두 푼도 아닌 아파트를 구입하는 것이기 때문에 위험스러울 수밖에 없다. 그런데 근래에 들어 일부 건설사가 후분양 방식을 도입하고 있다. 이렇게 완공 후에 분양하는 아파트는 하자가 거의 없고 품질이 뛰어나 좋은 평가를 받는다. 양질의 아파트가 선택받는 것은 시장 논리로 봤을 때 당연한 결과이다. 앞으로 후분양 방식이 정착되면 소비자의 (     ) 건설사가 책임 있는 자세로 질 좋은 아파트를 짓기 위해 보다 노력하게 될 것이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "선분양은 견본 주택을 보지 않고 계약하는 방식이다."
+            },
+            {
+              "number": 2,
+              "text": "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다."
+            },
+            {
+              "number": 3,
+              "text": "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다."
+            },
+            {
+              "number": 4,
+              "text": "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "선분양은 견본 주택을 보지 않고 계약하는 방식이다."
+            },
+            {
+              "number": 2,
+              "text": "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다."
+            },
+            {
+              "number": 3,
+              "text": "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다."
+            },
+            {
+              "number": 4,
+              "text": "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+            }
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "글 첫 문장에서 대다수 국가에서는 완공 후 판매하는 후분양 방식이 일반적이라고 설명합니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "선분양은 견본 주택을 보지 않고 계약하는 방식이다.",
+            "아파트를 선분양하는 건설사는 국내에 거의 남아 있지 않다.",
+            "후분양은 소비자들이 낸 금액으로 건축을 진행하는 방식이다.",
+            "세계 여러 국가에서 아파트는 주로 후분양 방식으로 거래한다."
+          ]
+        }
+      ]
+    },
+    {
+      "set_id": "SET-T2-103-R042-043",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 19,
+      "source_printed_page": 18,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[42~43] 공통 지문",
+      "target_slots": [
+        42,
+        43
+      ],
+      "passage": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+      "passage_template": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R042",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "original_question_number": 42,
+          "question_number": 42,
+          "target_slot": 42,
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 ‘경수’의 심정으로 가장 알맞은 것을 고르십시오.",
+          "passage": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+          "passage_template": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "떨리고 기대된다"
+            },
+            {
+              "number": 2,
+              "text": "미안하고 고맙다"
+            },
+            {
+              "number": 3,
+              "text": "후련하고 허전하다"
+            },
+            {
+              "number": 4,
+              "text": "놀랍고 실망스럽다"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "떨리고 기대된다"
+            },
+            {
+              "number": 2,
+              "text": "미안하고 고맙다"
+            },
+            {
+              "number": 3,
+              "text": "후련하고 허전하다"
+            },
+            {
+              "number": 4,
+              "text": "놀랍고 실망스럽다"
+            }
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "경수는 자신의 어려운 상황을 털어놓은 뒤 아내가 위로하고 함께하겠다고 하자 미안함과 고마움을 느낍니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "떨리고 기대된다",
+            "미안하고 고맙다",
+            "후련하고 허전하다",
+            "놀랍고 실망스럽다"
+          ],
+          "underline_targets": [
+            "“…… 여보.”"
+          ],
+          "underline_source_round": "103",
+          "underline_reviewed": true,
+          "underline_note": "103회 원문 42번 밑줄 친 부분. 42~43번 공통 지문에 표시."
+        },
+        {
+          "id": "QB-T2-103-R043",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "서사 글의 세부 내용 이해",
+          "original_question_number": 43,
+          "question_number": 43,
+          "target_slot": 43,
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+          "passage": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+          "passage_template": "“당신이 이 시간에 어쩐 일이야? 회사 일 바쁘다면서.”\n“응, 이따 막차 타고 다시 올라가야 돼. 그냥, 당신이랑 지안이 보러 잠깐 내려왔어. 당신한테 해야 할 말도 있고.” (중략)\n경수는 해야 할 말을 구태여 빙빙 돌리지 않았다. 있는 그대로 사실을 말했고, 어떤 해답도 손에 쥐지 못한 자신의 상황을 아내 앞에 오롯이 드러냈다. 아내는 묵묵히 경수가 하는 말을 들어 주었다. 그동안 모은 돈을 주식으로 모두 날렸다는 사실을 토해 냈을 땐 예상대로 경악을 금치 못했지만, 경수의 말을 끊고 화를 내거나 소리를 지르는 일만큼은 참아 주었다.\n손실된 금액을 채우기 위해 자는 시간을 줄여 가며 대리운전을 뛰었던 일, 집에 내려올 시간을 아껴 주말 내내 택배 상하차를 했던 일. 그러다 중국엔 회사에서 해고 통보를 받은 일 등. (중략)\n“당신, 용케도 안 쓰러지고 잘 버텼네.”\n“…… 여보.”\n“됐어. 밥이나 먹자. (중략) 차라리 잘됐어. 같이 벌면 돼. 돈이야 있다가도 없는 거고, 없다가도 있는 건데 어차피 없을 거라면.”\n“……”\n“떨어져 살지 말자.”\n떨어져 살지 말자. 그 말에 왈칵 눈물이 났다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "아내는 경수가 올 것을 이미 알고 있었다."
+            },
+            {
+              "number": 2,
+              "text": "경수는 일 때문에 가족과 따로 지내고 있었다."
+            },
+            {
+              "number": 3,
+              "text": "아내는 경수가 하는 말을 끊고 소리를 질렀다."
+            },
+            {
+              "number": 4,
+              "text": "경수는 아내에게 자기 상황을 꾸며서 이야기했다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "아내는 경수가 올 것을 이미 알고 있었다."
+            },
+            {
+              "number": 2,
+              "text": "경수는 일 때문에 가족과 따로 지내고 있었다."
+            },
+            {
+              "number": 3,
+              "text": "아내는 경수가 하는 말을 끊고 소리를 질렀다."
+            },
+            {
+              "number": 4,
+              "text": "경수는 아내에게 자기 상황을 꾸며서 이야기했다."
+            }
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "경수는 막차를 타고 다시 올라가야 한다고 했고, 아내는 떨어져 살지 말자고 말하므로 가족과 따로 지내고 있었음을 알 수 있습니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "아내는 경수가 올 것을 이미 알고 있었다.",
+            "경수는 일 때문에 가족과 따로 지내고 있었다.",
+            "아내는 경수가 하는 말을 끊고 소리를 질렀다.",
+            "경수는 아내에게 자기 상황을 꾸며서 이야기했다."
+          ],
+          "underline_targets": [
+            "“…… 여보.”"
+          ],
+          "underline_source_round": "103",
+          "underline_reviewed": true,
+          "underline_note": "103회 원문 42번 밑줄 친 부분. 42~43번 공통 지문에 표시."
+        }
+      ],
+      "underline_targets": [
+        "“…… 여보.”"
+      ],
+      "underline_source_round": "103",
+      "underline_reviewed": true
+    },
+    {
+      "set_id": "SET-T2-103-R044-045",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 20,
+      "source_printed_page": 19,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[44~45] 공통 지문",
+      "target_slots": [
+        44,
+        45
+      ],
+      "passage": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+      "passage_template": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R044",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 관점 표현 선택",
+          "original_question_number": 44,
+          "question_number": 44,
+          "target_slot": 44,
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+          "passage_template": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "기존과는 다른 관점으로"
+            },
+            {
+              "number": 2,
+              "text": "종교적 측면을 강조하여"
+            },
+            {
+              "number": 3,
+              "text": "예술의 영역에 집중하여"
+            },
+            {
+              "number": 4,
+              "text": "전통적인 접근 방식으로"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "기존과는 다른 관점으로"
+            },
+            {
+              "number": 2,
+              "text": "종교적 측면을 강조하여"
+            },
+            {
+              "number": 3,
+              "text": "예술의 영역에 집중하여"
+            },
+            {
+              "number": 4,
+              "text": "전통적인 접근 방식으로"
+            }
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "기존에는 성혈을 민간 신앙이나 원시 종교의 흔적으로 보았으나, 연구 이후 천문 지식과 관련된 새로운 관점으로 보게 되었다는 흐름입니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "기존과는 다른 관점으로",
+            "종교적 측면을 강조하여",
+            "예술의 영역에 집중하여",
+            "전통적인 접근 방식으로"
+          ]
+        },
+        {
+          "id": "QB-T2-103-R045",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "주제 파악",
+          "diagnostic_area": "학술 설명문의 중심 내용 파악",
+          "original_question_number": 45,
+          "question_number": 45,
+          "target_slot": 45,
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+          "passage": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+          "passage_template": "고대 한반도 돌무덤의 한 종류인 지석묘에는 성혈이라고 부르는 작은 구멍이 적지 않게 새겨져 있다. 이 성혈은 일반적으로 다산과 풍요를 기원하는 민간 신앙이나 원시 종교의 흔적으로 여겨져 왔다. 그런데 2000년대 초 청원 지석묘 성혈을 분석한 연구를 계기로 (     ) 성혈을 바라보게 되었다. 이 연구에서 청원 지석묘 성혈의 모양이 북극성을 비롯해 북두칠성, 작은곰자리 등 한반도 북쪽에서 관측되는 별자리와 일치한다는 것이 확인된 것이다. 또한 성혈의 배열은 후대에 나온 천문도의 별자리 배치와도 유사하였다. 이는 고대 한반도에서 천문에 관한 지식이 이미 상당했음을 보여 주는 발견으로 평가된다. 이후 관련 연구가 이어져 전국 지석묘에서 확인되는 성혈의 상당수가 별자리 모양이라는 사실이 밝혀지고 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다."
+            },
+            {
+              "number": 2,
+              "text": "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다."
+            },
+            {
+              "number": 3,
+              "text": "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다."
+            },
+            {
+              "number": 4,
+              "text": "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다."
+            },
+            {
+              "number": 2,
+              "text": "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다."
+            },
+            {
+              "number": 3,
+              "text": "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다."
+            },
+            {
+              "number": 4,
+              "text": "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+            }
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "글은 지석묘 성혈의 모양과 배열이 별자리와 관련되어 있어 고대 한반도의 천문 지식이 반영되어 있음을 설명합니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "지석묘 성혈을 천문도와 대조하려는 시도가 활발해질 전망이다.",
+            "지석묘 성혈에 고대의 천문 지식이 반영되어 있음이 확인되었다.",
+            "지석묘 성혈을 통해 한반도 민간 신앙의 기원이 밝혀지게 되었다.",
+            "지석묘 성혈은 고대 한반도에 강력한 국가가 존재했음을 시사한다."
+          ]
+        }
+      ]
+    },
+    {
+      "set_id": "SET-T2-103-R046-047",
+      "source_round": "103",
+      "source_file": "103회 읽기 문제.pdf",
+      "source_pdf_page": 21,
+      "source_printed_page": 20,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[46~47] 공통 지문",
+      "target_slots": [
+        46,
+        47
+      ],
+      "passage": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+      "passage_template": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-103-R046",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "필자의 태도",
+          "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+          "original_question_number": 46,
+          "question_number": 46,
+          "target_slot": 46,
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+          "passage": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+          "passage_template": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다."
+            },
+            {
+              "number": 3,
+              "text": "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다."
+            },
+            {
+              "number": 4,
+              "text": "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다."
+            },
+            {
+              "number": 3,
+              "text": "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다."
+            },
+            {
+              "number": 4,
+              "text": "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+            }
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "글은 복지 정책을 설계할 때 사회적 낙인을 미리 대비하고 수혜자 보호 방안을 마련해야 한다고 주장합니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "복지 예산이 사회적 낙인으로 인해 축소되는 현실을 비판하고 있다.",
+            "사회적 낙인을 금기시하는 풍토가 조성된 것을 높이 평가하고 있다.",
+            "복지 정책을 수립할 때 사회적 낙인에 대비해야 함을 주장하고 있다.",
+            "수혜자가 사회적 낙인 해소에 적극적으로 나서야 함을 강조하고 있다."
+          ]
+        },
+        {
+          "id": "QB-T2-103-R047",
+          "source_round": "103",
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+          "original_question_number": 47,
+          "question_number": 47,
+          "target_slot": 47,
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+          "passage_template": "여러 나라에서 복지 정책을 수립할 때 주로 고려하는 것은 지원금의 규모나 수혜 대상의 범위이다. 그런데 이에 못지않게 중요한 것은 정책 시행 중 발생할 수 있는 사회적 낙인을 미리 대비하는 것이다. 복지가 사회 구성원으로서 누릴 수 있는 권리라는 인식이 부족하여 수혜자에게 무능력하고 실패한 자라는 낙인을 찍는 분위기가 현대 사회에 존재한다. 이러한 낙인이 심화될 경우 수혜자는 심리적으로 위축되어 복지 이용 자체를 꺼리게 되고 이는 결국 복지 정책의 실패로 귀결된다. 실제로 자신이 수혜자라는 것이 주변에 알려질까 염려하여 복지 신청 자체를 포기하는 사례가 발견된다. 이는 사회적 인식이 전환되어야 해결될 문제이지만 현재 상황에서는 정책 수립 주체의 역할이 중요하다. 수혜자 정보를 보호하고 이들의 자존감을 지킬 수 있는 방안 마련에 노력을 기울여야 한다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "사회적 낙인은 수혜자의 심리를 위축되게 하는 요인이다."
+            },
+            {
+              "number": 2,
+              "text": "복지가 사회 구성원의 권리라는 인식이 사회적으로 정착되었다."
+            },
+            {
+              "number": 3,
+              "text": "수혜자를 사회적으로 성공한 사람이라고 인정하는 분위기가 있다."
+            },
+            {
+              "number": 4,
+              "text": "수혜 대상의 범위는 복지 정책 수립 단계에서의 고려 사항이 아니다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "사회적 낙인은 수혜자의 심리를 위축되게 하는 요인이다."
+            },
+            {
+              "number": 2,
+              "text": "복지가 사회 구성원의 권리라는 인식이 사회적으로 정착되었다."
+            },
+            {
+              "number": 3,
+              "text": "수혜자를 사회적으로 성공한 사람이라고 인정하는 분위기가 있다."
+            },
+            {
+              "number": 4,
+              "text": "수혜 대상의 범위는 복지 정책 수립 단계에서의 고려 사항이 아니다."
+            }
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "글에서는 사회적 낙인이 심화되면 수혜자가 심리적으로 위축되어 복지 이용을 꺼리게 된다고 설명합니다.",
+          "image_url": "",
+          "answer_source": "assistant_inferred_from_pdf_context",
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "high",
+          "options_text": [
+            "사회적 낙인은 수혜자의 심리를 위축되게 하는 요인이다.",
+            "복지가 사회 구성원의 권리라는 인식이 사회적으로 정착되었다.",
+            "수혜자를 사회적으로 성공한 사람이라고 인정하는 분위기가 있다.",
+            "수혜 대상의 범위는 복지 정책 수립 단계에서의 고려 사항이 아니다."
+          ]
+        }
+      ]
+    }
+  ],
+  "single_items_count": 35,
+  "passage_sets_count": 7,
+  "passage_set_items_count": 15
+}

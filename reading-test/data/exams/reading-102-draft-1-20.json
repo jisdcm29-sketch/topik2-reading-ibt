@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "R102-Q001",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "difficulty_band": "",
+    "question_zone": "Z01",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "passage": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "passage_template": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "온 지"
+      },
+      {
+        "label": "2",
+        "text": "올 때"
+      },
+      {
+        "label": "3",
+        "text": "오거나"
+      },
+      {
+        "label": "4",
+        "text": "오다가"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "온 지"
+      },
+      {
+        "label": "2",
+        "text": "올 때"
+      },
+      {
+        "label": "3",
+        "text": "오거나"
+      },
+      {
+        "label": "4",
+        "text": "오다가"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R001",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 1,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q002",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "difficulty_band": "",
+    "question_zone": "Z01",
+    "original_question_number": 2,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "가을이 되면서 나뭇잎 색이 점점 붉게 (     ).",
+    "passage": "가을이 되면서 나뭇잎 색이 점점 붉게 (     ).",
+    "passage_template": "가을이 되면서 나뭇잎 색이 점점 붉게 (     ).",
+    "options": [
+      {
+        "label": "1",
+        "text": "변해 간다"
+      },
+      {
+        "label": "2",
+        "text": "변할 뻔했다"
+      },
+      {
+        "label": "3",
+        "text": "변한 척했다"
+      },
+      {
+        "label": "4",
+        "text": "변하면 된다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "변해 간다"
+      },
+      {
+        "label": "2",
+        "text": "변할 뻔했다"
+      },
+      {
+        "label": "3",
+        "text": "변한 척했다"
+      },
+      {
+        "label": "4",
+        "text": "변하면 된다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R002",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 2,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q003",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "difficulty_band": "",
+    "question_zone": "Z01",
+    "original_question_number": 3,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "passage": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "passage_template": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "늦는 셈이다"
+      },
+      {
+        "label": "2",
+        "text": "늦어도 된다"
+      },
+      {
+        "label": "3",
+        "text": "늦을 수도 있다"
+      },
+      {
+        "label": "4",
+        "text": "늦을 리가 없다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "늦는 셈이다"
+      },
+      {
+        "label": "2",
+        "text": "늦어도 된다"
+      },
+      {
+        "label": "3",
+        "text": "늦을 수도 있다"
+      },
+      {
+        "label": "4",
+        "text": "늦을 리가 없다"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R003",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 3,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "underline_targets": [
+      "늦을지도 모른다"
+    ]
+  },
+  {
+    "id": "R102-Q004",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "difficulty_band": "",
+    "question_zone": "Z01",
+    "original_question_number": 4,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "전문가들이 예상한 대로 농산물 가격이 떨어지고 있다.",
+    "passage": "전문가들이 예상한 대로 농산물 가격이 떨어지고 있다.",
+    "passage_template": "전문가들이 예상한 대로 농산물 가격이 떨어지고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "예상한 탓에"
+      },
+      {
+        "label": "2",
+        "text": "예상하는 동안에"
+      },
+      {
+        "label": "3",
+        "text": "예상하기만 하면"
+      },
+      {
+        "label": "4",
+        "text": "예상한 것과 같이"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "예상한 탓에"
+      },
+      {
+        "label": "2",
+        "text": "예상하는 동안에"
+      },
+      {
+        "label": "3",
+        "text": "예상하기만 하면"
+      },
+      {
+        "label": "4",
+        "text": "예상한 것과 같이"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R004",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 4,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "underline_targets": [
+      "예상한 대로"
+    ]
+  },
+  {
+    "id": "R102-Q005",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 5,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "구두"
+      },
+      {
+        "label": "2",
+        "text": "우산"
+      },
+      {
+        "label": "3",
+        "text": "자전거"
+      },
+      {
+        "label": "4",
+        "text": "선풍기"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "구두"
+      },
+      {
+        "label": "2",
+        "text": "우산"
+      },
+      {
+        "label": "3",
+        "text": "자전거"
+      },
+      {
+        "label": "4",
+        "text": "선풍기"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R005.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R005",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 5,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "걸을 때 발이 편하게~\n가볍고 디자인도 예뻐요.",
+    "passage_template_backup": "걸을 때 발이 편하게~\n가볍고 디자인도 예뻐요.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 5
+  },
+  {
+    "id": "R102-Q006",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 6,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "은행"
+      },
+      {
+        "label": "2",
+        "text": "시장"
+      },
+      {
+        "label": "3",
+        "text": "가구점"
+      },
+      {
+        "label": "4",
+        "text": "세탁소"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "은행"
+      },
+      {
+        "label": "2",
+        "text": "시장"
+      },
+      {
+        "label": "3",
+        "text": "가구점"
+      },
+      {
+        "label": "4",
+        "text": "세탁소"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R006.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R006",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 6,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "더러워진 옷을 새 옷처럼!\n두꺼운 이불도 맡겨 주세요.",
+    "passage_template_backup": "더러워진 옷을 새 옷처럼!\n두꺼운 이불도 맡겨 주세요.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 6
+  },
+  {
+    "id": "R102-Q007",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 7,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "건강 관리"
+      },
+      {
+        "label": "2",
+        "text": "전기 절약"
+      },
+      {
+        "label": "3",
+        "text": "생활 예절"
+      },
+      {
+        "label": "4",
+        "text": "환경 보호"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "건강 관리"
+      },
+      {
+        "label": "2",
+        "text": "전기 절약"
+      },
+      {
+        "label": "3",
+        "text": "생활 예절"
+      },
+      {
+        "label": "4",
+        "text": "환경 보호"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R007.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R007",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 7,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "달리기, 지금 바로 시작하세요.\n활기찬 내일이 기다립니다.",
+    "passage_template_backup": "달리기, 지금 바로 시작하세요.\n활기찬 내일이 기다립니다.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 7
+  },
+  {
+    "id": "R102-Q008",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 8,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "행사 소개"
+      },
+      {
+        "label": "2",
+        "text": "예매 방법"
+      },
+      {
+        "label": "3",
+        "text": "등록 문의"
+      },
+      {
+        "label": "4",
+        "text": "교환 순서"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "행사 소개"
+      },
+      {
+        "label": "2",
+        "text": "예매 방법"
+      },
+      {
+        "label": "3",
+        "text": "등록 문의"
+      },
+      {
+        "label": "4",
+        "text": "교환 순서"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R008.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R008",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 8,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "1. 공연 날짜, 인원을 선택하고 다음 버튼을 누르세요.\n2. 원하는 좌석을 선택한 후 결제하세요.",
+    "passage_template_backup": "1. 공연 날짜, 인원을 선택하고 다음 버튼을 누르세요.\n2. 원하는 좌석을 선택한 후 결제하세요.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 8
+  },
+  {
+    "id": "R102-Q009",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료 이해",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 9,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "봉사 활동은 두 달 동안 하게 된다."
+      },
+      {
+        "label": "2",
+        "text": "아이들에게 책을 읽어 줄 봉사자를 찾고 있다."
+      },
+      {
+        "label": "3",
+        "text": "봉사자 신청은 도서관에 직접 가서 해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "학생이 아닌 사람들도 이 봉사에 참여할 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "봉사 활동은 두 달 동안 하게 된다."
+      },
+      {
+        "label": "2",
+        "text": "아이들에게 책을 읽어 줄 봉사자를 찾고 있다."
+      },
+      {
+        "label": "3",
+        "text": "봉사자 신청은 도서관에 직접 가서 해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "학생이 아닌 사람들도 이 봉사에 참여할 수 있다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R009.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R009",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 9,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "그림책 읽어 주는 자원봉사자 모집\n“어린이들에게 꿈과 희망을 선물하세요.”\n\n자격: 고등학생 또는 대학생(※ 한국어를 잘하는 외국인 학생도 가능)\n모집 기간: 11월 10일(월) ~ 11월 21일(금)\n신청 방법: 인주어린이도서관 홈페이지(www.injulibrary.or.kr)\n활동 기간: 2025년 12월 1일(월) ~ 2026년 2월 28일(토)",
+    "passage_template_backup": "그림책 읽어 주는 자원봉사자 모집\n“어린이들에게 꿈과 희망을 선물하세요.”\n\n자격: 고등학생 또는 대학생(※ 한국어를 잘하는 외국인 학생도 가능)\n모집 기간: 11월 10일(월) ~ 11월 21일(금)\n신청 방법: 인주어린이도서관 홈페이지(www.injulibrary.or.kr)\n활동 기간: 2025년 12월 1일(월) ~ 2026년 2월 28일(토)",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 9
+  },
+  {
+    "id": "R102-Q010",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 10,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "회사의 규모가 중요하다고 응답한 비율이 가장 낮다."
+      },
+      {
+        "label": "2",
+        "text": "가격을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+      },
+      {
+        "label": "3",
+        "text": "여행 상품의 다양성보다 회사의 규모를 중요하게 생각하는 사람이 더 적다."
+      },
+      {
+        "label": "4",
+        "text": "이용 후기가 여행 상품의 다양성보다 중요하다는 응답이 두 배 이상 많다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "회사의 규모가 중요하다고 응답한 비율이 가장 낮다."
+      },
+      {
+        "label": "2",
+        "text": "가격을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+      },
+      {
+        "label": "3",
+        "text": "여행 상품의 다양성보다 회사의 규모를 중요하게 생각하는 사람이 더 적다."
+      },
+      {
+        "label": "4",
+        "text": "이용 후기가 여행 상품의 다양성보다 중요하다는 응답이 두 배 이상 많다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R010.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R010",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 10,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "passage_text_backup": "여행사를 선택할 때 중요하게 생각하는 것\n가격 48%, 여행 상품의 다양성 25%, 회사의 규모 16%, 이용 후기 9%, 기타 2%\n(설문 대상: 성인 남녀 1,600명)",
+    "passage_template_backup": "여행사를 선택할 때 중요하게 생각하는 것\n가격 48%, 여행 상품의 다양성 25%, 회사의 규모 16%, 이용 후기 9%, 기타 2%\n(설문 대상: 성인 남녀 1,600명)",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 10
+  },
+  {
+    "id": "R102-Q011",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 11,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "지난달 문을 연 우표 박물관이 시민들에게 사랑을 받고 있다. 박물관 내 역사실에서는 우표의 역사를 한눈에 볼 수 있다. 또 어린이 체험실에서는 향기 나는 우표의 향을 맡거나 나무 우표 등을 만져 볼 수 있다. 자신의 사진이 들어간 우표도 직접 만들 수 있다. 편지를 써서 넣으면 일 년 뒤에 받아 볼 수 있는 박물관의 ‘느린 우체통’도 인기를 끌고 있다.",
+    "passage_template": "지난달 문을 연 우표 박물관이 시민들에게 사랑을 받고 있다. 박물관 내 역사실에서는 우표의 역사를 한눈에 볼 수 있다. 또 어린이 체험실에서는 향기 나는 우표의 향을 맡거나 나무 우표 등을 만져 볼 수 있다. 자신의 사진이 들어간 우표도 직접 만들 수 있다. 편지를 써서 넣으면 일 년 뒤에 받아 볼 수 있는 박물관의 ‘느린 우체통’도 인기를 끌고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "이 박물관은 일 년 전부터 운영을 시작했다."
+      },
+      {
+        "label": "2",
+        "text": "이 박물관의 체험실에 있는 우표는 만질 수 없다."
+      },
+      {
+        "label": "3",
+        "text": "이 박물관에서는 직접 우표를 만들어 볼 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "이 박물관의 느린 우체통으로는 편지를 보내지 못한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 박물관은 일 년 전부터 운영을 시작했다."
+      },
+      {
+        "label": "2",
+        "text": "이 박물관의 체험실에 있는 우표는 만질 수 없다."
+      },
+      {
+        "label": "3",
+        "text": "이 박물관에서는 직접 우표를 만들어 볼 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "이 박물관의 느린 우체통으로는 편지를 보내지 못한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R011",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 11,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q012",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "difficulty_band": "",
+    "question_zone": "Z02",
+    "original_question_number": 12,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "휴일에 산을 오르던 경찰이 등산객을 구조했다. 지난 1일 김민수 경위는 인주산 정상에서 한 여성이 쓰러져 있는 것을 발견했다. 김 경위는 바로 여성의 체온이 떨어지지 않게 겉옷을 벗어서 덮어 주고 119에 신고했다. 이후 김 경위는 구조대 차량이 올 수 있는 산 중턱 대피소까지 여성을 업고 뛰어 내려갔다. 병원으로 이송된 여성은 치료를 받고 건강을 되찾았다.",
+    "passage_template": "휴일에 산을 오르던 경찰이 등산객을 구조했다. 지난 1일 김민수 경위는 인주산 정상에서 한 여성이 쓰러져 있는 것을 발견했다. 김 경위는 바로 여성의 체온이 떨어지지 않게 겉옷을 벗어서 덮어 주고 119에 신고했다. 이후 김 경위는 구조대 차량이 올 수 있는 산 중턱 대피소까지 여성을 업고 뛰어 내려갔다. 병원으로 이송된 여성은 치료를 받고 건강을 되찾았다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "한 등산객이 산 정상에 쓰러져 있었다."
+      },
+      {
+        "label": "2",
+        "text": "김 경위는 대피소까지 차량으로 이동했다."
+      },
+      {
+        "label": "3",
+        "text": "구조대가 등산객을 업고 병원으로 뛰어갔다."
+      },
+      {
+        "label": "4",
+        "text": "김 경위는 등산객의 신고를 받고 산에 올라갔다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "한 등산객이 산 정상에 쓰러져 있었다."
+      },
+      {
+        "label": "2",
+        "text": "김 경위는 대피소까지 차량으로 이동했다."
+      },
+      {
+        "label": "3",
+        "text": "구조대가 등산객을 업고 병원으로 뛰어갔다."
+      },
+      {
+        "label": "4",
+        "text": "김 경위는 등산객의 신고를 받고 산에 올라갔다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R012",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 12,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q013",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order_choice",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 13,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "label": "2",
+        "text": "(라)-(다)-(가)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(나)-(가)-(다)-(라)"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "label": "2",
+        "text": "(라)-(다)-(가)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(나)-(가)-(다)-(라)"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R013",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 13,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "sentence_order",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "그래서 껍질째 먹기도 편하고 딱딱하지 않아서 식감도 좋다."
+      },
+      {
+        "label": "나",
+        "text": "신비 복숭아는 2017년에 한국에 처음 소개된 여름 과일이다."
+      },
+      {
+        "label": "다",
+        "text": "다른 복숭아에 비해 이른 시기에 먹을 수 있다는 것도 장점이다."
+      },
+      {
+        "label": "라",
+        "text": "껍질이 얇은 복숭아와 속이 부드러운 복숭아의 장점을 결합해 만들었다."
+      }
+    ],
+    "correct_answer_order": [
+      "라",
+      "나",
+      "다",
+      "가"
+    ]
+  },
+  {
+    "id": "R102-Q014",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order_choice",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 14,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "label": "2",
+        "text": "(나)-(다)-(라)-(가)"
+      },
+      {
+        "label": "3",
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(가)-(라)-(다)-(나)"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "label": "2",
+        "text": "(나)-(다)-(라)-(가)"
+      },
+      {
+        "label": "3",
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(가)-(라)-(다)-(나)"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R014",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 14,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "sentence_order",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "아이가 감기에 걸려 밤새 큰 소리로 울었다."
+      },
+      {
+        "label": "나",
+        "text": "아주머니는 아이가 많이 아팠냐며 오히려 걱정해 주셨다."
+      },
+      {
+        "label": "다",
+        "text": "아침에 아이와 병원에 가려고 집을 나서다 옆집 아주머니를 만났다."
+      },
+      {
+        "label": "라",
+        "text": "나는 우는 아이를 달래면서도 울음소리에 이웃들이 깰까 봐 걱정했다."
+      }
+    ],
+    "correct_answer_order": [
+      "나",
+      "다",
+      "라",
+      "가"
+    ]
+  },
+  {
+    "id": "R102-Q015",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order_choice",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 15,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(라)-(가)-(나)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(라)-(다)-(가)-(나)"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(라)-(가)-(나)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(라)-(다)-(가)-(나)"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R015",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 15,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "sentence_order",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "최근 온라인 가구 구매가 늘면서 반품 사례가 많아지고 있다."
+      },
+      {
+        "label": "나",
+        "text": "그런데 비싼 반품 비용으로 인해 피해를 보는 소비자가 늘고 있다."
+      },
+      {
+        "label": "다",
+        "text": "따라서 소비자는 구매 전에 반품 비용과 조건을 잘 확인해야 한다."
+      },
+      {
+        "label": "라",
+        "text": "업체가 까다로운 조건을 내세워 반품을 거절하는 경우까지 발생한다."
+      }
+    ],
+    "correct_answer_order": [
+      "가",
+      "나",
+      "라",
+      "다"
+    ]
+  },
+  {
+    "id": "R102-Q016",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 16,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "북극여우는 계절에 따라 털 색깔을 바꾸는 동물이다. 북극여우의 털은 겨울에는 눈과 같은 흰색으로, 여름에는 바위나 흙과 비슷한 갈색빛으로 바뀐다. 이러한 털 색깔의 변화로 북극여우는 몸을 숨길 곳이 없는 북극의 특수한 환경에서도 천적으로부터 자신을 보호하고 사냥할 때 (     ) 수 있다.",
+    "passage_template": "북극여우는 계절에 따라 털 색깔을 바꾸는 동물이다. 북극여우의 털은 겨울에는 눈과 같은 흰색으로, 여름에는 바위나 흙과 비슷한 갈색빛으로 바뀐다. 이러한 털 색깔의 변화로 북극여우는 몸을 숨길 곳이 없는 북극의 특수한 환경에서도 천적으로부터 자신을 보호하고 사냥할 때 (     ) 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "동료와 무리를 이룰"
+      },
+      {
+        "label": "2",
+        "text": "체온을 적절히 유지할"
+      },
+      {
+        "label": "3",
+        "text": "먹잇감에 몰래 다가갈"
+      },
+      {
+        "label": "4",
+        "text": "발자국을 남기지 않을"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "동료와 무리를 이룰"
+      },
+      {
+        "label": "2",
+        "text": "체온을 적절히 유지할"
+      },
+      {
+        "label": "3",
+        "text": "먹잇감에 몰래 다가갈"
+      },
+      {
+        "label": "4",
+        "text": "발자국을 남기지 않을"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R016",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 16,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q017",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 17,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "요즘 연필을 잡고 글씨를 반듯하게 쓰는 것에 어려움을 느끼는 아이가 많다. 어린 나이부터 전자 기기를 장시간 사용한 탓이다. 전자 기기의 화면을 단순히 누르거나 미는 동작을 반복하다 보면 손에 있는 근육을 (     ) 못한다. 그래서 전문가들은 소근육이 발달하는 11세까지 손가락을 움직여서 하는 놀이를 많이 하도록 하는 것이 좋다고 말한다.",
+    "passage_template": "요즘 연필을 잡고 글씨를 반듯하게 쓰는 것에 어려움을 느끼는 아이가 많다. 어린 나이부터 전자 기기를 장시간 사용한 탓이다. 전자 기기의 화면을 단순히 누르거나 미는 동작을 반복하다 보면 손에 있는 근육을 (     ) 못한다. 그래서 전문가들은 소근육이 발달하는 11세까지 손가락을 움직여서 하는 놀이를 많이 하도록 하는 것이 좋다고 말한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "제대로 감싸지"
+      },
+      {
+        "label": "2",
+        "text": "빠르게 줄이지"
+      },
+      {
+        "label": "3",
+        "text": "완전히 회복하지"
+      },
+      {
+        "label": "4",
+        "text": "충분히 사용하지"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "제대로 감싸지"
+      },
+      {
+        "label": "2",
+        "text": "빠르게 줄이지"
+      },
+      {
+        "label": "3",
+        "text": "완전히 회복하지"
+      },
+      {
+        "label": "4",
+        "text": "충분히 사용하지"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R017",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 17,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q018",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+    "difficulty_band": "",
+    "question_zone": "Z03",
+    "original_question_number": 18,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "고인돌은 옛날 청동기 시대의 무덤이다. 고인돌은 받침돌 두 개를 세우고 그 위에 덮개돌을 얹은 형태인데 덮개돌 하나의 무게가 수십 톤에 달하는 것도 있다. 이와 같이 거대한 돌을 운반하고 세우려면 그만큼 많은 사람들의 힘이 필요했다. 그래서 고인돌은 사람들을 불러 모아 무덤 만드는 일을 시킬 수 있을 정도로 (     ) 사람의 무덤이었을 것으로 보인다.",
+    "passage_template": "고인돌은 옛날 청동기 시대의 무덤이다. 고인돌은 받침돌 두 개를 세우고 그 위에 덮개돌을 얹은 형태인데 덮개돌 하나의 무게가 수십 톤에 달하는 것도 있다. 이와 같이 거대한 돌을 운반하고 세우려면 그만큼 많은 사람들의 힘이 필요했다. 그래서 고인돌은 사람들을 불러 모아 무덤 만드는 일을 시킬 수 있을 정도로 (     ) 사람의 무덤이었을 것으로 보인다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "대단한 권력을 가진"
+      },
+      {
+        "label": "2",
+        "text": "체력이 굉장히 약한"
+      },
+      {
+        "label": "3",
+        "text": "무기를 잘 제작하는"
+      },
+      {
+        "label": "4",
+        "text": "수명이 남들보다 짧은"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "대단한 권력을 가진"
+      },
+      {
+        "label": "2",
+        "text": "체력이 굉장히 약한"
+      },
+      {
+        "label": "3",
+        "text": "무기를 잘 제작하는"
+      },
+      {
+        "label": "4",
+        "text": "수명이 남들보다 짧은"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R018",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 18,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다."
+  },
+  {
+    "id": "R102-Q019",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문에서 문맥에 맞는 연결어 선택",
+    "difficulty_band": "",
+    "question_zone": "Z04",
+    "original_question_number": 19,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "passage_template": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "또한"
+      },
+      {
+        "label": "2",
+        "text": "비록"
+      },
+      {
+        "label": "3",
+        "text": "과연"
+      },
+      {
+        "label": "4",
+        "text": "반면"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "또한"
+      },
+      {
+        "label": "2",
+        "text": "비록"
+      },
+      {
+        "label": "3",
+        "text": "과연"
+      },
+      {
+        "label": "4",
+        "text": "반면"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R019",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 19,
+    "passage_group_id": "R102-SET-019-020",
+    "passage_group_title": "102회 19~20번 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "blank_key": "blank_1"
+  },
+  {
+    "id": "R102-Q020",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_topic",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "difficulty_band": "",
+    "question_zone": "Z04",
+    "original_question_number": 20,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "passage_template": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "빗물은 지하수 오염을 줄이는 데 중요한 역할을 한다."
+      },
+      {
+        "label": "2",
+        "text": "도로 포장재에는 도시마다의 환경적 특성이 반영되어 있다."
+      },
+      {
+        "label": "3",
+        "text": "도로 침수는 도시에 매우 심각한 피해를 입히는 요인 중 하나이다."
+      },
+      {
+        "label": "4",
+        "text": "새 포장재가 지하수 부족과 도로 침수 문제 해결에 도움이 될 것이다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "빗물은 지하수 오염을 줄이는 데 중요한 역할을 한다."
+      },
+      {
+        "label": "2",
+        "text": "도로 포장재에는 도시마다의 환경적 특성이 반영되어 있다."
+      },
+      {
+        "label": "3",
+        "text": "도로 침수는 도시에 매우 심각한 피해를 입히는 요인 중 하나이다."
+      },
+      {
+        "label": "4",
+        "text": "새 포장재가 지하수 부족과 도로 침수 문제 해결에 도움이 될 것이다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "source_bank_id": "QB-T2-102-R020",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-1-20",
+    "template_slot": 20,
+    "passage_group_id": "R102-SET-019-020",
+    "passage_group_title": "102회 19~20번 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 1~20번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 1~20번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 1~20번 표시·정답·유형 검수용 파일입니다.",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "blank_key": "blank_1"
+  }
+]

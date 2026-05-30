@@ -1,0 +1,864 @@
+[
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q021",
+    "source_pdf_page": 9,
+    "source_printed_page": 8,
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 관용 표현 선택",
+    "question_zone": "Z04",
+    "original_question_number": 21,
+    "question_number": 21,
+    "target_slots": [
+      21
+    ],
+    "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "인주시의 한 거리가 식당과 카페가 모인 먹거리 골목으로 특화되면서 최근 이곳을 찾는 사람들이 늘고 있다. 그런데 차량 통행을 막고 길 한가운데에서 사진을 찍거나 횡단보도 위에서 삼각대를 세우고 촬영하는 등 일부 방문객의 행동이 (     ) 한다. 차량이 오는 것을 보지 못하고 촬영을 하다 사고가 날 뻔한 위험한 상황이 자주 발생하면서 운전자와 방문객 간에 다투는 일도 잦아지고 있다.",
+    "passage_template": "인주시의 한 거리가 식당과 카페가 모인 먹거리 골목으로 특화되면서 최근 이곳을 찾는 사람들이 늘고 있다. 그런데 차량 통행을 막고 길 한가운데에서 사진을 찍거나 횡단보도 위에서 삼각대를 세우고 촬영하는 등 일부 방문객의 행동이 (     ) 한다. 차량이 오는 것을 보지 못하고 촬영을 하다 사고가 날 뻔한 위험한 상황이 자주 발생하면서 운전자와 방문객 간에 다투는 일도 잦아지고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "목이 빠지게"
+      },
+      {
+        "label": "2",
+        "text": "한숨을 돌리게"
+      },
+      {
+        "label": "3",
+        "text": "눈살을 찌푸리게"
+      },
+      {
+        "label": "4",
+        "text": "코가 납작해지게"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "목이 빠지게"
+      },
+      {
+        "label": "2",
+        "text": "한숨을 돌리게"
+      },
+      {
+        "label": "3",
+        "text": "눈살을 찌푸리게"
+      },
+      {
+        "label": "4",
+        "text": "코가 납작해지게"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "QB-T2-102-R021",
+    "template_slot": 21,
+    "passage_group_id": "R102-SET-021-022",
+    "passage_group_title": "102회 21~22번 공통 지문",
+    "passage_group_numbers": [
+      21,
+      22
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ]
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q022",
+    "source_pdf_page": 9,
+    "source_printed_page": 8,
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "question_zone": "Z04",
+    "original_question_number": 22,
+    "question_number": 22,
+    "target_slots": [
+      22
+    ],
+    "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시의 한 거리가 식당과 카페가 모인 먹거리 골목으로 특화되면서 최근 이곳을 찾는 사람들이 늘고 있다. 그런데 차량 통행을 막고 길 한가운데에서 사진을 찍거나 횡단보도 위에서 삼각대를 세우고 촬영하는 등 일부 방문객의 행동이 (     ) 한다. 차량이 오는 것을 보지 못하고 촬영을 하다 사고가 날 뻔한 위험한 상황이 자주 발생하면서 운전자와 방문객 간에 다투는 일도 잦아지고 있다.",
+    "passage_template": "인주시의 한 거리가 식당과 카페가 모인 먹거리 골목으로 특화되면서 최근 이곳을 찾는 사람들이 늘고 있다. 그런데 차량 통행을 막고 길 한가운데에서 사진을 찍거나 횡단보도 위에서 삼각대를 세우고 촬영하는 등 일부 방문객의 행동이 (     ) 한다. 차량이 오는 것을 보지 못하고 촬영을 하다 사고가 날 뻔한 위험한 상황이 자주 발생하면서 운전자와 방문객 간에 다투는 일도 잦아지고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "이 거리에는 식당이 없어 방문객들이 불평을 겪고 있다."
+      },
+      {
+        "label": "2",
+        "text": "이 거리의 방문객과 운전자 사이에 갈등이 늘고 있다."
+      },
+      {
+        "label": "3",
+        "text": "인주시가 최근 이 거리의 차량 통행을 금지했다."
+      },
+      {
+        "label": "4",
+        "text": "이 거리에서 사진을 찍는 방문객이 줄어들었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 거리에는 식당이 없어 방문객들이 불평을 겪고 있다."
+      },
+      {
+        "label": "2",
+        "text": "이 거리의 방문객과 운전자 사이에 갈등이 늘고 있다."
+      },
+      {
+        "label": "3",
+        "text": "인주시가 최근 이 거리의 차량 통행을 금지했다."
+      },
+      {
+        "label": "4",
+        "text": "이 거리에서 사진을 찍는 방문객이 줄어들었다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "QB-T2-102-R022",
+    "template_slot": 22,
+    "passage_group_id": "R102-SET-021-022",
+    "passage_group_title": "102회 21~22번 공통 지문",
+    "passage_group_numbers": [
+      21,
+      22
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ]
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q023",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "type": "emotion_choice",
+    "category": "심정",
+    "diagnostic_area": "화자의 심정 파악",
+    "question_zone": "Z04",
+    "original_question_number": 23,
+    "question_number": 23,
+    "target_slots": [
+      23
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "passage_template": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "설레다"
+      },
+      {
+        "label": "2",
+        "text": "겁나다"
+      },
+      {
+        "label": "3",
+        "text": "아쉽다"
+      },
+      {
+        "label": "4",
+        "text": "그립다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "설레다"
+      },
+      {
+        "label": "2",
+        "text": "겁나다"
+      },
+      {
+        "label": "3",
+        "text": "아쉽다"
+      },
+      {
+        "label": "4",
+        "text": "그립다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "source_bank_id": "QB-T2-102-R023",
+    "template_slot": 23,
+    "passage_group_id": "R102-SET-023-024",
+    "passage_group_title": "102회 23~24번 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q024",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "서사 글의 세부 내용 이해",
+    "question_zone": "Z04",
+    "original_question_number": 24,
+    "question_number": 24,
+    "target_slots": [
+      24
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "passage_template": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "나는 태권도 승급 시험에서 떨어졌다."
+      },
+      {
+        "label": "2",
+        "text": "나는 어릴 때부터 태권도를 즐겨 했다."
+      },
+      {
+        "label": "3",
+        "text": "나는 바로 태권도 성인 반에 등록했다."
+      },
+      {
+        "label": "4",
+        "text": "나는 태권도 수업에 한 번도 빠지지 않았다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "나는 태권도 승급 시험에서 떨어졌다."
+      },
+      {
+        "label": "2",
+        "text": "나는 어릴 때부터 태권도를 즐겨 했다."
+      },
+      {
+        "label": "3",
+        "text": "나는 바로 태권도 성인 반에 등록했다."
+      },
+      {
+        "label": "4",
+        "text": "나는 태권도 수업에 한 번도 빠지지 않았다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "QB-T2-102-R024",
+    "template_slot": 24,
+    "passage_group_id": "R102-SET-023-024",
+    "passage_group_title": "102회 23~24번 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q025",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "type": "headline",
+    "category": "신문 제목",
+    "diagnostic_area": "신문 기사 제목 의미 파악",
+    "question_zone": "Z05",
+    "original_question_number": 25,
+    "question_number": 25,
+    "target_slots": [
+      25
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "TV 프로그램 방영 효과 ‘톡톡’, 인주시는 관광객 물결",
+    "passage_template": "TV 프로그램 방영 효과 ‘톡톡’, 인주시는 관광객 물결",
+    "options": [
+      {
+        "label": "1",
+        "text": "TV 프로그램 제작자들이 관광객을 촬영하러 인주시로 모여들었다."
+      },
+      {
+        "label": "2",
+        "text": "인주시가 TV 프로그램에 나온 덕분에 많은 관광객이 방문하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "인주시가 관광객 유치를 위해 TV 프로그램 홍보 방송을 준비하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "TV 프로그램 방송 후에 관광객이 증가해 인주시에 여러 문제가 발생했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "TV 프로그램 제작자들이 관광객을 촬영하러 인주시로 모여들었다."
+      },
+      {
+        "label": "2",
+        "text": "인주시가 TV 프로그램에 나온 덕분에 많은 관광객이 방문하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "인주시가 관광객 유치를 위해 TV 프로그램 홍보 방송을 준비하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "TV 프로그램 방송 후에 관광객이 증가해 인주시에 여러 문제가 발생했다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "QB-T2-102-R025",
+    "template_slot": 25,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q026",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "type": "headline",
+    "category": "신문 제목",
+    "diagnostic_area": "신문 기사 제목 의미 파악",
+    "question_zone": "Z05",
+    "original_question_number": 26,
+    "question_number": 26,
+    "target_slots": [
+      26
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "김수미 선수 시상대에 올라, 펜싱 종목 메달 가뭄 끝",
+    "passage_template": "김수미 선수 시상대에 올라, 펜싱 종목 메달 가뭄 끝",
+    "options": [
+      {
+        "label": "1",
+        "text": "김 선수가 펜싱 대표팀에서 메달을 목표로 열심히 훈련했다."
+      },
+      {
+        "label": "2",
+        "text": "김 선수가 메달을 따면서 오랜만에 펜싱 종목에서 메달이 나왔다."
+      },
+      {
+        "label": "3",
+        "text": "김 선수가 가장 많은 메달을 따내 펜싱 종목에서 신기록을 세웠다."
+      },
+      {
+        "label": "4",
+        "text": "김 선수가 펜싱 종목에서 좋은 경기를 펼쳤지만 아쉽게 메달을 놓쳤다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "김 선수가 펜싱 대표팀에서 메달을 목표로 열심히 훈련했다."
+      },
+      {
+        "label": "2",
+        "text": "김 선수가 메달을 따면서 오랜만에 펜싱 종목에서 메달이 나왔다."
+      },
+      {
+        "label": "3",
+        "text": "김 선수가 가장 많은 메달을 따내 펜싱 종목에서 신기록을 세웠다."
+      },
+      {
+        "label": "4",
+        "text": "김 선수가 펜싱 종목에서 좋은 경기를 펼쳤지만 아쉽게 메달을 놓쳤다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "QB-T2-102-R026",
+    "template_slot": 26,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q027",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "type": "headline",
+    "category": "신문 제목",
+    "diagnostic_area": "신문 기사 제목 의미 파악",
+    "question_zone": "Z05",
+    "original_question_number": 27,
+    "question_number": 27,
+    "target_slots": [
+      27
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "선 넘은 악성 댓글, 처벌은 여전히 솜방망이",
+    "passage_template": "선 넘은 악성 댓글, 처벌은 여전히 솜방망이",
+    "options": [
+      {
+        "label": "1",
+        "text": "악의적인 댓글이 줄어든 만큼 처벌 수위를 낮추자는 의견이 제기됐다."
+      },
+      {
+        "label": "2",
+        "text": "악의적인 댓글에 대한 처벌을 강화했으나 피해는 감소하지 않고 있다."
+      },
+      {
+        "label": "3",
+        "text": "악의적인 댓글이 계속 이어지자 피해자들이 무거운 처벌을 요구하고 나섰다."
+      },
+      {
+        "label": "4",
+        "text": "악의적인 댓글이 지나치게 심각해졌음에도 처벌 수위는 아직도 너무 낮다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "악의적인 댓글이 줄어든 만큼 처벌 수위를 낮추자는 의견이 제기됐다."
+      },
+      {
+        "label": "2",
+        "text": "악의적인 댓글에 대한 처벌을 강화했으나 피해는 감소하지 않고 있다."
+      },
+      {
+        "label": "3",
+        "text": "악의적인 댓글이 계속 이어지자 피해자들이 무거운 처벌을 요구하고 나섰다."
+      },
+      {
+        "label": "4",
+        "text": "악의적인 댓글이 지나치게 심각해졌음에도 처벌 수위는 아직도 너무 낮다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "QB-T2-102-R027",
+    "template_slot": 27,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q028",
+    "source_pdf_page": 12,
+    "source_printed_page": 11,
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 표현 선택",
+    "question_zone": "Z06",
+    "original_question_number": 28,
+    "question_number": 28,
+    "target_slots": [
+      28
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "오늘날의 연재 만화처럼 이야기가 회차별로 이어지는 작품의 형식은 이미 18세기에도 존재했다. 영국의 화가 윌리엄 호가스는 드라마 못지않게 흥미진진한 이야기를 여러 장의 그림으로 나누어 구성했다. 그리고 이를 판화에 새겨 좀 (     ) 순서대로 인쇄해 판매했다. 독자들은 다음 회를 손꼽아 기다렸고 그의 그림을 보기 위해 기꺼이 돈을 지불했다.",
+    "passage_template": "오늘날의 연재 만화처럼 이야기가 회차별로 이어지는 작품의 형식은 이미 18세기에도 존재했다. 영국의 화가 윌리엄 호가스는 드라마 못지않게 흥미진진한 이야기를 여러 장의 그림으로 나누어 구성했다. 그리고 이를 판화에 새겨 좀 (     ) 순서대로 인쇄해 판매했다. 독자들은 다음 회를 손꼽아 기다렸고 그의 그림을 보기 위해 기꺼이 돈을 지불했다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "만화가가 되려고"
+      },
+      {
+        "label": "2",
+        "text": "주문을 받지 않고"
+      },
+      {
+        "label": "3",
+        "text": "일정한 기간을 두고"
+      },
+      {
+        "label": "4",
+        "text": "작가를 밝히지 않고"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "만화가가 되려고"
+      },
+      {
+        "label": "2",
+        "text": "주문을 받지 않고"
+      },
+      {
+        "label": "3",
+        "text": "일정한 기간을 두고"
+      },
+      {
+        "label": "4",
+        "text": "작가를 밝히지 않고"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "QB-T2-102-R028",
+    "template_slot": 28,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q029",
+    "source_pdf_page": 12,
+    "source_printed_page": 11,
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 표현 선택",
+    "question_zone": "Z06",
+    "original_question_number": 29,
+    "question_number": 29,
+    "target_slots": [
+      29
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "사람들은 보통 식후에 바로 이를 닦는다. 하지만 레몬 등 신맛이 강한 음식을 먹은 후에 바로 양치질을 하는 것은 좋지 않다. 신 음식에 있는 산성이 치아 보호막을 (     ) 때문에 바로 칫솔질로 자극하면 치아가 더 손상된다. 치아 보호막이 원래 강도로 돌아오려면 침으로 산성이 중화되어야 하는데 여기에 30분 정도가 소요된다. 그래서 신맛이 강한 음식을 섭취하면 최소 30분 이상 지나서 양치해야 한다.",
+    "passage_template": "사람들은 보통 식후에 바로 이를 닦는다. 하지만 레몬 등 신맛이 강한 음식을 먹은 후에 바로 양치질을 하는 것은 좋지 않다. 신 음식에 있는 산성이 치아 보호막을 (     ) 때문에 바로 칫솔질로 자극하면 치아가 더 손상된다. 치아 보호막이 원래 강도로 돌아오려면 침으로 산성이 중화되어야 하는데 여기에 30분 정도가 소요된다. 그래서 신맛이 강한 음식을 섭취하면 최소 30분 이상 지나서 양치해야 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "누렇게 바꾸기"
+      },
+      {
+        "label": "2",
+        "text": "여러 겹으로 만들기"
+      },
+      {
+        "label": "3",
+        "text": "음식물로부터 보호하기"
+      },
+      {
+        "label": "4",
+        "text": "일시적으로 약화시키기"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "누렇게 바꾸기"
+      },
+      {
+        "label": "2",
+        "text": "여러 겹으로 만들기"
+      },
+      {
+        "label": "3",
+        "text": "음식물로부터 보호하기"
+      },
+      {
+        "label": "4",
+        "text": "일시적으로 약화시키기"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "QB-T2-102-R029",
+    "template_slot": 29,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "TOPIK2-READING-102-DRAFT-21-30",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round-draft",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 21~30번 검수용 초안",
+    "test_scope": "TOPIK II 읽기 102회 21~30번 검수용 초안",
+    "time_limit_minutes": 70,
+    "draft_note": "정식 reading-102.json 생성 전 21~30번 표시·정답·유형 검수용 파일입니다.",
+    "id": "R102-Q030",
+    "source_pdf_page": 13,
+    "source_printed_page": 12,
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 표현 선택",
+    "question_zone": "Z06",
+    "original_question_number": 30,
+    "question_number": 30,
+    "target_slots": [
+      30
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "누군가에게 해를 입히고 미안한 척 거짓으로 흘리는 눈물을 ‘악어의 눈물’에 비유한다. 실제로 악어는 먹잇감을 잡아먹으면서 눈물을 흘린다. 눈물샘을 담당하는 신경과 턱을 움직이는 신경이 연결되어 있기 때문에 음식을 씹을 때면 눈물이 나오는 것이다. 이 눈물 때문에 ‘악어는 마치 다른 동물을 잡아먹으면서 (     ) 것처럼 보인다. ‘악어의 눈물’이라는 표현은 인간의 가식적인 행위를 악어의 생리적 현상에 비유한 것이다.",
+    "passage_template": "누군가에게 해를 입히고 미안한 척 거짓으로 흘리는 눈물을 ‘악어의 눈물’에 비유한다. 실제로 악어는 먹잇감을 잡아먹으면서 눈물을 흘린다. 눈물샘을 담당하는 신경과 턱을 움직이는 신경이 연결되어 있기 때문에 음식을 씹을 때면 눈물이 나오는 것이다. 이 눈물 때문에 ‘악어는 마치 다른 동물을 잡아먹으면서 (     ) 것처럼 보인다. ‘악어의 눈물’이라는 표현은 인간의 가식적인 행위를 악어의 생리적 현상에 비유한 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "두려움에 떠는"
+      },
+      {
+        "label": "2",
+        "text": "죄책감을 느끼는"
+      },
+      {
+        "label": "3",
+        "text": "갈증을 해소하는"
+      },
+      {
+        "label": "4",
+        "text": "배부름에 만족하는"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "두려움에 떠는"
+      },
+      {
+        "label": "2",
+        "text": "죄책감을 느끼는"
+      },
+      {
+        "label": "3",
+        "text": "갈증을 해소하는"
+      },
+      {
+        "label": "4",
+        "text": "배부름에 만족하는"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "QB-T2-102-R030",
+    "template_slot": 30,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  }
+]

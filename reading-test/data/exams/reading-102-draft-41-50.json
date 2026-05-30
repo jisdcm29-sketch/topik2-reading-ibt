@@ -1,0 +1,917 @@
+[
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "sentence_insert",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R041",
+    "source_pdf_page": 18,
+    "source_printed_page": "17",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문장 삽입 위치 판단",
+    "question_zone": "Z07",
+    "original_question_number": 41,
+    "question_number": 41,
+    "target_slots": [
+      41
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "역사학자 이승원이 『사대부의 시대』라는 책을 출간했다. ㉠ 사대부는 국가 운영에 중요한 역할을 했던 조선 시대의 양반 계층을 말한다. ㉡ 이 책은 사대부 계층이 조선의 정치·경제·문화에 미친 영향을 깊이 있게 분석하고 있다. ㉢ 무엇보다도 저자는 사대부가 폐쇄적인 신분제 사회에서 특권만을 누리려 했다는 통념을 비판한다. ㉣ 이 책을 통해 독자들은 사대부의 다양한 면모를 볼 수 있다.",
+    "passage_template": "역사학자 이승원이 『사대부의 시대』라는 책을 출간했다. ㉠ 사대부는 국가 운영에 중요한 역할을 했던 조선 시대의 양반 계층을 말한다. ㉡ 이 책은 사대부 계층이 조선의 정치·경제·문화에 미친 영향을 깊이 있게 분석하고 있다. ㉢ 무엇보다도 저자는 사대부가 폐쇄적인 신분제 사회에서 특권만을 누리려 했다는 통념을 비판한다. ㉣ 이 책을 통해 독자들은 사대부의 다양한 면모를 볼 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "102-R041",
+    "template_slot": 41,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": [],
+    "insert_sentence": "오히려 사대부가 조선의 변화를 주도한 능력주의 원칙의 선봉자들이었음을 역사적 자료를 통해 증명한다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉣",
+    "correct_answer_label": "㉣"
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R042",
+    "source_pdf_page": 19,
+    "source_printed_page": "18",
+    "type": "emotion",
+    "category": "심정",
+    "diagnostic_area": "서사 지문 속 인물 심정 파악",
+    "question_zone": "Z08",
+    "original_question_number": 42,
+    "question_number": 42,
+    "target_slots": [
+      42
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘그’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "passage_template": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "options": [
+      {
+        "label": "1",
+        "text": "화나고 답답하다"
+      },
+      {
+        "label": "2",
+        "text": "놀라고 당황스럽다"
+      },
+      {
+        "label": "3",
+        "text": "서럽고 짜증스럽다"
+      },
+      {
+        "label": "4",
+        "text": "섭섭하고 허전하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "화나고 답답하다"
+      },
+      {
+        "label": "2",
+        "text": "놀라고 당황스럽다"
+      },
+      {
+        "label": "3",
+        "text": "서럽고 짜증스럽다"
+      },
+      {
+        "label": "4",
+        "text": "섭섭하고 허전하다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R042",
+    "template_slot": 42,
+    "passage_group_id": "102-R042-043",
+    "passage_group_title": "102회 42~43번 공통 지문",
+    "passage_group_numbers": [
+      42,
+      43
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": [],
+    "underline_targets": [
+      "나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다."
+    ],
+    "underlined_parts": [
+      "나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다."
+    ]
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R043",
+    "source_pdf_page": 19,
+    "source_printed_page": "18",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "서사 지문의 세부 내용 이해",
+    "question_zone": "Z08",
+    "original_question_number": 43,
+    "question_number": 43,
+    "target_slots": [
+      43
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+    "passage": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "passage_template": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "options": [
+      {
+        "label": "1",
+        "text": "그는 반지함이 어디에 있는지 몰랐다."
+      },
+      {
+        "label": "2",
+        "text": "그는 여자 앞에서 눈물을 자주 보였다."
+      },
+      {
+        "label": "3",
+        "text": "그는 청혼을 위해 주말여행을 계획했다."
+      },
+      {
+        "label": "4",
+        "text": "그는 그녀와 함께 반지를 구매하러 갔다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "그는 반지함이 어디에 있는지 몰랐다."
+      },
+      {
+        "label": "2",
+        "text": "그는 여자 앞에서 눈물을 자주 보였다."
+      },
+      {
+        "label": "3",
+        "text": "그는 청혼을 위해 주말여행을 계획했다."
+      },
+      {
+        "label": "4",
+        "text": "그는 그녀와 함께 반지를 구매하러 갔다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R043",
+    "template_slot": 43,
+    "passage_group_id": "102-R042-043",
+    "passage_group_title": "102회 42~43번 공통 지문",
+    "passage_group_numbers": [
+      42,
+      43
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R044",
+    "source_pdf_page": 20,
+    "source_printed_page": "19",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "긴 지문 공통 세트의 문맥 빈칸 추론",
+    "question_zone": "Z09",
+    "original_question_number": 44,
+    "question_number": 44,
+    "target_slots": [
+      44
+    ],
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "passage_template": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "질병이 언제 발생하는지"
+      },
+      {
+        "label": "2",
+        "text": "근육이 어떻게 움직이는지"
+      },
+      {
+        "label": "3",
+        "text": "인체의 구조가 왜 단순해지는지"
+      },
+      {
+        "label": "4",
+        "text": "해부학이 어떤 식으로 분류되는지"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "질병이 언제 발생하는지"
+      },
+      {
+        "label": "2",
+        "text": "근육이 어떻게 움직이는지"
+      },
+      {
+        "label": "3",
+        "text": "인체의 구조가 왜 단순해지는지"
+      },
+      {
+        "label": "4",
+        "text": "해부학이 어떤 식으로 분류되는지"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R044",
+    "template_slot": 44,
+    "passage_group_id": "102-R044-045",
+    "passage_group_title": "102회 44~45번 공통 지문",
+    "passage_group_numbers": [
+      44,
+      45
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "근육이 어떻게 움직이는지",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R045",
+    "source_pdf_page": 20,
+    "source_printed_page": "19",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 주제 파악",
+    "question_zone": "Z09",
+    "original_question_number": 45,
+    "question_number": 45,
+    "target_slots": [
+      45
+    ],
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "passage_template": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "미술가들은 해부학 강의를 통해 경제 활동을 할 수 있었다."
+      },
+      {
+        "label": "2",
+        "text": "해부학은 의학뿐만 아니라 미술에도 심대한 영향을 끼쳤다."
+      },
+      {
+        "label": "3",
+        "text": "해부학 강의는 일반인들의 그림에 대한 관점을 바꿔 놓았다."
+      },
+      {
+        "label": "4",
+        "text": "해부학의 발달로 미술에서 다룰 수 있는 소재가 다양해졌다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "미술가들은 해부학 강의를 통해 경제 활동을 할 수 있었다."
+      },
+      {
+        "label": "2",
+        "text": "해부학은 의학뿐만 아니라 미술에도 심대한 영향을 끼쳤다."
+      },
+      {
+        "label": "3",
+        "text": "해부학 강의는 일반인들의 그림에 대한 관점을 바꿔 놓았다."
+      },
+      {
+        "label": "4",
+        "text": "해부학의 발달로 미술에서 다룰 수 있는 소재가 다양해졌다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R045",
+    "template_slot": 45,
+    "passage_group_id": "102-R044-045",
+    "passage_group_title": "102회 44~45번 공통 지문",
+    "passage_group_numbers": [
+      44,
+      45
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R046",
+    "source_pdf_page": 21,
+    "source_printed_page": "20",
+    "type": "author_attitude",
+    "category": "필자 태도",
+    "diagnostic_area": "긴 지문에서 필자의 태도 파악",
+    "question_zone": "Z09",
+    "original_question_number": 46,
+    "question_number": 46,
+    "target_slots": [
+      46
+    ],
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "passage_template": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "해저 전선의 구축으로 생길 부작용을 우려하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "해저 전선의 문제점과 위험성에 대해 역설하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "해저 전선에 대한 국가적 차원의 대응을 촉구하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "해저 전선이 세계 정세에 미치는 영향을 부정하고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "해저 전선의 구축으로 생길 부작용을 우려하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "해저 전선의 문제점과 위험성에 대해 역설하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "해저 전선에 대한 국가적 차원의 대응을 촉구하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "해저 전선이 세계 정세에 미치는 영향을 부정하고 있다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R046",
+    "template_slot": 46,
+    "passage_group_id": "102-R046-047",
+    "passage_group_title": "102회 46~47번 공통 지문",
+    "passage_group_numbers": [
+      46,
+      47
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R047",
+    "source_pdf_page": 21,
+    "source_printed_page": "20",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 이해",
+    "question_zone": "Z09",
+    "original_question_number": 47,
+    "question_number": 47,
+    "target_slots": [
+      47
+    ],
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "passage_template": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "한국은 현재 충분한 수의 해저 전선을 보유하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "해저 전선을 통해 전송되는 국가 간 정보의 양이 매우 많다."
+      },
+      {
+        "label": "3",
+        "text": "어민들은 인근 어장에 해저 전선을 설치하는 것을 환영한다."
+      },
+      {
+        "label": "4",
+        "text": "해저 전선은 지형에 구애받지 않고 자유롭게 설치할 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "한국은 현재 충분한 수의 해저 전선을 보유하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "해저 전선을 통해 전송되는 국가 간 정보의 양이 매우 많다."
+      },
+      {
+        "label": "3",
+        "text": "어민들은 인근 어장에 해저 전선을 설치하는 것을 환영한다."
+      },
+      {
+        "label": "4",
+        "text": "해저 전선은 지형에 구애받지 않고 자유롭게 설치할 수 있다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R047",
+    "template_slot": 47,
+    "passage_group_id": "102-R046-047",
+    "passage_group_title": "102회 46~47번 공통 지문",
+    "passage_group_numbers": [
+      46,
+      47
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R048",
+    "source_pdf_page": 22,
+    "source_printed_page": "21",
+    "type": "writing_purpose",
+    "category": "목적 파악",
+    "diagnostic_area": "긴 지문을 쓴 목적 파악",
+    "question_zone": "Z10",
+    "original_question_number": 48,
+    "question_number": 48,
+    "target_slots": [
+      48
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+    "passage": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "passage_template": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "제도 개편의 긍정적인 사례를 제시하려고"
+      },
+      {
+        "label": "2",
+        "text": "제도 적용의 범위를 제한하도록 요구하려고"
+      },
+      {
+        "label": "3",
+        "text": "제도 도입을 위해 근로자의 관심을 유도하려고"
+      },
+      {
+        "label": "4",
+        "text": "제도 개편의 취지와 예상되는 문제점을 알리려고"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "제도 개편의 긍정적인 사례를 제시하려고"
+      },
+      {
+        "label": "2",
+        "text": "제도 적용의 범위를 제한하도록 요구하려고"
+      },
+      {
+        "label": "3",
+        "text": "제도 도입을 위해 근로자의 관심을 유도하려고"
+      },
+      {
+        "label": "4",
+        "text": "제도 개편의 취지와 예상되는 문제점을 알리려고"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "102-R048",
+    "template_slot": 48,
+    "passage_group_id": "102-R048-050",
+    "passage_group_title": "102회 48~50번 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R049",
+    "source_pdf_page": 22,
+    "source_printed_page": "21",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "긴 지문 공통 세트의 문맥 빈칸 추론",
+    "question_zone": "Z10",
+    "original_question_number": 49,
+    "question_number": 49,
+    "target_slots": [
+      49
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "passage_template": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "퇴직금 체불의 위험성을"
+      },
+      {
+        "label": "2",
+        "text": "노령 근로자의 비중을"
+      },
+      {
+        "label": "3",
+        "text": "퇴직금의 수령액을"
+      },
+      {
+        "label": "4",
+        "text": "경쟁 업체의 수를"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "퇴직금 체불의 위험성을"
+      },
+      {
+        "label": "2",
+        "text": "노령 근로자의 비중을"
+      },
+      {
+        "label": "3",
+        "text": "퇴직금의 수령액을"
+      },
+      {
+        "label": "4",
+        "text": "경쟁 업체의 수를"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "source_bank_id": "102-R049",
+    "template_slot": 49,
+    "passage_group_id": "102-R048-050",
+    "passage_group_title": "102회 48~50번 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "blank_key": "퇴직금 체불의 위험성을",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-41-50",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 41~50번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 41~50번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R050",
+    "source_pdf_page": 22,
+    "source_printed_page": "21",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 이해",
+    "question_zone": "Z10",
+    "original_question_number": 50,
+    "question_number": 50,
+    "target_slots": [
+      50
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "passage_template": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "이번 개편안이 시행되면 영세 사업장의 부담을 덜어 줄 수 있게 된다."
+      },
+      {
+        "label": "2",
+        "text": "이번 개편안은 퇴직금을 외부 기관에 맡기게 하는 안을 포함한다."
+      },
+      {
+        "label": "3",
+        "text": "현행 제도에서는 55세가 되어야 퇴직금을 수령할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "퇴직 급여 제도가 도입된 것은 최근의 일이다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이번 개편안이 시행되면 영세 사업장의 부담을 덜어 줄 수 있게 된다."
+      },
+      {
+        "label": "2",
+        "text": "이번 개편안은 퇴직금을 외부 기관에 맡기게 하는 안을 포함한다."
+      },
+      {
+        "label": "3",
+        "text": "현행 제도에서는 55세가 되어야 퇴직금을 수령할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "퇴직 급여 제도가 도입된 것은 최근의 일이다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R050",
+    "template_slot": 50,
+    "passage_group_id": "102-R048-050",
+    "passage_group_title": "102회 48~50번 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  }
+]

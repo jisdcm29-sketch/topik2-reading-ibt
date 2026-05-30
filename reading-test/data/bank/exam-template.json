@@ -1,0 +1,474 @@
+{
+  "template_version": "1.0-103-draft",
+  "template_name": "TOPIK II Reading 1-50 Fixed Structure Template",
+  "level": "TOPIK II",
+  "section": "reading",
+  "question_number_start": 1,
+  "question_number_end": 50,
+  "expected_total_questions": 50,
+  "time_limit_minutes": 70,
+  "total_possible_points": 100,
+  "description": "TOPIK II 읽기 1~50번의 유형, 배점, 공통 지문 묶음을 고정하기 위한 PBT형 IBT 출제 템플릿입니다. 103회 1차 입력본 기준입니다.",
+  "source_round": "103",
+  "source_file": "103회 읽기 문제.pdf",
+  "generation_rules": {
+    "single_items": "single_slots의 slot, required_type에 맞는 단일 문항을 선택합니다.",
+    "passage_sets": "slot_groups의 slot_group, required_set_type에 맞는 공통 지문 세트를 통째로 선택합니다.",
+    "renumbering": "선택한 문제는 1~50번 슬롯 번호로 다시 매깁니다.",
+    "duplicate_rule": "같은 source_bank_id 또는 set_id는 한 시험지에서 중복 선택하지 않습니다."
+  },
+  "single_slots": [
+    {
+      "slot": 1,
+      "required_type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "points": 2
+    },
+    {
+      "slot": 2,
+      "required_type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "points": 2
+    },
+    {
+      "slot": 3,
+      "required_type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "points": 2
+    },
+    {
+      "slot": 4,
+      "required_type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "points": 2
+    },
+    {
+      "slot": 5,
+      "required_type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "points": 2
+    },
+    {
+      "slot": 6,
+      "required_type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "points": 2
+    },
+    {
+      "slot": 7,
+      "required_type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "points": 2
+    },
+    {
+      "slot": 8,
+      "required_type": "visual_topic",
+      "category": "자료 이해",
+      "diagnostic_area": "안전 안내문의 목적 파악",
+      "points": 2
+    },
+    {
+      "slot": 9,
+      "required_type": "same_content_visual",
+      "category": "내용 일치",
+      "diagnostic_area": "안내문 세부 정보 파악",
+      "points": 2
+    },
+    {
+      "slot": 10,
+      "required_type": "same_content_graph",
+      "category": "내용 일치",
+      "diagnostic_area": "그래프 정보 비교",
+      "points": 2
+    },
+    {
+      "slot": 11,
+      "required_type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 이해",
+      "points": 2
+    },
+    {
+      "slot": 12,
+      "required_type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 이해",
+      "points": 2
+    },
+    {
+      "slot": 13,
+      "required_type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "points": 2
+    },
+    {
+      "slot": 14,
+      "required_type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "points": 2
+    },
+    {
+      "slot": 15,
+      "required_type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "points": 2
+    },
+    {
+      "slot": 16,
+      "required_type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+      "points": 2
+    },
+    {
+      "slot": 17,
+      "required_type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 조건 표현 선택",
+      "points": 2
+    },
+    {
+      "slot": 18,
+      "required_type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 목적 표현 선택",
+      "points": 2
+    },
+    {
+      "slot": 25,
+      "required_type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "points": 2
+    },
+    {
+      "slot": 26,
+      "required_type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "points": 2
+    },
+    {
+      "slot": 27,
+      "required_type": "headline_meaning",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "points": 2
+    },
+    {
+      "slot": 28,
+      "required_type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "points": 2
+    },
+    {
+      "slot": 29,
+      "required_type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "points": 2
+    },
+    {
+      "slot": 30,
+      "required_type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "points": 2
+    },
+    {
+      "slot": 31,
+      "required_type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 동사구 선택",
+      "points": 2
+    },
+    {
+      "slot": 32,
+      "required_type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "points": 2
+    },
+    {
+      "slot": 33,
+      "required_type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "points": 2
+    },
+    {
+      "slot": 34,
+      "required_type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "points": 2
+    },
+    {
+      "slot": 35,
+      "required_type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "points": 2
+    },
+    {
+      "slot": 36,
+      "required_type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "points": 2
+    },
+    {
+      "slot": 37,
+      "required_type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "points": 2
+    },
+    {
+      "slot": 38,
+      "required_type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 중심 내용 파악",
+      "points": 2
+    },
+    {
+      "slot": 39,
+      "required_type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "points": 2
+    },
+    {
+      "slot": 40,
+      "required_type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "points": 2
+    },
+    {
+      "slot": 41,
+      "required_type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "points": 2
+    }
+  ],
+  "slot_groups": [
+    {
+      "slot_group": [
+        19,
+        20
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[19~20] 공통 지문",
+      "points_by_slot": {
+        "19": 2,
+        "20": 2
+      },
+      "required_items": [
+        {
+          "slot": 19,
+          "required_type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+          "points": 2
+        },
+        {
+          "slot": 20,
+          "required_type": "common_passage_question",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "짧은 공통 지문의 주제 파악",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        21,
+        22
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[21~22] 공통 지문",
+      "points_by_slot": {
+        "21": 2,
+        "22": 2
+      },
+      "required_items": [
+        {
+          "slot": 21,
+          "required_type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 관용 표현 선택",
+          "points": 2
+        },
+        {
+          "slot": 22,
+          "required_type": "common_passage_question",
+          "category": "공통 지문 내용 일치",
+          "diagnostic_area": "기술 설명문의 세부 내용 파악",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        23,
+        24
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[23~24] 공통 지문",
+      "points_by_slot": {
+        "23": 2,
+        "24": 2
+      },
+      "required_items": [
+        {
+          "slot": 23,
+          "required_type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "points": 2
+        },
+        {
+          "slot": 24,
+          "required_type": "common_passage_question",
+          "category": "공통 지문 내용 일치",
+          "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        42,
+        43
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[42~43] 공통 지문",
+      "points_by_slot": {
+        "42": 2,
+        "43": 2
+      },
+      "required_items": [
+        {
+          "slot": 42,
+          "required_type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "points": 2
+        },
+        {
+          "slot": 43,
+          "required_type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "서사 글의 세부 내용 이해",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        44,
+        45
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[44~45] 공통 지문",
+      "points_by_slot": {
+        "44": 2,
+        "45": 2
+      },
+      "required_items": [
+        {
+          "slot": 44,
+          "required_type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 관점 표현 선택",
+          "points": 2
+        },
+        {
+          "slot": 45,
+          "required_type": "common_passage_question",
+          "category": "주제 파악",
+          "diagnostic_area": "학술 설명문의 중심 내용 파악",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        46,
+        47
+      ],
+      "required_set_type": "common_passage_2_questions",
+      "group_title": "[46~47] 공통 지문",
+      "points_by_slot": {
+        "46": 2,
+        "47": 2
+      },
+      "required_items": [
+        {
+          "slot": 46,
+          "required_type": "common_passage_question",
+          "category": "필자의 태도",
+          "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+          "points": 2
+        },
+        {
+          "slot": 47,
+          "required_type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "slot_group": [
+        48,
+        49,
+        50
+      ],
+      "required_set_type": "long_passage_3_questions",
+      "group_title": "[48~50] 긴 지문 공통 문제",
+      "points_by_slot": {
+        "48": 2,
+        "49": 2,
+        "50": 2
+      },
+      "required_items": [
+        {
+          "slot": 48,
+          "required_type": "common_passage_question",
+          "category": "글의 목적",
+          "diagnostic_area": "긴 지문의 필자 의도 파악",
+          "points": 2
+        },
+        {
+          "slot": 49,
+          "required_type": "common_passage_blank_choice",
+          "category": "긴 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+          "points": 2
+        },
+        {
+          "slot": 50,
+          "required_type": "common_passage_question",
+          "category": "긴 지문 내용 일치",
+          "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

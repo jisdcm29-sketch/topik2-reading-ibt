@@ -1,0 +1,888 @@
+[
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R031",
+    "source_pdf_page": 13,
+    "source_printed_page": "12",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 목적 표현 선택",
+    "question_zone": "Z05",
+    "original_question_number": 31,
+    "question_number": 31,
+    "target_slots": [
+      31
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "음료수 병과 같이 액체를 담는 용기들은 대부분 원기둥 모양이다. 원기둥을 선택하는 가장 큰 이유는 (     ) 위해서이다. 예를 들어 음료수 병의 밑면이 정사각형, 정삼각형, 원일 경우를 비교해 보자. 밑면의 넓이가 똑같이 100cm²일 때 둘레는 각각 40cm, 46cm, 35cm 정도로 원의 둘레가 가장 짧다. 따라서 같은 양의 액체를 담는 조건이라면 둘레를 감싸는 재료가 가장 적게 드는 원기둥으로 만들어 생산비를 낮추고자 하는 것이다.",
+    "passage_template": "음료수 병과 같이 액체를 담는 용기들은 대부분 원기둥 모양이다. 원기둥을 선택하는 가장 큰 이유는 (     ) 위해서이다. 예를 들어 음료수 병의 밑면이 정사각형, 정삼각형, 원일 경우를 비교해 보자. 밑면의 넓이가 똑같이 100cm²일 때 둘레는 각각 40cm, 46cm, 35cm 정도로 원의 둘레가 가장 짧다. 따라서 같은 양의 액체를 담는 조건이라면 둘레를 감싸는 재료가 가장 적게 드는 원기둥으로 만들어 생산비를 낮추고자 하는 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "용기의 제작 비용을 줄이기"
+      },
+      {
+        "label": "2",
+        "text": "손으로 잡기 편하게 하기"
+      },
+      {
+        "label": "3",
+        "text": "보관을 편리하게 하기"
+      },
+      {
+        "label": "4",
+        "text": "보기 좋게 만들기"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "용기의 제작 비용을 줄이기"
+      },
+      {
+        "label": "2",
+        "text": "손으로 잡기 편하게 하기"
+      },
+      {
+        "label": "3",
+        "text": "보관을 편리하게 하기"
+      },
+      {
+        "label": "4",
+        "text": "보기 좋게 만들기"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "source_bank_id": "102-R031",
+    "template_slot": 31,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "용기의 제작 비용을 줄이기",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R032",
+    "source_pdf_page": 14,
+    "source_printed_page": "13",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "중간 글의 세부 내용 이해",
+    "question_zone": "Z06",
+    "original_question_number": 32,
+    "question_number": 32,
+    "target_slots": [
+      32
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "멍게는 바다에 서식하는 해양 생물로 성장 과정에서 흥미로운 변화를 겪는다. 어린 멍게는 올챙이와 같이 자유롭게 헤엄쳐 더 나은 서식지를 찾아 이동한다. 바위 등 적절한 장소를 발견하면 멍게는 거기에 딱 붙어서 생활하게 되어 더 이상 이동할 필요가 없어진다. 이렇게 자리를 잡은 멍게는 스스로 이동에 필요한 신체 기관들을 없애고 식물처럼 한곳에 정착해서 살아간다.",
+    "passage_template": "멍게는 바다에 서식하는 해양 생물로 성장 과정에서 흥미로운 변화를 겪는다. 어린 멍게는 올챙이와 같이 자유롭게 헤엄쳐 더 나은 서식지를 찾아 이동한다. 바위 등 적절한 장소를 발견하면 멍게는 거기에 딱 붙어서 생활하게 되어 더 이상 이동할 필요가 없어진다. 이렇게 자리를 잡은 멍게는 스스로 이동에 필요한 신체 기관들을 없애고 식물처럼 한곳에 정착해서 살아간다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "멍게는 평생 동안 바닷속을 헤엄쳐 먹이를 찾아다닌다."
+      },
+      {
+        "label": "2",
+        "text": "멍게는 한곳에 자리를 잡으면 서식지를 바꾸지 않는다."
+      },
+      {
+        "label": "3",
+        "text": "멍게는 성장 과정에서 신체의 변화가 일어나지 않는다."
+      },
+      {
+        "label": "4",
+        "text": "멍게는 정착 후에도 이동에 필요한 기관을 계속 유지한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "멍게는 평생 동안 바닷속을 헤엄쳐 먹이를 찾아다닌다."
+      },
+      {
+        "label": "2",
+        "text": "멍게는 한곳에 자리를 잡으면 서식지를 바꾸지 않는다."
+      },
+      {
+        "label": "3",
+        "text": "멍게는 성장 과정에서 신체의 변화가 일어나지 않는다."
+      },
+      {
+        "label": "4",
+        "text": "멍게는 정착 후에도 이동에 필요한 기관을 계속 유지한다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "source_bank_id": "102-R032",
+    "template_slot": 32,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R033",
+    "source_pdf_page": 14,
+    "source_printed_page": "13",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "중간 글의 세부 내용 이해",
+    "question_zone": "Z06",
+    "original_question_number": 33,
+    "question_number": 33,
+    "target_slots": [
+      33
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "조선 시대 화가 신윤복의 ‘월하정인’은 은은한 달빛 아래 다정히 서 있는 연인을 그린 풍속화이다. 이 그림의 제작 연도는 밝혀지지 않았지만 천문학자들은 그림 속 달의 모양, 그림에 쓰여 있는 글을 분석해 1793년 8월 21일 밤이 그림의 배경이 되었다고 추정한다. ‘월하정인’에 나오는 위가 볼록한 초승달은 보기 드문 형태로 부분 월식 때만 나타난다. 실제로 왕실의 기록에도 그날 밤 월식이 있었다는 내용이 있어 이 추정을 뒷받침한다.",
+    "passage_template": "조선 시대 화가 신윤복의 ‘월하정인’은 은은한 달빛 아래 다정히 서 있는 연인을 그린 풍속화이다. 이 그림의 제작 연도는 밝혀지지 않았지만 천문학자들은 그림 속 달의 모양, 그림에 쓰여 있는 글을 분석해 1793년 8월 21일 밤이 그림의 배경이 되었다고 추정한다. ‘월하정인’에 나오는 위가 볼록한 초승달은 보기 드문 형태로 부분 월식 때만 나타난다. 실제로 왕실의 기록에도 그날 밤 월식이 있었다는 내용이 있어 이 추정을 뒷받침한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "월하정인은 작가를 알 수 없는 그림이다."
+      },
+      {
+        "label": "2",
+        "text": "월하정인의 제작 연도가 작품에 기록되어 있다."
+      },
+      {
+        "label": "3",
+        "text": "월하정인의 배경은 부분 월식이 있었던 밤으로 추정된다."
+      },
+      {
+        "label": "4",
+        "text": "천문학자들은 그림 속 현상이 천문학적으로 불가능하다고 본다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "월하정인은 작가를 알 수 없는 그림이다."
+      },
+      {
+        "label": "2",
+        "text": "월하정인의 제작 연도가 작품에 기록되어 있다."
+      },
+      {
+        "label": "3",
+        "text": "월하정인의 배경은 부분 월식이 있었던 밤으로 추정된다."
+      },
+      {
+        "label": "4",
+        "text": "천문학자들은 그림 속 현상이 천문학적으로 불가능하다고 본다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R033",
+    "template_slot": 33,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R034",
+    "source_pdf_page": 15,
+    "source_printed_page": "14",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "중간 글의 세부 내용 이해",
+    "question_zone": "Z06",
+    "original_question_number": 34,
+    "question_number": 34,
+    "target_slots": [
+      34
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "국내 연구진이 벌집나방 애벌레에서 플라스틱을 분해하는 효소를 발견했다. 이 애벌레는 벌집을 먹이로 삼는데 연구진은 벌집과 플라스틱의 화학적 구조가 유사하다는 점에 주목했다. 실제로 애벌레에게 플라스틱을 먹였을 때 벌집을 소화하는 효소가 생성되어 플라스틱을 빠르게 분해했다. 연구진은 이 효소를 대량 생산해 활용하면 폐플라스틱 처리의 획기적 방안이 될 것으로 기대하고 있다.",
+    "passage_template": "국내 연구진이 벌집나방 애벌레에서 플라스틱을 분해하는 효소를 발견했다. 이 애벌레는 벌집을 먹이로 삼는데 연구진은 벌집과 플라스틱의 화학적 구조가 유사하다는 점에 주목했다. 실제로 애벌레에게 플라스틱을 먹였을 때 벌집을 소화하는 효소가 생성되어 플라스틱을 빠르게 분해했다. 연구진은 이 효소를 대량 생산해 활용하면 폐플라스틱 처리의 획기적 방안이 될 것으로 기대하고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "연구진은 애벌레가 환경 문제를 발생시킨다는 점에 주목했다."
+      },
+      {
+        "label": "2",
+        "text": "벌집과 플라스틱은 화학적으로 서로 다른 구조를 가지고 있다."
+      },
+      {
+        "label": "3",
+        "text": "애벌레는 벌집과 플라스틱을 먹었을 때 각기 다른 효소를 배출했다."
+      },
+      {
+        "label": "4",
+        "text": "연구진은 이 효소로 폐플라스틱을 처리할 수 있을 것이라고 기대했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "연구진은 애벌레가 환경 문제를 발생시킨다는 점에 주목했다."
+      },
+      {
+        "label": "2",
+        "text": "벌집과 플라스틱은 화학적으로 서로 다른 구조를 가지고 있다."
+      },
+      {
+        "label": "3",
+        "text": "애벌레는 벌집과 플라스틱을 먹었을 때 각기 다른 효소를 배출했다."
+      },
+      {
+        "label": "4",
+        "text": "연구진은 이 효소로 폐플라스틱을 처리할 수 있을 것이라고 기대했다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "102-R034",
+    "template_slot": 34,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R035",
+    "source_pdf_page": 15,
+    "source_printed_page": "14",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "논설문 주제 파악",
+    "question_zone": "Z06",
+    "original_question_number": 35,
+    "question_number": 35,
+    "target_slots": [
+      35
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "인류를 화성에 보내기 위한 우주 탐사 프로젝트가 한창이다. 이를 두고 당장의 의식주 문제를 해결하는 것이 더 시급하다고 비판하는 일각의 목소리도 있다. 하지만 우주 탐사는 단순히 미지의 세계를 탐구하는 것만은 아니다. 우주라는 극한의 환경은 기존의 기술로는 해결하지 못하는 혁신적인 해결책을 요구한다. 이 과정에서 개발된 기술은 사회의 다양한 분야에서 새로운 산업과 일자리를 창출하며 경제 성장의 동력이 된다.",
+    "passage_template": "인류를 화성에 보내기 위한 우주 탐사 프로젝트가 한창이다. 이를 두고 당장의 의식주 문제를 해결하는 것이 더 시급하다고 비판하는 일각의 목소리도 있다. 하지만 우주 탐사는 단순히 미지의 세계를 탐구하는 것만은 아니다. 우주라는 극한의 환경은 기존의 기술로는 해결하지 못하는 혁신적인 해결책을 요구한다. 이 과정에서 개발된 기술은 사회의 다양한 분야에서 새로운 산업과 일자리를 창출하며 경제 성장의 동력이 된다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "우주 탐사를 반대하는 주장이 갈수록 힘을 얻고 있다."
+      },
+      {
+        "label": "2",
+        "text": "우주 탐사는 경제적 가치를 창출하지 못할 가능성이 높다."
+      },
+      {
+        "label": "3",
+        "text": "우주 탐사 기술은 산업과 경제 전반을 발전시키는 역할을 한다."
+      },
+      {
+        "label": "4",
+        "text": "우주 탐사의 가장 중요한 임무는 미지의 세계를 탐구하는 것이다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "우주 탐사를 반대하는 주장이 갈수록 힘을 얻고 있다."
+      },
+      {
+        "label": "2",
+        "text": "우주 탐사는 경제적 가치를 창출하지 못할 가능성이 높다."
+      },
+      {
+        "label": "3",
+        "text": "우주 탐사 기술은 산업과 경제 전반을 발전시키는 역할을 한다."
+      },
+      {
+        "label": "4",
+        "text": "우주 탐사의 가장 중요한 임무는 미지의 세계를 탐구하는 것이다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R035",
+    "template_slot": 35,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R036",
+    "source_pdf_page": 16,
+    "source_printed_page": "15",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "논설문 주제 파악",
+    "question_zone": "Z06",
+    "original_question_number": 36,
+    "question_number": 36,
+    "target_slots": [
+      36
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "산업 현장에는 위험 요소가 많아 안전사고가 빈번히 발생한다. 이때 시각적, 물리적 환경을 개선하면 안전사고를 효과적으로 줄일 수 있다. 일례로 기계의 정지 버튼에 빨간 화살표를 붙여 두면 기계의 작동을 급히 멈춰야 하는 비상 상황에서 근로자가 빠르게 버튼을 찾아 누를 수 있다. 또 칼날을 사용하는 작업대 옆에 자석으로 된 수거함을 두어 위험한 칼날을 자석에 부착하게 만듦으로써 사고 발생률을 낮출 수 있다.",
+    "passage_template": "산업 현장에는 위험 요소가 많아 안전사고가 빈번히 발생한다. 이때 시각적, 물리적 환경을 개선하면 안전사고를 효과적으로 줄일 수 있다. 일례로 기계의 정지 버튼에 빨간 화살표를 붙여 두면 기계의 작동을 급히 멈춰야 하는 비상 상황에서 근로자가 빠르게 버튼을 찾아 누를 수 있다. 또 칼날을 사용하는 작업대 옆에 자석으로 된 수거함을 두어 위험한 칼날을 자석에 부착하게 만듦으로써 사고 발생률을 낮출 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "근로자들의 작업 효율을 높이기 위한 대책이 마련되었다."
+      },
+      {
+        "label": "2",
+        "text": "안전사고가 발생하는 원인을 규명하는 연구가 이루어졌다."
+      },
+      {
+        "label": "3",
+        "text": "산업 현장의 작업 환경을 개선하면 안전사고를 예방할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "안전사고 방지를 담당하는 현장 책임자의 역할이 강조되고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "근로자들의 작업 효율을 높이기 위한 대책이 마련되었다."
+      },
+      {
+        "label": "2",
+        "text": "안전사고가 발생하는 원인을 규명하는 연구가 이루어졌다."
+      },
+      {
+        "label": "3",
+        "text": "산업 현장의 작업 환경을 개선하면 안전사고를 예방할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "안전사고 방지를 담당하는 현장 책임자의 역할이 강조되고 있다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R036",
+    "template_slot": 36,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R037",
+    "source_pdf_page": 16,
+    "source_printed_page": "15",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "논설문 주제 파악",
+    "question_zone": "Z06",
+    "original_question_number": 37,
+    "question_number": 37,
+    "target_slots": [
+      37
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "최근 동네 놀이터와 편의 시설 등에 외부인 출입을 금지하고 그곳에 살고 있는 거주민만 이용할 수 있게 하는 곳이 많아지고 있다. 이러한 변화는 관리의 편리성과 거주민 보호를 추구한 결과이지만 이는 도시의 개방성을 약화시키는 부작용을 낳는다. 도시 발전에 필요한 개방성은 다양한 사람이 어울릴 수 있는 공간을 확보하는 데서 비롯된다. 도시의 공간이 폐쇄적으로 구획화되면 이웃 간의 교류가 줄어 활력을 잃게 된다.",
+    "passage_template": "최근 동네 놀이터와 편의 시설 등에 외부인 출입을 금지하고 그곳에 살고 있는 거주민만 이용할 수 있게 하는 곳이 많아지고 있다. 이러한 변화는 관리의 편리성과 거주민 보호를 추구한 결과이지만 이는 도시의 개방성을 약화시키는 부작용을 낳는다. 도시 발전에 필요한 개방성은 다양한 사람이 어울릴 수 있는 공간을 확보하는 데서 비롯된다. 도시의 공간이 폐쇄적으로 구획화되면 이웃 간의 교류가 줄어 활력을 잃게 된다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "도시 관리의 편리성을 높일 수 있도록 노력해야 한다."
+      },
+      {
+        "label": "2",
+        "text": "도시를 설계할 때는 거주민 보호를 최우선으로 삼아야 한다."
+      },
+      {
+        "label": "3",
+        "text": "외부인의 출입을 제한하여 거주민 간의 교류를 활성화해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "도시의 활력을 위해서는 개방된 공간과 시설을 늘리는 것이 좋다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "도시 관리의 편리성을 높일 수 있도록 노력해야 한다."
+      },
+      {
+        "label": "2",
+        "text": "도시를 설계할 때는 거주민 보호를 최우선으로 삼아야 한다."
+      },
+      {
+        "label": "3",
+        "text": "외부인의 출입을 제한하여 거주민 간의 교류를 활성화해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "도시의 활력을 위해서는 개방된 공간과 시설을 늘리는 것이 좋다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "source_bank_id": "102-R037",
+    "template_slot": 37,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "single_choice",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R038",
+    "source_pdf_page": 17,
+    "source_printed_page": "16",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "논설문 주제 파악",
+    "question_zone": "Z06",
+    "original_question_number": 38,
+    "question_number": 38,
+    "target_slots": [
+      38
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "목적세는 사용처가 미리 정해진 세금이다. 교통세, 환경세, 교육세 등이 그 예이다. 그런데 목적세가 시의에 따라서는 국가 재정의 효율성을 떨어뜨릴 수 있다. 많은 종류의 목적세가 당해 년에 쓰지 못하고 불필요한 곳에 남용되기 때문이다. 남는 목적세를 적절히 용도 변경해서 필요한 곳에 사용하려고 해도 목적세라는 명목에 묶여 해당 분야 외에는 사용할 수 없는 것은 큰 문제이다.",
+    "passage_template": "목적세는 사용처가 미리 정해진 세금이다. 교통세, 환경세, 교육세 등이 그 예이다. 그런데 목적세가 시의에 따라서는 국가 재정의 효율성을 떨어뜨릴 수 있다. 많은 종류의 목적세가 당해 년에 쓰지 못하고 불필요한 곳에 남용되기 때문이다. 남는 목적세를 적절히 용도 변경해서 필요한 곳에 사용하려고 해도 목적세라는 명목에 묶여 해당 분야 외에는 사용할 수 없는 것은 큰 문제이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "목적세를 필요에 따라 유연하게 사용할 수 있도록 해야 한다."
+      },
+      {
+        "label": "2",
+        "text": "목적세를 통해 신속하게 쓸 수 있는 재원을 확보해야 한다."
+      },
+      {
+        "label": "3",
+        "text": "목적세를 도입할 때는 국민의 동의를 얻어야 한다."
+      },
+      {
+        "label": "4",
+        "text": "목적세의 징수 금액을 점진적으로 늘려야 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "목적세를 필요에 따라 유연하게 사용할 수 있도록 해야 한다."
+      },
+      {
+        "label": "2",
+        "text": "목적세를 통해 신속하게 쓸 수 있는 재원을 확보해야 한다."
+      },
+      {
+        "label": "3",
+        "text": "목적세를 도입할 때는 국민의 동의를 얻어야 한다."
+      },
+      {
+        "label": "4",
+        "text": "목적세의 징수 금액을 점진적으로 늘려야 한다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "source_bank_id": "102-R038",
+    "template_slot": 38,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": []
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "sentence_insert",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R039",
+    "source_pdf_page": 17,
+    "source_printed_page": "16",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문맥 흐름과 문장 위치 이해",
+    "question_zone": "Z07",
+    "original_question_number": 39,
+    "question_number": 39,
+    "target_slots": [
+      39
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "운동선수들의 평균 은퇴 연령은 23.6세로 매우 젊은 편이다. ㉠ 그래서 지도자의 길을 걷는 소수의 선수를 제외하면 대부분의 선수들은 은퇴 후 새로운 직업을 찾아야 한다. ㉡ 하지만 선수들은 오랜 시간 운동에만 매진해 왔기 때문에 개개인이 은퇴 이후의 삶을 준비할 여력이 없다. ㉢ 이에 현역부터 선수들에게 직업 교육 등을 지원하는 구단이 많아지고 있다. ㉣",
+    "passage_template": "운동선수들의 평균 은퇴 연령은 23.6세로 매우 젊은 편이다. ㉠ 그래서 지도자의 길을 걷는 소수의 선수를 제외하면 대부분의 선수들은 은퇴 후 새로운 직업을 찾아야 한다. ㉡ 하지만 선수들은 오랜 시간 운동에만 매진해 왔기 때문에 개개인이 은퇴 이후의 삶을 준비할 여력이 없다. ㉢ 이에 현역부터 선수들에게 직업 교육 등을 지원하는 구단이 많아지고 있다. ㉣",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R039",
+    "template_slot": 39,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": [],
+    "insert_sentence": "사회적으로도 이들을 위한 재교육의 장이 충분히 마련되어 있지 않다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢"
+  },
+  {
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "",
+    "image_url": "",
+    "points": 2,
+    "description": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "generated_exam_id": "reading-102-draft-31-40",
+    "interaction_mode": "sentence_insert",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 31~40번 검수용 초안",
+    "test_scope": "TOPIK II PBT 읽기 31~40번",
+    "time_limit_minutes": 20,
+    "draft_note": "스캔 PDF를 바탕으로 만든 검수용 초안입니다. 지문, 보기, 정답은 반드시 원문과 대조하세요.",
+    "id": "102-R040",
+    "source_pdf_page": 18,
+    "source_printed_page": "17",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문맥 흐름과 문장 위치 이해",
+    "question_zone": "Z07",
+    "original_question_number": 40,
+    "question_number": 40,
+    "target_slots": [
+      40
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "인간은 오랫동안 시간을 측정하는 방법을 찾기 위해 노력해 왔다. ㉠ 해시계, 물시계 등을 거쳐 기계식 시계가 개발되면서 정확한 시간의 측정이 가능해졌다. ㉡ 노동자들이 일정한 시간에 출퇴근하고 서로 다른 공간에서도 공동의 일을 동시에 할 수 있게 되었다. ㉢ 또한 출발과 도착 시간이 일정해야 하는 기차나 여객선 등의 대중교통 수단도 크게 발달하였다. ㉣ 오늘날 톱니바퀴처럼 돌아가는 우리의 일상이 다 시계의 지배를 받고 있는 것이다.",
+    "passage_template": "인간은 오랫동안 시간을 측정하는 방법을 찾기 위해 노력해 왔다. ㉠ 해시계, 물시계 등을 거쳐 기계식 시계가 개발되면서 정확한 시간의 측정이 가능해졌다. ㉡ 노동자들이 일정한 시간에 출퇴근하고 서로 다른 공간에서도 공동의 일을 동시에 할 수 있게 되었다. ㉢ 또한 출발과 도착 시간이 일정해야 하는 기차나 여객선 등의 대중교통 수단도 크게 발달하였다. ㉣ 오늘날 톱니바퀴처럼 돌아가는 우리의 일상이 다 시계의 지배를 받고 있는 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "source_bank_id": "102-R040",
+    "template_slot": 40,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": [],
+    "insert_sentence": "시간을 정확히 관리·통제할 수 있게 되면서 사회 전반에 획기적인 변화들이 나타나기 시작했다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉡"
+  }
+]
