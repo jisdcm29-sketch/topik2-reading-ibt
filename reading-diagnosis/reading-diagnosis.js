@@ -138,7 +138,9 @@ function validateReadingResult(data) {
 function buildDiagnosisReport(result) {
   const items = Array.isArray(result.items) ? result.items : [];
   const score = numberOrZero(result.section_score_100);
-  const level = getTopik2ReadingLevel(score);
+  const level = isLevelTestResult(result)
+    ? getTopik2LevelTestReadingLevel(score)
+    : getTopik2ReadingLevel(score);
 
   const categoryAnalysis = groupStats(items, "category");
   const diagnosticAnalysis = groupStats(items, "diagnostic_area");
@@ -255,6 +257,108 @@ function getTopik2ReadingLevel(score) {
     study_focus: "실전 속도 유지, 후반부 장문 근거 찾기, 오답 선택지 분석으로 점수를 안정화하세요."
   };
 }
+function isLevelTestResult(result) {
+  if (!result || typeof result !== "object") {
+    return false;
+  }
+
+  const mode = String(result.generated_exam_mode || "");
+  const label = String(result.generated_exam_label || "");
+  const scope = String(result.test_scope || "");
+
+  return (
+    mode.includes("level-test") ||
+    label.includes("레벨테스트") ||
+    scope.includes("레벨테스트")
+  );
+}
+
+function getTopik2LevelTestReadingLevel(score) {
+  const numericScore = numberOrZero(score);
+
+  if (numericScore < 40) {
+    return {
+      code: "LEVEL_TEST_BASIC_REVIEW",
+      title: "TOPIK II 읽기 기초 보완 필요",
+      range: "0~39점",
+      expected_level: "TOPIK II 읽기 기초 보완 단계",
+      stable_level: "3급 진입 전 준비 단계",
+      next_target_score: 40,
+      next_target_label: "3급 진입 가능권",
+      message: "대표 유형 20문항 기준으로 기본 문법·표현, 짧은 글 이해, 자료 읽기에서 보완이 필요합니다.",
+      study_focus: "초반 문법·표현, 자료 이해, 짧은 글 내용 일치 문항부터 다시 안정화하세요."
+    };
+  }
+
+  if (numericScore < 55) {
+    return {
+      code: "LEVEL_TEST_TOPIK2_LEVEL3_RANGE",
+      title: "TOPIK II 읽기 3급 진입 가능권",
+      range: "40~54점",
+      expected_level: "3급 진입 가능권",
+      stable_level: "기초 독해 가능, 중급 유형 보완 필요",
+      next_target_score: 55,
+      next_target_label: "4급 가능권",
+      message: "쉬운 유형은 해결할 수 있지만 공통 지문, 빈칸, 중·장문 유형에서 점수 손실이 있을 수 있습니다.",
+      study_focus: "문맥 추론, 공통 지문, 내용 일치 문항을 집중적으로 보완하세요."
+    };
+  }
+
+  if (numericScore < 70) {
+    return {
+      code: "LEVEL_TEST_TOPIK2_LEVEL4_RANGE",
+      title: "TOPIK II 읽기 4급 가능권",
+      range: "55~69점",
+      expected_level: "4급 가능권",
+      stable_level: "3급 안정권",
+      next_target_score: 70,
+      next_target_label: "5급 가능권",
+      message: "기본 독해는 가능하지만 문장 삽입, 필자 의도, 긴 지문 내용 일치에서 안정성이 더 필요합니다.",
+      study_focus: "중·장문에서 핵심어, 근거 문장, 선택지 함정을 비교하는 연습을 강화하세요."
+    };
+  }
+
+  if (numericScore < 85) {
+    return {
+      code: "LEVEL_TEST_TOPIK2_LEVEL5_RANGE",
+      title: "TOPIK II 읽기 5급 가능권",
+      range: "70~84점",
+      expected_level: "5급 가능권",
+      stable_level: "4급 안정권",
+      next_target_score: 85,
+      next_target_label: "6급 가능권",
+      message: "중상급 독해 능력이 있으나 후반부 장문과 추론형 선택지에서 실수를 줄여야 합니다.",
+      study_focus: "후반부 장문, 필자 의도·주장, 문장 삽입 유형을 중심으로 근거 찾기 훈련을 하세요."
+    };
+  }
+
+  return {
+    code: "LEVEL_TEST_TOPIK2_LEVEL6_RANGE",
+    title: "TOPIK II 읽기 6급 가능권",
+    range: "85~100점",
+    expected_level: "6급 가능권",
+    stable_level: "5급 이상 안정권",
+    next_target_score: 90,
+    next_target_label: "6급 고득점 안정권",
+    message: "대표 유형 20문항 기준으로 고급 독해가 가능하며, 실전에서는 시간 관리와 후반 장문 안정화가 중요합니다.",
+    study_focus: "50문항 전체 시험으로 실전 시간 관리와 후반부 고난도 지문 정확도를 확인하세요."
+  };
+}
+
+function getAnalysisQuestionNumber(item) {
+  const original = Number(item && (item.original_question_number || item.source_question_number));
+  const current = Number(item && item.question_number);
+
+  if (Number.isFinite(original) && original >= 1 && original <= 50) {
+    return original;
+  }
+
+  if (Number.isFinite(current)) {
+    return current;
+  }
+
+  return 0;
+}
 const READING_TYPE_CHART_DEFINITIONS = [
   {
     id: "T01",
@@ -337,7 +441,52 @@ const READING_TYPE_CHART_DEFINITIONS = [
     focus: "긴 지문의 세부 정보와 선택지 비교"
   }
 ];
+function inferReadingTypeChartIdByNumberFirst(item) {
+  const analysisNumber = getAnalysisQuestionNumber(item);
 
+  /*
+    TOPIK II 읽기 1~20번은 문항 위치별 유형이 고정되어 있다.
+    따라서 유형별 득점 그래프에서는 1~20번을 문항 번호 기준으로 먼저 분류한다.
+  */
+
+  if (analysisNumber >= 1 && analysisNumber <= 2) {
+    return "T01";
+  }
+
+  if (analysisNumber >= 3 && analysisNumber <= 4) {
+    return "T02";
+  }
+
+  if (analysisNumber >= 5 && analysisNumber <= 9) {
+    return "T03";
+  }
+
+  if (analysisNumber === 10) {
+    return "T04";
+  }
+
+  if (analysisNumber >= 11 && analysisNumber <= 12) {
+    return "T05";
+  }
+
+  if (analysisNumber >= 13 && analysisNumber <= 15) {
+    return "T06";
+  }
+
+  if (analysisNumber >= 16 && analysisNumber <= 18) {
+    return "T07";
+  }
+
+  if (analysisNumber === 19) {
+    return "T08";
+  }
+
+  if (analysisNumber === 20) {
+    return "T09";
+  }
+
+  return inferReadingTypeChartId(item);
+}
 function makeReadingTypeChartAnalysis(items) {
   const map = new Map();
 
@@ -357,7 +506,7 @@ function makeReadingTypeChartAnalysis(items) {
   });
 
   items.forEach(function (item) {
-    const typeId = inferReadingTypeChartId(item);
+    const typeId = inferReadingTypeChartIdByNumberFirst(item);
     const definition = READING_TYPE_CHART_DEFINITIONS.find(function (entry) {
       return entry.id === typeId;
     });
@@ -405,90 +554,181 @@ function makeReadingTypeChartAnalysis(items) {
 }
 
 function inferReadingTypeChartId(item) {
-  const n = Number(item.question_number);
-  const text = [
-    item.type || "",
-    item.category || "",
-    item.diagnostic_area || "",
-    item.description || ""
+  const analysisNumber = getAnalysisQuestionNumber(item);
+
+  const type = String(item.type || "");
+  const category = String(item.category || "");
+  const diagnosticArea = String(item.diagnostic_area || "");
+  const levelTestLabel = String(item.level_test_type_label || "");
+
+  const mainText = [
+    type,
+    category,
+    diagnosticArea,
+    levelTestLabel
   ].join(" ");
 
-  if (n >= 1 && n <= 2) return "T01";
-  if (n >= 3 && n <= 4) return "T02";
+  /*
+    102회 검수용 1~20번과 TOPIK II 기본 1~20번은
+    문항 번호별 유형 위치가 명확하다.
+    따라서 description이나 category에 섞인 단어보다
+    원래 문항 번호를 먼저 기준으로 유형별 그래프를 분류한다.
+  */
 
-  if (n >= 5 && n <= 8) {
-    if (/표|그래프|자료/.test(text)) {
-      return "T04";
-    }
+  if (analysisNumber >= 1 && analysisNumber <= 2) return "T01";
+  if (analysisNumber >= 3 && analysisNumber <= 4) return "T02";
 
+  if (analysisNumber >= 5 && analysisNumber <= 9) {
     return "T03";
   }
 
-  if (n >= 9 && n <= 12) {
-    if (/표|그래프|자료|이미지/.test(text)) {
-      return "T04";
-    }
+  if (analysisNumber === 10) {
+    return "T04";
+  }
 
+  if (analysisNumber >= 11 && analysisNumber <= 12) {
     return "T05";
   }
 
-  if (n >= 13 && n <= 15) return "T06";
-  if (n >= 16 && n <= 18) return "T07";
+  if (analysisNumber >= 13 && analysisNumber <= 15) {
+    return "T06";
+  }
 
-  if (n === 19) return "T08";
-  if (n === 20) return "T09";
+  if (analysisNumber >= 16 && analysisNumber <= 18) {
+    return "T07";
+  }
 
-  if (n >= 21 && n <= 24) {
-    if (/심정|감정|기분|태도/.test(text)) {
+  if (analysisNumber === 19) {
+    return "T08";
+  }
+
+  if (analysisNumber === 20) {
+    return "T09";
+  }
+
+  /*
+    21번 이후는 유형명과 진단 영역을 함께 보고 보정한다.
+  */
+
+  if (/sentence_insert|문장 삽입|삽입 위치|위치 판단/.test(mainText)) {
+    return "T15";
+  }
+
+  if (/headline|신문 제목|기사 제목|제목의 핵심|제목/.test(mainText)) {
+    return "T12";
+  }
+
+  if (/공통 지문 빈칸|common_passage_blank|공통.*빈칸/.test(mainText)) {
+    return "T08";
+  }
+
+  if (/짧은 공통 지문의 주제|공통 지문 주제|공통.*주제/.test(mainText)) {
+    return "T09";
+  }
+
+  if (/심정|감정|기분/.test(mainText)) {
+    return "T10";
+  }
+
+  if (/긴 지문 내용 일치|long.*detail|긴 지문.*세부|긴 지문의 세부/.test(mainText)) {
+    return "T16";
+  }
+
+  if (/sentence_order|문장 순서|문장 배열|배열|시간 흐름과 인과 관계/.test(mainText)) {
+    return "T06";
+  }
+
+  if (/similar_expression|유사 표현|밑줄 친 표현의 의미|밑줄/.test(mainText)) {
+    return "T02";
+  }
+
+  if (/blank_choice|long_blank_choice|빈칸|문맥에 맞는 연결 표현|문맥에 맞는 명사구|문맥에 맞는.*표현/.test(mainText)) {
+    return "T07";
+  }
+
+  if (/visual_topic|이미지|광고|안내문 목적|목적 및 대상|안전 안내|자료 이해|자료.*목적|대상 파악/.test(mainText)) {
+    return "T03";
+  }
+
+  if (/same_content_visual|안내문 세부|자료.*세부|안내문.*세부/.test(mainText)) {
+    return "T03";
+  }
+
+  if (/same_content_graph|graph|그래프|표|자료.*비교|자료·그래프|그래프 정보 비교/.test(mainText)) {
+    return "T04";
+  }
+
+  if (/필자 의도|필자의 태도|주장|태도/.test(mainText)) {
+    return "T14";
+  }
+
+  if (/목적/.test(mainText) && !/광고|안내문|목적 및 대상|대상 파악/.test(mainText)) {
+    return "T14";
+  }
+
+  if (/중심 내용|주제 파악|중심 생각|학술 설명문의 중심/.test(mainText)) {
+    return "T13";
+  }
+
+  if (/서사|사건 전개|인물 행동/.test(mainText)) {
+    return "T11";
+  }
+
+  if (/same_content|내용 일치|세부 내용/.test(mainText)) {
+    return "T05";
+  }
+
+  if (analysisNumber >= 21 && analysisNumber <= 24) {
+    if (/심정|감정|기분|태도/.test(mainText)) {
       return "T10";
     }
 
     return "T11";
   }
 
-  if (n >= 25 && n <= 27) return "T12";
+  if (analysisNumber >= 25 && analysisNumber <= 27) return "T12";
 
-  if (n >= 28 && n <= 31) {
-    if (/의도|주장|태도|목적/.test(text)) {
+  if (analysisNumber >= 28 && analysisNumber <= 31) {
+    if (/의도|주장|태도|목적/.test(mainText)) {
       return "T14";
     }
 
     return "T13";
   }
 
-  if (n >= 32 && n <= 34) return "T05";
+  if (analysisNumber >= 32 && analysisNumber <= 34) return "T05";
 
-  if (n >= 35 && n <= 38) {
-    if (/내용 일치|세부|정보/.test(text)) {
+  if (analysisNumber >= 35 && analysisNumber <= 38) {
+    if (/내용 일치|세부|정보/.test(mainText)) {
       return "T05";
     }
 
-    return "T14";
+    return "T13";
   }
 
-  if (n >= 39 && n <= 41) return "T15";
+  if (analysisNumber >= 39 && analysisNumber <= 41) return "T15";
 
-  if (n >= 42 && n <= 43) {
-    if (/심정|감정|기분|태도/.test(text)) {
+  if (analysisNumber >= 42 && analysisNumber <= 43) {
+    if (/심정|감정|기분|태도/.test(mainText)) {
       return "T10";
     }
 
     return "T11";
   }
 
-  if (n >= 44 && n <= 47) {
-    if (/의도|주장|태도|목적/.test(text)) {
+  if (analysisNumber >= 44 && analysisNumber <= 47) {
+    if (/의도|주장|태도|목적/.test(mainText)) {
       return "T14";
     }
 
-    if (/중심|주제/.test(text)) {
+    if (/중심|주제/.test(mainText)) {
       return "T13";
     }
 
     return "T05";
   }
 
-  if (n >= 48 && n <= 50) return "T16";
+  if (analysisNumber >= 48 && analysisNumber <= 50) return "T16";
 
   return "T05";
 }
@@ -539,7 +779,19 @@ function makeZoneAnalysis(items) {
   const map = new Map();
 
   items.forEach((item) => {
-    const zoneId = item.question_zone || inferZoneIdByQuestionNumber(item.question_number);
+        const analysisNumber = getAnalysisQuestionNumber(item);
+
+    /*
+      진단 보고서의 문항 구간은 JSON 안의 question_zone 값보다
+      실제 TOPIK II 읽기 문항 번호를 우선한다.
+
+      이유:
+      - 31번이 25~27번 신문 제목 구간에 잘못 들어가는 문제 방지
+      - 44~50번이 미분류 구간으로 빠지는 문제 방지
+      - 102회, 103회, 이후 회차 모두 1~50번 위치 기준으로 구간 분석
+    */
+    const zoneId = inferZoneIdByQuestionNumber(analysisNumber);
+
     const info = zoneInfo[zoneId] || {
       label: "미분류 구간",
       range: "-",
@@ -713,7 +965,36 @@ function makeWeaknessList(categoryAnalysis, diagnosticAnalysis, zoneAnalysis) {
     zoneWeaknesses
   };
 }
+function getPriorityWeakZones(zoneAnalysis, limit) {
+  return (zoneAnalysis || [])
+    .filter(function (stat) {
+      return numberOrZero(stat.wrong) > 0;
+    })
+    .sort(function (a, b) {
+      const wrongDiff = numberOrZero(b.wrong) - numberOrZero(a.wrong);
 
+      if (wrongDiff !== 0) {
+        return wrongDiff;
+      }
+
+      const accuracyDiff = numberOrZero(a.accuracy) - numberOrZero(b.accuracy);
+
+      if (accuracyDiff !== 0) {
+        return accuracyDiff;
+      }
+
+      const pointLossA = numberOrZero(a.points_possible) - numberOrZero(a.points_earned);
+      const pointLossB = numberOrZero(b.points_possible) - numberOrZero(b.points_earned);
+      const pointLossDiff = pointLossB - pointLossA;
+
+      if (pointLossDiff !== 0) {
+        return pointLossDiff;
+      }
+
+      return zoneOrder(a.zone_id) - zoneOrder(b.zone_id);
+    })
+    .slice(0, limit);
+}
 function makePrescriptions(context) {
   const result = context.result;
   const level = context.level;
@@ -725,6 +1006,7 @@ function makePrescriptions(context) {
 
   const totalQuestions = Number(result.total_questions || 0);
   const isFullSet = totalQuestions >= 50;
+  const isLevelTest = isLevelTestResult(result);
   const prescriptions = [];
 
   prescriptions.push({
@@ -736,7 +1018,55 @@ function makePrescriptions(context) {
       level.study_focus
     ].join(" ")
   });
+    if (!isFullSet && isLevelTest) {
+    prescriptions.push({
+      title: "레벨테스트 결과 해석 안내",
+      body: [
+        `현재 결과는 TOPIK II 읽기 50문항 전체 시험이 아니라 ${totalQuestions}문항 레벨테스트입니다.`,
+        "이 결과는 대표 유형별 약점과 현재 읽기 수준을 빠르게 확인하기 위한 참고 자료입니다.",
+        "공식 급수나 최종 실전 점수는 듣기·쓰기·읽기를 포함한 전체 시험 또는 50문항 읽기 시험에서 더 정확하게 판단해야 합니다."
+      ].join(" ")
+    });
 
+    const weakCategoriesForLevelTest = categoryAnalysis
+      .filter((stat) => stat.wrong > 0)
+      .slice(0, 3);
+
+    weakCategoriesForLevelTest.forEach((stat) => {
+      prescriptions.push(prescriptionForCategory(stat, problemItems));
+    });
+
+    const weakZonesForLevelTest = getPriorityWeakZones(zoneAnalysis, 2);
+
+    weakZonesForLevelTest.forEach((stat) => {
+      prescriptions.push(prescriptionForZone(stat));
+    });
+
+    if (unansweredItems.length > 0) {
+      prescriptions.push({
+        title: "레벨테스트 미응답 관리 처방",
+        body: [
+          `미응답 문항은 ${makeQuestionListText(unansweredItems.map((item) => item.question_number))}입니다.`,
+          "20문항 레벨테스트에서 미응답이 생겼다면 시간 부족보다 특정 유형을 읽는 순서가 불안정한지 먼저 확인해야 합니다.",
+          "다음 응시에서는 어려운 문항에 오래 머물지 말고 표시 후 넘어간 뒤 마지막에 다시 확인하세요."
+        ].join(" ")
+      });
+    }
+
+    prescriptions.push({
+      title: "레벨테스트 이후 2주 학습 계획",
+      body: [
+        "1~3일차: 오답과 미응답 문항을 다시 풀고 정답 근거 문장을 표시합니다.",
+        "4~6일차: 점수가 낮은 유형을 같은 유형끼리 묶어 다시 풉니다.",
+        "7일차: 레벨테스트 20문항을 시간 제한 없이 다시 풀며 지문 구조를 분석합니다.",
+        "8~10일차: 약한 유형과 같은 원래 번호대의 50문항 시험 문제를 추가로 풉니다.",
+        "11~13일차: 50문항 실전 시험을 70분 제한으로 풀어 봅니다.",
+        `14일차: ${level.next_target_score}점 이상을 목표로 레벨테스트 또는 50문항 시험을 다시 응시합니다.`
+      ].join(" ")
+    });
+
+    return prescriptions;
+  }
   if (!isFullSet) {
     prescriptions.push({
       title: "샘플 문항 결과 해석 주의",
@@ -755,9 +1085,7 @@ function makePrescriptions(context) {
       prescriptions.push(prescriptionForCategory(stat, problemItems));
     });
 
-        const weakZonesForSample = zoneAnalysis
-      .filter((stat) => stat.wrong > 0)
-      .slice(0, 1);
+    const weakZonesForSample = getPriorityWeakZones(zoneAnalysis, 1);
 
     weakZonesForSample.forEach((stat) => {
       prescriptions.push(prescriptionForZone(stat));
@@ -794,9 +1122,7 @@ function makePrescriptions(context) {
     prescriptions.push(prescriptionForDiagnosticArea(stat, problemItems));
   });
 
-  const weakZones = zoneAnalysis
-    .filter((stat) => stat.wrong > 0)
-    .slice(0, 3);
+    const weakZones = getPriorityWeakZones(zoneAnalysis, 3);
 
   weakZones.forEach((stat) => {
     prescriptions.push(prescriptionForZone(stat));
@@ -1066,14 +1392,14 @@ function renderWrongReviewResultReport(report) {
     loadPanel.classList.add("hidden");
   }
 }
-
 function renderReport(report) {
   const result = report.source;
   const level = report.level;
   const isFullSet = Boolean(result.is_full_50_question_set);
+  const isLevelTest = isLevelTestResult(result);
   els.reportPaper.innerHTML = `
     <div class="report-title">
-      <h2>TOPIK II 읽기 진단 보고서</h2>
+      <h2>${isLevelTest ? "TOPIK II 읽기 레벨테스트 진단 보고서" : "TOPIK II 읽기 진단 보고서"}</h2>
       <p>${escapeHtml(result.test_name || "TOPIK II Reading")} · ${escapeHtml(result.test_scope || "TOPIK II PBT Reading 1-50")}</p>
     </div>
 
@@ -1112,14 +1438,22 @@ function renderReport(report) {
       이 결과만으로 공식 급수를 확정할 수 없습니다.
     </div>
 
-    ${
+       ${
       isFullSet
         ? ""
-        : `<div class="notice">
-            <strong>샘플 결과 주의</strong><br />
-            현재 결과는 전체 50문항이 아니라 ${numberOrZero(result.total_questions)}문항 기준입니다.
-            화면 기능과 진단 구조 확인용으로 사용하고, 실제 예상 급수는 1~50번 전체 문항 입력 후 판단하세요.
-          </div>`
+        : isLevelTest
+          ? `<div class="notice">
+              <strong>레벨테스트 결과 안내</strong><br />
+              이 결과는 TOPIK II 읽기 50문항 전체 시험 결과가 아니라
+              ${numberOrZero(result.total_questions)}문항 레벨테스트 결과입니다.
+              예상 수준과 약점 진단은 참고용이며,
+              전체 실전 점수는 50문항 시험에서 더 정확하게 확인할 수 있습니다.
+            </div>`
+          : `<div class="notice">
+              <strong>샘플 결과 주의</strong><br />
+              현재 결과는 전체 50문항이 아니라 ${numberOrZero(result.total_questions)}문항 기준입니다.
+              화면 기능과 진단 구조 확인용으로 사용하고, 실제 예상 급수는 1~50번 전체 문항 입력 후 판단하세요.
+            </div>`
     }
 
     <h3 class="section-title">시험 정보</h3>
@@ -1520,7 +1854,7 @@ function renderStrengths(strengths) {
   });
 
   if (!tags.length) {
-    return `<p>현재 샘플 기준으로 뚜렷한 강점 영역이 아직 확인되지 않았습니다. 전체 50문항 결과에서 더 정확하게 분석합니다.</p>`;
+    return `<p>현재 결과 기준으로 뚜렷한 강점 영역이 아직 확인되지 않았습니다. 전체 50문항 시험에서는 더 넓은 범위로 강점 영역을 확인할 수 있습니다.</p>`;
   }
 
   return `<p>${tags.join(" ")}</p>`;
@@ -1530,6 +1864,7 @@ function renderWeaknesses(weaknesses, result) {
   const tags = [];
   const totalQuestions = Number(result && result.total_questions ? result.total_questions : 0);
   const isFullSet = totalQuestions >= 50;
+  const isLevelTest = isLevelTestResult(result);
 
   const categoryLimit = isFullSet ? 5 : 3;
   const diagnosticLimit = isFullSet ? 8 : 2;
@@ -1555,12 +1890,15 @@ function renderWeaknesses(weaknesses, result) {
     return `<p>오답 또는 미응답이 없거나 약점 영역이 확인되지 않았습니다.</p>`;
   }
 
-  if (!isFullSet) {
+   if (!isFullSet) {
     return `
       <p>${tags.join(" ")}</p>
       <p class="small-report-note">
-        현재 약점 영역은 샘플 ${totalQuestions}문항 기준으로 간략 표시한 것입니다.
-        전체 50문항 결과에서는 더 많은 약점 영역을 세부적으로 표시합니다.
+        ${
+          isLevelTest
+            ? `현재 약점 영역은 레벨테스트 ${totalQuestions}문항 기준으로 표시한 것입니다. 대표 유형별 약점 확인에는 유용하지만, 전체 실전 점수는 50문항 시험에서 더 정확하게 판단할 수 있습니다.`
+            : `현재 약점 영역은 샘플 ${totalQuestions}문항 기준으로 간략 표시한 것입니다. 전체 50문항 결과에서는 더 많은 약점 영역을 세부적으로 표시합니다.`
+        }
       </p>
     `;
   }
