@@ -2514,29 +2514,106 @@ function normalizeTextForCompare(value) {
 }
 function removeQuestionGroupPrefix(text) {
   return String(text || "")
-    .replace(/^\s*\[\s*\d+\s*~\s*\d+\s*\]\s*/, "")
+    .replace(/^\s*\[\s*\d+\s*(?:~|-|–|—)\s*\d+\s*번?\s*\]\s*/, "")
+    .replace(/^\s*\[\s*\d+\s*번?\s*\]\s*/, "")
     .trim();
 }
-function getDisplayInstructionForCurrentMode(question) {
-  const instruction = String(question && question.instruction || "").trim();
 
-  if (!instruction) {
-    return "";
+function getCurrentDisplayQuestionNumbers(question) {
+  const currentNumber = Number(question && question.question_number || currentIndex + 1);
+
+  const fallbackNumbers = Number.isFinite(currentNumber) && currentNumber > 0
+    ? [currentNumber]
+    : [currentIndex + 1];
+
+  const groupId = String(question && question.passage_group_id || "").trim();
+
+  /*
+    공통 지문 세트는 현재 로드된 시험지 안에서 같은 passage_group_id를 가진
+    문항들의 question_number를 기준으로 표시한다.
+
+    이렇게 해야 레벨테스트에서 원본 번호 [19~20번]이 아니라
+    현재 화면 번호 [9~10번]처럼 표시된다.
+  */
+  if (groupId && Array.isArray(questions)) {
+    const groupNumbers = questions
+      .filter(function (item) {
+        return String(item.passage_group_id || "").trim() === groupId;
+      })
+      .map(function (item) {
+        return Number(item.question_number);
+      })
+      .filter(function (number) {
+        return Number.isFinite(number) && number > 0;
+      })
+      .filter(function (number, index, array) {
+        return array.indexOf(number) === index;
+      })
+      .sort(function (a, b) {
+        return a - b;
+      });
+
+    if (groupNumbers.length > 1) {
+      return groupNumbers;
+    }
   }
 
   /*
-    레벨테스트는 원본 50문항 시험의 일부 문항을
-    1~20번으로 다시 배치해서 보여 준다.
-
-    따라서 상단 지시문에 남아 있는 원본 번호대
-    예: [13~15], [19~24], [42~50]
-    는 학생 화면에서 제거한다.
+    passage_group_numbers가 현재 시험지 번호와 맞을 때만 사용한다.
+    레벨테스트에서는 passage_group_numbers에 원본 50문항 번호가 남아 있을 수 있으므로
+    현재 문항 번호를 포함하지 않으면 사용하지 않는다.
   */
-  if (isCurrentLevelTestMode()) {
-    return removeQuestionGroupPrefix(instruction);
+  if (Array.isArray(question && question.passage_group_numbers)) {
+    const directNumbers = question.passage_group_numbers
+      .map(function (number) {
+        return Number(number);
+      })
+      .filter(function (number) {
+        return Number.isFinite(number) && number > 0;
+      })
+      .filter(function (number, index, array) {
+        return array.indexOf(number) === index;
+      })
+      .sort(function (a, b) {
+        return a - b;
+      });
+
+    if (
+      directNumbers.length > 1 &&
+      directNumbers.includes(currentNumber)
+    ) {
+      return directNumbers;
+    }
   }
 
-  return instruction;
+  return fallbackNumbers;
+}
+
+function getDisplayQuestionNumberLabel(question) {
+  const numbers = getCurrentDisplayQuestionNumbers(question);
+
+  if (numbers.length > 1) {
+    return `[${numbers[0]}~${numbers[numbers.length - 1]}번]`;
+  }
+
+  return `[${numbers[0]}번]`;
+}
+
+function getDisplayInstructionForCurrentMode(question) {
+  const instruction = String(question && question.instruction || "").trim();
+  const displayLabel = getDisplayQuestionNumberLabel(question);
+
+  /*
+    기존 지시문에 [13~15], [19~20번], [1번] 같은 번호가 있으면 먼저 제거한다.
+    그다음 현재 시험 화면 기준 번호를 다시 붙인다.
+  */
+  const cleanInstruction = removeQuestionGroupPrefix(instruction || "물음에 답하십시오.");
+
+  if (!cleanInstruction) {
+    return `${displayLabel} 물음에 답하십시오.`;
+  }
+
+  return `${displayLabel} ${cleanInstruction}`;
 }
 function getQuestionPromptForPanel(question) {
   const questionText = String(question.question || "").trim();
@@ -2602,22 +2679,76 @@ function isNewspaperHeadlinePassageQuestion(question) {
   );
 }
 
-function applyQuestionSpecificPassageStyle(question) {
-   const questionNumber = Number(question.question_number || 0);
+function getSourceQuestionNumberForDisplayStyle(question) {
+  const candidates = [
+    question && question.original_question_number,
+    question && question.template_slot,
+    question && question.question_number
+  ];
 
-  if (questionNumber === 42 || questionNumber === 43) {
+  for (const value of candidates) {
+    const number = Number(value);
+    if (Number.isFinite(number) && number > 0) {
+      return number;
+    }
+  }
+
+  return 0;
+}
+
+function hasSourceQuestionNumberInRange(question, start, end) {
+  const sourceNumber = getSourceQuestionNumberForDisplayStyle(question);
+
+  if (sourceNumber >= start && sourceNumber <= end) {
+    return true;
+  }
+
+  const groupNumbers = Array.isArray(question && question.passage_group_numbers)
+    ? question.passage_group_numbers.map(Number)
+    : [];
+
+  if (groupNumbers.some((number) => number >= start && number <= end)) {
+    return true;
+  }
+
+  const titleText = [
+    question && question.passage_group_title,
+    question && question.instruction,
+    question && question.generated_exam_label
+  ].map((value) => String(value || "")).join(" ");
+
+  return (
+    titleText.includes(`${start}~${end}`) ||
+    titleText.includes(`${start}-${end}`)
+  );
+}
+
+function isLongNarrativePassageForDisplay(question) {
+  /*
+    레벨테스트 랜덤에서는 102회 42~43번이 18번처럼 다시 번호가 매겨질 수 있다.
+    따라서 화면 표시 번호(question_number)가 아니라
+    original_question_number, template_slot, passage_group_numbers를 함께 확인한다.
+  */
+  return hasSourceQuestionNumberInRange(question, 42, 43);
+}
+
+function applyQuestionSpecificPassageStyle(question) {
+  if (isLongNarrativePassageForDisplay(question)) {
     const passageContent = elements.questionStage.querySelector(".passage-panel .passage-content");
 
     if (passageContent) {
-      passageContent.style.setProperty("padding", "18px 24px 24px 24px");
+      passageContent.style.setProperty("padding", "14px 22px 20px 22px");
       passageContent.style.setProperty("font-size", "18px");
-      passageContent.style.setProperty("line-height", "1.75");
+      passageContent.style.setProperty("line-height", "1.55");
       passageContent.style.setProperty("white-space", "pre-line");
-      passageContent.style.setProperty("max-height", "calc(100vh - 300px)");
+      passageContent.style.setProperty("max-height", "calc(100vh - 275px)");
+      passageContent.style.setProperty("overflow-y", "auto");
+      passageContent.style.setProperty("word-break", "keep-all");
     }
 
     return;
   }
+
   if (!isNewspaperHeadlinePassageQuestion(question)) {
     return;
   }
@@ -2683,17 +2814,17 @@ function renderStandardQuestion(question) {
     bindOptionButtons(question);
   applyQuestionSpecificPassageStyle(question);
 }
-function normalizeLongNarrativePassageSpacing(question, source) {
-  const number = Number(question.question_number || 0);
 
-  if (number !== 42 && number !== 43) {
+function normalizeLongNarrativePassageSpacing(question, source) {
+  if (!isLongNarrativePassageForDisplay(question)) {
     return source;
   }
 
   return String(source || "")
-    .replace(/\n{2,}/g, "\n")
+    .replace(/\r\n/g, "\n")
     .replace(/[ \t]+\n/g, "\n")
     .replace(/\n[ \t]+/g, "\n")
+    .replace(/\n{2,}/g, "\n")
     .trim();
 }
 function renderPassageHtml(question) {
