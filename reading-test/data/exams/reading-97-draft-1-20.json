@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "T2-97-R001",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 오래전에 해외에서 봉사 활동을 (     ).",
+    "passage_template": "나는 오래전에 해외에서 봉사 활동을 (     ).",
+    "options": [
+      {
+        "number": 1,
+        "text": "하면 된다"
+      },
+      {
+        "number": 2,
+        "text": "하는 중이다"
+      },
+      {
+        "number": 3,
+        "text": "하는 편이다"
+      },
+      {
+        "number": 4,
+        "text": "한 적이 있다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "하면 된다"
+      },
+      {
+        "number": 2,
+        "text": "하는 중이다"
+      },
+      {
+        "number": 3,
+        "text": "하는 편이다"
+      },
+      {
+        "number": 4,
+        "text": "한 적이 있다"
+      }
+    ],
+    "options_text": [
+      "하면 된다",
+      "하는 중이다",
+      "하는 편이다",
+      "한 적이 있다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "오래전에 경험한 일을 나타내므로 경험 표현 '한 적이 있다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 1
+  },
+  {
+    "id": "T2-97-R002",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 2,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "지금 (     ) 졸업식에 늦지 않게 도착할 수 있다.",
+    "passage_template": "지금 (     ) 졸업식에 늦지 않게 도착할 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "출발해야"
+      },
+      {
+        "number": 2,
+        "text": "출발하자"
+      },
+      {
+        "number": 3,
+        "text": "출발하다가"
+      },
+      {
+        "number": 4,
+        "text": "출발하더니"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "출발해야"
+      },
+      {
+        "number": 2,
+        "text": "출발하자"
+      },
+      {
+        "number": 3,
+        "text": "출발하다가"
+      },
+      {
+        "number": 4,
+        "text": "출발하더니"
+      }
+    ],
+    "options_text": [
+      "출발해야",
+      "출발하자",
+      "출발하다가",
+      "출발하더니"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "늦지 않게 도착하기 위한 조건을 나타내므로 '출발해야'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 2
+  },
+  {
+    "id": "T2-97-R003",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "아기가 넘어질까 봐 옆에서 붙잡아 주었다.",
+    "passage_template": "아기가 넘어질까 봐 옆에서 붙잡아 주었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "넘어진 데다가"
+      },
+      {
+        "number": 2,
+        "text": "넘어질 정도로"
+      },
+      {
+        "number": 3,
+        "text": "넘어지다 보면"
+      },
+      {
+        "number": 4,
+        "text": "넘어질 것 같아서"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "넘어진 데다가"
+      },
+      {
+        "number": 2,
+        "text": "넘어질 정도로"
+      },
+      {
+        "number": 3,
+        "text": "넘어지다 보면"
+      },
+      {
+        "number": 4,
+        "text": "넘어질 것 같아서"
+      }
+    ],
+    "options_text": [
+      "넘어진 데다가",
+      "넘어질 정도로",
+      "넘어지다 보면",
+      "넘어질 것 같아서"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "'넘어질까 봐'는 넘어질 것 같아서 걱정하거나 예방하는 의미입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 3,
+    "underline_targets": [
+      "넘어질까 봐"
+    ]
+  },
+  {
+    "id": "T2-97-R004",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 4,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "그 사람은 고개를 끄덕이며 말없이 내 말을 듣기만 했다.",
+    "passage_template": "그 사람은 고개를 끄덕이며 말없이 내 말을 듣기만 했다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "들을 만했다"
+      },
+      {
+        "number": 2,
+        "text": "들을 뻔했다"
+      },
+      {
+        "number": 3,
+        "text": "들을 뿐이었다"
+      },
+      {
+        "number": 4,
+        "text": "들을 걸 그랬다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "들을 만했다"
+      },
+      {
+        "number": 2,
+        "text": "들을 뻔했다"
+      },
+      {
+        "number": 3,
+        "text": "들을 뿐이었다"
+      },
+      {
+        "number": 4,
+        "text": "들을 걸 그랬다"
+      }
+    ],
+    "options_text": [
+      "들을 만했다",
+      "들을 뻔했다",
+      "들을 뿐이었다",
+      "들을 걸 그랬다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "'듣기만 했다'는 다른 행동 없이 듣는 것만 했다는 뜻이므로 '들을 뿐이었다'가 의미상 가장 가깝습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 4,
+    "underline_targets": [
+      "듣기만 했다"
+    ]
+  },
+  {
+    "id": "T2-97-R005",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "치약"
+      },
+      {
+        "number": 4,
+        "text": "구두"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "치약"
+      },
+      {
+        "number": 4,
+        "text": "구두"
+      }
+    ],
+    "options_text": [
+      "비누",
+      "안경",
+      "치약",
+      "구두"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "입안, 닦아요, 딸기 향이라는 표현은 치약 광고의 내용입니다.",
+    "image_url": "./images/97_R005.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 5,
+    "image_only": true,
+    "image_alt_text": "입안 가득 퍼지는 딸기 향. 아이들도 잘 닦아요~"
+  },
+  {
+    "id": "T2-97-R006",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 6,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "공항"
+      },
+      {
+        "number": 2,
+        "text": "은행"
+      },
+      {
+        "number": 3,
+        "text": "미용실"
+      },
+      {
+        "number": 4,
+        "text": "도서관"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "공항"
+      },
+      {
+        "number": 2,
+        "text": "은행"
+      },
+      {
+        "number": 3,
+        "text": "미용실"
+      },
+      {
+        "number": 4,
+        "text": "도서관"
+      }
+    ],
+    "options_text": [
+      "공항",
+      "은행",
+      "미용실",
+      "도서관"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "출국과 입국을 빠르고 편리하게 돕는 곳이므로 공항에 대한 글입니다.",
+    "image_url": "./images/97_R006.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 6,
+    "image_only": true,
+    "image_alt_text": "여행의 설렘이 두 배가 되는 곳! 출국과 입국 시 빠르고 편리하게 모시겠습니다."
+  },
+  {
+    "id": "T2-97-R007",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 7,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "전기 절약"
+      },
+      {
+        "number": 2,
+        "text": "자연 보호"
+      },
+      {
+        "number": 3,
+        "text": "화재 예방"
+      },
+      {
+        "number": 4,
+        "text": "건강 관리"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "전기 절약"
+      },
+      {
+        "number": 2,
+        "text": "자연 보호"
+      },
+      {
+        "number": 3,
+        "text": "화재 예방"
+      },
+      {
+        "number": 4,
+        "text": "건강 관리"
+      }
+    ],
+    "options_text": [
+      "전기 절약",
+      "자연 보호",
+      "화재 예방",
+      "건강 관리"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "안 쓰는 제품의 전원을 끄자는 내용이므로 전기 절약에 대한 글입니다.",
+    "image_url": "./images/97_R007.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 7,
+    "image_only": true,
+    "image_alt_text": "소중한 에너지를 지키기 위한 첫걸음. 안 쓰는 제품은 전원 끄기!"
+  },
+  {
+    "id": "T2-97-R008",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "안전 안내문의 목적 파악",
+    "original_question_number": 8,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "문의 방법"
+      },
+      {
+        "number": 2,
+        "text": "사용 설명"
+      },
+      {
+        "number": 3,
+        "text": "안전 규칙"
+      },
+      {
+        "number": 4,
+        "text": "접수 안내"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "문의 방법"
+      },
+      {
+        "number": 2,
+        "text": "사용 설명"
+      },
+      {
+        "number": 3,
+        "text": "안전 규칙"
+      },
+      {
+        "number": 4,
+        "text": "접수 안내"
+      }
+    ],
+    "options_text": [
+      "문의 방법",
+      "사용 설명",
+      "안전 규칙",
+      "접수 안내"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "놀이기구 이용 중 지켜야 할 안전 행동을 안내하므로 안전 규칙에 대한 글입니다.",
+    "image_url": "./images/97_R008.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 8,
+    "image_only": true,
+    "image_alt_text": "놀이기구가 운행 중일 때는 노란 선 밖에서 기다려 주십시오. 놀이기구가 완전히 멈출 때까지 자리에서 일어나지 마십시오."
+  },
+  {
+    "id": "T2-97-R009",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "주말 오후에 평가회를 한다."
+      },
+      {
+        "number": 2,
+        "text": "평가에 참여한 사람에게 상품권을 준다."
+      },
+      {
+        "number": 3,
+        "text": "미리 예약하면 평가회에 참여할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "주말 오후에 평가회를 한다."
+      },
+      {
+        "number": 2,
+        "text": "평가에 참여한 사람에게 상품권을 준다."
+      },
+      {
+        "number": 3,
+        "text": "미리 예약하면 평가회에 참여할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+      }
+    ],
+    "options_text": [
+      "주말 오후에 평가회를 한다.",
+      "평가에 참여한 사람에게 상품권을 준다.",
+      "미리 예약하면 평가회에 참여할 수 있다.",
+      "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "안내문에 참여자에게 하나피자 3만 원 상품권을 준다고 되어 있습니다.",
+    "image_url": "./images/97_R009.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 9,
+    "image_only": true,
+    "image_alt_text": "하나피자 신메뉴 평가회. 새로운 메뉴를 제일 먼저 맛보고 평가해 주세요. 대상: 피자를 좋아하는 사람 누구나. 일시: 2024년 11월 26일(화) 19:00. 장소: 하나피자 본점. 참여 방법: 선착순 50명(예약은 받지 않음). 참여자에게 하나피자 3만 원 상품권 증정."
+  },
+  {
+    "id": "T2-97-R010",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "외국어 공부를 계획하고 있는 학생이 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "자격증 취득보다 여행을 계획 중인 학생이 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다."
+      },
+      {
+        "number": 4,
+        "text": "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "외국어 공부를 계획하고 있는 학생이 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "자격증 취득보다 여행을 계획 중인 학생이 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다."
+      },
+      {
+        "number": 4,
+        "text": "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+      }
+    ],
+    "options_text": [
+      "외국어 공부를 계획하고 있는 학생이 가장 많다.",
+      "자격증 취득보다 여행을 계획 중인 학생이 더 적다.",
+      "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다.",
+      "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "그래프에서 여행 11.5%는 자격증 취득 16.8%보다 낮으므로 해당 진술이 맞습니다.",
+    "image_url": "./images/97_R010.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 10,
+    "image_only": true,
+    "image_alt_text": "대학생이 가장 중요하게 생각하는 방학 계획은? 아르바이트 31.2%, 외국어 공부 21.1%, 자격증 취득 16.8%, 외모 관리 12.9%, 여행 11.5%, 기타 6.5%. 조사 대상: 대학생 1,000명."
+  },
+  {
+    "id": "T2-97-R011",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시는 올해도 ‘찾아가는 교육’ 프로그램을 다음 달부터 운영한다고 밝혔다. 주민들이 원하는 시간에 원하는 장소로 강사가 찾아가 생활 스포츠, 악기 등을 교육하는 프로그램이다. 7명 이상의 주민이 모이면 신청이 가능하다. 이 프로그램은 모두 무료로 이루어지고 있어 매년 인주 시민들의 큰 호응을 얻고 있다.",
+    "passage_template": "인주시는 올해도 ‘찾아가는 교육’ 프로그램을 다음 달부터 운영한다고 밝혔다. 주민들이 원하는 시간에 원하는 장소로 강사가 찾아가 생활 스포츠, 악기 등을 교육하는 프로그램이다. 7명 이상의 주민이 모이면 신청이 가능하다. 이 프로그램은 모두 무료로 이루어지고 있어 매년 인주 시민들의 큰 호응을 얻고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "교육을 받으려면 돈을 내야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인원에 상관없이 교육을 신청할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주시는 올해 처음으로 이 프로그램을 진행한다."
+      },
+      {
+        "number": 4,
+        "text": "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "교육을 받으려면 돈을 내야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인원에 상관없이 교육을 신청할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주시는 올해 처음으로 이 프로그램을 진행한다."
+      },
+      {
+        "number": 4,
+        "text": "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+      }
+    ],
+    "options_text": [
+      "교육을 받으려면 돈을 내야 한다.",
+      "인원에 상관없이 교육을 신청할 수 있다.",
+      "인주시는 올해 처음으로 이 프로그램을 진행한다.",
+      "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "주민들이 원하는 시간과 장소로 강사가 찾아가 가르치는 프로그램이라고 했습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 11
+  },
+  {
+    "id": "T2-97-R012",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 12,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "지난 주말 인주시의 한 식당에서 화재가 발생했다. 소방차가 출동했지만 골목 입구에 주차된 자동차로 인해 화재 현장에 가까이 접근하기가 어려웠다. 이를 본 10여 명의 시민들이 주차된 차를 들어 옮겨 길을 열어 주었고 덕분에 소방차가 불을 끌 수 있었다. 인주시는 도움을 준 시민들에게 ‘모범 시민상’을 수여할 예정이라고 밝혔다.",
+    "passage_template": "지난 주말 인주시의 한 식당에서 화재가 발생했다. 소방차가 출동했지만 골목 입구에 주차된 자동차로 인해 화재 현장에 가까이 접근하기가 어려웠다. 이를 본 10여 명의 시민들이 주차된 차를 들어 옮겨 길을 열어 주었고 덕분에 소방차가 불을 끌 수 있었다. 인주시는 도움을 준 시민들에게 ‘모범 시민상’을 수여할 예정이라고 밝혔다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "시민들이 직접 화재 현장의 불을 껐다."
+      },
+      {
+        "number": 2,
+        "text": "주인이 와서 골목에 주차된 차를 옮겼다."
+      },
+      {
+        "number": 3,
+        "text": "주차되어 있던 차에서 갑자기 화재가 발생했다."
+      },
+      {
+        "number": 4,
+        "text": "시민들의 도움으로 소방차가 화재 현장에 다가갈 수 있었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "시민들이 직접 화재 현장의 불을 껐다."
+      },
+      {
+        "number": 2,
+        "text": "주인이 와서 골목에 주차된 차를 옮겼다."
+      },
+      {
+        "number": 3,
+        "text": "주차되어 있던 차에서 갑자기 화재가 발생했다."
+      },
+      {
+        "number": 4,
+        "text": "시민들의 도움으로 소방차가 화재 현장에 다가갈 수 있었다."
+      }
+    ],
+    "options_text": [
+      "시민들이 직접 화재 현장의 불을 껐다.",
+      "주인이 와서 골목에 주차된 차를 옮겼다.",
+      "주차되어 있던 차에서 갑자기 화재가 발생했다.",
+      "시민들의 도움으로 소방차가 화재 현장에 다가갈 수 있었다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "시민들이 주차된 차를 들어 옮겨 길을 열어 주어 소방차가 화재 현장에 접근할 수 있었습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 12
+  },
+  {
+    "id": "T2-97-R013",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(나)-(가)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(나)-(가)"
+      }
+    ],
+    "options_text": [
+      "(나)-(가)-(다)-(라)",
+      "(나)-(라)-(가)-(다)",
+      "(라)-(나)-(다)-(가)",
+      "(라)-(다)-(나)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "꽃다발을 산 뒤 아내에게 주고, 아내의 즐거운 모습을 본 뒤 앞으로 더 자주 선물하겠다고 생각하는 흐름입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 13,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "그런 모습을 보니 나도 덩달아 기분이 좋아졌다."
+      },
+      {
+        "label": "(나)",
+        "text": "퇴근하는 길에 거리에서 작은 꽃다발을 하나 샀다."
+      },
+      {
+        "label": "(다)",
+        "text": "앞으로는 아내에게 더 자주 꽃을 선물해야겠다는 생각이 들었다."
+      },
+      {
+        "label": "(라)",
+        "text": "집에 돌아와 아내에게 꽃다발을 내밀자 아내는 아이처럼 즐거워했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "그런 모습을 보니 나도 덩달아 기분이 좋아졌다."
+      },
+      {
+        "label": "(나)",
+        "text": "퇴근하는 길에 거리에서 작은 꽃다발을 하나 샀다."
+      },
+      {
+        "label": "(다)",
+        "text": "앞으로는 아내에게 더 자주 꽃을 선물해야겠다는 생각이 들었다."
+      },
+      {
+        "label": "(라)",
+        "text": "집에 돌아와 아내에게 꽃다발을 내밀자 아내는 아이처럼 즐거워했다."
+      }
+    ],
+    "correct_order": [
+      "(나)",
+      "(라)",
+      "(가)",
+      "(다)"
+    ],
+    "correct_answer_order": [
+      "나",
+      "라",
+      "가",
+      "다"
+    ]
+  },
+  {
+    "id": "T2-97-R014",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 대조 관계에 따른 문장 배열",
+    "original_question_number": 14,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(다)-(라)-(나)-(가)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(나)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(다)-(라)-(나)-(가)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(나)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "options_text": [
+      "(다)-(나)-(가)-(라)",
+      "(다)-(라)-(나)-(가)",
+      "(라)-(가)-(나)-(다)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "일반 수영장의 수온을 먼저 제시하고, 선수들은 더 낮은 온도를 선호한다는 대조와 그 이유·효과로 이어집니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 14,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "그런데 선수들의 경우 이보다 조금 더 낮은 온도를 선호한다."
+      },
+      {
+        "label": "(나)",
+        "text": "26~27도 정도의 수온에서 선수들의 체력 소모가 적기 때문이다."
+      },
+      {
+        "label": "(다)",
+        "text": "근육을 부드럽게 움직일 수 있어 좋은 기록을 세우는 데에도 유리하다."
+      },
+      {
+        "label": "(라)",
+        "text": "일반인들이 이용하는 수영장은 물의 온도를 보통 29도 정도로 유지한다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "그런데 선수들의 경우 이보다 조금 더 낮은 온도를 선호한다."
+      },
+      {
+        "label": "(나)",
+        "text": "26~27도 정도의 수온에서 선수들의 체력 소모가 적기 때문이다."
+      },
+      {
+        "label": "(다)",
+        "text": "근육을 부드럽게 움직일 수 있어 좋은 기록을 세우는 데에도 유리하다."
+      },
+      {
+        "label": "(라)",
+        "text": "일반인들이 이용하는 수영장은 물의 온도를 보통 29도 정도로 유지한다."
+      }
+    ],
+    "correct_order": [
+      "(라)",
+      "(가)",
+      "(나)",
+      "(다)"
+    ],
+    "correct_answer_order": [
+      "라",
+      "가",
+      "나",
+      "다"
+    ]
+  },
+  {
+    "id": "T2-97-R015",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "대상 소개와 사용 과정에 따른 문장 배열",
+    "original_question_number": 15,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(다)-(나)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(나)-(가)-(라)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(나)-(라)-(다)-(가)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(다)-(나)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(나)-(가)-(라)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(나)-(라)-(다)-(가)"
+      }
+    ],
+    "options_text": [
+      "(가)-(다)-(나)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(나)-(가)-(라)-(다)",
+      "(나)-(라)-(다)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "씨앗 연필을 소개하고, 끝의 캡슐과 씨앗을 설명한 뒤, 사용 후 심으면 새싹이 나오는 과정으로 이어집니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 15,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "식물을 키울 수 있는 ‘씨앗 연필’이라는 것이 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "연필을 어느 정도 다 쓴 후에 이것을 화분에 심고 물을 준다."
+      },
+      {
+        "label": "(다)",
+        "text": "그러면 캡슐은 물에 녹아 저절로 없어지고 새싹이 나오는 것이다."
+      },
+      {
+        "label": "(라)",
+        "text": "이 연필 끝에는 캡슐이 달려 있는데 그 안에 식물의 씨앗이 들어 있다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "식물을 키울 수 있는 ‘씨앗 연필’이라는 것이 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "연필을 어느 정도 다 쓴 후에 이것을 화분에 심고 물을 준다."
+      },
+      {
+        "label": "(다)",
+        "text": "그러면 캡슐은 물에 녹아 저절로 없어지고 새싹이 나오는 것이다."
+      },
+      {
+        "label": "(라)",
+        "text": "이 연필 끝에는 캡슐이 달려 있는데 그 안에 식물의 씨앗이 들어 있다."
+      }
+    ],
+    "correct_order": [
+      "(가)",
+      "(라)",
+      "(나)",
+      "(다)"
+    ],
+    "correct_answer_order": [
+      "가",
+      "라",
+      "나",
+      "다"
+    ]
+  },
+  {
+    "id": "T2-97-R016",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "노벨상은 인류의 발전에 큰 도움을 준 사람에게 주는 상이다. 발명가 ‘알프레드 노벨’의 유언으로 만들어져서 노벨상이라는 이름이 붙었다. 지금은 총 6개 부문이지만 처음에는 화학상, 물리학상, 의학상, 문학상, 평화상 5개 부문으로 시작되었다. 나머지 하나인 노벨 경제학상은 (     ). 노벨상이 생기고 60여 년이 지난 이후 새롭게 추가된 것이다.",
+    "passage_template": "노벨상은 인류의 발전에 큰 도움을 준 사람에게 주는 상이다. 발명가 ‘알프레드 노벨’의 유언으로 만들어져서 노벨상이라는 이름이 붙었다. 지금은 총 6개 부문이지만 처음에는 화학상, 물리학상, 의학상, 문학상, 평화상 5개 부문으로 시작되었다. 나머지 하나인 노벨 경제학상은 (     ). 노벨상이 생기고 60여 년이 지난 이후 새롭게 추가된 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "권위를 잃었다"
+      },
+      {
+        "number": 2,
+        "text": "사람들에게 잊혔다"
+      },
+      {
+        "number": 3,
+        "text": "나중에 만들어졌다"
+      },
+      {
+        "number": 4,
+        "text": "이후에 이름이 달라졌다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "권위를 잃었다"
+      },
+      {
+        "number": 2,
+        "text": "사람들에게 잊혔다"
+      },
+      {
+        "number": 3,
+        "text": "나중에 만들어졌다"
+      },
+      {
+        "number": 4,
+        "text": "이후에 이름이 달라졌다"
+      }
+    ],
+    "options_text": [
+      "권위를 잃었다",
+      "사람들에게 잊혔다",
+      "나중에 만들어졌다",
+      "이후에 이름이 달라졌다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "경제학상은 처음부터 있던 부문이 아니라 60여 년 뒤에 새롭게 추가되었으므로 '나중에 만들어졌다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 16
+  },
+  {
+    "id": "T2-97-R017",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 심리 상태 선택",
+    "original_question_number": 17,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "소비자가 부품들을 조립해서 완성품을 만드는 조립형 가구가 인기를 끌고 있다. 인기의 원인으로는 저렴한 가격을 꼽을 수 있지만 가격이 아닌 심리적 요인도 작용하고 있다. 소비자는 스스로 조립해서 만든 가구를 보고 (     ) 된다. 마치 복잡한 퍼즐이나 모형 자동차를 조립한 후에 성취감을 맛보는 것과 같은 것이다.",
+    "passage_template": "소비자가 부품들을 조립해서 완성품을 만드는 조립형 가구가 인기를 끌고 있다. 인기의 원인으로는 저렴한 가격을 꼽을 수 있지만 가격이 아닌 심리적 요인도 작용하고 있다. 소비자는 스스로 조립해서 만든 가구를 보고 (     ) 된다. 마치 복잡한 퍼즐이나 모형 자동차를 조립한 후에 성취감을 맛보는 것과 같은 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "경제적 능력을 자랑하게"
+      },
+      {
+        "number": 2,
+        "text": "완성의 즐거움을 느끼게"
+      },
+      {
+        "number": 3,
+        "text": "소비의 만족감이 떨어지게"
+      },
+      {
+        "number": 4,
+        "text": "실패에 대한 두려움이 커지게"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "경제적 능력을 자랑하게"
+      },
+      {
+        "number": 2,
+        "text": "완성의 즐거움을 느끼게"
+      },
+      {
+        "number": 3,
+        "text": "소비의 만족감이 떨어지게"
+      },
+      {
+        "number": 4,
+        "text": "실패에 대한 두려움이 커지게"
+      }
+    ],
+    "options_text": [
+      "경제적 능력을 자랑하게",
+      "완성의 즐거움을 느끼게",
+      "소비의 만족감이 떨어지게",
+      "실패에 대한 두려움이 커지게"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "스스로 조립한 뒤 성취감을 맛보는 것과 같다고 했으므로 완성의 즐거움을 느끼게 된다는 말이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 17
+  },
+  {
+    "id": "T2-97-R018",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 근거 선택",
+    "original_question_number": 18,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "기상 관측 기술은 오랜 세월에 걸쳐 발달했다. 기상 관측은 적중률을 높이기 위해 (     ). 첨단 기술을 통해 현재의 기상 조건을 지난 수십 년의 자료와 비교하고 분석해 날씨를 예측하는 것이다. 예를 들어 일기 예보에서 비가 올 확률이 10%라는 것은 현재와 기상 조건이 비슷한 과거 100일 가운데 비가 온 날이 10일이라는 의미이다.",
+    "passage_template": "기상 관측 기술은 오랜 세월에 걸쳐 발달했다. 기상 관측은 적중률을 높이기 위해 (     ). 첨단 기술을 통해 현재의 기상 조건을 지난 수십 년의 자료와 비교하고 분석해 날씨를 예측하는 것이다. 예를 들어 일기 예보에서 비가 올 확률이 10%라는 것은 현재와 기상 조건이 비슷한 과거 100일 가운데 비가 온 날이 10일이라는 의미이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "외국의 사례를 참고한다"
+      },
+      {
+        "number": 2,
+        "text": "다른 지역과 비슷하게 한다"
+      },
+      {
+        "number": 3,
+        "text": "일반인들의 의견을 반영한다"
+      },
+      {
+        "number": 4,
+        "text": "과거의 정보를 바탕으로 한다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "외국의 사례를 참고한다"
+      },
+      {
+        "number": 2,
+        "text": "다른 지역과 비슷하게 한다"
+      },
+      {
+        "number": 3,
+        "text": "일반인들의 의견을 반영한다"
+      },
+      {
+        "number": 4,
+        "text": "과거의 정보를 바탕으로 한다"
+      }
+    ],
+    "options_text": [
+      "외국의 사례를 참고한다",
+      "다른 지역과 비슷하게 한다",
+      "일반인들의 의견을 반영한다",
+      "과거의 정보를 바탕으로 한다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "현재의 기상 조건을 지난 수십 년의 자료와 비교한다고 했으므로 과거의 정보를 바탕으로 한다는 표현이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 18
+  },
+  {
+    "id": "T2-97-R019",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "passage_template": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "만약"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "반면에"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "만약"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "반면에"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "options_text": [
+      "만약",
+      "과연",
+      "반면에",
+      "오히려"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "수컷이 없어지는 조건을 제시하므로 '만약'이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 19,
+    "passage_group_id": "SET-T2-97-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 19
+  },
+  {
+    "id": "T2-97-R020",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "passage_template": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "용치놀래기를 보호하기 위한 대책이 필요하다."
+      },
+      {
+        "number": 2,
+        "text": "용치놀래기 무리에 대한 연구가 이루어져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다."
+      },
+      {
+        "number": 4,
+        "text": "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "용치놀래기를 보호하기 위한 대책이 필요하다."
+      },
+      {
+        "number": 2,
+        "text": "용치놀래기 무리에 대한 연구가 이루어져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다."
+      },
+      {
+        "number": 4,
+        "text": "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+      }
+    ],
+    "options_text": [
+      "용치놀래기를 보호하기 위한 대책이 필요하다.",
+      "용치놀래기 무리에 대한 연구가 이루어져야 한다.",
+      "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다.",
+      "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "수컷이 없어지면 암컷이 수컷으로 바뀌는 독특한 종족 보존 방식을 설명하는 글입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 20,
+    "passage_group_id": "SET-T2-97-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 20
+  }
+]
