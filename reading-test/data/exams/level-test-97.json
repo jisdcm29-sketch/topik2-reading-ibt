@@ -1,0 +1,1851 @@
+[
+  {
+    "id": "LT-97-Q001-FROM-R001",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 오래전에 해외에서 봉사 활동을 (     ).",
+    "passage_template": "나는 오래전에 해외에서 봉사 활동을 (     ).",
+    "options": [
+      {
+        "number": 1,
+        "text": "하면 된다"
+      },
+      {
+        "number": 2,
+        "text": "하는 중이다"
+      },
+      {
+        "number": 3,
+        "text": "하는 편이다"
+      },
+      {
+        "number": 4,
+        "text": "한 적이 있다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "하면 된다"
+      },
+      {
+        "number": 2,
+        "text": "하는 중이다"
+      },
+      {
+        "number": 3,
+        "text": "하는 편이다"
+      },
+      {
+        "number": 4,
+        "text": "한 적이 있다"
+      }
+    ],
+    "options_text": [
+      "하면 된다",
+      "하는 중이다",
+      "하는 편이다",
+      "한 적이 있다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "오래전에 경험한 일을 나타내므로 경험 표현 '한 적이 있다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 1,
+    "level_test_question_number": 1,
+    "source_bank_id": "T2-97-R001",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 1,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q002-FROM-R003",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[2] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "아기가 넘어질까 봐 옆에서 붙잡아 주었다.",
+    "passage_template": "아기가 넘어질까 봐 옆에서 붙잡아 주었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "넘어진 데다가"
+      },
+      {
+        "number": 2,
+        "text": "넘어질 정도로"
+      },
+      {
+        "number": 3,
+        "text": "넘어지다 보면"
+      },
+      {
+        "number": 4,
+        "text": "넘어질 것 같아서"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "넘어진 데다가"
+      },
+      {
+        "number": 2,
+        "text": "넘어질 정도로"
+      },
+      {
+        "number": 3,
+        "text": "넘어지다 보면"
+      },
+      {
+        "number": 4,
+        "text": "넘어질 것 같아서"
+      }
+    ],
+    "options_text": [
+      "넘어진 데다가",
+      "넘어질 정도로",
+      "넘어지다 보면",
+      "넘어질 것 같아서"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "'넘어질까 봐'는 넘어질 것 같아서 걱정하거나 예방하는 의미입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 3,
+    "underline_targets": [
+      "넘어질까 봐"
+    ],
+    "level_test_question_number": 2,
+    "source_bank_id": "T2-97-R003",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 2,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q003-FROM-R005",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3~4] 다음 자료를 보고 물음에 답하십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "치약"
+      },
+      {
+        "number": 4,
+        "text": "구두"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "치약"
+      },
+      {
+        "number": 4,
+        "text": "구두"
+      }
+    ],
+    "options_text": [
+      "비누",
+      "안경",
+      "치약",
+      "구두"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "입안, 닦아요, 딸기 향이라는 표현은 치약 광고의 내용입니다.",
+    "image_url": "./images/97_R005.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 5,
+    "image_only": true,
+    "image_alt_text": "입안 가득 퍼지는 딸기 향. 아이들도 잘 닦아요~",
+    "level_test_question_number": 3,
+    "source_bank_id": "T2-97-R005",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 3,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q004-FROM-R009",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[3~4] 다음 자료를 보고 물음에 답하십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "주말 오후에 평가회를 한다."
+      },
+      {
+        "number": 2,
+        "text": "평가에 참여한 사람에게 상품권을 준다."
+      },
+      {
+        "number": 3,
+        "text": "미리 예약하면 평가회에 참여할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "주말 오후에 평가회를 한다."
+      },
+      {
+        "number": 2,
+        "text": "평가에 참여한 사람에게 상품권을 준다."
+      },
+      {
+        "number": 3,
+        "text": "미리 예약하면 평가회에 참여할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+      }
+    ],
+    "options_text": [
+      "주말 오후에 평가회를 한다.",
+      "평가에 참여한 사람에게 상품권을 준다.",
+      "미리 예약하면 평가회에 참여할 수 있다.",
+      "하나피자에서 가장 많이 팔린 메뉴를 맛볼 수 있다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "안내문에 참여자에게 하나피자 3만 원 상품권을 준다고 되어 있습니다.",
+    "image_url": "./images/97_R009.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 9,
+    "image_only": true,
+    "image_alt_text": "하나피자 신메뉴 평가회. 새로운 메뉴를 제일 먼저 맛보고 평가해 주세요. 대상: 피자를 좋아하는 사람 누구나. 일시: 2024년 11월 26일(화) 19:00. 장소: 하나피자 본점. 참여 방법: 선착순 50명(예약은 받지 않음). 참여자에게 하나피자 3만 원 상품권 증정.",
+    "level_test_question_number": 4,
+    "source_bank_id": "T2-97-R009",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 4,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q005-FROM-R011",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5~6] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시는 올해도 ‘찾아가는 교육’ 프로그램을 다음 달부터 운영한다고 밝혔다. 주민들이 원하는 시간에 원하는 장소로 강사가 찾아가 생활 스포츠, 악기 등을 교육하는 프로그램이다. 7명 이상의 주민이 모이면 신청이 가능하다. 이 프로그램은 모두 무료로 이루어지고 있어 매년 인주 시민들의 큰 호응을 얻고 있다.",
+    "passage_template": "인주시는 올해도 ‘찾아가는 교육’ 프로그램을 다음 달부터 운영한다고 밝혔다. 주민들이 원하는 시간에 원하는 장소로 강사가 찾아가 생활 스포츠, 악기 등을 교육하는 프로그램이다. 7명 이상의 주민이 모이면 신청이 가능하다. 이 프로그램은 모두 무료로 이루어지고 있어 매년 인주 시민들의 큰 호응을 얻고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "교육을 받으려면 돈을 내야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인원에 상관없이 교육을 신청할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주시는 올해 처음으로 이 프로그램을 진행한다."
+      },
+      {
+        "number": 4,
+        "text": "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "교육을 받으려면 돈을 내야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인원에 상관없이 교육을 신청할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주시는 올해 처음으로 이 프로그램을 진행한다."
+      },
+      {
+        "number": 4,
+        "text": "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+      }
+    ],
+    "options_text": [
+      "교육을 받으려면 돈을 내야 한다.",
+      "인원에 상관없이 교육을 신청할 수 있다.",
+      "인주시는 올해 처음으로 이 프로그램을 진행한다.",
+      "강사가 직접 주민들이 정한 곳으로 가서 가르친다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "주민들이 원하는 시간과 장소로 강사가 찾아가 가르치는 프로그램이라고 했습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 11,
+    "level_test_question_number": 5,
+    "source_bank_id": "T2-97-R011",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 5,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q006-FROM-R010",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[5~6] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "외국어 공부를 계획하고 있는 학생이 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "자격증 취득보다 여행을 계획 중인 학생이 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다."
+      },
+      {
+        "number": 4,
+        "text": "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "외국어 공부를 계획하고 있는 학생이 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "자격증 취득보다 여행을 계획 중인 학생이 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다."
+      },
+      {
+        "number": 4,
+        "text": "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+      }
+    ],
+    "options_text": [
+      "외국어 공부를 계획하고 있는 학생이 가장 많다.",
+      "자격증 취득보다 여행을 계획 중인 학생이 더 적다.",
+      "외모 관리를 하겠다고 응답한 비율이 두 번째로 높다.",
+      "아르바이트를 하겠다고 응답한 학생이 전체의 반을 넘는다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "그래프에서 여행 11.5%는 자격증 취득 16.8%보다 낮으므로 해당 진술이 맞습니다.",
+    "image_url": "./images/97_R010.png",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 10,
+    "image_only": true,
+    "image_alt_text": "대학생이 가장 중요하게 생각하는 방학 계획은? 아르바이트 31.2%, 외국어 공부 21.1%, 자격증 취득 16.8%, 외모 관리 12.9%, 여행 11.5%, 기타 6.5%. 조사 대상: 대학생 1,000명.",
+    "level_test_question_number": 6,
+    "source_bank_id": "T2-97-R010",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 6,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q007-FROM-R013",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[7] 다음을 순서에 맞게 배열한 것을 고르십시오. (2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(나)-(가)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(나)-(가)"
+      }
+    ],
+    "options_text": [
+      "(나)-(가)-(다)-(라)",
+      "(나)-(라)-(가)-(다)",
+      "(라)-(나)-(다)-(가)",
+      "(라)-(다)-(나)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "꽃다발을 산 뒤 아내에게 주고, 아내의 즐거운 모습을 본 뒤 앞으로 더 자주 선물하겠다고 생각하는 흐름입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 13,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "그런 모습을 보니 나도 덩달아 기분이 좋아졌다."
+      },
+      {
+        "label": "(나)",
+        "text": "퇴근하는 길에 거리에서 작은 꽃다발을 하나 샀다."
+      },
+      {
+        "label": "(다)",
+        "text": "앞으로는 아내에게 더 자주 꽃을 선물해야겠다는 생각이 들었다."
+      },
+      {
+        "label": "(라)",
+        "text": "집에 돌아와 아내에게 꽃다발을 내밀자 아내는 아이처럼 즐거워했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "그런 모습을 보니 나도 덩달아 기분이 좋아졌다."
+      },
+      {
+        "label": "(나)",
+        "text": "퇴근하는 길에 거리에서 작은 꽃다발을 하나 샀다."
+      },
+      {
+        "label": "(다)",
+        "text": "앞으로는 아내에게 더 자주 꽃을 선물해야겠다는 생각이 들었다."
+      },
+      {
+        "label": "(라)",
+        "text": "집에 돌아와 아내에게 꽃다발을 내밀자 아내는 아이처럼 즐거워했다."
+      }
+    ],
+    "correct_order": [
+      "(나)",
+      "(라)",
+      "(가)",
+      "(다)"
+    ],
+    "correct_answer_order": [
+      "나",
+      "라",
+      "가",
+      "다"
+    ],
+    "level_test_question_number": 7,
+    "source_bank_id": "T2-97-R013",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 7,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q008-FROM-R016",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[8] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "노벨상은 인류의 발전에 큰 도움을 준 사람에게 주는 상이다. 발명가 ‘알프레드 노벨’의 유언으로 만들어져서 노벨상이라는 이름이 붙었다. 지금은 총 6개 부문이지만 처음에는 화학상, 물리학상, 의학상, 문학상, 평화상 5개 부문으로 시작되었다. 나머지 하나인 노벨 경제학상은 (     ). 노벨상이 생기고 60여 년이 지난 이후 새롭게 추가된 것이다.",
+    "passage_template": "노벨상은 인류의 발전에 큰 도움을 준 사람에게 주는 상이다. 발명가 ‘알프레드 노벨’의 유언으로 만들어져서 노벨상이라는 이름이 붙었다. 지금은 총 6개 부문이지만 처음에는 화학상, 물리학상, 의학상, 문학상, 평화상 5개 부문으로 시작되었다. 나머지 하나인 노벨 경제학상은 (     ). 노벨상이 생기고 60여 년이 지난 이후 새롭게 추가된 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "권위를 잃었다"
+      },
+      {
+        "number": 2,
+        "text": "사람들에게 잊혔다"
+      },
+      {
+        "number": 3,
+        "text": "나중에 만들어졌다"
+      },
+      {
+        "number": 4,
+        "text": "이후에 이름이 달라졌다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "권위를 잃었다"
+      },
+      {
+        "number": 2,
+        "text": "사람들에게 잊혔다"
+      },
+      {
+        "number": 3,
+        "text": "나중에 만들어졌다"
+      },
+      {
+        "number": 4,
+        "text": "이후에 이름이 달라졌다"
+      }
+    ],
+    "options_text": [
+      "권위를 잃었다",
+      "사람들에게 잊혔다",
+      "나중에 만들어졌다",
+      "이후에 이름이 달라졌다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "경제학상은 처음부터 있던 부문이 아니라 60여 년 뒤에 새롭게 추가되었으므로 '나중에 만들어졌다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 16,
+    "level_test_question_number": 8,
+    "source_bank_id": "T2-97-R016",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 8,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q009-FROM-R019",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "passage_template": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "만약"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "반면에"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "만약"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "반면에"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "options_text": [
+      "만약",
+      "과연",
+      "반면에",
+      "오히려"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "수컷이 없어지는 조건을 제시하므로 '만약'이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 19,
+    "level_test_question_number": 9,
+    "source_bank_id": "T2-97-R019",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 9,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 9
+  },
+  {
+    "id": "LT-97-Q010-FROM-R020",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "passage_template": "‘용치놀래기’는 한국의 바다에서 흔하게 볼 수 있는 물고기이다. 용치놀래기는 보통 한 마리의 수컷이 서너 마리의 암컷과 함께 무리를 지어 살아간다. 그런데 용치놀래기는 매우 특이한 점이 있다. (     ) 무리를 이끌던 수컷이 죽어서 무리 중에 수컷이 없어지면 암컷 한 마리가 수컷으로 바뀐다. 종족의 보존을 위해 성별까지 바꾸는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "용치놀래기를 보호하기 위한 대책이 필요하다."
+      },
+      {
+        "number": 2,
+        "text": "용치놀래기 무리에 대한 연구가 이루어져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다."
+      },
+      {
+        "number": 4,
+        "text": "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "용치놀래기를 보호하기 위한 대책이 필요하다."
+      },
+      {
+        "number": 2,
+        "text": "용치놀래기 무리에 대한 연구가 이루어져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다."
+      },
+      {
+        "number": 4,
+        "text": "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+      }
+    ],
+    "options_text": [
+      "용치놀래기를 보호하기 위한 대책이 필요하다.",
+      "용치놀래기 무리에 대한 연구가 이루어져야 한다.",
+      "한국은 용치놀래기가 살기 좋은 조건을 갖추고 있다.",
+      "용치놀래기는 독특한 종족 보존 방식을 가지고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "수컷이 없어지면 암컷이 수컷으로 바뀌는 독특한 종족 보존 방식을 설명하는 글입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 20,
+    "level_test_question_number": 10,
+    "source_bank_id": "T2-97-R020",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 10,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 10
+  },
+  {
+    "id": "LT-97-Q011-FROM-R023",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "대학생 때까지 나는 언니와 같은 방에서 지냈다. 언니는 회사원이었기 때문에 나보다 빨리 일어나야 했다. 그런데 언니는 한번 잠이 들면 누가 업어 가도 모를 정도여서 늘 알람 시계를 맞춰 놓고 자곤 했다. 오리 모양의 알람 시계는 ‘꽥꽥’ 우는 소리가 어찌나 시끄러운 게 아니었다. 그런데도 언니는 매번 알람 소리를 못 듣고 그냥 자는 바람에 회사에 지각하는 경우가 많았다. 어느 날 아침, 그날도 꽥꽥 오리 시계의 알람이 울렸다. 언니가 잠결에 내 머리를 더듬거리더니 손으로 힘껏 누르는 것이었다. 오리 시계는 머리맡에서 꽥꽥거리는데 내 머리를 누른다고 시계가 그칠 리가 없었다. 시끄러운 오리 소리가 계속되자 내 머리를 더 세게 눌렀다. 그만하라고 소리를 질러도 오리 시계는 꽥꽥 울어 대고 언니는 자꾸 내 머리를 누르기만 했다. 오래전 일이지만 요즘도 가끔 언니 집에 놀러 가면 그때를 추억하며 함께 웃는다.",
+    "passage_template": "대학생 때까지 나는 언니와 같은 방에서 지냈다. 언니는 회사원이었기 때문에 나보다 빨리 일어나야 했다. 그런데 언니는 한번 잠이 들면 누가 업어 가도 모를 정도여서 늘 알람 시계를 맞춰 놓고 자곤 했다. 오리 모양의 알람 시계는 ‘꽥꽥’ 우는 소리가 어찌나 시끄러운 게 아니었다. 그런데도 언니는 매번 알람 소리를 못 듣고 그냥 자는 바람에 회사에 지각하는 경우가 많았다. 어느 날 아침, 그날도 꽥꽥 오리 시계의 알람이 울렸다. 언니가 잠결에 내 머리를 더듬거리더니 손으로 힘껏 누르는 것이었다. 오리 시계는 머리맡에서 꽥꽥거리는데 내 머리를 누른다고 시계가 그칠 리가 없었다. 시끄러운 오리 소리가 계속되자 내 머리를 더 세게 눌렀다. 그만하라고 소리를 질러도 오리 시계는 꽥꽥 울어 대고 언니는 자꾸 내 머리를 누르기만 했다. 오래전 일이지만 요즘도 가끔 언니 집에 놀러 가면 그때를 추억하며 함께 웃는다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "짜증스럽다"
+      },
+      {
+        "number": 2,
+        "text": "자랑스럽다"
+      },
+      {
+        "number": 3,
+        "text": "후회스럽다"
+      },
+      {
+        "number": 4,
+        "text": "걱정스럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "짜증스럽다"
+      },
+      {
+        "number": 2,
+        "text": "자랑스럽다"
+      },
+      {
+        "number": 3,
+        "text": "후회스럽다"
+      },
+      {
+        "number": 4,
+        "text": "걱정스럽다"
+      }
+    ],
+    "options_text": [
+      "짜증스럽다",
+      "자랑스럽다",
+      "후회스럽다",
+      "걱정스럽다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "알람 소리를 멈추지 못하고 언니가 자신의 머리를 계속 누르는 상황이므로 짜증스러운 심정입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 23,
+    "underline_targets": [
+      "내 머리를 누른다고 시계가 그칠 리가 없었다"
+    ],
+    "underline_reviewed": true,
+    "level_test_question_number": 11,
+    "source_bank_id": "T2-97-R023",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 11,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "target_slot": 11
+  },
+  {
+    "id": "LT-97-Q012-FROM-R024",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "대학생 때까지 나는 언니와 같은 방에서 지냈다. 언니는 회사원이었기 때문에 나보다 빨리 일어나야 했다. 그런데 언니는 한번 잠이 들면 누가 업어 가도 모를 정도여서 늘 알람 시계를 맞춰 놓고 자곤 했다. 오리 모양의 알람 시계는 ‘꽥꽥’ 우는 소리가 어찌나 시끄러운 게 아니었다. 그런데도 언니는 매번 알람 소리를 못 듣고 그냥 자는 바람에 회사에 지각하는 경우가 많았다. 어느 날 아침, 그날도 꽥꽥 오리 시계의 알람이 울렸다. 언니가 잠결에 내 머리를 더듬거리더니 손으로 힘껏 누르는 것이었다. 오리 시계는 머리맡에서 꽥꽥거리는데 내 머리를 누른다고 시계가 그칠 리가 없었다. 시끄러운 오리 소리가 계속되자 내 머리를 더 세게 눌렀다. 그만하라고 소리를 질러도 오리 시계는 꽥꽥 울어 대고 언니는 자꾸 내 머리를 누르기만 했다. 오래전 일이지만 요즘도 가끔 언니 집에 놀러 가면 그때를 추억하며 함께 웃는다.",
+    "passage_template": "대학생 때까지 나는 언니와 같은 방에서 지냈다. 언니는 회사원이었기 때문에 나보다 빨리 일어나야 했다. 그런데 언니는 한번 잠이 들면 누가 업어 가도 모를 정도여서 늘 알람 시계를 맞춰 놓고 자곤 했다. 오리 모양의 알람 시계는 ‘꽥꽥’ 우는 소리가 어찌나 시끄러운 게 아니었다. 그런데도 언니는 매번 알람 소리를 못 듣고 그냥 자는 바람에 회사에 지각하는 경우가 많았다. 어느 날 아침, 그날도 꽥꽥 오리 시계의 알람이 울렸다. 언니가 잠결에 내 머리를 더듬거리더니 손으로 힘껏 누르는 것이었다. 오리 시계는 머리맡에서 꽥꽥거리는데 내 머리를 누른다고 시계가 그칠 리가 없었다. 시끄러운 오리 소리가 계속되자 내 머리를 더 세게 눌렀다. 그만하라고 소리를 질러도 오리 시계는 꽥꽥 울어 대고 언니는 자꾸 내 머리를 누르기만 했다. 오래전 일이지만 요즘도 가끔 언니 집에 놀러 가면 그때를 추억하며 함께 웃는다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "나는 요즘도 언니와 함께 살고 있다."
+      },
+      {
+        "number": 2,
+        "text": "언니는 알람이 울려도 잘 일어나지 못했다."
+      },
+      {
+        "number": 3,
+        "text": "알람 시계는 소리가 너무 작아서 잘 들리지 않았다."
+      },
+      {
+        "number": 4,
+        "text": "나는 학교에 가기 위해 언니보다 일찍 일어나야 했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "나는 요즘도 언니와 함께 살고 있다."
+      },
+      {
+        "number": 2,
+        "text": "언니는 알람이 울려도 잘 일어나지 못했다."
+      },
+      {
+        "number": 3,
+        "text": "알람 시계는 소리가 너무 작아서 잘 들리지 않았다."
+      },
+      {
+        "number": 4,
+        "text": "나는 학교에 가기 위해 언니보다 일찍 일어나야 했다."
+      }
+    ],
+    "options_text": [
+      "나는 요즘도 언니와 함께 살고 있다.",
+      "언니는 알람이 울려도 잘 일어나지 못했다.",
+      "알람 시계는 소리가 너무 작아서 잘 들리지 않았다.",
+      "나는 학교에 가기 위해 언니보다 일찍 일어나야 했다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "언니는 알람 소리를 못 듣고 그냥 자는 경우가 많았다고 했습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 24,
+    "level_test_question_number": 12,
+    "source_bank_id": "T2-97-R024",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 12,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "target_slot": 12
+  },
+  {
+    "id": "LT-97-Q013-FROM-R025",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "headline_meaning",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "창작 뮤지컬 연이은 흥행, 공연계 신바람",
+    "passage_template": "창작 뮤지컬 연이은 흥행, 공연계 신바람",
+    "options": [
+      {
+        "number": 1,
+        "text": "창작 뮤지컬의 계속된 성공으로 공연계가 활기를 얻고 있다."
+      },
+      {
+        "number": 2,
+        "text": "공연계의 활성화를 위해 창작 뮤지컬의 공연 횟수를 늘리고 있다."
+      },
+      {
+        "number": 3,
+        "text": "최근 관객들이 공연계에 창작 뮤지컬이 많이 나오기를 바라고 있다."
+      },
+      {
+        "number": 4,
+        "text": "창작 뮤지컬이 성공하는 데에 공연계의 꾸준한 지원이 큰 역할을 했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "창작 뮤지컬의 계속된 성공으로 공연계가 활기를 얻고 있다."
+      },
+      {
+        "number": 2,
+        "text": "공연계의 활성화를 위해 창작 뮤지컬의 공연 횟수를 늘리고 있다."
+      },
+      {
+        "number": 3,
+        "text": "최근 관객들이 공연계에 창작 뮤지컬이 많이 나오기를 바라고 있다."
+      },
+      {
+        "number": 4,
+        "text": "창작 뮤지컬이 성공하는 데에 공연계의 꾸준한 지원이 큰 역할을 했다."
+      }
+    ],
+    "options_text": [
+      "창작 뮤지컬의 계속된 성공으로 공연계가 활기를 얻고 있다.",
+      "공연계의 활성화를 위해 창작 뮤지컬의 공연 횟수를 늘리고 있다.",
+      "최근 관객들이 공연계에 창작 뮤지컬이 많이 나오기를 바라고 있다.",
+      "창작 뮤지컬이 성공하는 데에 공연계의 꾸준한 지원이 큰 역할을 했다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "'연이은 흥행'과 '신바람'은 창작 뮤지컬의 계속된 성공으로 공연계가 활기를 얻고 있다는 뜻입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 25,
+    "level_test_question_number": 13,
+    "source_bank_id": "T2-97-R025",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 13,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q014-FROM-R031",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 12,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "original_question_number": 31,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[14] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "17세기 네덜란드에서는 헛됨이라는 뜻을 가진 ‘바니타스’ 정물화가 유행했다. 당시에는 전쟁으로 많은 사람이 죽고 내일의 삶이 보장되지 않았던 때였다. 그래서 화가들은 그림에 귀한 보석과 과일뿐만 아니라 시든 꽃, 꺼진 촛불, 해골 등을 함께 그려 넣어 (     ) 표현했다. 화려한 꽃도 언젠가는 시들고 권력을 누리던 삶도 결국 죽음 앞에서는 모든 것이 무의미하다는 의미를 담은 것이다.",
+    "passage_template": "17세기 네덜란드에서는 헛됨이라는 뜻을 가진 ‘바니타스’ 정물화가 유행했다. 당시에는 전쟁으로 많은 사람이 죽고 내일의 삶이 보장되지 않았던 때였다. 그래서 화가들은 그림에 귀한 보석과 과일뿐만 아니라 시든 꽃, 꺼진 촛불, 해골 등을 함께 그려 넣어 (     ) 표현했다. 화려한 꽃도 언젠가는 시들고 권력을 누리던 삶도 결국 죽음 앞에서는 모든 것이 무의미하다는 의미를 담은 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "존재하기 어려운 영원한 사랑을"
+      },
+      {
+        "number": 2,
+        "text": "물질적 풍요가 중요하다는 것을"
+      },
+      {
+        "number": 3,
+        "text": "영원하지 않은 인생의 허망함을"
+      },
+      {
+        "number": 4,
+        "text": "미래의 목표가 필요하다는 것을"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "존재하기 어려운 영원한 사랑을"
+      },
+      {
+        "number": 2,
+        "text": "물질적 풍요가 중요하다는 것을"
+      },
+      {
+        "number": 3,
+        "text": "영원하지 않은 인생의 허망함을"
+      },
+      {
+        "number": 4,
+        "text": "미래의 목표가 필요하다는 것을"
+      }
+    ],
+    "options_text": [
+      "존재하기 어려운 영원한 사랑을",
+      "물질적 풍요가 중요하다는 것을",
+      "영원하지 않은 인생의 허망함을",
+      "미래의 목표가 필요하다는 것을"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "시든 꽃, 꺼진 촛불, 해골 등은 삶과 물질적 풍요가 영원하지 않음을 나타내므로 인생의 허망함을 표현했다는 말이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 31,
+    "level_test_question_number": 14,
+    "source_bank_id": "T2-97-R031",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 14,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q015-FROM-R032",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[15] 다음 글의 내용과 같은 것을 고르십시오. (2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "방선균은 토양에서 많이 발견되는 미생물인데 곰팡이나 병원균을 파괴하는 강한 항균 물질을 분비하는 특성이 있다. 이 항균 물질은 감기약에서 암 치료제까지 우리가 사용하는 수많은 의약품의 원료로 이용되고 있다. 또한 방선균은 다른 미생물들이 분해하기 어려운 유기물도 분해해서 땅을 기름지게 만들어 준다.",
+    "passage_template": "방선균은 토양에서 많이 발견되는 미생물인데 곰팡이나 병원균을 파괴하는 강한 항균 물질을 분비하는 특성이 있다. 이 항균 물질은 감기약에서 암 치료제까지 우리가 사용하는 수많은 의약품의 원료로 이용되고 있다. 또한 방선균은 다른 미생물들이 분해하기 어려운 유기물도 분해해서 땅을 기름지게 만들어 준다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "방선균은 곰팡이의 성장을 돕는다."
+      },
+      {
+        "number": 2,
+        "text": "방선균은 흙 속에서 생존이 불가능하다."
+      },
+      {
+        "number": 3,
+        "text": "방선균은 유기물이 분해되는 것을 막아 준다."
+      },
+      {
+        "number": 4,
+        "text": "방선균이 분비하는 항균 물질로 의약품을 만든다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "방선균은 곰팡이의 성장을 돕는다."
+      },
+      {
+        "number": 2,
+        "text": "방선균은 흙 속에서 생존이 불가능하다."
+      },
+      {
+        "number": 3,
+        "text": "방선균은 유기물이 분해되는 것을 막아 준다."
+      },
+      {
+        "number": 4,
+        "text": "방선균이 분비하는 항균 물질로 의약품을 만든다."
+      }
+    ],
+    "options_text": [
+      "방선균은 곰팡이의 성장을 돕는다.",
+      "방선균은 흙 속에서 생존이 불가능하다.",
+      "방선균은 유기물이 분해되는 것을 막아 준다.",
+      "방선균이 분비하는 항균 물질로 의약품을 만든다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "방선균이 분비하는 항균 물질이 의약품의 원료로 이용된다는 내용과 일치합니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 32,
+    "level_test_question_number": 15,
+    "source_bank_id": "T2-97-R032",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 15,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q016-FROM-R035",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "인공 지능 기술이 발전하면서 각종 스포츠에도 신기술이 다양하게 접목되고 있다. 가령 체조 경기에서는 카메라로 선수의 움직임을 추적하여 도약한 높이나 발의 각도 등을 파악해 계량화해 준다. 이는 심판들의 채점 자료로 활용되어 판정의 공정성을 높였다는 평가를 받고 있다. 평정심이 중요한 양궁 종목에서는 인공 지능 기술로 선수의 표정 변화, 눈 깜빡임 등을 분석하여 심리 상태를 파악하고 이를 훈련에 반영하고 있다.",
+    "passage_template": "인공 지능 기술이 발전하면서 각종 스포츠에도 신기술이 다양하게 접목되고 있다. 가령 체조 경기에서는 카메라로 선수의 움직임을 추적하여 도약한 높이나 발의 각도 등을 파악해 계량화해 준다. 이는 심판들의 채점 자료로 활용되어 판정의 공정성을 높였다는 평가를 받고 있다. 평정심이 중요한 양궁 종목에서는 인공 지능 기술로 선수의 표정 변화, 눈 깜빡임 등을 분석하여 심리 상태를 파악하고 이를 훈련에 반영하고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "인공 지능 기술에 대한 선수들의 의존도가 커지고 있다."
+      },
+      {
+        "number": 2,
+        "text": "인공 지능 기술이 다양한 스포츠 종목에 폭넓게 적용되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "인공 지능 기술 도입에 대해 스포츠 팬들의 의견이 엇갈리고 있다."
+      },
+      {
+        "number": 4,
+        "text": "인공 지능 기술의 발달이 선수들의 공정한 경쟁을 방해할 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "인공 지능 기술에 대한 선수들의 의존도가 커지고 있다."
+      },
+      {
+        "number": 2,
+        "text": "인공 지능 기술이 다양한 스포츠 종목에 폭넓게 적용되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "인공 지능 기술 도입에 대해 스포츠 팬들의 의견이 엇갈리고 있다."
+      },
+      {
+        "number": 4,
+        "text": "인공 지능 기술의 발달이 선수들의 공정한 경쟁을 방해할 수 있다."
+      }
+    ],
+    "options_text": [
+      "인공 지능 기술에 대한 선수들의 의존도가 커지고 있다.",
+      "인공 지능 기술이 다양한 스포츠 종목에 폭넓게 적용되고 있다.",
+      "인공 지능 기술 도입에 대해 스포츠 팬들의 의견이 엇갈리고 있다.",
+      "인공 지능 기술의 발달이 선수들의 공정한 경쟁을 방해할 수 있다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "체조와 양궁 등 여러 스포츠에서 인공 지능 기술이 활용되는 사례를 설명하고 있습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 35,
+    "level_test_question_number": 16,
+    "source_bank_id": "T2-97-R035",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 16,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q017-FROM-R039",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[17] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "아파트라고 하면 보통 19세기 이후 만들어진 공동 주택을 떠올린다. ( ㉠ ) 그런데 고대 로마 시대에도 요즘의 아파트와 같은 공동 주택이 존재했다. ( ㉡ ) 1층은 주로 상점으로 이용되었는데 새로운 업체가 들어올 때 소음 관련 분쟁이 있었다는 기록이 있다. ( ㉢ ) 그리고 거리에서 들려오는 마차 소리, 이웃의 이야기 소리가 들려 불편했다는 것으로 보아 사람들이 사는 모습은 지금과 크게 다르지 않았던 듯하다. ( ㉣ )",
+    "passage_template": "아파트라고 하면 보통 19세기 이후 만들어진 공동 주택을 떠올린다. ( ㉠ ) 그런데 고대 로마 시대에도 요즘의 아파트와 같은 공동 주택이 존재했다. ( ㉡ ) 1층은 주로 상점으로 이용되었는데 새로운 업체가 들어올 때 소음 관련 분쟁이 있었다는 기록이 있다. ( ㉢ ) 그리고 거리에서 들려오는 마차 소리, 이웃의 이야기 소리가 들려 불편했다는 것으로 보아 사람들이 사는 모습은 지금과 크게 다르지 않았던 듯하다. ( ㉣ )",
+    "options": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "주어진 문장은 1층 상점 입점과 소음 분쟁 기록의 구체적 예이므로 해당 내용 뒤인 ㉢에 들어가는 것이 자연스럽습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 39,
+    "insert_sentence": "밤낮없이 시끄럽게 일하는 대장간이 입점하려고 하자 주민들이 합심해 시위를 벌였다는 등의 내용이다.",
+    "sentence_to_insert": "밤낮없이 시끄럽게 일하는 대장간이 입점하려고 하자 주민들이 합심해 시위를 벌였다는 등의 내용이다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢",
+    "correct_insert_position": "㉢",
+    "interaction_mode": "click_insert_sentence_into_position",
+    "template_required_type": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "sentence_insert_source_round": "97",
+    "sentence_insert_note": "97회 원문 기준 주어진 문장과 ㉠/㉡/㉢/㉣ 위치를 연결한 검수용 초안입니다.",
+    "level_test_question_number": 17,
+    "source_bank_id": "T2-97-R039",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 17,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q018-FROM-R042",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 19,
+    "source_printed_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[18] 다음을 읽고 물음에 답하십시오. (2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "택시에서 내려 보니 팀장이 말한 카페는 생각보다 규모가 크지 않았고, 그래서인지 출근 시간대가 아니었는데도 대기 줄이 길게 늘어서 있었다. (중략) 팀장이 대기 줄의 맨 끝에 자리를 잡았다. 미팅 30분 전이었다. 미팅 장소인 제이마트 본사가 바로 옆 건물이긴 하지만 줄이 쉽사리 줄어들 것 같지 않아 걱정이었다. (중략)\n“미팅 끝나고 마시는 게 낫지 않겠어요? 아무래도 이러다가 늦을 것 같은데…….”\n“괜찮아. 바로 코앞이잖아. 안 늦어, 안 늦어.” (중략)\n팀장의 말이 이어졌다. 제과와 커피는 크게는 같은 업계라고, 뭐든 새로 들여오는 거, 잘 나가는 거, 재깍재깍 먹어 보는 것도 다 업무의 연장선이라면서 이것도 벤치마킹의 일환이고 시장 조사라는 궤변을 덧붙였다. 많이 양보해서 그게 맞는 말이라고 해도 왜 꼭 지금이어야 할까. 휴대폰을 들여다봤더니 벌써 10시 45분이었다.\n“팀장님, 15분 전이에요. 꼭 지금 드셔야겠어요?”\n“응, 나는 마셔야겠어. 여기까지 줄 선 게 아깝잖아. 거의 다 왔잖아.”\n아무리 생각해도 이건 아닌 것 같다는 생각이 들었다.",
+    "passage_template": "택시에서 내려 보니 팀장이 말한 카페는 생각보다 규모가 크지 않았고, 그래서인지 출근 시간대가 아니었는데도 대기 줄이 길게 늘어서 있었다. (중략) 팀장이 대기 줄의 맨 끝에 자리를 잡았다. 미팅 30분 전이었다. 미팅 장소인 제이마트 본사가 바로 옆 건물이긴 하지만 줄이 쉽사리 줄어들 것 같지 않아 걱정이었다. (중략)\n“미팅 끝나고 마시는 게 낫지 않겠어요? 아무래도 이러다가 늦을 것 같은데…….”\n“괜찮아. 바로 코앞이잖아. 안 늦어, 안 늦어.” (중략)\n팀장의 말이 이어졌다. 제과와 커피는 크게는 같은 업계라고, 뭐든 새로 들여오는 거, 잘 나가는 거, 재깍재깍 먹어 보는 것도 다 업무의 연장선이라면서 이것도 벤치마킹의 일환이고 시장 조사라는 궤변을 덧붙였다. 많이 양보해서 그게 맞는 말이라고 해도 왜 꼭 지금이어야 할까. 휴대폰을 들여다봤더니 벌써 10시 45분이었다.\n“팀장님, 15분 전이에요. 꼭 지금 드셔야겠어요?”\n“응, 나는 마셔야겠어. 여기까지 줄 선 게 아깝잖아. 거의 다 왔잖아.”\n아무리 생각해도 이건 아닌 것 같다는 생각이 들었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "초조하다"
+      },
+      {
+        "number": 2,
+        "text": "든든하다"
+      },
+      {
+        "number": 3,
+        "text": "뿌듯하다"
+      },
+      {
+        "number": 4,
+        "text": "민망하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "초조하다"
+      },
+      {
+        "number": 2,
+        "text": "든든하다"
+      },
+      {
+        "number": 3,
+        "text": "뿌듯하다"
+      },
+      {
+        "number": 4,
+        "text": "민망하다"
+      }
+    ],
+    "options_text": [
+      "초조하다",
+      "든든하다",
+      "뿌듯하다",
+      "민망하다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "미팅 시간이 다가오는데 팀장이 계속 커피를 기다리려 하므로 ‘나’는 초조한 심정입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 42,
+    "underline_targets": [
+      "미팅 끝나고 마시는 게 낫지 않겠어요? 아무래도 이러다가 늦을 것 같은데……."
+    ],
+    "level_test_question_number": 18,
+    "source_bank_id": "T2-97-R042",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 18,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full"
+  },
+  {
+    "id": "LT-97-Q019-FROM-R046",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자의 태도",
+    "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "도파민은 인간의 뇌에 즐거움과 관련된 신호를 전달하는 물질이다. 오랜 시간 서서히 분비되는 도파민은 인간이 목표에 도달하도록 하는 동력이 된다. 그런데 반복적으로 도파민이 짧은 시간에 과다 분비되면 중독을 유발할 수 있으므로 경계해야 한다. 대표적으로 알코올, 게임 등에 빠져 정상적인 생활이 불가능한 경우가 도파민 과다 분비와 관련이 있다. 최근 인기가 높은 짧은 영상 콘텐츠도 이와 유사하다. 사람들은 정보를 얻는 데에 짧은 영상이 유용하다고 생각해 즐겨 본다. 그런데 사실 이 영상은 대부분 자극적이어서 도파민 분비 수치를 비정상적으로 높이고 중독에 이르게 한다. 짧은 영상을 자주 시청하다가 어느새 하루 종일 짧은 영상만 계속 보게 되는 이유가 여기에 있다. 이처럼 도파민의 과다 분비가 지속되면 사람들은 평범한 일상에서 즐거움을 느끼지 못하고 심한 경우 우울증으로 이어질 수 있어 각별한 주의가 필요하다.",
+    "passage_template": "도파민은 인간의 뇌에 즐거움과 관련된 신호를 전달하는 물질이다. 오랜 시간 서서히 분비되는 도파민은 인간이 목표에 도달하도록 하는 동력이 된다. 그런데 반복적으로 도파민이 짧은 시간에 과다 분비되면 중독을 유발할 수 있으므로 경계해야 한다. 대표적으로 알코올, 게임 등에 빠져 정상적인 생활이 불가능한 경우가 도파민 과다 분비와 관련이 있다. 최근 인기가 높은 짧은 영상 콘텐츠도 이와 유사하다. 사람들은 정보를 얻는 데에 짧은 영상이 유용하다고 생각해 즐겨 본다. 그런데 사실 이 영상은 대부분 자극적이어서 도파민 분비 수치를 비정상적으로 높이고 중독에 이르게 한다. 짧은 영상을 자주 시청하다가 어느새 하루 종일 짧은 영상만 계속 보게 되는 이유가 여기에 있다. 이처럼 도파민의 과다 분비가 지속되면 사람들은 평범한 일상에서 즐거움을 느끼지 못하고 심한 경우 우울증으로 이어질 수 있어 각별한 주의가 필요하다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "짧은 영상의 효과를 긍정적으로 평가하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "도파민의 분비 과정에 대해 의문을 제기하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "현대인의 도파민 중독 현상에 대해 경고하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "여유를 즐기지 못하는 현대인의 생활 방식을 우려하고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "짧은 영상의 효과를 긍정적으로 평가하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "도파민의 분비 과정에 대해 의문을 제기하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "현대인의 도파민 중독 현상에 대해 경고하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "여유를 즐기지 못하는 현대인의 생활 방식을 우려하고 있다."
+      }
+    ],
+    "options_text": [
+      "짧은 영상의 효과를 긍정적으로 평가하고 있다.",
+      "도파민의 분비 과정에 대해 의문을 제기하고 있다.",
+      "현대인의 도파민 중독 현상에 대해 경고하고 있다.",
+      "여유를 즐기지 못하는 현대인의 생활 방식을 우려하고 있다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "필자는 짧은 영상 등으로 도파민이 과다 분비되어 중독과 우울증으로 이어질 수 있다고 경고하고 있습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 46,
+    "level_test_question_number": 19,
+    "source_bank_id": "T2-97-R046",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 19,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "target_slot": 19
+  },
+  {
+    "id": "LT-97-Q020-FROM-R047",
+    "source_round": "97",
+    "source_file": "제97회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 47,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "도파민은 인간의 뇌에 즐거움과 관련된 신호를 전달하는 물질이다. 오랜 시간 서서히 분비되는 도파민은 인간이 목표에 도달하도록 하는 동력이 된다. 그런데 반복적으로 도파민이 짧은 시간에 과다 분비되면 중독을 유발할 수 있으므로 경계해야 한다. 대표적으로 알코올, 게임 등에 빠져 정상적인 생활이 불가능한 경우가 도파민 과다 분비와 관련이 있다. 최근 인기가 높은 짧은 영상 콘텐츠도 이와 유사하다. 사람들은 정보를 얻는 데에 짧은 영상이 유용하다고 생각해 즐겨 본다. 그런데 사실 이 영상은 대부분 자극적이어서 도파민 분비 수치를 비정상적으로 높이고 중독에 이르게 한다. 짧은 영상을 자주 시청하다가 어느새 하루 종일 짧은 영상만 계속 보게 되는 이유가 여기에 있다. 이처럼 도파민의 과다 분비가 지속되면 사람들은 평범한 일상에서 즐거움을 느끼지 못하고 심한 경우 우울증으로 이어질 수 있어 각별한 주의가 필요하다.",
+    "passage_template": "도파민은 인간의 뇌에 즐거움과 관련된 신호를 전달하는 물질이다. 오랜 시간 서서히 분비되는 도파민은 인간이 목표에 도달하도록 하는 동력이 된다. 그런데 반복적으로 도파민이 짧은 시간에 과다 분비되면 중독을 유발할 수 있으므로 경계해야 한다. 대표적으로 알코올, 게임 등에 빠져 정상적인 생활이 불가능한 경우가 도파민 과다 분비와 관련이 있다. 최근 인기가 높은 짧은 영상 콘텐츠도 이와 유사하다. 사람들은 정보를 얻는 데에 짧은 영상이 유용하다고 생각해 즐겨 본다. 그런데 사실 이 영상은 대부분 자극적이어서 도파민 분비 수치를 비정상적으로 높이고 중독에 이르게 한다. 짧은 영상을 자주 시청하다가 어느새 하루 종일 짧은 영상만 계속 보게 되는 이유가 여기에 있다. 이처럼 도파민의 과다 분비가 지속되면 사람들은 평범한 일상에서 즐거움을 느끼지 못하고 심한 경우 우울증으로 이어질 수 있어 각별한 주의가 필요하다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "목표를 달성하는 데에 도파민의 적절한 분비가 도움이 된다."
+      },
+      {
+        "number": 2,
+        "text": "사람들은 짧은 영상 콘텐츠에 유용한 면이 없다고 생각한다."
+      },
+      {
+        "number": 3,
+        "text": "게임에 중독되면 도파민 분비 수치가 비정상적으로 낮아진다."
+      },
+      {
+        "number": 4,
+        "text": "짧은 영상을 시청하여 도파민의 과도한 생성을 예방할 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "목표를 달성하는 데에 도파민의 적절한 분비가 도움이 된다."
+      },
+      {
+        "number": 2,
+        "text": "사람들은 짧은 영상 콘텐츠에 유용한 면이 없다고 생각한다."
+      },
+      {
+        "number": 3,
+        "text": "게임에 중독되면 도파민 분비 수치가 비정상적으로 낮아진다."
+      },
+      {
+        "number": 4,
+        "text": "짧은 영상을 시청하여 도파민의 과도한 생성을 예방할 수 있다."
+      }
+    ],
+    "options_text": [
+      "목표를 달성하는 데에 도파민의 적절한 분비가 도움이 된다.",
+      "사람들은 짧은 영상 콘텐츠에 유용한 면이 없다고 생각한다.",
+      "게임에 중독되면 도파민 분비 수치가 비정상적으로 낮아진다.",
+      "짧은 영상을 시청하여 도파민의 과도한 생성을 예방할 수 있다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "오랜 시간 서서히 분비되는 도파민은 인간이 목표에 도달하도록 하는 동력이 된다고 했습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-97.json",
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 47,
+    "level_test_question_number": 20,
+    "source_bank_id": "T2-97-R047",
+    "source_exam_id": "reading-97",
+    "generated_exam_id": "LEVEL-TEST-97-FIXED-20",
+    "level_test_blueprint_slot": 20,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "97",
+    "data_status": "level_test_20_from_97_full",
+    "passage_group_id": "SET-LT-97-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "target_slot": 20
+  }
+]

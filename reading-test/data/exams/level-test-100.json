@@ -1,0 +1,1771 @@
+﻿[
+  {
+    "id": "LT-T2-100-S01-Q001",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (   )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(   )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 주말에 산책을 (   ) 도서관에 간다.",
+    "passage_template": "나는 주말에 산책을 (   ) 도서관에 간다.",
+    "options": [
+      "하는지",
+      "하도록",
+      "하거나",
+      "하더니"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "하는지"
+      },
+      {
+        "label": "2",
+        "text": "하도록"
+      },
+      {
+        "label": "3",
+        "text": "하거나"
+      },
+      {
+        "label": "4",
+        "text": "하더니"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "두 행동 중 하나 또는 병렬되는 행동을 나타내는 연결 표현으로 '하거나'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "하는지",
+      "하도록",
+      "하거나",
+      "하더니"
+    ],
+    "template_slot": 1,
+    "source_bank_id": "QB-T2-100-R001",
+    "source_question_number": 1,
+    "original_full_question_number": 1,
+    "level_test_slot": 1,
+    "source_template_slot": 1,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S02-Q003",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "주인은 내가 연락할 때마다 바쁘다고 했다.",
+    "passage_template": "주인은 내가 연락할 때마다 바쁘다고 했다.",
+    "options": [
+      "연락한 뒤에",
+      "연락할 만큼",
+      "연락하다 보니",
+      "연락하기만 하면"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "연락한 뒤에"
+      },
+      {
+        "label": "2",
+        "text": "연락할 만큼"
+      },
+      {
+        "label": "3",
+        "text": "연락하다 보니"
+      },
+      {
+        "label": "4",
+        "text": "연락하기만 하면"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "'연락할 때마다'는 연락하는 경우마다 반복된다는 뜻이므로 '연락하기만 하면'과 의미가 가깝습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "연락한 뒤에",
+      "연락할 만큼",
+      "연락하다 보니",
+      "연락하기만 하면"
+    ],
+    "underline_targets": [
+      "연락할 때마다"
+    ],
+    "underline_source_round": "100",
+    "underline_reviewed": true,
+    "template_slot": 2,
+    "source_bank_id": "QB-T2-100-R003",
+    "source_question_number": 3,
+    "original_full_question_number": 3,
+    "level_test_slot": 2,
+    "source_template_slot": 3,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S03-Q005",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "수건",
+      "치약",
+      "운동복",
+      "화장품"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "수건"
+      },
+      {
+        "label": "2",
+        "text": "치약"
+      },
+      {
+        "label": "3",
+        "text": "운동복"
+      },
+      {
+        "label": "4",
+        "text": "화장품"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "광고 문구와 그림이 움직임이 편한 옷을 홍보하고 있으므로 운동복에 대한 글입니다.",
+    "image_url": "./images/100_R005.png",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "수건",
+      "치약",
+      "운동복",
+      "화장품"
+    ],
+    "image_only": true,
+    "template_slot": 3,
+    "source_bank_id": "QB-T2-100-R005",
+    "source_question_number": 5,
+    "original_full_question_number": 5,
+    "level_test_slot": 3,
+    "source_template_slot": 5,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S04-Q009",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "이 수업에서는 옛날 사람들의 놀이를 배운다.",
+      "이 수업은 신청한 날부터 바로 들을 수 있다.",
+      "이 수업은 인주시의 초등학생이면 누구나 참여할 수 있다.",
+      "이 수업을 들으려면 인주문화센터에 직접 가서 신청해야 한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 수업에서는 옛날 사람들의 놀이를 배운다."
+      },
+      {
+        "label": "2",
+        "text": "이 수업은 신청한 날부터 바로 들을 수 있다."
+      },
+      {
+        "label": "3",
+        "text": "이 수업은 인주시의 초등학생이면 누구나 참여할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "이 수업을 들으려면 인주문화센터에 직접 가서 신청해야 한다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "안내문에는 어린이 전통 놀이 수업 참여자를 모집하며 '옛날에는 무엇을 하면서 놀았을까?'라고 되어 있으므로 옛날 사람들의 놀이를 배우는 수업입니다.",
+    "image_url": "./images/100_R009.png",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "이 수업에서는 옛날 사람들의 놀이를 배운다.",
+      "이 수업은 신청한 날부터 바로 들을 수 있다.",
+      "이 수업은 인주시의 초등학생이면 누구나 참여할 수 있다.",
+      "이 수업을 들으려면 인주문화센터에 직접 가서 신청해야 한다."
+    ],
+    "image_only": true,
+    "template_slot": 4,
+    "source_bank_id": "QB-T2-100-R009",
+    "source_question_number": 9,
+    "original_full_question_number": 9,
+    "level_test_slot": 4,
+    "source_template_slot": 9,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S05-Q010",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "식당의 분위기를 중요하게 생각하는 비율이 가장 낮다.",
+      "음식의 맛이 중요하다고 생각하는 사람이 절반을 넘는다.",
+      "식당의 위치보다 음식의 가격을 중요하게 생각하는 사람이 더 많다.",
+      "음식의 가격이 식당의 분위기보다 중요하다는 응답이 두 배 이상 많다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "식당의 분위기를 중요하게 생각하는 비율이 가장 낮다."
+      },
+      {
+        "label": "2",
+        "text": "음식의 맛이 중요하다고 생각하는 사람이 절반을 넘는다."
+      },
+      {
+        "label": "3",
+        "text": "식당의 위치보다 음식의 가격을 중요하게 생각하는 사람이 더 많다."
+      },
+      {
+        "label": "4",
+        "text": "음식의 가격이 식당의 분위기보다 중요하다는 응답이 두 배 이상 많다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "그래프에서 음식의 가격은 15%, 식당의 위치는 12%이므로 식당의 위치보다 음식의 가격을 중요하게 생각하는 사람이 더 많습니다.",
+    "image_url": "./images/100_R010.png",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "식당의 분위기를 중요하게 생각하는 비율이 가장 낮다.",
+      "음식의 맛이 중요하다고 생각하는 사람이 절반을 넘는다.",
+      "식당의 위치보다 음식의 가격을 중요하게 생각하는 사람이 더 많다.",
+      "음식의 가격이 식당의 분위기보다 중요하다는 응답이 두 배 이상 많다."
+    ],
+    "image_only": true,
+    "template_slot": 5,
+    "source_bank_id": "QB-T2-100-R010",
+    "source_question_number": 10,
+    "original_full_question_number": 10,
+    "level_test_slot": 5,
+    "source_template_slot": 10,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S06-Q011",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "국내 최대 책 축제인 ‘인주 도서전’이 다음 달 18일부터 일주일간 열린다. 올해는 해외 출판사들이 처음으로 참여해 작년보다 규모가 커졌다. 이번 행사에서는 아직 공개되지 않은 전 세계의 도서 100권이 최초로 전시된다. 인기 작가의 사인회와 특별 강연이 직접 참여하는 프로그램도 운영된다.",
+    "passage_template": "국내 최대 책 축제인 ‘인주 도서전’이 다음 달 18일부터 일주일간 열린다. 올해는 해외 출판사들이 처음으로 참여해 작년보다 규모가 커졌다. 이번 행사에서는 아직 공개되지 않은 전 세계의 도서 100권이 최초로 전시된다. 인기 작가의 사인회와 특별 강연이 직접 참여하는 프로그램도 운영된다.",
+    "options": [
+      "행사의 규모가 작년에 비해 작아졌다.",
+      "이 행사는 다음 달 한 달 동안 열린다.",
+      "이 행사에서는 처음으로 공개되는 책을 볼 수 있다.",
+      "해외 출판사들이 작년에 이어 올해도 행사에 참여한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "행사의 규모가 작년에 비해 작아졌다."
+      },
+      {
+        "label": "2",
+        "text": "이 행사는 다음 달 한 달 동안 열린다."
+      },
+      {
+        "label": "3",
+        "text": "이 행사에서는 처음으로 공개되는 책을 볼 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "해외 출판사들이 작년에 이어 올해도 행사에 참여한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "아직 공개되지 않은 전 세계의 도서 100권이 최초로 전시된다고 했으므로 처음으로 공개되는 책을 볼 수 있습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "행사의 규모가 작년에 비해 작아졌다.",
+      "이 행사는 다음 달 한 달 동안 열린다.",
+      "이 행사에서는 처음으로 공개되는 책을 볼 수 있다.",
+      "해외 출판사들이 작년에 이어 올해도 행사에 참여한다."
+    ],
+    "template_slot": 6,
+    "source_bank_id": "QB-T2-100-R011",
+    "source_question_number": 11,
+    "original_full_question_number": 11,
+    "level_test_slot": 6,
+    "source_template_slot": 11,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S07-Q013",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "(가)-(다)-(라)-(나)",
+      "(가)-(라)-(다)-(나)",
+      "(다)-(나)-(라)-(가)",
+      "(다)-(라)-(가)-(나)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(다)-(나)-(라)-(가)"
+      },
+      {
+        "label": "4",
+        "text": "(다)-(라)-(가)-(나)"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "방울토마토 화분을 받은 뒤 베란다에서 키우고, 열매가 익어 수확한 뒤 그 기쁨을 표현하는 흐름입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "(가)-(다)-(라)-(나)",
+      "(가)-(라)-(다)-(나)",
+      "(다)-(나)-(라)-(가)",
+      "(다)-(라)-(가)-(나)"
+    ],
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "몇 달 전에 방울토마토 화분을 선물 받았다."
+      },
+      {
+        "label": "(나)",
+        "text": "우리가 수확한 토마토는 행복의 맛으로 가득했다."
+      },
+      {
+        "label": "(다)",
+        "text": "화분을 베란다에 두고 아이들과 함께 키우기 시작했다."
+      },
+      {
+        "label": "(라)",
+        "text": "드디어 열매가 열렸고 오늘 빨갛게 익은 토마토를 수확했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "몇 달 전에 방울토마토 화분을 선물 받았다."
+      },
+      {
+        "label": "나",
+        "text": "우리가 수확한 토마토는 행복의 맛으로 가득했다."
+      },
+      {
+        "label": "다",
+        "text": "화분을 베란다에 두고 아이들과 함께 키우기 시작했다."
+      },
+      {
+        "label": "라",
+        "text": "드디어 열매가 열렸고 오늘 빨갛게 익은 토마토를 수확했다."
+      }
+    ],
+    "correct_order": [
+      "(가)",
+      "(라)",
+      "(다)",
+      "(나)"
+    ],
+    "correct_answer_order": [
+      "가",
+      "라",
+      "다",
+      "나"
+    ],
+    "template_slot": 7,
+    "source_bank_id": "QB-T2-100-R013",
+    "source_question_number": 13,
+    "original_full_question_number": 13,
+    "level_test_slot": 7,
+    "source_template_slot": 13,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S08-Q016",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "건전지를 세워서 아래로 살짝 떨어뜨리면 (     ) 확인할 수 있다. 새 건전지는 내부가 물질로 꽉 차 있어 떨어뜨리면 똑바로 선다. 하지만 다 쓴 건전지를 떨어뜨리면 통통 튀다가 쓰러지게 된다. 건전지를 쓸수록 내부의 물질이 산화되면서 가스가 만들어지기 때문이다.",
+    "passage_template": "건전지를 세워서 아래로 살짝 떨어뜨리면 (     ) 확인할 수 있다. 새 건전지는 내부가 물질로 꽉 차 있어 떨어뜨리면 똑바로 선다. 하지만 다 쓴 건전지를 떨어뜨리면 통통 튀다가 쓰러지게 된다. 건전지를 쓸수록 내부의 물질이 산화되면서 가스가 만들어지기 때문이다.",
+    "options": [
+      "건전지의 위험성을",
+      "건전지를 다 썼는지",
+      "건전지의 충전 방법을",
+      "건전지를 어디에 사용했는지"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "건전지의 위험성을"
+      },
+      {
+        "label": "2",
+        "text": "건전지를 다 썼는지"
+      },
+      {
+        "label": "3",
+        "text": "건전지의 충전 방법을"
+      },
+      {
+        "label": "4",
+        "text": "건전지를 어디에 사용했는지"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "새 건전지와 다 쓴 건전지를 떨어뜨렸을 때의 차이로 건전지를 다 썼는지 확인할 수 있다는 내용입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "건전지의 위험성을",
+      "건전지를 다 썼는지",
+      "건전지의 충전 방법을",
+      "건전지를 어디에 사용했는지"
+    ],
+    "template_slot": 8,
+    "source_bank_id": "QB-T2-100-R016",
+    "source_question_number": 16,
+    "original_full_question_number": 16,
+    "level_test_slot": 8,
+    "source_template_slot": 16,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S09-Q019",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slot": 19,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "생태 통로는 야생 동물의 찻길 사고를 예방하기 위해 설치한 동물 전용 이동 통로이다. 그런데 생태 통로의 상당수가 제대로 관리되지 않고 있다. (     ) 야생 동물을 생태 통로 쪽으로 유도하거나 이동을 막는 울타리가 망가졌는데도 수리되지 않은 곳이 많다. 생태 통로가 동물의 찻길 사고를 예방할 수 있도록 관리를 강화해야 한다.",
+    "passage_template": "생태 통로는 야생 동물의 찻길 사고를 예방하기 위해 설치한 동물 전용 이동 통로이다. 그런데 생태 통로의 상당수가 제대로 관리되지 않고 있다. (     ) 야생 동물을 생태 통로 쪽으로 유도하거나 이동을 막는 울타리가 망가졌는데도 수리되지 않은 곳이 많다. 생태 통로가 동물의 찻길 사고를 예방할 수 있도록 관리를 강화해야 한다.",
+    "options": [
+      "만약",
+      "특히",
+      "반면",
+      "비록"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "만약"
+      },
+      {
+        "label": "2",
+        "text": "특히"
+      },
+      {
+        "label": "3",
+        "text": "반면"
+      },
+      {
+        "label": "4",
+        "text": "비록"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "앞 문장에서 생태 통로 관리가 제대로 되지 않는다고 말한 뒤 구체적인 예를 제시하므로 '특히'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "만약",
+      "특히",
+      "반면",
+      "비록"
+    ],
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "template_slot": 9,
+    "passage_group_id": "SET-T2-100-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-100-R019",
+    "source_question_number": 19,
+    "original_full_question_number": 19,
+    "level_test_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "source_template_slot": 19,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-100-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S10-Q020",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slot": 20,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "생태 통로는 야생 동물의 찻길 사고를 예방하기 위해 설치한 동물 전용 이동 통로이다. 그런데 생태 통로의 상당수가 제대로 관리되지 않고 있다. (     ) 야생 동물을 생태 통로 쪽으로 유도하거나 이동을 막는 울타리가 망가졌는데도 수리되지 않은 곳이 많다. 생태 통로가 동물의 찻길 사고를 예방할 수 있도록 관리를 강화해야 한다.",
+    "passage_template": "생태 통로는 야생 동물의 찻길 사고를 예방하기 위해 설치한 동물 전용 이동 통로이다. 그런데 생태 통로의 상당수가 제대로 관리되지 않고 있다. (     ) 야생 동물을 생태 통로 쪽으로 유도하거나 이동을 막는 울타리가 망가졌는데도 수리되지 않은 곳이 많다. 생태 통로가 동물의 찻길 사고를 예방할 수 있도록 관리를 강화해야 한다.",
+    "options": [
+      "생태 통로 관리의 어려움을 이해하는 것이 중요하다.",
+      "생태 통로 주변 야생 동물에 대한 연구를 늘려야 한다.",
+      "생태 통로를 확대해 동물의 찻길 사고를 예방해야 한다.",
+      "생태 통로가 제 기능을 하도록 지속적인 관리가 필요하다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "생태 통로 관리의 어려움을 이해하는 것이 중요하다."
+      },
+      {
+        "label": "2",
+        "text": "생태 통로 주변 야생 동물에 대한 연구를 늘려야 한다."
+      },
+      {
+        "label": "3",
+        "text": "생태 통로를 확대해 동물의 찻길 사고를 예방해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "생태 통로가 제 기능을 하도록 지속적인 관리가 필요하다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "글은 생태 통로가 제대로 관리되지 않는 문제를 지적하고, 제 기능을 하도록 관리를 강화해야 한다고 말합니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "생태 통로 관리의 어려움을 이해하는 것이 중요하다.",
+      "생태 통로 주변 야생 동물에 대한 연구를 늘려야 한다.",
+      "생태 통로를 확대해 동물의 찻길 사고를 예방해야 한다.",
+      "생태 통로가 제 기능을 하도록 지속적인 관리가 필요하다."
+    ],
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "template_slot": 10,
+    "passage_group_id": "SET-T2-100-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-100-R020",
+    "source_question_number": 20,
+    "original_full_question_number": 20,
+    "level_test_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "source_template_slot": 20,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-100-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S11-Q023",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slot": 23,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "오늘도 아침 일찍 카페 문을 열었다. 우리 카페는 이른 아침에 영업을 시작해서 출근길에 들르는 손님이 많은 편이다. 커피 원두를 갈고 있는데 문이 열리는 소리가 들렸다. 그 청년이었다. 매일 아침 일곱 시에 커피를 마시고 출근하는 단골손님인데 요 며칠 보이지 않아서 궁금해 하고 있던 참이었다. 나는 반가운 목소리로 청년에게 인사했다. “오랜만에 오셨네요.” “네. 지방으로 출장을 다녀왔어요.” 나는 서둘러 아이스 아메리카노를 만들어 주었다. “그동안 이 집 커피가 얼마나 생각나던지. 오랜만에 마시니 더 맛있네요. 덕분에 오늘도 출근할 힘이 납니다.” 청년의 말을 들으니 기분이 좋았다. ‘내가 만든 커피 한 잔이 누군가의 아침을 시작하는 힘이 되고 있구나.’ 이런 생각을 하니 나도 모르게 미소가 지어졌다.",
+    "passage_template": "오늘도 아침 일찍 카페 문을 열었다. 우리 카페는 이른 아침에 영업을 시작해서 출근길에 들르는 손님이 많은 편이다. 커피 원두를 갈고 있는데 문이 열리는 소리가 들렸다. 그 청년이었다. 매일 아침 일곱 시에 커피를 마시고 출근하는 단골손님인데 요 며칠 보이지 않아서 궁금해 하고 있던 참이었다. 나는 반가운 목소리로 청년에게 인사했다. “오랜만에 오셨네요.” “네. 지방으로 출장을 다녀왔어요.” 나는 서둘러 아이스 아메리카노를 만들어 주었다. “그동안 이 집 커피가 얼마나 생각나던지. 오랜만에 마시니 더 맛있네요. 덕분에 오늘도 출근할 힘이 납니다.” 청년의 말을 들으니 기분이 좋았다. ‘내가 만든 커피 한 잔이 누군가의 아침을 시작하는 힘이 되고 있구나.’ 이런 생각을 하니 나도 모르게 미소가 지어졌다.",
+    "options": [
+      "그립다",
+      "아쉽다",
+      "부끄럽다",
+      "뿌듯하다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "그립다"
+      },
+      {
+        "label": "2",
+        "text": "아쉽다"
+      },
+      {
+        "label": "3",
+        "text": "부끄럽다"
+      },
+      {
+        "label": "4",
+        "text": "뿌듯하다"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "자신이 만든 커피가 누군가에게 힘이 된다는 사실에 기분이 좋아지고 미소가 지어진 상황이므로 '뿌듯하다'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "그립다",
+      "아쉽다",
+      "부끄럽다",
+      "뿌듯하다"
+    ],
+    "underline_targets": [
+      "나도 모르게 미소가 지어졌다"
+    ],
+    "underline_source_round": "100",
+    "underline_reviewed": true,
+    "template_slot": 11,
+    "passage_group_id": "SET-T2-100-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-100-R023",
+    "source_question_number": 23,
+    "original_full_question_number": 23,
+    "level_test_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "source_template_slot": 23,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-100-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S12-Q024",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slot": 24,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "오늘도 아침 일찍 카페 문을 열었다. 우리 카페는 이른 아침에 영업을 시작해서 출근길에 들르는 손님이 많은 편이다. 커피 원두를 갈고 있는데 문이 열리는 소리가 들렸다. 그 청년이었다. 매일 아침 일곱 시에 커피를 마시고 출근하는 단골손님인데 요 며칠 보이지 않아서 궁금해 하고 있던 참이었다. 나는 반가운 목소리로 청년에게 인사했다. “오랜만에 오셨네요.” “네. 지방으로 출장을 다녀왔어요.” 나는 서둘러 아이스 아메리카노를 만들어 주었다. “그동안 이 집 커피가 얼마나 생각나던지. 오랜만에 마시니 더 맛있네요. 덕분에 오늘도 출근할 힘이 납니다.” 청년의 말을 들으니 기분이 좋았다. ‘내가 만든 커피 한 잔이 누군가의 아침을 시작하는 힘이 되고 있구나.’ 이런 생각을 하니 나도 모르게 미소가 지어졌다.",
+    "passage_template": "오늘도 아침 일찍 카페 문을 열었다. 우리 카페는 이른 아침에 영업을 시작해서 출근길에 들르는 손님이 많은 편이다. 커피 원두를 갈고 있는데 문이 열리는 소리가 들렸다. 그 청년이었다. 매일 아침 일곱 시에 커피를 마시고 출근하는 단골손님인데 요 며칠 보이지 않아서 궁금해 하고 있던 참이었다. 나는 반가운 목소리로 청년에게 인사했다. “오랜만에 오셨네요.” “네. 지방으로 출장을 다녀왔어요.” 나는 서둘러 아이스 아메리카노를 만들어 주었다. “그동안 이 집 커피가 얼마나 생각나던지. 오랜만에 마시니 더 맛있네요. 덕분에 오늘도 출근할 힘이 납니다.” 청년의 말을 들으니 기분이 좋았다. ‘내가 만든 커피 한 잔이 누군가의 아침을 시작하는 힘이 되고 있구나.’ 이런 생각을 하니 나도 모르게 미소가 지어졌다.",
+    "options": [
+      "청년은 오늘 퇴근하는 길에 카페에 들렀다.",
+      "아침 시간에는 카페를 찾는 손님이 별로 없다.",
+      "청년은 출장을 다녀오느라 카페에 오지 못했다.",
+      "오늘은 평소보다 조금 늦게 카페 문을 열었다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "청년은 오늘 퇴근하는 길에 카페에 들렀다."
+      },
+      {
+        "label": "2",
+        "text": "아침 시간에는 카페를 찾는 손님이 별로 없다."
+      },
+      {
+        "label": "3",
+        "text": "청년은 출장을 다녀오느라 카페에 오지 못했다."
+      },
+      {
+        "label": "4",
+        "text": "오늘은 평소보다 조금 늦게 카페 문을 열었다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "청년은 지방으로 출장을 다녀왔다고 말했으므로, 그동안 출장을 다녀오느라 카페에 오지 못했다는 내용이 맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "청년은 오늘 퇴근하는 길에 카페에 들렀다.",
+      "아침 시간에는 카페를 찾는 손님이 별로 없다.",
+      "청년은 출장을 다녀오느라 카페에 오지 못했다.",
+      "오늘은 평소보다 조금 늦게 카페 문을 열었다."
+    ],
+    "template_slot": 12,
+    "passage_group_id": "SET-T2-100-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-100-R024",
+    "source_question_number": 24,
+    "original_full_question_number": 24,
+    "level_test_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "source_template_slot": 24,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-100-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S13-Q025",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "headline_meaning",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "한국 배드민턴 간판 김수미, 세계 대회 우승에 바짝 다가가",
+    "passage_template": "한국 배드민턴 간판 김수미, 세계 대회 우승에 바짝 다가가",
+    "options": [
+      "한국 배드민턴 감독 김수미가 선발한 선수들이 세계 대회에서 우승했다.",
+      "한국 배드민턴 대회에서 김수미가 우승하자 관객들의 환호가 이어졌다.",
+      "한국 배드민턴 대표 선수인 김수미의 세계 대회 우승 가능성이 매우 높아졌다.",
+      "한국 배드민턴 대표 선수 김수미가 세계 대회 우승을 목표로 훈련 중이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "한국 배드민턴 감독 김수미가 선발한 선수들이 세계 대회에서 우승했다."
+      },
+      {
+        "label": "2",
+        "text": "한국 배드민턴 대회에서 김수미가 우승하자 관객들의 환호가 이어졌다."
+      },
+      {
+        "label": "3",
+        "text": "한국 배드민턴 대표 선수인 김수미의 세계 대회 우승 가능성이 매우 높아졌다."
+      },
+      {
+        "label": "4",
+        "text": "한국 배드민턴 대표 선수 김수미가 세계 대회 우승을 목표로 훈련 중이다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "'우승에 바짝 다가가'는 우승 가능성이 매우 높아졌다는 뜻입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "한국 배드민턴 감독 김수미가 선발한 선수들이 세계 대회에서 우승했다.",
+      "한국 배드민턴 대회에서 김수미가 우승하자 관객들의 환호가 이어졌다.",
+      "한국 배드민턴 대표 선수인 김수미의 세계 대회 우승 가능성이 매우 높아졌다.",
+      "한국 배드민턴 대표 선수 김수미가 세계 대회 우승을 목표로 훈련 중이다."
+    ],
+    "template_slot": 13,
+    "source_bank_id": "QB-T2-100-R025",
+    "source_question_number": 25,
+    "original_full_question_number": 25,
+    "level_test_slot": 13,
+    "source_template_slot": 25,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S14-Q032",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "경사가 심한 일부 내리막 구간의 도로 옆에는 가파른 오르막 경사로가 설치돼 있다. 이는 브레이크가 고장 난 차량의 감속을 유도하는 긴급 제동 시설이다. 이 시설은 모래나 자갈 등 마찰력이 높은 소재로 채워져 제동이 안 되는 차량이 이곳에 들어오면 멈추도록 설계됐다. 만일 이곳에 긴급 제동의 다른 목적으로 주차나 정차를 하면 도로 교통법 위반에 해당된다.",
+    "passage_template": "경사가 심한 일부 내리막 구간의 도로 옆에는 가파른 오르막 경사로가 설치돼 있다. 이는 브레이크가 고장 난 차량의 감속을 유도하는 긴급 제동 시설이다. 이 시설은 모래나 자갈 등 마찰력이 높은 소재로 채워져 제동이 안 되는 차량이 이곳에 들어오면 멈추도록 설계됐다. 만일 이곳에 긴급 제동의 다른 목적으로 주차나 정차를 하면 도로 교통법 위반에 해당된다.",
+    "options": [
+      "이 시설은 감속을 유도하고자 평평한 형태로 만들어진다.",
+      "경사가 완만한 오르막 도로의 중앙에 이 시설을 설치한다.",
+      "도로에서 차량을 점검해야 할 때 이 시설에 정차해도 된다.",
+      "이 시설은 경사도와 마찰력을 이용해 차량의 속도를 낮춘다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 시설은 감속을 유도하고자 평평한 형태로 만들어진다."
+      },
+      {
+        "label": "2",
+        "text": "경사가 완만한 오르막 도로의 중앙에 이 시설을 설치한다."
+      },
+      {
+        "label": "3",
+        "text": "도로에서 차량을 점검해야 할 때 이 시설에 정차해도 된다."
+      },
+      {
+        "label": "4",
+        "text": "이 시설은 경사도와 마찰력을 이용해 차량의 속도를 낮춘다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "이 시설은 감속을 유도하고자 평평한 형태로 만들어진다.",
+      "경사가 완만한 오르막 도로의 중앙에 이 시설을 설치한다.",
+      "도로에서 차량을 점검해야 할 때 이 시설에 정차해도 된다.",
+      "이 시설은 경사도와 마찰력을 이용해 차량의 속도를 낮춘다."
+    ],
+    "template_slot": 14,
+    "source_bank_id": "QB-T2-100-R032",
+    "source_question_number": 32,
+    "original_full_question_number": 32,
+    "level_test_slot": 14,
+    "source_template_slot": 32,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S15-Q035",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "집단 지성은 구성원들이 서로 소통해 최상의 결과를 도출해 내는 것이다. 보통 배경이 비슷한 동질 집단일수록 집단 지성이 잘 발휘될 거라고 생각하지만 집단 지성은 이질성이 높은 집단에서 더 잘 발휘된다. 비슷한 배경을 가진 동질 집단은 다양하고 창의적인 생각이 나오기 어렵기 때문이다. 따라서 중요한 의사 결정을 할 때에는 배경이 다양한 사람들로 집단을 구성하는 것이 효과적이다.",
+    "passage_template": "집단 지성은 구성원들이 서로 소통해 최상의 결과를 도출해 내는 것이다. 보통 배경이 비슷한 동질 집단일수록 집단 지성이 잘 발휘될 거라고 생각하지만 집단 지성은 이질성이 높은 집단에서 더 잘 발휘된다. 비슷한 배경을 가진 동질 집단은 다양하고 창의적인 생각이 나오기 어렵기 때문이다. 따라서 중요한 의사 결정을 할 때에는 배경이 다양한 사람들로 집단을 구성하는 것이 효과적이다.",
+    "options": [
+      "동질 집단일수록 구성원들의 소통 기회를 늘려야 한다.",
+      "공동체 활동을 통해 집단 지성의 가치를 확산해야 한다.",
+      "창의적인 아이디어를 얻기 위해서는 구성원의 배경을 통일해야 한다.",
+      "집단 지성이 잘 발휘되려면 이질적인 사람들로 집단을 구성해야 한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "동질 집단일수록 구성원들의 소통 기회를 늘려야 한다."
+      },
+      {
+        "label": "2",
+        "text": "공동체 활동을 통해 집단 지성의 가치를 확산해야 한다."
+      },
+      {
+        "label": "3",
+        "text": "창의적인 아이디어를 얻기 위해서는 구성원의 배경을 통일해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "집단 지성이 잘 발휘되려면 이질적인 사람들로 집단을 구성해야 한다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "동질 집단일수록 구성원들의 소통 기회를 늘려야 한다.",
+      "공동체 활동을 통해 집단 지성의 가치를 확산해야 한다.",
+      "창의적인 아이디어를 얻기 위해서는 구성원의 배경을 통일해야 한다.",
+      "집단 지성이 잘 발휘되려면 이질적인 사람들로 집단을 구성해야 한다."
+    ],
+    "template_slot": 15,
+    "source_bank_id": "QB-T2-100-R035",
+    "source_question_number": 35,
+    "original_full_question_number": 35,
+    "level_test_slot": 15,
+    "source_template_slot": 35,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S16-Q039",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "insert_sentence": "거울 기법은 행동 교정에 탁월한 효과를 보이는 것으로 알려져 있다.",
+    "sentence_to_insert": "거울 기법은 행동 교정에 탁월한 효과를 보이는 것으로 알려져 있다.",
+    "passage": "‘거울 기법’은 자신과 동일한 행동을 하는 타인을 관찰하게 함으로써 자기 성찰을 유도하는 심리 치료 방식이다. ( ㉠ ) 하지만 이 기법이 누구에게나 효과적인 것은 아니다. ( ㉡ ) 스스로를 객관적으로 보지 못하는 사람에게는 아무런 소용이 없다. ( ㉢ ) 자기 객관화 능력이 부족하면 자신과 동일한 행동을 하는 타인을 보고도 자신과 같다고 인지하지 못하는 것이다. ( ㉣ )",
+    "passage_template": "‘거울 기법’은 자신과 동일한 행동을 하는 타인을 관찰하게 함으로써 자기 성찰을 유도하는 심리 치료 방식이다. ( ㉠ ) 하지만 이 기법이 누구에게나 효과적인 것은 아니다. ( ㉡ ) 스스로를 객관적으로 보지 못하는 사람에게는 아무런 소용이 없다. ( ㉢ ) 자기 객관화 능력이 부족하면 자신과 동일한 행동을 하는 타인을 보고도 자신과 같다고 인지하지 못하는 것이다. ( ㉣ )",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉠",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "interaction_mode": "click_insert_sentence_into_position",
+    "correct_insert_position": "㉠",
+    "sentence_insert_reviewed": true,
+    "sentence_insert_source_round": "100",
+    "sentence_insert_note": "100회 원문 기준 주어진 문장과 ㉠/㉡/㉢/㉣ 위치를 연결함.",
+    "template_required_type": "sentence_insert",
+    "metadata_before_normalization": {
+      "type": "sentence_insert_interactive",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단"
+    },
+    "template_slot": 16,
+    "source_bank_id": "QB-T2-100-R039",
+    "source_question_number": 39,
+    "original_full_question_number": 39,
+    "level_test_slot": 16,
+    "source_template_slot": 39,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S17-Q042",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 19,
+    "source_printed_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 17,
+    "target_slot": 42,
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘신재강’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "“엣차, 그럼 신세 좀 지겠습니다.”\n경쾌하고도 능청스러운 추임새를 넣으면서 신재강이 옆자리에 탔다. (중략)\n요진이 비서나 운전기사가 아니었으므로 신재강은 소위 사장님 좌석이라 불리는 뒷자리 오른쪽에 타기도 애매한 입장이었고, 그렇다고 남의 집 부인 옆자리에 타기도 모양이 우스울 터였다. 그 나름대로 이런저런 고민을 빠르게 한 끝에 결국 앞으로 옮겨 온 것은, 옆자리를 피하면 이 상황을 더 부자연스럽게 의식하는 것처럼 비칠 수 있으니 현명한 선택이었다. (중략) 사람을 옆자리에 태우고 최소 40분은 달려야 하는데 요진은 무슨 대화를 나눠서 이 분위기에 윤활제를 쳐야 할지 감 잡을 수 없었다. 우리가 만난 지 며칠이나 됐지? 차라리 회사 동료라면 업무 얘기를 주고받든지 상사 욕이라도 하겠는데. 신재강 역시 비슷한 생각을 하는 듯, 넉살 좋게 차에 올라탄 뒤로는 달리기 시작한 지 10분 넘도록 볼 것도 없는 창밖을 내다보며 말이 없었다.\n(중략) 라디오를 틀어 먼저 공기에 변화 주기를 시도한 쪽은 요진이었다.\n“뭐, 좋아하시는 장르가 따로 있으실까요.”\n신재강은 그게 자신에게 건넨 말임을 몰랐는지 잠깐 가만히 있다가 화들짝 튀어 오르듯 대답했다.\n“어, 취향대로 아무거나 트세요. 전 아무래도 상관없습니다.”\n“그럼 그냥 교통 방송 들을게요.”",
+    "passage_template": "“엣차, 그럼 신세 좀 지겠습니다.”\n경쾌하고도 능청스러운 추임새를 넣으면서 신재강이 옆자리에 탔다. (중략)\n요진이 비서나 운전기사가 아니었으므로 신재강은 소위 사장님 좌석이라 불리는 뒷자리 오른쪽에 타기도 애매한 입장이었고, 그렇다고 남의 집 부인 옆자리에 타기도 모양이 우스울 터였다. 그 나름대로 이런저런 고민을 빠르게 한 끝에 결국 앞으로 옮겨 온 것은, 옆자리를 피하면 이 상황을 더 부자연스럽게 의식하는 것처럼 비칠 수 있으니 현명한 선택이었다. (중략) 사람을 옆자리에 태우고 최소 40분은 달려야 하는데 요진은 무슨 대화를 나눠서 이 분위기에 윤활제를 쳐야 할지 감 잡을 수 없었다. 우리가 만난 지 며칠이나 됐지? 차라리 회사 동료라면 업무 얘기를 주고받든지 상사 욕이라도 하겠는데. 신재강 역시 비슷한 생각을 하는 듯, 넉살 좋게 차에 올라탄 뒤로는 달리기 시작한 지 10분 넘도록 볼 것도 없는 창밖을 내다보며 말이 없었다.\n(중략) 라디오를 틀어 먼저 공기에 변화 주기를 시도한 쪽은 요진이었다.\n“뭐, 좋아하시는 장르가 따로 있으실까요.”\n신재강은 그게 자신에게 건넨 말임을 몰랐는지 잠깐 가만히 있다가 화들짝 튀어 오르듯 대답했다.\n“어, 취향대로 아무거나 트세요. 전 아무래도 상관없습니다.”\n“그럼 그냥 교통 방송 들을게요.”",
+    "options": [
+      "어색하다",
+      "간절하다",
+      "든든하다",
+      "대견하다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "어색하다"
+      },
+      {
+        "label": "2",
+        "text": "간절하다"
+      },
+      {
+        "label": "3",
+        "text": "든든하다"
+      },
+      {
+        "label": "4",
+        "text": "대견하다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "어색하다",
+      "간절하다",
+      "든든하다",
+      "대견하다"
+    ],
+    "underline_targets": [
+      "화들짝 튀어 오르듯 대답했다"
+    ],
+    "underline_source_round": "100",
+    "underline_reviewed": true,
+    "template_slot": 17,
+    "passage_group_id": "SET-T2-100-R042-043",
+    "passage_group_title": "[42~43] 공통 지문",
+    "passage_group_numbers": [
+      17
+    ],
+    "source_bank_id": "QB-T2-100-R042",
+    "source_question_number": 42,
+    "original_full_question_number": 42,
+    "level_test_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_template_slot": 42,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S18-Q045",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 20,
+    "source_printed_page": 19,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "주제 파악",
+    "diagnostic_area": "학술 설명문의 중심 내용 파악",
+    "original_question_number": 45,
+    "question_number": 18,
+    "target_slot": 45,
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "작가 한강은 노벨문학상을 수상하며 ‘과거가 현재를 구할 수 있는가’라는 질문을 던졌다. 이는 문학이 끊임없이 던져 온 질문이기도 하다. 문학은 역사적 기술이 다 담지 못한 부분에 집중해 진실을 드러내고 그에 대한 인간의 내밀한 경험과 감정을 표현한다. 이러한 경험과 감정을 타인에게 공유시키면서 (     ) 역할을 한다. 문학은 언어를 통해 고통을 드러냄으로써 그것이 자신만의 아픔이 아님을 깨닫게 한다. 이때 생기는 공감은 고통을 겪는 사람들을 하나로 이어지게 하고 이는 고통을 치유하는 밑거름이 된다. 때로 문학은 인간의 고통 앞에서 무력해 보인다. 그러나 고통의 목소리에 귀 기울이고 진실을 다해 표현함으로써 누군가가 아픔을 극복하고 살아갈 수 있게 하는 것, 그것이 문학이 존재하는 이유이다.",
+    "passage_template": "작가 한강은 노벨문학상을 수상하며 ‘과거가 현재를 구할 수 있는가’라는 질문을 던졌다. 이는 문학이 끊임없이 던져 온 질문이기도 하다. 문학은 역사적 기술이 다 담지 못한 부분에 집중해 진실을 드러내고 그에 대한 인간의 내밀한 경험과 감정을 표현한다. 이러한 경험과 감정을 타인에게 공유시키면서 (     ) 역할을 한다. 문학은 언어를 통해 고통을 드러냄으로써 그것이 자신만의 아픔이 아님을 깨닫게 한다. 이때 생기는 공감은 고통을 겪는 사람들을 하나로 이어지게 하고 이는 고통을 치유하는 밑거름이 된다. 때로 문학은 인간의 고통 앞에서 무력해 보인다. 그러나 고통의 목소리에 귀 기울이고 진실을 다해 표현함으로써 누군가가 아픔을 극복하고 살아갈 수 있게 하는 것, 그것이 문학이 존재하는 이유이다.",
+    "options": [
+      "역사적 사실은 문학을 통해 새롭게 해석된다.",
+      "문학은 공감을 통해 고통을 겪는 사람들을 치유한다.",
+      "문학의 존재 가치에 대한 질문과 탐구는 계속되고 있다.",
+      "인간의 고통을 소재로 한 문학 작품이 권위를 인정받는다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "역사적 사실은 문학을 통해 새롭게 해석된다."
+      },
+      {
+        "label": "2",
+        "text": "문학은 공감을 통해 고통을 겪는 사람들을 치유한다."
+      },
+      {
+        "label": "3",
+        "text": "문학의 존재 가치에 대한 질문과 탐구는 계속되고 있다."
+      },
+      {
+        "label": "4",
+        "text": "인간의 고통을 소재로 한 문학 작품이 권위를 인정받는다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "역사적 사실은 문학을 통해 새롭게 해석된다.",
+      "문학은 공감을 통해 고통을 겪는 사람들을 치유한다.",
+      "문학의 존재 가치에 대한 질문과 탐구는 계속되고 있다.",
+      "인간의 고통을 소재로 한 문학 작품이 권위를 인정받는다."
+    ],
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "template_slot": 18,
+    "passage_group_id": "SET-T2-100-R044-045",
+    "passage_group_title": "[44~45] 공통 지문",
+    "passage_group_numbers": [
+      18
+    ],
+    "source_bank_id": "QB-T2-100-R045",
+    "source_question_number": 45,
+    "original_full_question_number": 45,
+    "level_test_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_template_slot": 45,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      44,
+      45
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S19-Q046",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자의 태도",
+    "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slot": 46,
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "세계 주요국들이 반도체 산업 육성 정책을 경쟁적으로 전개하고 있다. 반도체 산업이 미래 경쟁력의 핵심 요소로 작용하기 때문이다. 현재 반도체 산업은 주요 기술이 급변하고 있으며 핵심 기술을 보유한 인력이 귀한 상황이다. 한국은 지금으로서는 반도체 제조업 분야에 강점이 있으나 미래를 선도할 반도체 원천 기술과 전문 인력은 부족하다. 이대로 가면 반도체 분야에서 뒤처질 것이 분명하다. 미래의 반도체 산업에서 앞서가기 위해서는 경쟁력 있는 기술을 확보하지 않으면 안 된다. 따라서 거시적이고 장기적인 계획을 가지고 기술 개발 과제를 진행해야 한다. 이와 함께 전문 인력 확보를 위해 국가와 기업이 기금을 마련해 반도체 전공자를 양성할 필요가 있다. 이러한 계획들이 체계적으로 수립, 운영되지 않으면 반도체 산업의 미래는 낙관하기 어려울 것이다.",
+    "passage_template": "세계 주요국들이 반도체 산업 육성 정책을 경쟁적으로 전개하고 있다. 반도체 산업이 미래 경쟁력의 핵심 요소로 작용하기 때문이다. 현재 반도체 산업은 주요 기술이 급변하고 있으며 핵심 기술을 보유한 인력이 귀한 상황이다. 한국은 지금으로서는 반도체 제조업 분야에 강점이 있으나 미래를 선도할 반도체 원천 기술과 전문 인력은 부족하다. 이대로 가면 반도체 분야에서 뒤처질 것이 분명하다. 미래의 반도체 산업에서 앞서가기 위해서는 경쟁력 있는 기술을 확보하지 않으면 안 된다. 따라서 거시적이고 장기적인 계획을 가지고 기술 개발 과제를 진행해야 한다. 이와 함께 전문 인력 확보를 위해 국가와 기업이 기금을 마련해 반도체 전공자를 양성할 필요가 있다. 이러한 계획들이 체계적으로 수립, 운영되지 않으면 반도체 산업의 미래는 낙관하기 어려울 것이다.",
+    "options": [
+      "반도체 산업의 성장을 위한 계획 수립을 촉구하고 있다.",
+      "반도체 기술 개발을 위한 지원이 커질 것을 기대하고 있다.",
+      "반도체 기술이 전 세계 산업에 미칠 영향을 낙관하고 있다.",
+      "반도체 전문 인력 양성에 국가가 개입하는 것을 반대하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "반도체 산업의 성장을 위한 계획 수립을 촉구하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "반도체 기술 개발을 위한 지원이 커질 것을 기대하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "반도체 기술이 전 세계 산업에 미칠 영향을 낙관하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "반도체 전문 인력 양성에 국가가 개입하는 것을 반대하고 있다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "반도체 산업의 성장을 위한 계획 수립을 촉구하고 있다.",
+      "반도체 기술 개발을 위한 지원이 커질 것을 기대하고 있다.",
+      "반도체 기술이 전 세계 산업에 미칠 영향을 낙관하고 있다.",
+      "반도체 전문 인력 양성에 국가가 개입하는 것을 반대하고 있다."
+    ],
+    "template_slot": 19,
+    "passage_group_id": "SET-T2-100-R046-047",
+    "passage_group_title": "[46~47] 공통 지문",
+    "passage_group_numbers": [
+      19
+    ],
+    "source_bank_id": "QB-T2-100-R046",
+    "source_question_number": 46,
+    "original_full_question_number": 46,
+    "level_test_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_template_slot": 46,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      46,
+      47
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-100-S20-Q050",
+    "source_round": "100",
+    "source_file": "100회 토픽2 읽기.pdf",
+    "source_pdf_page": 22,
+    "source_printed_page": 21,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "긴 지문 내용 일치",
+    "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+    "original_question_number": 50,
+    "question_number": 20,
+    "target_slot": 50,
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "한 사회가 얼마나 공정한지 판단할 때 누구에게나 경쟁의 기회가 동일하게 주어지는지를 기준으로 삼곤 한다. 그런데 이것이 공정의 진정한 기준인지 생각해 볼 필요가 있다. 경쟁 선에 서기 전까지의 조건이 모두에게 동일하지 않을 수 있기 때문이다. 어떤 경쟁은 사회적 지위가 높거나 경제적으로 부유한 사람들에게 유리하다. 이런 경우 경쟁의 결과는 이미 정해져 있는 것이나 다름없다. 이런 상황을 무시하고, (     ) 것만으로 공정한 경쟁이 이루어졌다고 보기는 어렵다. 현재도 공정을 실현하기 위해 사회적 약자에게 대학 입학 혜택을 제공하거나 채용 과정에 사회적 배경을 배제하는 블라인드 채용 같은 제도가 마련되어 있다. 하지만 이것으로 충분하지 않다. 더 공정한 사회를 만들기 위해서는 돌봄의 확대, 지속적인 교육 지원 등 사회적 약자가 동일한 조건으로 출발선에 설 수 있도록 하는 세심한 배려가 필요하다.",
+    "passage_template": "한 사회가 얼마나 공정한지 판단할 때 누구에게나 경쟁의 기회가 동일하게 주어지는지를 기준으로 삼곤 한다. 그런데 이것이 공정의 진정한 기준인지 생각해 볼 필요가 있다. 경쟁 선에 서기 전까지의 조건이 모두에게 동일하지 않을 수 있기 때문이다. 어떤 경쟁은 사회적 지위가 높거나 경제적으로 부유한 사람들에게 유리하다. 이런 경우 경쟁의 결과는 이미 정해져 있는 것이나 다름없다. 이런 상황을 무시하고, (     ) 것만으로 공정한 경쟁이 이루어졌다고 보기는 어렵다. 현재도 공정을 실현하기 위해 사회적 약자에게 대학 입학 혜택을 제공하거나 채용 과정에 사회적 배경을 배제하는 블라인드 채용 같은 제도가 마련되어 있다. 하지만 이것으로 충분하지 않다. 더 공정한 사회를 만들기 위해서는 돌봄의 확대, 지속적인 교육 지원 등 사회적 약자가 동일한 조건으로 출발선에 설 수 있도록 하는 세심한 배려가 필요하다.",
+    "options": [
+      "돌봄의 확대는 공정을 실현하기 위한 방법이 아니다.",
+      "경쟁 전의 조건은 경쟁의 결과에 영향을 미치지 않는다.",
+      "일반적으로 사회적 지위가 동일한가를 공정의 기준으로 삼는다.",
+      "사회적 약자를 배려하는 입학 전형은 공정을 실현하려는 제도이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "돌봄의 확대는 공정을 실현하기 위한 방법이 아니다."
+      },
+      {
+        "label": "2",
+        "text": "경쟁 전의 조건은 경쟁의 결과에 영향을 미치지 않는다."
+      },
+      {
+        "label": "3",
+        "text": "일반적으로 사회적 지위가 동일한가를 공정의 기준으로 삼는다."
+      },
+      {
+        "label": "4",
+        "text": "사회적 약자를 배려하는 입학 전형은 공정을 실현하려는 제도이다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "100회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-100.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "돌봄의 확대는 공정을 실현하기 위한 방법이 아니다.",
+      "경쟁 전의 조건은 경쟁의 결과에 영향을 미치지 않는다.",
+      "일반적으로 사회적 지위가 동일한가를 공정의 기준으로 삼는다.",
+      "사회적 약자를 배려하는 입학 전형은 공정을 실현하려는 제도이다."
+    ],
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "template_slot": 20,
+    "passage_group_id": "SET-T2-100-R048-050",
+    "passage_group_title": "[48~50] 긴 지문 공통 문제",
+    "passage_group_numbers": [
+      20
+    ],
+    "source_bank_id": "QB-T2-100-R050",
+    "source_question_number": 50,
+    "original_full_question_number": 50,
+    "level_test_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_template_slot": 50,
+    "generated_exam_id": "TOPIK2-READING-100-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "100",
+    "generated_exam_label": "100회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 100회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "draft_note": "100회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  }
+]

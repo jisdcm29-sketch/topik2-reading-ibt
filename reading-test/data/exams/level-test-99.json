@@ -1,0 +1,1717 @@
+﻿[
+  {
+    "id": "LT-T2-099-S01-Q001",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "점심시간 전에 약속 장소에 (     ) 지금 출발해야 한다.",
+    "passage_template": "점심시간 전에 약속 장소에 (     ) 지금 출발해야 한다.",
+    "options": [
+      "도착하는지",
+      "도착하려면",
+      "도착하면서",
+      "도착하더니"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "도착하는지"
+      },
+      {
+        "label": "2",
+        "text": "도착하려면"
+      },
+      {
+        "label": "3",
+        "text": "도착하면서"
+      },
+      {
+        "label": "4",
+        "text": "도착하더니"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "약속 장소에 도착하기 위한 조건을 나타내므로 '도착하려면'이 알맞습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "도착하는지",
+      "도착하려면",
+      "도착하면서",
+      "도착하더니"
+    ],
+    "template_slot": 1,
+    "source_bank_id": "QB-T2-099-R001",
+    "source_question_number": 1,
+    "original_full_question_number": 1,
+    "level_test_slot": 1,
+    "source_template_slot": 1,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S02-Q003",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "어릴 때 살던 동네가 몰라볼 만큼 많이 변했다.",
+    "passage_template": "어릴 때 살던 동네가 몰라볼 만큼 많이 변했다.",
+    "options": [
+      "몰라볼 정도로",
+      "몰라볼 테니까",
+      "몰라보는 데다가",
+      "몰라보는 바람에"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "몰라볼 정도로"
+      },
+      {
+        "label": "2",
+        "text": "몰라볼 테니까"
+      },
+      {
+        "label": "3",
+        "text": "몰라보는 데다가"
+      },
+      {
+        "label": "4",
+        "text": "몰라보는 바람에"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "'몰라볼 만큼'은 알아보지 못할 정도로 변화가 크다는 의미입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "몰라볼 정도로",
+      "몰라볼 테니까",
+      "몰라보는 데다가",
+      "몰라보는 바람에"
+    ],
+    "template_slot": 2,
+    "underline_targets": [
+      "몰라볼 만큼"
+    ],
+    "underlined_parts": [
+      "몰라볼 만큼"
+    ],
+    "source_bank_id": "QB-T2-099-R003",
+    "source_question_number": 3,
+    "original_full_question_number": 3,
+    "level_test_slot": 2,
+    "source_template_slot": 3,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S03-Q005",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "양말",
+      "휴지",
+      "세탁기",
+      "자동차"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "양말"
+      },
+      {
+        "label": "2",
+        "text": "휴지"
+      },
+      {
+        "label": "3",
+        "text": "세탁기"
+      },
+      {
+        "label": "4",
+        "text": "자동차"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "이미지 문항입니다. 99_R005.png를 확인하여 대상이 무엇인지 검수해야 합니다.",
+    "image_url": "images/99_R005.png",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "양말",
+      "휴지",
+      "세탁기",
+      "자동차"
+    ],
+    "template_slot": 3,
+    "image_only": true,
+    "source_bank_id": "QB-T2-099-R005",
+    "source_question_number": 5,
+    "original_full_question_number": 5,
+    "level_test_slot": 3,
+    "source_template_slot": 5,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S04-Q009",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "이 공연은 평일에도 볼 수 있다.",
+      "이 공연의 입장료는 성인과 학생이 같다.",
+      "이 공연은 야외 공연장에서 진행될 예정이다.",
+      "이 공연에서는 탈춤에 대한 설명을 들을 수 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 공연은 평일에도 볼 수 있다."
+      },
+      {
+        "label": "2",
+        "text": "이 공연의 입장료는 성인과 학생이 같다."
+      },
+      {
+        "label": "3",
+        "text": "이 공연은 야외 공연장에서 진행될 예정이다."
+      },
+      {
+        "label": "4",
+        "text": "이 공연에서는 탈춤에 대한 설명을 들을 수 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "이미지 안내문 문항입니다. 공연 일시, 장소, 입장료, 설명 여부를 기준으로 검수해야 합니다.",
+    "image_url": "images/99_R009.png",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "이 공연은 평일에도 볼 수 있다.",
+      "이 공연의 입장료는 성인과 학생이 같다.",
+      "이 공연은 야외 공연장에서 진행될 예정이다.",
+      "이 공연에서는 탈춤에 대한 설명을 들을 수 있다."
+    ],
+    "template_slot": 4,
+    "image_only": true,
+    "source_bank_id": "QB-T2-099-R009",
+    "source_question_number": 9,
+    "original_full_question_number": 9,
+    "level_test_slot": 4,
+    "source_template_slot": 9,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S05-Q010",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "건강이라고 응답한 사람의 비율이 제일 높다.",
+      "행복한 가정이라고 응답한 비율은 전체의 반을 넘는다.",
+      "돈과 명예를 선택한 사람이 건강을 선택한 사람에 비해 적다.",
+      "시간적 여유라는 응답은 자신에게 맞는 직업이라는 응답보다 많다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "건강이라고 응답한 사람의 비율이 제일 높다."
+      },
+      {
+        "label": "2",
+        "text": "행복한 가정이라고 응답한 비율은 전체의 반을 넘는다."
+      },
+      {
+        "label": "3",
+        "text": "돈과 명예를 선택한 사람이 건강을 선택한 사람에 비해 적다."
+      },
+      {
+        "label": "4",
+        "text": "시간적 여유라는 응답은 자신에게 맞는 직업이라는 응답보다 많다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "그래프 문항입니다. 행복의 조건별 비율을 비교하여 검수해야 합니다.",
+    "image_url": "images/99_R010.png",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "건강이라고 응답한 사람의 비율이 제일 높다.",
+      "행복한 가정이라고 응답한 비율은 전체의 반을 넘는다.",
+      "돈과 명예를 선택한 사람이 건강을 선택한 사람에 비해 적다.",
+      "시간적 여유라는 응답은 자신에게 맞는 직업이라는 응답보다 많다."
+    ],
+    "template_slot": 5,
+    "image_only": true,
+    "source_bank_id": "QB-T2-099-R010",
+    "source_question_number": 10,
+    "original_full_question_number": 10,
+    "level_test_slot": 5,
+    "source_template_slot": 10,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S06-Q011",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시의 대표 축제인 ‘인주 장미 축제’가 이달 7일부터 한 달간 열린다. 이 축제는 720종의 다양한 장미를 심어 사람들에게 볼거리를 제공해 왔다. 올해는 맨발로 걷는 꽃길 산책로를 새롭게 만들었다. 또한 지난해부터 관람객이 많아지면서 야간에도 꽃을 볼 수 있도록 밤 9시까지 운영할 예정이다.",
+    "passage_template": "인주시의 대표 축제인 ‘인주 장미 축제’가 이달 7일부터 한 달간 열린다. 이 축제는 720종의 다양한 장미를 심어 사람들에게 볼거리를 제공해 왔다. 올해는 맨발로 걷는 꽃길 산책로를 새롭게 만들었다. 또한 지난해부터 관람객이 많아지면서 야간에도 꽃을 볼 수 있도록 밤 9시까지 운영할 예정이다.",
+    "options": [
+      "이 축제는 일주일 동안 진행된다.",
+      "이 축제에서는 여러 종류의 장미를 볼 수 있다.",
+      "이 축제에 방문한 관람객이 올해는 많이 줄었다.",
+      "이 축제에서는 지난해에 맨발 산책로를 만들었다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 축제는 일주일 동안 진행된다."
+      },
+      {
+        "label": "2",
+        "text": "이 축제에서는 여러 종류의 장미를 볼 수 있다."
+      },
+      {
+        "label": "3",
+        "text": "이 축제에 방문한 관람객이 올해는 많이 줄었다."
+      },
+      {
+        "label": "4",
+        "text": "이 축제에서는 지난해에 맨발 산책로를 만들었다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "짧은 안내 글의 세부 정보와 일치하는 내용을 고르는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "이 축제는 일주일 동안 진행된다.",
+      "이 축제에서는 여러 종류의 장미를 볼 수 있다.",
+      "이 축제에 방문한 관람객이 올해는 많이 줄었다.",
+      "이 축제에서는 지난해에 맨발 산책로를 만들었다."
+    ],
+    "template_slot": 6,
+    "source_bank_id": "QB-T2-099-R011",
+    "source_question_number": 11,
+    "original_full_question_number": 11,
+    "level_test_slot": 6,
+    "source_template_slot": 11,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S07-Q013",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "(가) 바나나에는 기분을 좋게 하는 영양소가 들어 있다.\n(나) 그래서 경기 중에 선수들이 바나나를 먹는 것이다.\n(다) 운동선수들이 경기 중에 바나나를 먹는 경우가 많다.\n(라) 이 영양소가 선수들의 기분을 안정시키고 경기에 집중하게 한다.",
+    "passage_template": "(가) 바나나에는 기분을 좋게 하는 영양소가 들어 있다.\n(나) 그래서 경기 중에 선수들이 바나나를 먹는 것이다.\n(다) 운동선수들이 경기 중에 바나나를 먹는 경우가 많다.\n(라) 이 영양소가 선수들의 기분을 안정시키고 경기에 집중하게 한다.",
+    "options": [
+      "(가)-(나)-(다)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(다)-(가)-(라)-(나)",
+      "(다)-(나)-(라)-(가)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(가)-(나)-(다)-(라)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "label": "3",
+        "text": "(다)-(가)-(라)-(나)"
+      },
+      {
+        "label": "4",
+        "text": "(다)-(나)-(라)-(가)"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "중심 문장, 설명, 결과의 흐름을 기준으로 배열하는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "(가)-(나)-(다)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(다)-(가)-(라)-(나)",
+      "(다)-(나)-(라)-(가)"
+    ],
+    "template_slot": 7,
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "바나나에는 기분을 좋게 하는 영양소가 들어 있다."
+      },
+      {
+        "label": "나",
+        "text": "그래서 경기 중에 선수들이 바나나를 먹는 것이다."
+      },
+      {
+        "label": "다",
+        "text": "운동선수들이 경기 중에 바나나를 먹는 경우가 많다."
+      },
+      {
+        "label": "라",
+        "text": "이 영양소가 선수들의 기분을 안정시키고 경기에 집중하게 한다."
+      }
+    ],
+    "correct_answer_order": [
+      "다",
+      "가",
+      "라",
+      "나"
+    ],
+    "interaction_mode": "sentence_order",
+    "source_bank_id": "QB-T2-099-R013",
+    "source_question_number": 13,
+    "original_full_question_number": 13,
+    "level_test_slot": 7,
+    "source_template_slot": 13,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S08-Q016",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "자동차의 타이어는 왜 모두 검은색일까? 타이어는 고무로 만드는데 고무는 부드럽고 마찰에 약하다. 그래서 타이어를 제작할 때에는 (     ) 약품을 넣는다. 타이어가 모두 검은색인 것은 타이어를 만들 때 넣는 이 약품의 색 때문이다.",
+    "passage_template": "자동차의 타이어는 왜 모두 검은색일까? 타이어는 고무로 만드는데 고무는 부드럽고 마찰에 약하다. 그래서 타이어를 제작할 때에는 (     ) 약품을 넣는다. 타이어가 모두 검은색인 것은 타이어를 만들 때 넣는 이 약품의 색 때문이다.",
+    "options": [
+      "고무를 강하게 만드는",
+      "고무의 특성을 살리는",
+      "고무의 색깔을 유지시키는",
+      "고무를 부드럽게 변화시키는"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "고무를 강하게 만드는"
+      },
+      {
+        "label": "2",
+        "text": "고무의 특성을 살리는"
+      },
+      {
+        "label": "3",
+        "text": "고무의 색깔을 유지시키는"
+      },
+      {
+        "label": "4",
+        "text": "고무를 부드럽게 변화시키는"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "타이어 고무의 약점을 보완하는 약품의 기능을 추론하는 빈칸 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "고무를 강하게 만드는",
+      "고무의 특성을 살리는",
+      "고무의 색깔을 유지시키는",
+      "고무를 부드럽게 변화시키는"
+    ],
+    "template_slot": 8,
+    "source_bank_id": "QB-T2-099-R016",
+    "source_question_number": 16,
+    "original_full_question_number": 16,
+    "level_test_slot": 8,
+    "source_template_slot": 16,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S09-Q019",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slot": 19,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "임시 공휴일은 필요에 따라 그때그때 정하는 휴일이다. 정부는 임시 공휴일 지정으로 소비가 늘어 경제 활성화에 도움이 될 것으로 기대한다. 그러나 생산 기업은 임시 공휴일에도 생산 일정을 맞추기 위해 일을 해야 하고 휴일에 일할 경우 평일의 1.5배인 수당을 지불해야 한다. (     ) 휴일에 일정 지역에만 소비가 활성화되어 오히려 매출이 주는 지역도 있다. 따라서 임시 공휴일이 실제로 경제에 미치는 영향에 대해 잘 살펴봐야 한다.",
+    "passage_template": "임시 공휴일은 필요에 따라 그때그때 정하는 휴일이다. 정부는 임시 공휴일 지정으로 소비가 늘어 경제 활성화에 도움이 될 것으로 기대한다. 그러나 생산 기업은 임시 공휴일에도 생산 일정을 맞추기 위해 일을 해야 하고 휴일에 일할 경우 평일의 1.5배인 수당을 지불해야 한다. (     ) 휴일에 일정 지역에만 소비가 활성화되어 오히려 매출이 주는 지역도 있다. 따라서 임시 공휴일이 실제로 경제에 미치는 영향에 대해 잘 살펴봐야 한다.",
+    "options": [
+      "또한",
+      "혹시",
+      "만약",
+      "비록"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "또한"
+      },
+      {
+        "label": "2",
+        "text": "혹시"
+      },
+      {
+        "label": "3",
+        "text": "만약"
+      },
+      {
+        "label": "4",
+        "text": "비록"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "앞의 부정적 영향에 이어 추가 부정적 영향을 제시하므로 연결어를 고르는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "또한",
+      "혹시",
+      "만약",
+      "비록"
+    ],
+    "template_slot": 9,
+    "passage_group_id": "SET-T2-099-R019-020",
+    "passage_group_title": "99회 19~20번 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-099-R019",
+    "source_question_number": 19,
+    "original_full_question_number": 19,
+    "level_test_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "source_template_slot": 19,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-99-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S10-Q020",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slot": 20,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "임시 공휴일은 필요에 따라 그때그때 정하는 휴일이다. 정부는 임시 공휴일 지정으로 소비가 늘어 경제 활성화에 도움이 될 것으로 기대한다. 그러나 생산 기업은 임시 공휴일에도 생산 일정을 맞추기 위해 일을 해야 하고 휴일에 일할 경우 평일의 1.5배인 수당을 지불해야 한다. (     ) 휴일에 일정 지역에만 소비가 활성화되어 오히려 매출이 주는 지역도 있다. 따라서 임시 공휴일이 실제로 경제에 미치는 영향에 대해 잘 살펴봐야 한다.",
+    "passage_template": "임시 공휴일은 필요에 따라 그때그때 정하는 휴일이다. 정부는 임시 공휴일 지정으로 소비가 늘어 경제 활성화에 도움이 될 것으로 기대한다. 그러나 생산 기업은 임시 공휴일에도 생산 일정을 맞추기 위해 일을 해야 하고 휴일에 일할 경우 평일의 1.5배인 수당을 지불해야 한다. (     ) 휴일에 일정 지역에만 소비가 활성화되어 오히려 매출이 주는 지역도 있다. 따라서 임시 공휴일이 실제로 경제에 미치는 영향에 대해 잘 살펴봐야 한다.",
+    "options": [
+      "임시 공휴일 지정으로 기업의 매출을 늘려야 한다.",
+      "임시 공휴일을 경제 활성화를 위해 자주 지정해야 한다.",
+      "임시 공휴일 지정의 경제적 효과에 대한 검토가 필요하다.",
+      "임시 공휴일 지정의 긍정적인 측면에 대한 홍보가 필요하다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "임시 공휴일 지정으로 기업의 매출을 늘려야 한다."
+      },
+      {
+        "label": "2",
+        "text": "임시 공휴일을 경제 활성화를 위해 자주 지정해야 한다."
+      },
+      {
+        "label": "3",
+        "text": "임시 공휴일 지정의 경제적 효과에 대한 검토가 필요하다."
+      },
+      {
+        "label": "4",
+        "text": "임시 공휴일 지정의 긍정적인 측면에 대한 홍보가 필요하다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "글 전체가 임시 공휴일의 경제적 효과를 신중히 검토해야 한다고 말하는지 확인하는 주제 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "임시 공휴일 지정으로 기업의 매출을 늘려야 한다.",
+      "임시 공휴일을 경제 활성화를 위해 자주 지정해야 한다.",
+      "임시 공휴일 지정의 경제적 효과에 대한 검토가 필요하다.",
+      "임시 공휴일 지정의 긍정적인 측면에 대한 홍보가 필요하다."
+    ],
+    "template_slot": 10,
+    "passage_group_id": "SET-T2-099-R019-020",
+    "passage_group_title": "99회 19~20번 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-099-R020",
+    "source_question_number": 20,
+    "original_full_question_number": 20,
+    "level_test_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "source_template_slot": 20,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-99-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S11-Q023",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slot": 23,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "입을 옷은 없는데 옷장은 늘 가득 차 있어서 며칠 전에 큰맘 먹고 옷장을 정리하기로 했다. 안 입는 옷들을 꺼내서 상자에 넣으니 금세 가득 찼다. 남편에게도 안 입는 옷을 골라내라고 했다. 5년 전 남편이 다니던 회사가 어려워지면서 문을 닫았다. 그 이후 남편이 양복을 입을 일이 없어서 버려야겠다는 생각이 들어서였다. 그런데 남편은 아무것도 꺼내지 못한 채 옷장 속을 우두커니 바라만 보았다. 정리를 빨리 끝내고 싶었는데 보기만 하고 서 있는 남편에게 참다못해 말했다. “왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.” 그러자 남편은 옷장을 도로 닫으며 말했다. “마땅히 버릴 게 없네.” 그제야 남편에게 실수했다는 사실을 깨달았다. 쉰네 살 남편은 여전히 할 일 많은 나이였다. 지금은 아니지만 곧 다시 입고 다닐 거라는 희망을 품고 있는 것이리라. 나는 옷장 속 양복들을 꺼내 남편의 희망이 언젠가 이루어지기를 바라며 남편의 양복을 하나하나 손질했다.",
+    "passage_template": "입을 옷은 없는데 옷장은 늘 가득 차 있어서 며칠 전에 큰맘 먹고 옷장을 정리하기로 했다. 안 입는 옷들을 꺼내서 상자에 넣으니 금세 가득 찼다. 남편에게도 안 입는 옷을 골라내라고 했다. 5년 전 남편이 다니던 회사가 어려워지면서 문을 닫았다. 그 이후 남편이 양복을 입을 일이 없어서 버려야겠다는 생각이 들어서였다. 그런데 남편은 아무것도 꺼내지 못한 채 옷장 속을 우두커니 바라만 보았다. 정리를 빨리 끝내고 싶었는데 보기만 하고 서 있는 남편에게 참다못해 말했다. “왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.” 그러자 남편은 옷장을 도로 닫으며 말했다. “마땅히 버릴 게 없네.” 그제야 남편에게 실수했다는 사실을 깨달았다. 쉰네 살 남편은 여전히 할 일 많은 나이였다. 지금은 아니지만 곧 다시 입고 다닐 거라는 희망을 품고 있는 것이리라. 나는 옷장 속 양복들을 꺼내 남편의 희망이 언젠가 이루어지기를 바라며 남편의 양복을 하나하나 손질했다.",
+    "options": [
+      "부담스럽다",
+      "짜증스럽다",
+      "다행스럽다",
+      "자랑스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "부담스럽다"
+      },
+      {
+        "label": "2",
+        "text": "짜증스럽다"
+      },
+      {
+        "label": "3",
+        "text": "다행스럽다"
+      },
+      {
+        "label": "4",
+        "text": "자랑스럽다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "남편이 옷을 고르지 못하고 서 있는 상황에서 ‘나’가 느낀 심정을 고르는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "부담스럽다",
+      "짜증스럽다",
+      "다행스럽다",
+      "자랑스럽다"
+    ],
+    "template_slot": 11,
+    "underline_targets": [
+      "“왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.”"
+    ],
+    "underlined_parts": [
+      "“왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.”"
+    ],
+    "passage_group_id": "SET-T2-099-R023-024",
+    "passage_group_title": "99회 23~24번 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-099-R023",
+    "source_question_number": 23,
+    "original_full_question_number": 23,
+    "level_test_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "source_template_slot": 23,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-99-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S12-Q024",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slot": 24,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "입을 옷은 없는데 옷장은 늘 가득 차 있어서 며칠 전에 큰맘 먹고 옷장을 정리하기로 했다. 안 입는 옷들을 꺼내서 상자에 넣으니 금세 가득 찼다. 남편에게도 안 입는 옷을 골라내라고 했다. 5년 전 남편이 다니던 회사가 어려워지면서 문을 닫았다. 그 이후 남편이 양복을 입을 일이 없어서 버려야겠다는 생각이 들어서였다. 그런데 남편은 아무것도 꺼내지 못한 채 옷장 속을 우두커니 바라만 보았다. 정리를 빨리 끝내고 싶었는데 보기만 하고 서 있는 남편에게 참다못해 말했다. “왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.” 그러자 남편은 옷장을 도로 닫으며 말했다. “마땅히 버릴 게 없네.” 그제야 남편에게 실수했다는 사실을 깨달았다. 쉰네 살 남편은 여전히 할 일 많은 나이였다. 지금은 아니지만 곧 다시 입고 다닐 거라는 희망을 품고 있는 것이리라. 나는 옷장 속 양복들을 꺼내 남편의 희망이 언젠가 이루어지기를 바라며 남편의 양복을 하나하나 손질했다.",
+    "passage_template": "입을 옷은 없는데 옷장은 늘 가득 차 있어서 며칠 전에 큰맘 먹고 옷장을 정리하기로 했다. 안 입는 옷들을 꺼내서 상자에 넣으니 금세 가득 찼다. 남편에게도 안 입는 옷을 골라내라고 했다. 5년 전 남편이 다니던 회사가 어려워지면서 문을 닫았다. 그 이후 남편이 양복을 입을 일이 없어서 버려야겠다는 생각이 들어서였다. 그런데 남편은 아무것도 꺼내지 못한 채 옷장 속을 우두커니 바라만 보았다. 정리를 빨리 끝내고 싶었는데 보기만 하고 서 있는 남편에게 참다못해 말했다. “왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.” 그러자 남편은 옷장을 도로 닫으며 말했다. “마땅히 버릴 게 없네.” 그제야 남편에게 실수했다는 사실을 깨달았다. 쉰네 살 남편은 여전히 할 일 많은 나이였다. 지금은 아니지만 곧 다시 입고 다닐 거라는 희망을 품고 있는 것이리라. 나는 옷장 속 양복들을 꺼내 남편의 희망이 언젠가 이루어지기를 바라며 남편의 양복을 하나하나 손질했다.",
+    "options": [
+      "나는 안 입는 옷을 꺼내서 정리했다.",
+      "남편은 요즘에 양복을 자주 입고 다닌다.",
+      "남편은 옷장에서 버릴 양복들을 쉽게 골랐다.",
+      "나는 남편의 회사가 문을 닫았다는 것을 알지 못했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "나는 안 입는 옷을 꺼내서 정리했다."
+      },
+      {
+        "label": "2",
+        "text": "남편은 요즘에 양복을 자주 입고 다닌다."
+      },
+      {
+        "label": "3",
+        "text": "남편은 옷장에서 버릴 양복들을 쉽게 골랐다."
+      },
+      {
+        "label": "4",
+        "text": "나는 남편의 회사가 문을 닫았다는 것을 알지 못했다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "서사 지문의 세부 내용과 일치하는 선택지를 고르는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "나는 안 입는 옷을 꺼내서 정리했다.",
+      "남편은 요즘에 양복을 자주 입고 다닌다.",
+      "남편은 옷장에서 버릴 양복들을 쉽게 골랐다.",
+      "나는 남편의 회사가 문을 닫았다는 것을 알지 못했다."
+    ],
+    "template_slot": 12,
+    "underline_targets": [
+      "“왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.”"
+    ],
+    "underlined_parts": [
+      "“왜 안 꺼내? 이 양복들은 안 입는 것들이잖아.”"
+    ],
+    "passage_group_id": "SET-T2-099-R023-024",
+    "passage_group_title": "99회 23~24번 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-099-R024",
+    "source_question_number": 24,
+    "original_full_question_number": 24,
+    "level_test_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "source_template_slot": 24,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-99-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S13-Q025",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "headline_meaning",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "테니스 스타 김수미, 맞수 꺾고 결승행",
+    "passage_template": "테니스 스타 김수미, 맞수 꺾고 결승행",
+    "options": [
+      "인기 테니스 선수 김수미가 경쟁자를 이기고 결승전에 나간다.",
+      "인기 테니스 선수 김수미가 결승전에서 경쟁자를 만나 패배했다.",
+      "인기 테니스 선수 김수미가 대회 결승전에서 경쟁 선수를 만난다.",
+      "인기 테니스 선수 김수미가 결승전에서 경쟁 선수를 이기고 우승했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "인기 테니스 선수 김수미가 경쟁자를 이기고 결승전에 나간다."
+      },
+      {
+        "label": "2",
+        "text": "인기 테니스 선수 김수미가 결승전에서 경쟁자를 만나 패배했다."
+      },
+      {
+        "label": "3",
+        "text": "인기 테니스 선수 김수미가 대회 결승전에서 경쟁 선수를 만난다."
+      },
+      {
+        "label": "4",
+        "text": "인기 테니스 선수 김수미가 결승전에서 경쟁 선수를 이기고 우승했다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "신문 제목의 함축 의미를 일반 문장으로 풀어 이해하는 문항입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "인기 테니스 선수 김수미가 경쟁자를 이기고 결승전에 나간다.",
+      "인기 테니스 선수 김수미가 결승전에서 경쟁자를 만나 패배했다.",
+      "인기 테니스 선수 김수미가 대회 결승전에서 경쟁 선수를 만난다.",
+      "인기 테니스 선수 김수미가 결승전에서 경쟁 선수를 이기고 우승했다."
+    ],
+    "template_slot": 13,
+    "source_bank_id": "QB-T2-099-R025",
+    "source_question_number": 25,
+    "original_full_question_number": 25,
+    "level_test_slot": 13,
+    "source_template_slot": 25,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S14-Q032",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "글의 내용과 같은 것을 고르십시오.",
+    "passage": "필라테스는 본래 재활 치료에서 시작되었다. 한 스포츠 연구가가 병상에 누운 환자들의 재활을 위한 운동을 고안하고 기구를 만들었다. 보통의 운동으로는 부상을 당한 부위의 재활이 어렵다. 재활이 필요한 부위 대신에 움직이기 편한 부위를 사용하기 때문이다. 그런데 이 운동은 재활이 필요한 부분만 운동하게 해 부상 치료와 재활에 큰 도움을 주었고 이후 근력 강화, 자세 교정 등의 효과를 인정 받아 대중화되었다.",
+    "passage_template": "필라테스는 본래 재활 치료에서 시작되었다. 한 스포츠 연구가가 병상에 누운 환자들의 재활을 위한 운동을 고안하고 기구를 만들었다. 보통의 운동으로는 부상을 당한 부위의 재활이 어렵다. 재활이 필요한 부위 대신에 움직이기 편한 부위를 사용하기 때문이다. 그런데 이 운동은 재활이 필요한 부분만 운동하게 해 부상 치료와 재활에 큰 도움을 주었고 이후 근력 강화, 자세 교정 등의 효과를 인정 받아 대중화되었다.",
+    "options": [
+      "환자들의 부상 치료에는 필라테스의 효과가 크지 않았다.",
+      "이 운동은 재활이 필요한 부위로 운동을 할 수 있게 한다.",
+      "필라테스는 건강한 사람들의 근력 강화를 위해 개발되었다.",
+      "의사가 환자의 자세를 교정하려고 이 운동의 기구를 만들었다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "환자들의 부상 치료에는 필라테스의 효과가 크지 않았다."
+      },
+      {
+        "label": "2",
+        "text": "이 운동은 재활이 필요한 부위로 운동을 할 수 있게 한다."
+      },
+      {
+        "label": "3",
+        "text": "필라테스는 건강한 사람들의 근력 강화를 위해 개발되었다."
+      },
+      {
+        "label": "4",
+        "text": "의사가 환자의 자세를 교정하려고 이 운동의 기구를 만들었다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "재활이 필요한 부위만 운동하게 해 부상 치료와 재활에 도움을 준다는 내용입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "환자들의 부상 치료에는 필라테스의 효과가 크지 않았다.",
+      "이 운동은 재활이 필요한 부위로 운동을 할 수 있게 한다.",
+      "필라테스는 건강한 사람들의 근력 강화를 위해 개발되었다.",
+      "의사가 환자의 자세를 교정하려고 이 운동의 기구를 만들었다."
+    ],
+    "template_slot": 14,
+    "source_pdf_page": 14,
+    "source_printed_page": "13",
+    "source_bank_id": "QB-T2-099-R032",
+    "source_question_number": 32,
+    "original_full_question_number": 32,
+    "level_test_slot": 14,
+    "source_template_slot": 32,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S15-Q035",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "젊은 세대의 잦은 이직으로 안정적인 운영이 어려워지면서 오랫동안 함께 일할 수 있는 직원을 채용하려는 기업이 늘고 있다. 이에 심층 면접을 통해 기업 문화에 잘 맞는지를 평가하는 ‘문화 적합성’이 주목 받고 있다. 성적이나 경력이 뛰어나도 기업 내 업무 및 소통 방식에 맞지 않으면 갈등이 생기고 성과도 내기 어렵다. 기업들이 지원자의 성향이나 가치관을 파악하는 데 중점을 둔 인재 채용 방식에 관심을 갖는 이유가 여기에 있다.",
+    "passage_template": "젊은 세대의 잦은 이직으로 안정적인 운영이 어려워지면서 오랫동안 함께 일할 수 있는 직원을 채용하려는 기업이 늘고 있다. 이에 심층 면접을 통해 기업 문화에 잘 맞는지를 평가하는 ‘문화 적합성’이 주목 받고 있다. 성적이나 경력이 뛰어나도 기업 내 업무 및 소통 방식에 맞지 않으면 갈등이 생기고 성과도 내기 어렵다. 기업들이 지원자의 성향이나 가치관을 파악하는 데 중점을 둔 인재 채용 방식에 관심을 갖는 이유가 여기에 있다.",
+    "options": [
+      "문화 적합성의 적용으로 이직률이 점점 높아지고 있다.",
+      "기업의 인재 선발에서 문화 적합성이 중요해지고 있다.",
+      "문화 적합성 평가로 기업의 조직 문화가 변화하고 있다.",
+      "젊은 세대를 위한 문화 적합성 훈련이 필요해지고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "문화 적합성의 적용으로 이직률이 점점 높아지고 있다."
+      },
+      {
+        "label": "2",
+        "text": "기업의 인재 선발에서 문화 적합성이 중요해지고 있다."
+      },
+      {
+        "label": "3",
+        "text": "문화 적합성 평가로 기업의 조직 문화가 변화하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "젊은 세대를 위한 문화 적합성 훈련이 필요해지고 있다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "기업 채용에서 문화 적합성이 중요해지고 있다는 내용입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "문화 적합성의 적용으로 이직률이 점점 높아지고 있다.",
+      "기업의 인재 선발에서 문화 적합성이 중요해지고 있다.",
+      "문화 적합성 평가로 기업의 조직 문화가 변화하고 있다.",
+      "젊은 세대를 위한 문화 적합성 훈련이 필요해지고 있다."
+    ],
+    "template_slot": 15,
+    "source_pdf_page": 15,
+    "source_printed_page": "14",
+    "source_bank_id": "QB-T2-099-R035",
+    "source_question_number": 35,
+    "original_full_question_number": 35,
+    "level_test_slot": 15,
+    "source_template_slot": 35,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S16-Q039",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "처음에 접한 정보가 기준점이 되어 그 이후의 판단에 영향을 주는 것을 ‘닻내림 효과’라 한다. ( ㉠ ) 이 효과는 주식 거래, 학생 평가 등 실생활에서 광범위하게 활용되는데 특히 마케팅에서 많이 사용된다. ( ㉡ ) 기업의 측면에서는 상품의 판매를 늘릴 수 있어 긍정적으로 이용할 수 있다. ( ㉢ ) 그러나 소비자의 측면에서는 눈속임에 속아 불필요한 소비를 하지 않도록 주의가 필요하다. ( ㉣ )",
+    "passage_template": "처음에 접한 정보가 기준점이 되어 그 이후의 판단에 영향을 주는 것을 ‘닻내림 효과’라 한다. ( ㉠ ) 이 효과는 주식 거래, 학생 평가 등 실생활에서 광범위하게 활용되는데 특히 마케팅에서 많이 사용된다. ( ㉡ ) 기업의 측면에서는 상품의 판매를 늘릴 수 있어 긍정적으로 이용할 수 있다. ( ㉢ ) 그러나 소비자의 측면에서는 눈속임에 속아 불필요한 소비를 하지 않도록 주의가 필요하다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "마케팅에서 닻내림 효과가 쓰이는 사례를 설명하는 문장이므로 마케팅 활용 언급 뒤에 들어가는 것이 자연스럽습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "template_slot": 16,
+    "source_pdf_page": 17,
+    "source_printed_page": "16",
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "마케팅에서는 소비자에게 높은 가격을 먼저 제시한 뒤 할인가를 제시하여 소비자가 이를 유리한 거래로 인식하게 한다.",
+    "sentence_to_insert": "마케팅에서는 소비자에게 높은 가격을 먼저 제시한 뒤 할인가를 제시하여 소비자가 이를 유리한 거래로 인식하게 한다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉡",
+    "correct_insert_position": "㉡",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "shared_insert_keys": [],
+    "source_bank_id": "QB-T2-099-R039",
+    "source_question_number": 39,
+    "original_full_question_number": 39,
+    "level_test_slot": 16,
+    "source_template_slot": 39,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S17-Q042",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 17,
+    "target_slot": 42,
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘그녀’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "소리가 여덟 살 때의 일이었다. 발을 매다 잠시 자리를 비운 그가 바닥에 호미를 두고 간 것이 문제였다. 하필이면 호미의 뾰족한 부분이 위쪽을 향해 있었고, 그 위로 소리가 넘어졌다. 아이는 크게 소리를 지르며 바닥에 주저앉아서 멍하니 정강이를 바라봤다. 그녀가 다가와서 소리는 엄마의 놀란 얼굴에 겁을 먹고 울기 시작했다. 그녀는 무턱대고 소리를 업고서 달렸다. 차 트렁크를 뒤지던 그가 그런 그녀를 보고 사색이 됐다.\n“가장 가까운 응급실 어디야.” 그녀의 목소리가 낮게 잠겼다. 이명이 들리고 시야가 좁아졌다.\n“소리야.” 그가 소리의 상태를 살피려고 다가왔다.\n“응급실 어디냐고.” 그녀는 차 뒷좌석에 올라탔다. (중략)\n“애 흉이라도 생기면 어떡할 거냐고. 제정신이야?” 그러자 소리가 그녀를 바라봤다. 그만해. 소리는 눈빛으로 그렇게 말하고 있었다. 소리는 파상풍 주사를 맞을 때도, 벌어진 상처를 꿰맬 때도 눈을 꼭 감고 통증을 참았다. 처치를 마치고 주차장으로 간 그녀는 그곳에서 기다리고 있던 그를 투명 인간 보듯 대했다. 그가 질문하면 짧게 답하고 침묵했다. 한동안 그녀는 그에게 냉정하게 대했고, 소리의 흉터에 관한 이야기가 나올 때면 자신에게 그럴 권리가 있는 것처럼 그에게 잔인하게 말했다.",
+    "passage_template": "소리가 여덟 살 때의 일이었다. 발을 매다 잠시 자리를 비운 그가 바닥에 호미를 두고 간 것이 문제였다. 하필이면 호미의 뾰족한 부분이 위쪽을 향해 있었고, 그 위로 소리가 넘어졌다. 아이는 크게 소리를 지르며 바닥에 주저앉아서 멍하니 정강이를 바라봤다. 그녀가 다가와서 소리는 엄마의 놀란 얼굴에 겁을 먹고 울기 시작했다. 그녀는 무턱대고 소리를 업고서 달렸다. 차 트렁크를 뒤지던 그가 그런 그녀를 보고 사색이 됐다.\n“가장 가까운 응급실 어디야.” 그녀의 목소리가 낮게 잠겼다. 이명이 들리고 시야가 좁아졌다.\n“소리야.” 그가 소리의 상태를 살피려고 다가왔다.\n“응급실 어디냐고.” 그녀는 차 뒷좌석에 올라탔다. (중략)\n“애 흉이라도 생기면 어떡할 거냐고. 제정신이야?” 그러자 소리가 그녀를 바라봤다. 그만해. 소리는 눈빛으로 그렇게 말하고 있었다. 소리는 파상풍 주사를 맞을 때도, 벌어진 상처를 꿰맬 때도 눈을 꼭 감고 통증을 참았다. 처치를 마치고 주차장으로 간 그녀는 그곳에서 기다리고 있던 그를 투명 인간 보듯 대했다. 그가 질문하면 짧게 답하고 침묵했다. 한동안 그녀는 그에게 냉정하게 대했고, 소리의 흉터에 관한 이야기가 나올 때면 자신에게 그럴 권리가 있는 것처럼 그에게 잔인하게 말했다.",
+    "options": [
+      "부럽고 싶다",
+      "서럽고 분하다",
+      "놀라고 당황스럽다",
+      "섭섭하고 허전하다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "부럽고 싶다"
+      },
+      {
+        "label": "2",
+        "text": "서럽고 분하다"
+      },
+      {
+        "label": "3",
+        "text": "놀라고 당황스럽다"
+      },
+      {
+        "label": "4",
+        "text": "섭섭하고 허전하다"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "딸이 다친 상황에서 목소리가 낮게 잠기고 시야가 좁아진 상태이므로 놀라고 당황스러운 심정입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "부럽고 싶다",
+      "서럽고 분하다",
+      "놀라고 당황스럽다",
+      "섭섭하고 허전하다"
+    ],
+    "template_slot": 17,
+    "source_pdf_page": 19,
+    "source_printed_page": "18",
+    "underline_targets": [
+      "이명이 들리고 시야가 좁아졌다."
+    ],
+    "underlined_parts": [
+      "이명이 들리고 시야가 좁아졌다."
+    ],
+    "passage_group_id": "SET-T2-099-R042-043",
+    "passage_group_title": "99회 42~43번 공통 지문",
+    "passage_group_numbers": [
+      17
+    ],
+    "source_bank_id": "QB-T2-099-R042",
+    "source_question_number": 42,
+    "original_full_question_number": 42,
+    "level_test_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_template_slot": 42,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S18-Q045",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "주제 파악",
+    "diagnostic_area": "학술 설명문의 중심 내용 파악",
+    "original_question_number": 45,
+    "question_number": 18,
+    "target_slot": 45,
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "과거에는 폭이 넓은 강에 긴 다리를 놓기 어려웠기 때문에 강에 배를 일정한 간격으로 놓아 만든 배다리가 활용되었다. 한강 배다리에 대한 기록은 조선 시대부터 시작됐는데 특히 정조 시대의 배다리는 현대 토목공학적 관점에서 볼 때 매우 훌륭한 구조물이 밝혀졌다. 이 시대 배다리는 촘촘하게 배를 나열해 배끼리 묶는 방식이 아니라 배와 배 사이에 간격을 두고 배 위에 보를 얹어 결합하는 방식으로 만들어졌다. 이런 공법은 물의 흐름으로 흔들릴 수밖에 없는 배다리 구조체에 탄성을 부여했다는 점에서 매우 합리적이다. 보 없이 배들을 꽉 맞추는 공법은 배가 흔들리면서 받는 힘이 누적될 경우 배가 파손될 수밖에 없기 때문이다. 이 시대 배다리는 출렁거리는 구조체가 외부 충격이 가해질 때 (     ) 해 큰 사고를 방지할 수 있었다. 오늘날의 지진을 대비한 내진 설계 기술과 같은 것이 그 시대에도 적용되고 있었던 것이다.",
+    "passage_template": "과거에는 폭이 넓은 강에 긴 다리를 놓기 어려웠기 때문에 강에 배를 일정한 간격으로 놓아 만든 배다리가 활용되었다. 한강 배다리에 대한 기록은 조선 시대부터 시작됐는데 특히 정조 시대의 배다리는 현대 토목공학적 관점에서 볼 때 매우 훌륭한 구조물이 밝혀졌다. 이 시대 배다리는 촘촘하게 배를 나열해 배끼리 묶는 방식이 아니라 배와 배 사이에 간격을 두고 배 위에 보를 얹어 결합하는 방식으로 만들어졌다. 이런 공법은 물의 흐름으로 흔들릴 수밖에 없는 배다리 구조체에 탄성을 부여했다는 점에서 매우 합리적이다. 보 없이 배들을 꽉 맞추는 공법은 배가 흔들리면서 받는 힘이 누적될 경우 배가 파손될 수밖에 없기 때문이다. 이 시대 배다리는 출렁거리는 구조체가 외부 충격이 가해질 때 (     ) 해 큰 사고를 방지할 수 있었다. 오늘날의 지진을 대비한 내진 설계 기술과 같은 것이 그 시대에도 적용되고 있었던 것이다.",
+    "options": [
+      "배다리를 설계할 때는 강물의 흐름을 파악하는 것이 필수적이다.",
+      "정조 시대 배다리는 공학적 측면에서 뛰어난 구조물로 주목할 만하다.",
+      "배다리 설계의 핵심은 배들을 일정한 간격으로 결합시켰다는 데 있다.",
+      "정조는 기능적으로 뛰어난 배다리를 만드는 데 크게 기여한 인물이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "배다리를 설계할 때는 강물의 흐름을 파악하는 것이 필수적이다."
+      },
+      {
+        "label": "2",
+        "text": "정조 시대 배다리는 공학적 측면에서 뛰어난 구조물로 주목할 만하다."
+      },
+      {
+        "label": "3",
+        "text": "배다리 설계의 핵심은 배들을 일정한 간격으로 결합시켰다는 데 있다."
+      },
+      {
+        "label": "4",
+        "text": "정조는 기능적으로 뛰어난 배다리를 만드는 데 크게 기여한 인물이다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "정조 시대 배다리의 구조와 공학적 우수성을 설명하는 글입니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "배다리를 설계할 때는 강물의 흐름을 파악하는 것이 필수적이다.",
+      "정조 시대 배다리는 공학적 측면에서 뛰어난 구조물로 주목할 만하다.",
+      "배다리 설계의 핵심은 배들을 일정한 간격으로 결합시켰다는 데 있다.",
+      "정조는 기능적으로 뛰어난 배다리를 만드는 데 크게 기여한 인물이다."
+    ],
+    "template_slot": 18,
+    "source_pdf_page": 20,
+    "source_printed_page": "19",
+    "passage_group_id": "SET-T2-099-R044-045",
+    "passage_group_title": "99회 44~45번 공통 지문",
+    "passage_group_numbers": [
+      18
+    ],
+    "source_bank_id": "QB-T2-099-R045",
+    "source_question_number": 45,
+    "original_full_question_number": 45,
+    "level_test_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_template_slot": 45,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      44,
+      45
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S19-Q046",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자의 태도",
+    "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slot": 46,
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘도시 공원 일몰제’란 공원 부지로 지정된 토지가 일정 기간 공원으로 조성되지 않을 경우 공원 지정이 해제되는 제도를 의미한다. 이는 아직 공원이 조성되지 않은 경우와 원래 공원이지만 지자체가 부지를 매입하지 않은 경우에도 해당된다. 해당 토지 주인들은 이 제도를 반기는 분위기다. 이 제도가 시행되면 토지 주인들이 사유 재산권을 행사할 수 있게 되기 때문이다. 그런데 일괄적으로 도시 공원 지정이 해제되면 도시 내 녹지 공간이 대폭 축소될 것은 자명하다. 도시 공원으로 지정된 면적 중 장기 미집행 면적이 전체의 50%에 달한다. 녹지가 줄면 시민들의 삶의 질이 떨어질 뿐만 아니라 도시 열섬화 및 미세 먼지 증가 등으로 도시 환경도 악화될 것이다. 따라서 지자체는 구체적인 대응책을 마련해 도시 공원 조성에 최선을 다해야 한다. 공원 조성으로 얻는 공익이 토지를 매각해서 얻는 사익보다 크다는 것을 알아야 할 것이다.",
+    "passage_template": "‘도시 공원 일몰제’란 공원 부지로 지정된 토지가 일정 기간 공원으로 조성되지 않을 경우 공원 지정이 해제되는 제도를 의미한다. 이는 아직 공원이 조성되지 않은 경우와 원래 공원이지만 지자체가 부지를 매입하지 않은 경우에도 해당된다. 해당 토지 주인들은 이 제도를 반기는 분위기다. 이 제도가 시행되면 토지 주인들이 사유 재산권을 행사할 수 있게 되기 때문이다. 그런데 일괄적으로 도시 공원 지정이 해제되면 도시 내 녹지 공간이 대폭 축소될 것은 자명하다. 도시 공원으로 지정된 면적 중 장기 미집행 면적이 전체의 50%에 달한다. 녹지가 줄면 시민들의 삶의 질이 떨어질 뿐만 아니라 도시 열섬화 및 미세 먼지 증가 등으로 도시 환경도 악화될 것이다. 따라서 지자체는 구체적인 대응책을 마련해 도시 공원 조성에 최선을 다해야 한다. 공원 조성으로 얻는 공익이 토지를 매각해서 얻는 사익보다 크다는 것을 알아야 할 것이다.",
+    "options": [
+      "도시 공원 일몰제로 공원 지정 부지를 확대할 것을 촉구하고 있다.",
+      "도시 공원 일몰제의 시행으로 보호할 수 있는 권리를 강조하고 있다.",
+      "도시 공원 일몰제가 도시 내 녹지 조성에 기여할 바를 기대하고 있다.",
+      "도시 공원 일몰제로 인해 공공의 이익이 침해당할 것을 우려하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "도시 공원 일몰제로 공원 지정 부지를 확대할 것을 촉구하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "도시 공원 일몰제의 시행으로 보호할 수 있는 권리를 강조하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "도시 공원 일몰제가 도시 내 녹지 조성에 기여할 바를 기대하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "도시 공원 일몰제로 인해 공공의 이익이 침해당할 것을 우려하고 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "필자는 도시 공원 지정 해제로 녹지 축소와 환경 악화를 우려하며 대응책 마련을 촉구하고 있습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "도시 공원 일몰제로 공원 지정 부지를 확대할 것을 촉구하고 있다.",
+      "도시 공원 일몰제의 시행으로 보호할 수 있는 권리를 강조하고 있다.",
+      "도시 공원 일몰제가 도시 내 녹지 조성에 기여할 바를 기대하고 있다.",
+      "도시 공원 일몰제로 인해 공공의 이익이 침해당할 것을 우려하고 있다."
+    ],
+    "template_slot": 19,
+    "source_pdf_page": 21,
+    "source_printed_page": "20",
+    "passage_group_id": "SET-T2-099-R046-047",
+    "passage_group_title": "99회 46~47번 공통 지문",
+    "passage_group_numbers": [
+      19
+    ],
+    "source_bank_id": "QB-T2-099-R046",
+    "source_question_number": 46,
+    "original_full_question_number": 46,
+    "level_test_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_template_slot": 46,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      46,
+      47
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-099-S20-Q050",
+    "source_round": "99",
+    "source_file": "99회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "긴 지문 내용 일치",
+    "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+    "original_question_number": 50,
+    "question_number": 20,
+    "target_slot": 50,
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "최근 슈퍼 컴퓨터에서 약 1만 년이 걸리는 연산을 단 200초 만에 해결하는 양자 컴퓨터 기술이 구현됐다. 이 기술로 데이터 양이 천문학적으로 많아져도 ‘언제나, 즉시’ 데이터를 처리할 수 있게 된다. 이 기술을 의료 분야에 활용하면 환자들의 복잡한 유전자 정보를 단번에 분석할 수 있으며 변수가 매우 많은 기후 변화도 즉시 분석하여 예측할 수 있다. 또한 양자 컴퓨터 기술에는 아무리 복잡한 암호라도 (     )이 있다. 따라서 누군가가 이 기술을 악용하면 암호 체계가 일시에 풀려 금융 시스템이 마비되고 군사 기밀 정보가 유출되는 등 막대한 피해가 초래될 수도 있다. 이러한 잠재적 위협들로부터 정보를 보호하기 위해서는 견고한 암호화 기법을 개발하고 개인이나 기관이 이 기술을 악용하지 못하도록 윤리적 틀과 규제를 마련해야 할 것이다.",
+    "passage_template": "최근 슈퍼 컴퓨터에서 약 1만 년이 걸리는 연산을 단 200초 만에 해결하는 양자 컴퓨터 기술이 구현됐다. 이 기술로 데이터 양이 천문학적으로 많아져도 ‘언제나, 즉시’ 데이터를 처리할 수 있게 된다. 이 기술을 의료 분야에 활용하면 환자들의 복잡한 유전자 정보를 단번에 분석할 수 있으며 변수가 매우 많은 기후 변화도 즉시 분석하여 예측할 수 있다. 또한 양자 컴퓨터 기술에는 아무리 복잡한 암호라도 (     )이 있다. 따라서 누군가가 이 기술을 악용하면 암호 체계가 일시에 풀려 금융 시스템이 마비되고 군사 기밀 정보가 유출되는 등 막대한 피해가 초래될 수도 있다. 이러한 잠재적 위협들로부터 정보를 보호하기 위해서는 견고한 암호화 기법을 개발하고 개인이나 기관이 이 기술을 악용하지 못하도록 윤리적 틀과 규제를 마련해야 할 것이다.",
+    "options": [
+      "이 기술을 활용해도 다차원적으로 설계된 암호를 푸는 것은 어렵다.",
+      "이 기술은 인간의 유전자 정보를 파악하는 데 상당한 시간이 소요된다.",
+      "이 기술이 악의적으로 사용되면 금융 시장에 큰 혼란이 발생할 수 있다.",
+      "이 기술의 악용을 방지할 수 있는 현실적인 제도가 이미 마련되어 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 기술을 활용해도 다차원적으로 설계된 암호를 푸는 것은 어렵다."
+      },
+      {
+        "label": "2",
+        "text": "이 기술은 인간의 유전자 정보를 파악하는 데 상당한 시간이 소요된다."
+      },
+      {
+        "label": "3",
+        "text": "이 기술이 악의적으로 사용되면 금융 시장에 큰 혼란이 발생할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "이 기술의 악용을 방지할 수 있는 현실적인 제도가 이미 마련되어 있다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "양자 컴퓨터 기술을 악용하면 암호 체계가 풀려 금융 시스템이 마비될 수 있다고 했습니다.",
+    "image_url": "",
+    "answer_source": "answer-key-99.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "options_text": [
+      "이 기술을 활용해도 다차원적으로 설계된 암호를 푸는 것은 어렵다.",
+      "이 기술은 인간의 유전자 정보를 파악하는 데 상당한 시간이 소요된다.",
+      "이 기술이 악의적으로 사용되면 금융 시장에 큰 혼란이 발생할 수 있다.",
+      "이 기술의 악용을 방지할 수 있는 현실적인 제도가 이미 마련되어 있다."
+    ],
+    "template_slot": 20,
+    "source_pdf_page": 22,
+    "source_printed_page": "21",
+    "passage_group_id": "SET-T2-099-R048-050",
+    "passage_group_title": "99회 48~50번 공통 지문",
+    "passage_group_numbers": [
+      20
+    ],
+    "source_bank_id": "QB-T2-099-R050",
+    "source_question_number": 50,
+    "original_full_question_number": 50,
+    "level_test_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_template_slot": 50,
+    "generated_exam_id": "TOPIK2-READING-99-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "99",
+    "generated_exam_label": "99회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 99회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "draft_note": "99회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  }
+]

@@ -1,0 +1,1885 @@
+﻿[
+  {
+    "id": "LT-T2-102-S01-Q001",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "passage": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "passage_template": "이 동네로 이사를 (     ) 일 년이 됐다.",
+    "options": [
+      "온 지",
+      "올 때",
+      "오거나",
+      "오다가"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "온 지"
+      },
+      {
+        "label": "2",
+        "text": "올 때"
+      },
+      {
+        "label": "3",
+        "text": "오거나"
+      },
+      {
+        "label": "4",
+        "text": "오다가"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "target_slots": [
+      1
+    ],
+    "options_text": [
+      "온 지",
+      "올 때",
+      "오거나",
+      "오다가"
+    ],
+    "type": "blank_choice",
+    "template_slot": 1,
+    "source_bank_id": "QB-T2-102-R001",
+    "source_question_number": 1,
+    "original_full_question_number": 1,
+    "level_test_slot": 1,
+    "source_template_slot": 1,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S02-Q003",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "passage": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "passage_template": "지금 출발하지 않으면 약속 시간에 늦을지도 모른다.",
+    "options": [
+      "늦는 셈이다",
+      "늦어도 된다",
+      "늦을 수도 있다",
+      "늦을 리가 없다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "늦는 셈이다"
+      },
+      {
+        "label": "2",
+        "text": "늦어도 된다"
+      },
+      {
+        "label": "3",
+        "text": "늦을 수도 있다"
+      },
+      {
+        "label": "4",
+        "text": "늦을 리가 없다"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "underline_targets": [
+      "늦을지도 모른다"
+    ],
+    "interaction_mode": "single_choice",
+    "target_slots": [
+      2
+    ],
+    "options_text": [
+      "늦는 셈이다",
+      "늦어도 된다",
+      "늦을 수도 있다",
+      "늦을 리가 없다"
+    ],
+    "type": "similar_expression",
+    "template_slot": 2,
+    "source_bank_id": "QB-T2-102-R003",
+    "source_question_number": 3,
+    "original_full_question_number": 3,
+    "level_test_slot": 2,
+    "source_template_slot": 3,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S03-Q005",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "구두",
+      "우산",
+      "자전거",
+      "선풍기"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "구두"
+      },
+      {
+        "label": "2",
+        "text": "우산"
+      },
+      {
+        "label": "3",
+        "text": "자전거"
+      },
+      {
+        "label": "4",
+        "text": "선풍기"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R005.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "passage_text_backup": "걸을 때 발이 편하게~\n가볍고 디자인도 예뻐요.",
+    "passage_template_backup": "걸을 때 발이 편하게~\n가볍고 디자인도 예뻐요.",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 5,
+    "target_slots": [
+      3
+    ],
+    "options_text": [
+      "구두",
+      "우산",
+      "자전거",
+      "선풍기"
+    ],
+    "type": "visual_topic",
+    "template_slot": 3,
+    "source_bank_id": "QB-T2-102-R005",
+    "source_question_number": 5,
+    "original_full_question_number": 5,
+    "level_test_slot": 3,
+    "source_template_slot": 5,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S04-Q009",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "봉사 활동은 두 달 동안 하게 된다.",
+      "아이들에게 책을 읽어 줄 봉사자를 찾고 있다.",
+      "봉사자 신청은 도서관에 직접 가서 해야 한다.",
+      "학생이 아닌 사람들도 이 봉사에 참여할 수 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "봉사 활동은 두 달 동안 하게 된다."
+      },
+      {
+        "label": "2",
+        "text": "아이들에게 책을 읽어 줄 봉사자를 찾고 있다."
+      },
+      {
+        "label": "3",
+        "text": "봉사자 신청은 도서관에 직접 가서 해야 한다."
+      },
+      {
+        "label": "4",
+        "text": "학생이 아닌 사람들도 이 봉사에 참여할 수 있다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R009.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "passage_text_backup": "그림책 읽어 주는 자원봉사자 모집\n“어린이들에게 꿈과 희망을 선물하세요.”\n\n자격: 고등학생 또는 대학생(※ 한국어를 잘하는 외국인 학생도 가능)\n모집 기간: 11월 10일(월) ~ 11월 21일(금)\n신청 방법: 인주어린이도서관 홈페이지(www.injulibrary.or.kr)\n활동 기간: 2025년 12월 1일(월) ~ 2026년 2월 28일(토)",
+    "passage_template_backup": "그림책 읽어 주는 자원봉사자 모집\n“어린이들에게 꿈과 희망을 선물하세요.”\n\n자격: 고등학생 또는 대학생(※ 한국어를 잘하는 외국인 학생도 가능)\n모집 기간: 11월 10일(월) ~ 11월 21일(금)\n신청 방법: 인주어린이도서관 홈페이지(www.injulibrary.or.kr)\n활동 기간: 2025년 12월 1일(월) ~ 2026년 2월 28일(토)",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 9,
+    "target_slots": [
+      4
+    ],
+    "options_text": [
+      "봉사 활동은 두 달 동안 하게 된다.",
+      "아이들에게 책을 읽어 줄 봉사자를 찾고 있다.",
+      "봉사자 신청은 도서관에 직접 가서 해야 한다.",
+      "학생이 아닌 사람들도 이 봉사에 참여할 수 있다."
+    ],
+    "type": "same_content_visual",
+    "metadata_before_normalization": {
+      "type": "same_content_visual",
+      "category": "자료 이해",
+      "diagnostic_area": "안내문 세부 정보 파악"
+    },
+    "template_slot": 4,
+    "source_bank_id": "QB-T2-102-R009",
+    "source_question_number": 9,
+    "original_full_question_number": 9,
+    "level_test_slot": 4,
+    "source_template_slot": 9,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S05-Q010",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "내용 일치",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 5,
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "회사의 규모가 중요하다고 응답한 비율이 가장 낮다.",
+      "가격을 중요하게 생각하는 사람이 전체의 반을 넘는다.",
+      "여행 상품의 다양성보다 회사의 규모를 중요하게 생각하는 사람이 더 적다.",
+      "이용 후기가 여행 상품의 다양성보다 중요하다는 응답이 두 배 이상 많다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "회사의 규모가 중요하다고 응답한 비율이 가장 낮다."
+      },
+      {
+        "label": "2",
+        "text": "가격을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+      },
+      {
+        "label": "3",
+        "text": "여행 상품의 다양성보다 회사의 규모를 중요하게 생각하는 사람이 더 적다."
+      },
+      {
+        "label": "4",
+        "text": "이용 후기가 여행 상품의 다양성보다 중요하다는 응답이 두 배 이상 많다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "./images/102_R010.png",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "passage_text_backup": "여행사를 선택할 때 중요하게 생각하는 것\n가격 48%, 여행 상품의 다양성 25%, 회사의 규모 16%, 이용 후기 9%, 기타 2%\n(설문 대상: 성인 남녀 1,600명)",
+    "passage_template_backup": "여행사를 선택할 때 중요하게 생각하는 것\n가격 48%, 여행 상품의 다양성 25%, 회사의 규모 16%, 이용 후기 9%, 기타 2%\n(설문 대상: 성인 남녀 1,600명)",
+    "image_required": true,
+    "image_only": true,
+    "visual_source_type": "original_pdf_crop",
+    "visual_source_round": "102",
+    "visual_source_question_number": 10,
+    "target_slots": [
+      5
+    ],
+    "options_text": [
+      "회사의 규모가 중요하다고 응답한 비율이 가장 낮다.",
+      "가격을 중요하게 생각하는 사람이 전체의 반을 넘는다.",
+      "여행 상품의 다양성보다 회사의 규모를 중요하게 생각하는 사람이 더 적다.",
+      "이용 후기가 여행 상품의 다양성보다 중요하다는 응답이 두 배 이상 많다."
+    ],
+    "type": "same_content_graph",
+    "metadata_before_normalization": {
+      "type": "same_content_graph",
+      "category": "자료·그래프 이해",
+      "diagnostic_area": "그래프 정보 비교"
+    },
+    "template_slot": 5,
+    "source_bank_id": "QB-T2-102-R010",
+    "source_question_number": 10,
+    "original_full_question_number": 10,
+    "level_test_slot": 5,
+    "source_template_slot": 10,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S06-Q011",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 6,
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "지난달 문을 연 우표 박물관이 시민들에게 사랑을 받고 있다. 박물관 내 역사실에서는 우표의 역사를 한눈에 볼 수 있다. 또 어린이 체험실에서는 향기 나는 우표의 향을 맡거나 나무 우표 등을 만져 볼 수 있다. 자신의 사진이 들어간 우표도 직접 만들 수 있다. 편지를 써서 넣으면 일 년 뒤에 받아 볼 수 있는 박물관의 ‘느린 우체통’도 인기를 끌고 있다.",
+    "passage_template": "지난달 문을 연 우표 박물관이 시민들에게 사랑을 받고 있다. 박물관 내 역사실에서는 우표의 역사를 한눈에 볼 수 있다. 또 어린이 체험실에서는 향기 나는 우표의 향을 맡거나 나무 우표 등을 만져 볼 수 있다. 자신의 사진이 들어간 우표도 직접 만들 수 있다. 편지를 써서 넣으면 일 년 뒤에 받아 볼 수 있는 박물관의 ‘느린 우체통’도 인기를 끌고 있다.",
+    "options": [
+      "이 박물관은 일 년 전부터 운영을 시작했다.",
+      "이 박물관의 체험실에 있는 우표는 만질 수 없다.",
+      "이 박물관에서는 직접 우표를 만들어 볼 수 있다.",
+      "이 박물관의 느린 우체통으로는 편지를 보내지 못한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이 박물관은 일 년 전부터 운영을 시작했다."
+      },
+      {
+        "label": "2",
+        "text": "이 박물관의 체험실에 있는 우표는 만질 수 없다."
+      },
+      {
+        "label": "3",
+        "text": "이 박물관에서는 직접 우표를 만들어 볼 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "이 박물관의 느린 우체통으로는 편지를 보내지 못한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "target_slots": [
+      6
+    ],
+    "options_text": [
+      "이 박물관은 일 년 전부터 운영을 시작했다.",
+      "이 박물관의 체험실에 있는 우표는 만질 수 없다.",
+      "이 박물관에서는 직접 우표를 만들어 볼 수 있다.",
+      "이 박물관의 느린 우체통으로는 편지를 보내지 못한다."
+    ],
+    "type": "same_content",
+    "template_slot": 6,
+    "source_bank_id": "QB-T2-102-R011",
+    "source_question_number": 11,
+    "original_full_question_number": 11,
+    "level_test_slot": 6,
+    "source_template_slot": 11,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S07-Q013",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "(라)-(나)-(다)-(가)",
+      "(라)-(다)-(가)-(나)",
+      "(나)-(라)-(가)-(다)",
+      "(나)-(가)-(다)-(라)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "label": "2",
+        "text": "(라)-(다)-(가)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(나)-(가)-(다)-(라)"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "sentence_blocks": [
+      {
+        "label": "가",
+        "text": "그래서 껍질째 먹기도 편하고 딱딱하지 않아서 식감도 좋다."
+      },
+      {
+        "label": "나",
+        "text": "신비 복숭아는 2017년에 한국에 처음 소개된 여름 과일이다."
+      },
+      {
+        "label": "다",
+        "text": "다른 복숭아에 비해 이른 시기에 먹을 수 있다는 것도 장점이다."
+      },
+      {
+        "label": "라",
+        "text": "껍질이 얇은 복숭아와 속이 부드러운 복숭아의 장점을 결합해 만들었다."
+      }
+    ],
+    "correct_answer_order": [
+      "라",
+      "나",
+      "다",
+      "가"
+    ],
+    "interaction_mode": "sentence_order",
+    "target_slots": [
+      7
+    ],
+    "options_text": [
+      "(라)-(나)-(다)-(가)",
+      "(라)-(다)-(가)-(나)",
+      "(나)-(라)-(가)-(다)",
+      "(나)-(가)-(다)-(라)"
+    ],
+    "type": "sentence_order",
+    "correct_order": [
+      "라",
+      "나",
+      "다",
+      "가"
+    ],
+    "sentence_items": [
+      {
+        "label": "가",
+        "text": "그래서 껍질째 먹기도 편하고 딱딱하지 않아서 식감도 좋다."
+      },
+      {
+        "label": "나",
+        "text": "신비 복숭아는 2017년에 한국에 처음 소개된 여름 과일이다."
+      },
+      {
+        "label": "다",
+        "text": "다른 복숭아에 비해 이른 시기에 먹을 수 있다는 것도 장점이다."
+      },
+      {
+        "label": "라",
+        "text": "껍질이 얇은 복숭아와 속이 부드러운 복숭아의 장점을 결합해 만들었다."
+      }
+    ],
+    "template_slot": 7,
+    "source_bank_id": "QB-T2-102-R013",
+    "source_question_number": 13,
+    "original_full_question_number": 13,
+    "level_test_slot": 7,
+    "source_template_slot": 13,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S08-Q016",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구·연결 표현 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "북극여우는 계절에 따라 털 색깔을 바꾸는 동물이다. 북극여우의 털은 겨울에는 눈과 같은 흰색으로, 여름에는 바위나 흙과 비슷한 갈색빛으로 바뀐다. 이러한 털 색깔의 변화로 북극여우는 몸을 숨길 곳이 없는 북극의 특수한 환경에서도 천적으로부터 자신을 보호하고 사냥할 때 (     ) 수 있다.",
+    "passage_template": "북극여우는 계절에 따라 털 색깔을 바꾸는 동물이다. 북극여우의 털은 겨울에는 눈과 같은 흰색으로, 여름에는 바위나 흙과 비슷한 갈색빛으로 바뀐다. 이러한 털 색깔의 변화로 북극여우는 몸을 숨길 곳이 없는 북극의 특수한 환경에서도 천적으로부터 자신을 보호하고 사냥할 때 (     ) 수 있다.",
+    "options": [
+      "동료와 무리를 이룰",
+      "체온을 적절히 유지할",
+      "먹잇감에 몰래 다가갈",
+      "발자국을 남기지 않을"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "동료와 무리를 이룰"
+      },
+      {
+        "label": "2",
+        "text": "체온을 적절히 유지할"
+      },
+      {
+        "label": "3",
+        "text": "먹잇감에 몰래 다가갈"
+      },
+      {
+        "label": "4",
+        "text": "발자국을 남기지 않을"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "target_slots": [
+      8
+    ],
+    "options_text": [
+      "동료와 무리를 이룰",
+      "체온을 적절히 유지할",
+      "먹잇감에 몰래 다가갈",
+      "발자국을 남기지 않을"
+    ],
+    "type": "blank_choice",
+    "metadata_before_normalization": {
+      "type": "blank_choice",
+      "category": "빈칸",
+      "diagnostic_area": "문맥에 맞는 연결 표현 선택"
+    },
+    "template_slot": 8,
+    "source_bank_id": "QB-T2-102-R016",
+    "source_question_number": 16,
+    "original_full_question_number": 16,
+    "level_test_slot": 8,
+    "source_template_slot": 16,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S09-Q019",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "passage_template": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "options": [
+      "또한",
+      "비록",
+      "과연",
+      "반면"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "또한"
+      },
+      {
+        "label": "2",
+        "text": "비록"
+      },
+      {
+        "label": "3",
+        "text": "과연"
+      },
+      {
+        "label": "4",
+        "text": "반면"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 19,
+    "options_text": [
+      "또한",
+      "비록",
+      "과연",
+      "반면"
+    ],
+    "type": "common_passage_blank_choice",
+    "metadata_before_normalization": {
+      "type": "common_passage_blank_choice",
+      "category": "공통 지문 빈칸",
+      "diagnostic_area": "공통 지문에서 문맥에 맞는 연결어 선택"
+    },
+    "template_slot": 9,
+    "passage_group_id": "SET-T2-102-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-102-R019",
+    "source_question_number": 19,
+    "original_full_question_number": 19,
+    "level_test_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "source_template_slot": 19,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-102-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S10-Q020",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "passage_template": "도시의 도로는 대부분 물이 스며들지 않는 아스팔트로 뒤덮여 있다. 그래서 비가 오면 빗물이 지하로 잘 흘러 들어가지 못해 지하수가 부족해지고 도로가 물에 잠기는 일도 자주 발생한다. 그런데 최근 물이 잘 스며드는 도로 포장재가 개발되었다. 이 포장재에는 미세한 구멍이 많다. 그래서 빗물이 쉽게 통과해 지하수 자원이 보충된다. (     ) 하수구로 몰리는 빗물의 양이 줄어 도로 침수의 위험도 줄어들게 된다.",
+    "options": [
+      "빗물은 지하수 오염을 줄이는 데 중요한 역할을 한다.",
+      "도로 포장재에는 도시마다의 환경적 특성이 반영되어 있다.",
+      "도로 침수는 도시에 매우 심각한 피해를 입히는 요인 중 하나이다.",
+      "새 포장재가 지하수 부족과 도로 침수 문제 해결에 도움이 될 것이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "빗물은 지하수 오염을 줄이는 데 중요한 역할을 한다."
+      },
+      {
+        "label": "2",
+        "text": "도로 포장재에는 도시마다의 환경적 특성이 반영되어 있다."
+      },
+      {
+        "label": "3",
+        "text": "도로 침수는 도시에 매우 심각한 피해를 입히는 요인 중 하나이다."
+      },
+      {
+        "label": "4",
+        "text": "새 포장재가 지하수 부족과 도로 침수 문제 해결에 도움이 될 것이다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 정답·지문·보기는 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "answer-key-102.json",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "target_slot": 20,
+    "options_text": [
+      "빗물은 지하수 오염을 줄이는 데 중요한 역할을 한다.",
+      "도로 포장재에는 도시마다의 환경적 특성이 반영되어 있다.",
+      "도로 침수는 도시에 매우 심각한 피해를 입히는 요인 중 하나이다.",
+      "새 포장재가 지하수 부족과 도로 침수 문제 해결에 도움이 될 것이다."
+    ],
+    "type": "common_passage_question",
+    "template_slot": 10,
+    "passage_group_id": "SET-T2-102-R019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "source_bank_id": "QB-T2-102-R020",
+    "source_question_number": 20,
+    "original_full_question_number": 20,
+    "level_test_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "source_template_slot": 20,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-102-G-09-10",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S11-Q023",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "passage_template": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "options": [
+      "설레다",
+      "겁나다",
+      "아쉽다",
+      "그립다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "설레다"
+      },
+      {
+        "label": "2",
+        "text": "겁나다"
+      },
+      {
+        "label": "3",
+        "text": "아쉽다"
+      },
+      {
+        "label": "4",
+        "text": "그립다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "underline_targets": [
+      "드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다."
+    ],
+    "underlined_parts": [
+      "드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다."
+    ],
+    "interaction_mode": "single_choice",
+    "target_slot": 23,
+    "options_text": [
+      "설레다",
+      "겁나다",
+      "아쉽다",
+      "그립다"
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "심정",
+      "diagnostic_area": "화자의 심정 파악"
+    },
+    "template_slot": 11,
+    "passage_group_id": "SET-T2-102-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-102-R023",
+    "source_question_number": 23,
+    "original_full_question_number": 23,
+    "level_test_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "source_template_slot": 23,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-102-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S12-Q024",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "passage_template": "나는 지금까지 해 보지 않은 일에 도전해 보고 싶어 태권도를 배우기로 했다. 집 근처 태권도 학원에 가서야 성인 반이 따로 없다는 것을 알게 됐지만 이왕 결심한 김에 나는 초등학생 반에 등록했다. 첫날 아이들이 나에게 둘러섰다. 나에게 관심을 보이며 따르는 아이들이 귀엽기도 하고 태권도를 배우는 것도 재미있어서 빠짐없이 출석했다. 두 달 후, 노란 띠를 따기 위한 승급 시험 날이 되었다. 드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다. 그런데 관장님이 “심사 전에 꿈을 발표할 거예요.”라고 하셨다. 경찰관, 소방관 등 다양한 꿈을 말하는 아이들 사이에서 나는 머릿속이 하얘졌다. 문득 처음 학원에 등록하면서 했던 결심이 떠올랐다. “제 꿈은 새로운 일에 겁먹지 않는 어른이 되는 것입니다.” 박수갈채가 쏟아졌다. 그날 받은 노란 띠는 평생 내 가슴에 남을 것이다.",
+    "options": [
+      "나는 태권도 승급 시험에서 떨어졌다.",
+      "나는 어릴 때부터 태권도를 즐겨 했다.",
+      "나는 바로 태권도 성인 반에 등록했다.",
+      "나는 태권도 수업에 한 번도 빠지지 않았다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "나는 태권도 승급 시험에서 떨어졌다."
+      },
+      {
+        "label": "2",
+        "text": "나는 어릴 때부터 태권도를 즐겨 했다."
+      },
+      {
+        "label": "3",
+        "text": "나는 바로 태권도 성인 반에 등록했다."
+      },
+      {
+        "label": "4",
+        "text": "나는 태권도 수업에 한 번도 빠지지 않았다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "underline_targets": [
+      "드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다."
+    ],
+    "underlined_parts": [
+      "드디어 흰 띠에서 벗어날 생각에 한 시간이나 일찍 학원에 도착했다."
+    ],
+    "interaction_mode": "single_choice",
+    "target_slot": 24,
+    "options_text": [
+      "나는 태권도 승급 시험에서 떨어졌다.",
+      "나는 어릴 때부터 태권도를 즐겨 했다.",
+      "나는 바로 태권도 성인 반에 등록했다.",
+      "나는 태권도 수업에 한 번도 빠지지 않았다."
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "내용 일치",
+      "diagnostic_area": "서사 글의 세부 내용 이해"
+    },
+    "template_slot": 12,
+    "passage_group_id": "SET-T2-102-R023-024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "source_bank_id": "QB-T2-102-R024",
+    "source_question_number": 24,
+    "original_full_question_number": 24,
+    "level_test_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "source_template_slot": 24,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "level_test_group_id": "LT-102-G-11-12",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S13-Q025",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II 읽기 문제.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "TV 프로그램 방영 효과 ‘톡톡’, 인주시는 관광객 물결",
+    "passage_template": "TV 프로그램 방영 효과 ‘톡톡’, 인주시는 관광객 물결",
+    "options": [
+      "TV 프로그램 제작자들이 관광객을 촬영하러 인주시로 모여들었다.",
+      "인주시가 TV 프로그램에 나온 덕분에 많은 관광객이 방문하고 있다.",
+      "인주시가 관광객 유치를 위해 TV 프로그램 홍보 방송을 준비하고 있다.",
+      "TV 프로그램 방송 후에 관광객이 증가해 인주시에 여러 문제가 발생했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "TV 프로그램 제작자들이 관광객을 촬영하러 인주시로 모여들었다."
+      },
+      {
+        "label": "2",
+        "text": "인주시가 TV 프로그램에 나온 덕분에 많은 관광객이 방문하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "인주시가 관광객 유치를 위해 TV 프로그램 홍보 방송을 준비하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "TV 프로그램 방송 후에 관광객이 증가해 인주시에 여러 문제가 발생했다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "102회 B형 문제지 이미지에서 반자동 전사한 검수용 초안입니다. 지문·보기·정답은 반드시 원문과 대조해 확인하세요.",
+    "image_url": "",
+    "answer_source": "B형 문제지 기준 검수용 임시 정답",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "target_slots": [
+      13
+    ],
+    "options_text": [
+      "TV 프로그램 제작자들이 관광객을 촬영하러 인주시로 모여들었다.",
+      "인주시가 TV 프로그램에 나온 덕분에 많은 관광객이 방문하고 있다.",
+      "인주시가 관광객 유치를 위해 TV 프로그램 홍보 방송을 준비하고 있다.",
+      "TV 프로그램 방송 후에 관광객이 증가해 인주시에 여러 문제가 발생했다."
+    ],
+    "type": "headline_meaning",
+    "template_slot": 13,
+    "source_bank_id": "QB-T2-102-R025",
+    "source_question_number": 25,
+    "original_full_question_number": 25,
+    "level_test_slot": 13,
+    "source_template_slot": 25,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S14-Q032",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 14,
+    "source_printed_page": "13",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 14,
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "멍게는 바다에 서식하는 해양 생물로 성장 과정에서 흥미로운 변화를 겪는다. 어린 멍게는 올챙이와 같이 자유롭게 헤엄쳐 더 나은 서식지를 찾아 이동한다. 바위 등 적절한 장소를 발견하면 멍게는 거기에 딱 붙어서 생활하게 되어 더 이상 이동할 필요가 없어진다. 이렇게 자리를 잡은 멍게는 스스로 이동에 필요한 신체 기관들을 없애고 식물처럼 한곳에 정착해서 살아간다.",
+    "passage_template": "멍게는 바다에 서식하는 해양 생물로 성장 과정에서 흥미로운 변화를 겪는다. 어린 멍게는 올챙이와 같이 자유롭게 헤엄쳐 더 나은 서식지를 찾아 이동한다. 바위 등 적절한 장소를 발견하면 멍게는 거기에 딱 붙어서 생활하게 되어 더 이상 이동할 필요가 없어진다. 이렇게 자리를 잡은 멍게는 스스로 이동에 필요한 신체 기관들을 없애고 식물처럼 한곳에 정착해서 살아간다.",
+    "options": [
+      "멍게는 평생 동안 바닷속을 헤엄쳐 먹이를 찾아다닌다.",
+      "멍게는 한곳에 자리를 잡으면 서식지를 바꾸지 않는다.",
+      "멍게는 성장 과정에서 신체의 변화가 일어나지 않는다.",
+      "멍게는 정착 후에도 이동에 필요한 기관을 계속 유지한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "멍게는 평생 동안 바닷속을 헤엄쳐 먹이를 찾아다닌다."
+      },
+      {
+        "label": "2",
+        "text": "멍게는 한곳에 자리를 잡으면 서식지를 바꾸지 않는다."
+      },
+      {
+        "label": "3",
+        "text": "멍게는 성장 과정에서 신체의 변화가 일어나지 않는다."
+      },
+      {
+        "label": "4",
+        "text": "멍게는 정착 후에도 이동에 필요한 기관을 계속 유지한다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slots": [
+      14
+    ],
+    "options_text": [
+      "멍게는 평생 동안 바닷속을 헤엄쳐 먹이를 찾아다닌다.",
+      "멍게는 한곳에 자리를 잡으면 서식지를 바꾸지 않는다.",
+      "멍게는 성장 과정에서 신체의 변화가 일어나지 않는다.",
+      "멍게는 정착 후에도 이동에 필요한 기관을 계속 유지한다."
+    ],
+    "type": "same_content",
+    "metadata_before_normalization": {
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "중간 글의 세부 내용 이해"
+    },
+    "template_slot": 14,
+    "source_bank_id": "QB-T2-102-R032",
+    "source_question_number": 32,
+    "original_full_question_number": 32,
+    "level_test_slot": 14,
+    "source_template_slot": 32,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S15-Q035",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 15,
+    "source_printed_page": "14",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 15,
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "인류를 화성에 보내기 위한 우주 탐사 프로젝트가 한창이다. 이를 두고 당장의 의식주 문제를 해결하는 것이 더 시급하다고 비판하는 일각의 목소리도 있다. 하지만 우주 탐사는 단순히 미지의 세계를 탐구하는 것만은 아니다. 우주라는 극한의 환경은 기존의 기술로는 해결하지 못하는 혁신적인 해결책을 요구한다. 이 과정에서 개발된 기술은 사회의 다양한 분야에서 새로운 산업과 일자리를 창출하며 경제 성장의 동력이 된다.",
+    "passage_template": "인류를 화성에 보내기 위한 우주 탐사 프로젝트가 한창이다. 이를 두고 당장의 의식주 문제를 해결하는 것이 더 시급하다고 비판하는 일각의 목소리도 있다. 하지만 우주 탐사는 단순히 미지의 세계를 탐구하는 것만은 아니다. 우주라는 극한의 환경은 기존의 기술로는 해결하지 못하는 혁신적인 해결책을 요구한다. 이 과정에서 개발된 기술은 사회의 다양한 분야에서 새로운 산업과 일자리를 창출하며 경제 성장의 동력이 된다.",
+    "options": [
+      "우주 탐사를 반대하는 주장이 갈수록 힘을 얻고 있다.",
+      "우주 탐사는 경제적 가치를 창출하지 못할 가능성이 높다.",
+      "우주 탐사 기술은 산업과 경제 전반을 발전시키는 역할을 한다.",
+      "우주 탐사의 가장 중요한 임무는 미지의 세계를 탐구하는 것이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "우주 탐사를 반대하는 주장이 갈수록 힘을 얻고 있다."
+      },
+      {
+        "label": "2",
+        "text": "우주 탐사는 경제적 가치를 창출하지 못할 가능성이 높다."
+      },
+      {
+        "label": "3",
+        "text": "우주 탐사 기술은 산업과 경제 전반을 발전시키는 역할을 한다."
+      },
+      {
+        "label": "4",
+        "text": "우주 탐사의 가장 중요한 임무는 미지의 세계를 탐구하는 것이다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slots": [
+      15
+    ],
+    "options_text": [
+      "우주 탐사를 반대하는 주장이 갈수록 힘을 얻고 있다.",
+      "우주 탐사는 경제적 가치를 창출하지 못할 가능성이 높다.",
+      "우주 탐사 기술은 산업과 경제 전반을 발전시키는 역할을 한다.",
+      "우주 탐사의 가장 중요한 임무는 미지의 세계를 탐구하는 것이다."
+    ],
+    "type": "main_idea",
+    "metadata_before_normalization": {
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "논설문 주제 파악"
+    },
+    "template_slot": 15,
+    "source_bank_id": "QB-T2-102-R035",
+    "source_question_number": 35,
+    "original_full_question_number": 35,
+    "level_test_slot": 15,
+    "source_template_slot": 35,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S16-Q039",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 17,
+    "source_printed_page": "16",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 16,
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "운동선수들의 평균 은퇴 연령은 23.6세로 매우 젊은 편이다. ㉠ 그래서 지도자의 길을 걷는 소수의 선수를 제외하면 대부분의 선수들은 은퇴 후 새로운 직업을 찾아야 한다. ㉡ 하지만 선수들은 오랜 시간 운동에만 매진해 왔기 때문에 개개인이 은퇴 이후의 삶을 준비할 여력이 없다. ㉢ 이에 현역부터 선수들에게 직업 교육 등을 지원하는 구단이 많아지고 있다. ㉣",
+    "passage_template": "운동선수들의 평균 은퇴 연령은 23.6세로 매우 젊은 편이다. ㉠ 그래서 지도자의 길을 걷는 소수의 선수를 제외하면 대부분의 선수들은 은퇴 후 새로운 직업을 찾아야 한다. ㉡ 하지만 선수들은 오랜 시간 운동에만 매진해 왔기 때문에 개개인이 은퇴 이후의 삶을 준비할 여력이 없다. ㉢ 이에 현역부터 선수들에게 직업 교육 등을 지원하는 구단이 많아지고 있다. ㉣",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "insert_sentence": "사회적으로도 이들을 위한 재교육의 장이 충분히 마련되어 있지 않다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢",
+    "interaction_mode": "click_insert_sentence_into_position",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slots": [
+      16
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "type": "sentence_insert",
+    "correct_insert_position": "㉢",
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "metadata_before_normalization": {
+      "type": "sentence_insert_interactive",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단"
+    },
+    "template_slot": 16,
+    "source_bank_id": "QB-T2-102-R039",
+    "source_question_number": 39,
+    "original_full_question_number": 39,
+    "level_test_slot": 16,
+    "source_template_slot": 39,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S17-Q042",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 19,
+    "source_printed_page": "18",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 17,
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘그’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "passage_template": "늦여름의 토요일 한낮이었다. 그는 셀프 세차장에 들러 차 내외부를 깨끗하게 청소한 뒤 그녀를 데리러 갔다. 그녀에게는 평범한 주말여행으로 말해 두었지만 뒷좌석에 벗어 놓은 리넨 재킷 주머니에는 반지가 들어 있었다. (중략)\n\n그녀 앞에 섰을 때 그는 약간의 불안은 청혼이 요구하는 진정성의 일부라는 걸 받아들였다. 그녀는 재킷 주머니에 손을 넣고 있었다.\n\n“안에 있는 거, 꺼내 봐.”\n\n그녀가 “어, 음, 응” 같은 소리를 내며 반지함을 꺼내 들었다. 그를 보며 “설마?” 했고 그는 끄덕였다. 그녀는 고개를 저으며 말했다.\n\n“안 돼.”\n\n그는 어둑해졌다. 어디서부터 잘못됐지. 나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다. 그녀가 반지함을 그에게 내밀며 말했다.\n\n“당신 손으로 줘야 해.” (중략)\n\n그는 중요한 말을 또박또박 하려 했는데 목이 메었다. 그녀가 손가락을 내밀었다. 반지가 조금 헐거운 것 같았다.\n\n“자기 울 줄 아는 사람이었구나.”",
+    "options": [
+      "화나고 답답하다",
+      "놀라고 당황스럽다",
+      "서럽고 짜증스럽다",
+      "섭섭하고 허전하다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "화나고 답답하다"
+      },
+      {
+        "label": "2",
+        "text": "놀라고 당황스럽다"
+      },
+      {
+        "label": "3",
+        "text": "서럽고 짜증스럽다"
+      },
+      {
+        "label": "4",
+        "text": "섭섭하고 허전하다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "underline_targets": [
+      "나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다."
+    ],
+    "underlined_parts": [
+      "나뭇잎 소리도, 풀벌레 소리도 멈춘 듯했다."
+    ],
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slot": 42,
+    "options_text": [
+      "화나고 답답하다",
+      "놀라고 당황스럽다",
+      "서럽고 짜증스럽다",
+      "섭섭하고 허전하다"
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "심정",
+      "diagnostic_area": "서사 지문 속 인물 심정 파악"
+    },
+    "template_slot": 17,
+    "passage_group_id": "SET-T2-102-R042-043",
+    "passage_group_title": "[42~43] 공통 지문",
+    "passage_group_numbers": [
+      17
+    ],
+    "source_bank_id": "QB-T2-102-R042",
+    "source_question_number": 42,
+    "original_full_question_number": 42,
+    "level_test_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_template_slot": 42,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S18-Q045",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 20,
+    "source_printed_page": "19",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "주제 파악",
+    "diagnostic_area": "학술 설명문의 중심 내용 파악",
+    "original_question_number": 45,
+    "question_number": 18,
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "passage_template": "르네상스 시대에 꽃을 피운 해부학은 인체의 내부를 파악할 수 있게 해 의학 분야에 획기적인 발전을 가져왔다. 동시에 미술가들에게 인물의 움직임을 좀 더 자연스럽게 표현할 수 있는 길을 열어 주었다. 당시 연구 열기가 뜨거웠던 해부학 교실에서는 인체의 근육, 뼈, 장기 등의 세세한 구조를 기록할 누군가가 필요했고, 그 역할은 자연스레 미술가가 수행하게 되었다. 이후 미술가들은 근육의 구조나 그 움직임과 관련된 해부학적 지식을 작품에 적용하여 그림 속 인물들을 한층 더 자연스럽게 그려 냈다. 예를 들어 이전의 그림에서는 (     ) 알지 못해 사람의 발이 떠 있는 것처럼 어색하게 그렸다. 그러나 해부학적 지식이 더해진 이후에는 두 발이 땅을 딛고 서 있는 모습을 현실감 있게 그릴 수 있게 되었다.",
+    "options": [
+      "미술가들은 해부학 강의를 통해 경제 활동을 할 수 있었다.",
+      "해부학은 의학뿐만 아니라 미술에도 심대한 영향을 끼쳤다.",
+      "해부학 강의는 일반인들의 그림에 대한 관점을 바꿔 놓았다.",
+      "해부학의 발달로 미술에서 다룰 수 있는 소재가 다양해졌다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "미술가들은 해부학 강의를 통해 경제 활동을 할 수 있었다."
+      },
+      {
+        "label": "2",
+        "text": "해부학은 의학뿐만 아니라 미술에도 심대한 영향을 끼쳤다."
+      },
+      {
+        "label": "3",
+        "text": "해부학 강의는 일반인들의 그림에 대한 관점을 바꿔 놓았다."
+      },
+      {
+        "label": "4",
+        "text": "해부학의 발달로 미술에서 다룰 수 있는 소재가 다양해졌다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slot": 45,
+    "options_text": [
+      "미술가들은 해부학 강의를 통해 경제 활동을 할 수 있었다.",
+      "해부학은 의학뿐만 아니라 미술에도 심대한 영향을 끼쳤다.",
+      "해부학 강의는 일반인들의 그림에 대한 관점을 바꿔 놓았다.",
+      "해부학의 발달로 미술에서 다룰 수 있는 소재가 다양해졌다."
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "주제 파악",
+      "diagnostic_area": "긴 지문의 주제 파악"
+    },
+    "template_slot": 18,
+    "passage_group_id": "SET-T2-102-R044-045",
+    "passage_group_title": "[44~45] 공통 지문",
+    "passage_group_numbers": [
+      18
+    ],
+    "source_bank_id": "QB-T2-102-R045",
+    "source_question_number": 45,
+    "original_full_question_number": 45,
+    "level_test_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_template_slot": 45,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      44,
+      45
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S19-Q046",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 21,
+    "source_printed_page": "20",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "필자의 태도",
+    "diagnostic_area": "긴 지문의 필자 주장 및 태도 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "passage_template": "전 세계 바다 밑에는 400개가 넘는 해저 전선이 대양과 연안을 따라 설치돼 있다. 나라 간 정보 통신의 99%가 이 해저 전선을 통해 이루어진다. 하지만 한국은 급증하는 정보 전송량에 비해 해저 전선이 턱없이 부족하다. 여기에는 여러 원인이 있다. 우선 서해안의 경우 수심이 얕아 설치가 까다롭고 어업 피해를 우려한 어민들의 반대도 극심하다. 게다가 해저 전선 설치는 첨단 기술과 막대한 자본이 요구되며 주변국과의 협력이 필수이다. 이는 정부의 개입 없이 민간 기업의 힘만으로는 해결하기 어렵다. 따라서 정부는 해저 전선 설치를 위한 법적·경제적·외교적 제도를 정비하는 등 해저 전선의 수를 늘리는 적극적인 방안을 마련해야 한다. 디지털 전환이 가속화되고 데이터 수요가 급증하는 오늘날, 해저 전선을 얼마나 보유하느냐에 따라 세계 통신망의 주역이 결정된다는 것을 명심해야 한다.",
+    "options": [
+      "해저 전선의 구축으로 생길 부작용을 우려하고 있다.",
+      "해저 전선의 문제점과 위험성에 대해 역설하고 있다.",
+      "해저 전선에 대한 국가적 차원의 대응을 촉구하고 있다.",
+      "해저 전선이 세계 정세에 미치는 영향을 부정하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "해저 전선의 구축으로 생길 부작용을 우려하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "해저 전선의 문제점과 위험성에 대해 역설하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "해저 전선에 대한 국가적 차원의 대응을 촉구하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "해저 전선이 세계 정세에 미치는 영향을 부정하고 있다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slot": 46,
+    "options_text": [
+      "해저 전선의 구축으로 생길 부작용을 우려하고 있다.",
+      "해저 전선의 문제점과 위험성에 대해 역설하고 있다.",
+      "해저 전선에 대한 국가적 차원의 대응을 촉구하고 있다.",
+      "해저 전선이 세계 정세에 미치는 영향을 부정하고 있다."
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "필자 태도",
+      "diagnostic_area": "긴 지문에서 필자의 태도 파악"
+    },
+    "template_slot": 19,
+    "passage_group_id": "SET-T2-102-R046-047",
+    "passage_group_title": "[46~47] 공통 지문",
+    "passage_group_numbers": [
+      19
+    ],
+    "source_bank_id": "QB-T2-102-R046",
+    "source_question_number": 46,
+    "original_full_question_number": 46,
+    "level_test_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_template_slot": 46,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      46,
+      47
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  },
+  {
+    "id": "LT-T2-102-S20-Q050",
+    "source_round": "102",
+    "source_file": "102회 TOPIK II B형 읽기 문제지",
+    "source_pdf_page": 22,
+    "source_printed_page": "21",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "category": "긴 지문 내용 일치",
+    "diagnostic_area": "긴 지문의 세부 정보 일치 판단",
+    "original_question_number": 50,
+    "question_number": 20,
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "passage_template": "퇴직 급여 제도 도입 후 20년 만에 개편안이 마련되고 있다. 그 배경에는 퇴직금 체불 문제가 있다. 회사가 퇴직금을 은행 같은 사회 기관에 맡기지 않고 자체 관리하다 보니 회사 사정에 따라 퇴직금 체불이 빈번히 발생해 왔다. 한편 퇴직 즉시 퇴직금 수령이 가능한 현행 제도는 근로자의 노후 소득 보장을 어렵게 한다는 문제 의식도 개편안 마련의 배경이다. 이번 개편안은 퇴직금을 매달 외부 기관에 맡기는 것을 의무화해 (     ) 줄이고 퇴직금 수령 시기를 55세로 정해 고질적인 노인 빈곤 문제의 해결을 꾀하고 있다. 그러나 이 개편안이 시행될 경우 퇴직금 명목으로 일정 금액을 의무적으로 매달 납입하게 한 조항은 영세 사업장에 부담이 된다. 또 퇴직금을 조기 수령할 수 없게 한 조항은 근로자의 선택권을 침해한다는 반론이 있다. 따라서 이번 개편안의 성공 여부는 기업의 현실적인 부담과 개인의 선택권 침해라는 변수를 두고 어떻게 균형을 잡을 것인지에 달려 있다.",
+    "options": [
+      "이번 개편안이 시행되면 영세 사업장의 부담을 덜어 줄 수 있게 된다.",
+      "이번 개편안은 퇴직금을 외부 기관에 맡기게 하는 안을 포함한다.",
+      "현행 제도에서는 55세가 되어야 퇴직금을 수령할 수 있다.",
+      "퇴직 급여 제도가 도입된 것은 최근의 일이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "이번 개편안이 시행되면 영세 사업장의 부담을 덜어 줄 수 있게 된다."
+      },
+      {
+        "label": "2",
+        "text": "이번 개편안은 퇴직금을 외부 기관에 맡기게 하는 안을 포함한다."
+      },
+      {
+        "label": "3",
+        "text": "현행 제도에서는 55세가 되어야 퇴직금을 수령할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "퇴직 급여 제도가 도입된 것은 최근의 일이다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "102회 짝수형 PDF 원문 대조 기반 검수용",
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "interaction_mode": "single_choice",
+    "blank_key": "",
+    "shared_insert_enabled": false,
+    "target_slot": 50,
+    "options_text": [
+      "이번 개편안이 시행되면 영세 사업장의 부담을 덜어 줄 수 있게 된다.",
+      "이번 개편안은 퇴직금을 외부 기관에 맡기게 하는 안을 포함한다.",
+      "현행 제도에서는 55세가 되어야 퇴직금을 수령할 수 있다.",
+      "퇴직 급여 제도가 도입된 것은 최근의 일이다."
+    ],
+    "type": "common_passage_question",
+    "metadata_before_normalization": {
+      "type": "common_passage_question",
+      "category": "내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 이해"
+    },
+    "template_slot": 20,
+    "passage_group_id": "SET-T2-102-R048-050",
+    "passage_group_title": "[48~50] 긴 지문 공통 문제",
+    "passage_group_numbers": [
+      20
+    ],
+    "source_bank_id": "QB-T2-102-R050",
+    "source_question_number": 50,
+    "original_full_question_number": 50,
+    "level_test_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_template_slot": 50,
+    "generated_exam_id": "TOPIK2-READING-102-LEVEL-TEST-20",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "102",
+    "generated_exam_label": "102회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 102회 20문항",
+    "time_limit_minutes": 30,
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "total_questions": 20,
+    "answer_key_status": "draft_by_manual_solving",
+    "is_official_answer_key": false,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "draft_note": "102회 전체 시험지에서 레벨테스트 대표 20문항으로 추출한 회차별 레벨테스트 파일입니다. 정답표가 가안인 회차는 공식 정답표 확인 전까지 검수가 필요합니다."
+  }
+]
