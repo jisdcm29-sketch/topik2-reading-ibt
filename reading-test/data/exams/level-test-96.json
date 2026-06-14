@@ -1,0 +1,2039 @@
+[
+  {
+    "id": "LT-96-Q001-FROM-R001",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "감기약을 (     ) 열이 내렸다.",
+    "passage_template": "감기약을 (     ) 열이 내렸다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "먹느라고"
+      },
+      {
+        "number": 2,
+        "text": "먹더라도"
+      },
+      {
+        "number": 3,
+        "text": "먹을 텐데"
+      },
+      {
+        "number": 4,
+        "text": "먹고 나서"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "먹느라고"
+      },
+      {
+        "number": 2,
+        "text": "먹더라도"
+      },
+      {
+        "number": 3,
+        "text": "먹을 텐데"
+      },
+      {
+        "number": 4,
+        "text": "먹고 나서"
+      }
+    ],
+    "options_text": [
+      "먹느라고",
+      "먹더라도",
+      "먹을 텐데",
+      "먹고 나서"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 1,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 1,
+    "source_bank_id": "T2-96-R001",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 1,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q002-FROM-R003",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 표현과 의미가 비슷한 표현 선택",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[2] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "버스를 잘못 타는 바람에 수업에 늦었다.",
+    "passage_template": "버스를 잘못 타는 바람에 수업에 늦었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "탄 탓에"
+      },
+      {
+        "number": 2,
+        "text": "타는 길에"
+      },
+      {
+        "number": 3,
+        "text": "탄 반면에"
+      },
+      {
+        "number": 4,
+        "text": "타는 대신에"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "탄 탓에"
+      },
+      {
+        "number": 2,
+        "text": "타는 길에"
+      },
+      {
+        "number": 3,
+        "text": "탄 반면에"
+      },
+      {
+        "number": 4,
+        "text": "타는 대신에"
+      }
+    ],
+    "options_text": [
+      "탄 탓에",
+      "타는 길에",
+      "탄 반면에",
+      "타는 대신에"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 3,
+    "underline_targets": [
+      "타는 바람에"
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 2,
+    "source_bank_id": "T2-96-R003",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 2,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q003-FROM-R005",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "장갑"
+      },
+      {
+        "number": 2,
+        "text": "이불"
+      },
+      {
+        "number": 3,
+        "text": "화장품"
+      },
+      {
+        "number": 4,
+        "text": "손수건"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "장갑"
+      },
+      {
+        "number": 2,
+        "text": "이불"
+      },
+      {
+        "number": 3,
+        "text": "화장품"
+      },
+      {
+        "number": 4,
+        "text": "손수건"
+      }
+    ],
+    "options_text": [
+      "장갑",
+      "이불",
+      "화장품",
+      "손수건"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/96_R005.png",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 5,
+    "image_only": true,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 3,
+    "source_bank_id": "T2-96-R005",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 3,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q004-FROM-R009",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[4] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "결과는 이메일로 알려 준다."
+      },
+      {
+        "number": 2,
+        "text": "11월 29일까지 신청서를 내야 한다."
+      },
+      {
+        "number": 3,
+        "text": "신청서는 홈페이지에서 내려받을 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "노래하는 영상은 직접 가서 제출해야 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "결과는 이메일로 알려 준다."
+      },
+      {
+        "number": 2,
+        "text": "11월 29일까지 신청서를 내야 한다."
+      },
+      {
+        "number": 3,
+        "text": "신청서는 홈페이지에서 내려받을 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "노래하는 영상은 직접 가서 제출해야 한다."
+      }
+    ],
+    "options_text": [
+      "결과는 이메일로 알려 준다.",
+      "11월 29일까지 신청서를 내야 한다.",
+      "신청서는 홈페이지에서 내려받을 수 있다.",
+      "노래하는 영상은 직접 가서 제출해야 한다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/96_R009.png",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 9,
+    "image_only": true,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 4,
+    "source_bank_id": "T2-96-R009",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 4,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q005-FROM-R011",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "detail",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 설명문 세부 내용 파악",
+    "original_question_number": 11,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주로봇연구소는 작년에 이어 올해에도 겨울 방학을 맞은 인주시 초등학생들을 대상으로 교육 프로그램을 운영한다. 여기에 참여하는 학생들은 연구소에서 직접 로봇을 만들어 보고 조종하는 체험을 할 수 있다. 이 프로그램은 로봇 과학자가 되기를 희망하는 학생들에게 특히 반응이 좋다. 연구소는 내년 겨울 방학에도 이 프로그램을 진행할 예정이다.",
+    "passage_template": "인주로봇연구소는 작년에 이어 올해에도 겨울 방학을 맞은 인주시 초등학생들을 대상으로 교육 프로그램을 운영한다. 여기에 참여하는 학생들은 연구소에서 직접 로봇을 만들어 보고 조종하는 체험을 할 수 있다. 이 프로그램은 로봇 과학자가 되기를 희망하는 학생들에게 특히 반응이 좋다. 연구소는 내년 겨울 방학에도 이 프로그램을 진행할 예정이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "이 프로그램은 올해 처음 시작됐다."
+      },
+      {
+        "number": 2,
+        "text": "내년에는 이 프로그램이 학기 중에 진행된다."
+      },
+      {
+        "number": 3,
+        "text": "연구소의 과학자가 학교로 직접 가서 교육을 해 준다."
+      },
+      {
+        "number": 4,
+        "text": "이 프로그램은 로봇 과학자를 꿈꾸는 학생들에게 인기가 많다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "이 프로그램은 올해 처음 시작됐다."
+      },
+      {
+        "number": 2,
+        "text": "내년에는 이 프로그램이 학기 중에 진행된다."
+      },
+      {
+        "number": 3,
+        "text": "연구소의 과학자가 학교로 직접 가서 교육을 해 준다."
+      },
+      {
+        "number": 4,
+        "text": "이 프로그램은 로봇 과학자를 꿈꾸는 학생들에게 인기가 많다."
+      }
+    ],
+    "options_text": [
+      "이 프로그램은 올해 처음 시작됐다.",
+      "내년에는 이 프로그램이 학기 중에 진행된다.",
+      "연구소의 과학자가 학교로 직접 가서 교육을 해 준다.",
+      "이 프로그램은 로봇 과학자를 꿈꾸는 학생들에게 인기가 많다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 11,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 5,
+    "source_bank_id": "T2-96-R011",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 5,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q006-FROM-R010",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_graph",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 세부 정보 파악",
+    "original_question_number": 10,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[6] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "택배로 배송되는 물건 중 의류가 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "택배로 화장품이 배송되는 비율이 식품보다 낮다."
+      },
+      {
+        "number": 3,
+        "text": "택배로 운동 용품이 배송되는 비율은 10%가 넘는다."
+      },
+      {
+        "number": 4,
+        "text": "택배로 전자 제품이 배송되는 비율이 두 번째로 높다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "택배로 배송되는 물건 중 의류가 가장 많다."
+      },
+      {
+        "number": 2,
+        "text": "택배로 화장품이 배송되는 비율이 식품보다 낮다."
+      },
+      {
+        "number": 3,
+        "text": "택배로 운동 용품이 배송되는 비율은 10%가 넘는다."
+      },
+      {
+        "number": 4,
+        "text": "택배로 전자 제품이 배송되는 비율이 두 번째로 높다."
+      }
+    ],
+    "options_text": [
+      "택배로 배송되는 물건 중 의류가 가장 많다.",
+      "택배로 화장품이 배송되는 비율이 식품보다 낮다.",
+      "택배로 운동 용품이 배송되는 비율은 10%가 넘는다.",
+      "택배로 전자 제품이 배송되는 비율이 두 번째로 높다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/96_R010.png",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 10,
+    "image_only": true,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 6,
+    "source_bank_id": "T2-96-R010",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 6,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q007-FROM-R013",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[7] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "number": 3,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 4,
+        "text": "(다)-(라)-(나)-(가)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "number": 3,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 4,
+        "text": "(다)-(라)-(나)-(가)"
+      }
+    ],
+    "options_text": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(다)-(라)-(나)",
+      "(다)-(나)-(가)-(라)",
+      "(다)-(라)-(나)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 13,
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "대학생 때 처음으로 해외여행을 가게 되었다."
+      },
+      {
+        "label": "(나)",
+        "text": "가족들은 그 엽서를 받고 아주 감동적이었다고 했다."
+      },
+      {
+        "label": "(다)",
+        "text": "여행지에서 가족들을 위한 선물을 사고 싶었는데 돈이 별로 없었다."
+      },
+      {
+        "label": "(라)",
+        "text": "고민하다가 그 나라 풍경이 담긴 엽서에 여행 이야기를 담아 보냈다."
+      }
+    ],
+    "correct_answer_order": [
+      "가",
+      "다",
+      "라",
+      "나"
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 7,
+    "source_bank_id": "T2-96-R013",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 7,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q008-FROM-R016",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸",
+    "diagnostic_area": "문맥에 맞는 목적 표현 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[8] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "영화 속 장면에서 전화번호가 나오는 경우가 있다. 이때 실제 전화번호를 사용하면 호기심에 전화하는 사람이 생겨서 이 번호를 사용하는 사람은 일상생활이 힘들어질 수 있다. 영화진흥위원회에서는 이와 같은 (     ) 영화에 나와도 상관없는 전화번호를 확보해 두고 이를 영화 제작사에 제공해 주고 있다.",
+    "passage_template": "영화 속 장면에서 전화번호가 나오는 경우가 있다. 이때 실제 전화번호를 사용하면 호기심에 전화하는 사람이 생겨서 이 번호를 사용하는 사람은 일상생활이 힘들어질 수 있다. 영화진흥위원회에서는 이와 같은 (     ) 영화에 나와도 상관없는 전화번호를 확보해 두고 이를 영화 제작사에 제공해 주고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "피해를 막기 위해"
+      },
+      {
+        "number": 2,
+        "text": "사실을 화면에 담고자"
+      },
+      {
+        "number": 3,
+        "text": "관객 요구를 반영하고자"
+      },
+      {
+        "number": 4,
+        "text": "제작 방법을 알리기 위해"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "피해를 막기 위해"
+      },
+      {
+        "number": 2,
+        "text": "사실을 화면에 담고자"
+      },
+      {
+        "number": 3,
+        "text": "관객 요구를 반영하고자"
+      },
+      {
+        "number": 4,
+        "text": "제작 방법을 알리기 위해"
+      }
+    ],
+    "options_text": [
+      "피해를 막기 위해",
+      "사실을 화면에 담고자",
+      "관객 요구를 반영하고자",
+      "제작 방법을 알리기 위해"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 16,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 8,
+    "source_bank_id": "T2-96-R016",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 8,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q009-FROM-R019",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "좋은 생각을 끌어내려면 질문을 어떻게 할지 잘 고민해야 한다. 어떤 회사에서 신제품을 만들고자 직원에게 질문을 한다고 치자. “어떤 물건이 잘 팔릴까?”라고 막연하게 질문하면 대답이 잘 나오지 않는다. 좋은 질문이 아니기 때문이다. (     ) “지금까지의 제품에서 무엇을 개선할까?”라고 질문하면 도움이 되는 구체적인 답이 나온다.",
+    "passage_template": "좋은 생각을 끌어내려면 질문을 어떻게 할지 잘 고민해야 한다. 어떤 회사에서 신제품을 만들고자 직원에게 질문을 한다고 치자. “어떤 물건이 잘 팔릴까?”라고 막연하게 질문하면 대답이 잘 나오지 않는다. 좋은 질문이 아니기 때문이다. (     ) “지금까지의 제품에서 무엇을 개선할까?”라고 질문하면 도움이 되는 구체적인 답이 나온다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "결코"
+      },
+      {
+        "number": 2,
+        "text": "특히"
+      },
+      {
+        "number": 3,
+        "text": "비록"
+      },
+      {
+        "number": 4,
+        "text": "반면"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "결코"
+      },
+      {
+        "number": 2,
+        "text": "특히"
+      },
+      {
+        "number": 3,
+        "text": "비록"
+      },
+      {
+        "number": 4,
+        "text": "반면"
+      }
+    ],
+    "options_text": [
+      "결코",
+      "특히",
+      "비록",
+      "반면"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 19,
+    "passage_group_id": "SET-LT-96-Q009-010",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "blank_key": "blank_1",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 9,
+    "source_bank_id": "T2-96-R019",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 9,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full",
+    "passage_group_title": "[9~10] 공통 지문",
+    "shared_passage_index": 1,
+    "shared_passage_total": 2
+  },
+  {
+    "id": "LT-96-Q010-FROM-R020",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "좋은 생각을 끌어내려면 질문을 어떻게 할지 잘 고민해야 한다. 어떤 회사에서 신제품을 만들고자 직원에게 질문을 한다고 치자. “어떤 물건이 잘 팔릴까?”라고 막연하게 질문하면 대답이 잘 나오지 않는다. 좋은 질문이 아니기 때문이다. (     ) “지금까지의 제품에서 무엇을 개선할까?”라고 질문하면 도움이 되는 구체적인 답이 나온다.",
+    "passage_template": "좋은 생각을 끌어내려면 질문을 어떻게 할지 잘 고민해야 한다. 어떤 회사에서 신제품을 만들고자 직원에게 질문을 한다고 치자. “어떤 물건이 잘 팔릴까?”라고 막연하게 질문하면 대답이 잘 나오지 않는다. 좋은 질문이 아니기 때문이다. (     ) “지금까지의 제품에서 무엇을 개선할까?”라고 질문하면 도움이 되는 구체적인 답이 나온다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "질문을 한 후에 생각할 시간을 줘야 한다."
+      },
+      {
+        "number": 2,
+        "text": "도움이 되는 답을 얻으려면 질문을 잘해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "질문하기 전에 예상되는 답을 미리 생각해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "추상적인 질문으로 자유로운 생각을 끌어내야 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "질문을 한 후에 생각할 시간을 줘야 한다."
+      },
+      {
+        "number": 2,
+        "text": "도움이 되는 답을 얻으려면 질문을 잘해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "질문하기 전에 예상되는 답을 미리 생각해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "추상적인 질문으로 자유로운 생각을 끌어내야 한다."
+      }
+    ],
+    "options_text": [
+      "질문을 한 후에 생각할 시간을 줘야 한다.",
+      "도움이 되는 답을 얻으려면 질문을 잘해야 한다.",
+      "질문하기 전에 예상되는 답을 미리 생각해야 한다.",
+      "추상적인 질문으로 자유로운 생각을 끌어내야 한다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 20,
+    "passage_group_id": "SET-LT-96-Q009-010",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "blank_key": "blank_1",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 10,
+    "source_bank_id": "T2-96-R020",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 10,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full",
+    "passage_group_title": "[9~10] 공통 지문",
+    "shared_passage_index": 2,
+    "shared_passage_total": 2
+  },
+  {
+    "id": "LT-96-Q011-FROM-R023",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "퇴직한 아빠는 매일 아침 운전을 해서 나를 직장까지 데려다주셨다. 출근길 대중교통이 불편했기 때문이다. 아빠는 운전하면서 잔소리를 많이 하셨다. “신입 사원은 인사를 잘해야 해. 돈 아껴 쓰고…….” 출근할 때마다 잔소리를 듣는 것도 싫고 운전도 하고 싶어서 운전면허를 땄다. 나는 면허증을 받자마자 직접 운전해서 출근하기로 했다. 새 차를 샀다가 급히 가려다 할까 봐 당분간 아빠의 차를 빌려 쓰기로 했다. “사방을 잘 살피면서 운전해야 한다.” 아빠에게 나도 그 정도는 안다고 큰소리를 치고 출발했다. 그러나 운전하는 내내 다리가 후들후들 떨렸다. 옆자리엔 앉아 있을 때와는 달랐다. 운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다. 퇴근하고 집에 무사히 돌아왔을 땐 안도감에 눈물이 날 정도였다. 매일 나를 데려다주신 아빠에게 새삼 감사함을 느꼈다.",
+    "passage_template": "퇴직한 아빠는 매일 아침 운전을 해서 나를 직장까지 데려다주셨다. 출근길 대중교통이 불편했기 때문이다. 아빠는 운전하면서 잔소리를 많이 하셨다. “신입 사원은 인사를 잘해야 해. 돈 아껴 쓰고…….” 출근할 때마다 잔소리를 듣는 것도 싫고 운전도 하고 싶어서 운전면허를 땄다. 나는 면허증을 받자마자 직접 운전해서 출근하기로 했다. 새 차를 샀다가 급히 가려다 할까 봐 당분간 아빠의 차를 빌려 쓰기로 했다. “사방을 잘 살피면서 운전해야 한다.” 아빠에게 나도 그 정도는 안다고 큰소리를 치고 출발했다. 그러나 운전하는 내내 다리가 후들후들 떨렸다. 옆자리엔 앉아 있을 때와는 달랐다. 운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다. 퇴근하고 집에 무사히 돌아왔을 땐 안도감에 눈물이 날 정도였다. 매일 나를 데려다주신 아빠에게 새삼 감사함을 느꼈다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "기대되다"
+      },
+      {
+        "number": 2,
+        "text": "긴장되다"
+      },
+      {
+        "number": 3,
+        "text": "뿌듯하다"
+      },
+      {
+        "number": 4,
+        "text": "창피하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "기대되다"
+      },
+      {
+        "number": 2,
+        "text": "긴장되다"
+      },
+      {
+        "number": 3,
+        "text": "뿌듯하다"
+      },
+      {
+        "number": 4,
+        "text": "창피하다"
+      }
+    ],
+    "options_text": [
+      "기대되다",
+      "긴장되다",
+      "뿌듯하다",
+      "창피하다"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 23,
+    "passage_group_id": "SET-LT-96-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "target_slot": 23,
+    "underline_targets": [
+      "운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다."
+    ],
+    "underlined_parts": [
+      "운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다."
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 11,
+    "source_bank_id": "T2-96-R023",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 11,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q012-FROM-R024",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "퇴직한 아빠는 매일 아침 운전을 해서 나를 직장까지 데려다주셨다. 출근길 대중교통이 불편했기 때문이다. 아빠는 운전하면서 잔소리를 많이 하셨다. “신입 사원은 인사를 잘해야 해. 돈 아껴 쓰고…….” 출근할 때마다 잔소리를 듣는 것도 싫고 운전도 하고 싶어서 운전면허를 땄다. 나는 면허증을 받자마자 직접 운전해서 출근하기로 했다. 새 차를 샀다가 급히 가려다 할까 봐 당분간 아빠의 차를 빌려 쓰기로 했다. “사방을 잘 살피면서 운전해야 한다.” 아빠에게 나도 그 정도는 안다고 큰소리를 치고 출발했다. 그러나 운전하는 내내 다리가 후들후들 떨렸다. 옆자리엔 앉아 있을 때와는 달랐다. 운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다. 퇴근하고 집에 무사히 돌아왔을 땐 안도감에 눈물이 날 정도였다. 매일 나를 데려다주신 아빠에게 새삼 감사함을 느꼈다.",
+    "passage_template": "퇴직한 아빠는 매일 아침 운전을 해서 나를 직장까지 데려다주셨다. 출근길 대중교통이 불편했기 때문이다. 아빠는 운전하면서 잔소리를 많이 하셨다. “신입 사원은 인사를 잘해야 해. 돈 아껴 쓰고…….” 출근할 때마다 잔소리를 듣는 것도 싫고 운전도 하고 싶어서 운전면허를 땄다. 나는 면허증을 받자마자 직접 운전해서 출근하기로 했다. 새 차를 샀다가 급히 가려다 할까 봐 당분간 아빠의 차를 빌려 쓰기로 했다. “사방을 잘 살피면서 운전해야 한다.” 아빠에게 나도 그 정도는 안다고 큰소리를 치고 출발했다. 그러나 운전하는 내내 다리가 후들후들 떨렸다. 옆자리엔 앉아 있을 때와는 달랐다. 운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다. 퇴근하고 집에 무사히 돌아왔을 땐 안도감에 눈물이 날 정도였다. 매일 나를 데려다주신 아빠에게 새삼 감사함을 느꼈다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "나는 아빠의 차를 운전해서 회사에 다녀왔다."
+      },
+      {
+        "number": 2,
+        "text": "나는 운전면허를 따기 전에 대중교통으로 출근했다."
+      },
+      {
+        "number": 3,
+        "text": "나는 운전면허를 따자마자 자동차를 새로 구매했다."
+      },
+      {
+        "number": 4,
+        "text": "나는 아빠의 조언 덕분에 운전하는 것이 어렵지 않았다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "나는 아빠의 차를 운전해서 회사에 다녀왔다."
+      },
+      {
+        "number": 2,
+        "text": "나는 운전면허를 따기 전에 대중교통으로 출근했다."
+      },
+      {
+        "number": 3,
+        "text": "나는 운전면허를 따자마자 자동차를 새로 구매했다."
+      },
+      {
+        "number": 4,
+        "text": "나는 아빠의 조언 덕분에 운전하는 것이 어렵지 않았다."
+      }
+    ],
+    "options_text": [
+      "나는 아빠의 차를 운전해서 회사에 다녀왔다.",
+      "나는 운전면허를 따기 전에 대중교통으로 출근했다.",
+      "나는 운전면허를 따자마자 자동차를 새로 구매했다.",
+      "나는 아빠의 조언 덕분에 운전하는 것이 어렵지 않았다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 24,
+    "passage_group_id": "SET-LT-96-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "target_slot": 24,
+    "underline_targets": [
+      "운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다."
+    ],
+    "underlined_parts": [
+      "운전대를 꼭 붙든 채 앞만 보고 도로를 달렸다."
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 12,
+    "source_bank_id": "T2-96-R024",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 12,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q013-FROM-R025",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "headline_meaning",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "모처럼의 황금연휴, 여행사 예약 문의 ‘껑충’",
+    "passage_template": "모처럼의 황금연휴, 여행사 예약 문의 ‘껑충’",
+    "options": [
+      {
+        "number": 1,
+        "text": "연휴가 짧아서 여행 상품을 찾는 예약 문의가 줄어들었다."
+      },
+      {
+        "number": 2,
+        "text": "값이 비싸더라도 연휴 기간에 여행을 가려는 사람이 많아졌다."
+      },
+      {
+        "number": 3,
+        "text": "오랜만에 오는 긴 연휴를 맞아 여행사에 예약 상담이 대폭 늘었다."
+      },
+      {
+        "number": 4,
+        "text": "매년 돌아오는 연휴를 앞두고 여행사마다 적극적인 홍보를 시작했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "연휴가 짧아서 여행 상품을 찾는 예약 문의가 줄어들었다."
+      },
+      {
+        "number": 2,
+        "text": "값이 비싸더라도 연휴 기간에 여행을 가려는 사람이 많아졌다."
+      },
+      {
+        "number": 3,
+        "text": "오랜만에 오는 긴 연휴를 맞아 여행사에 예약 상담이 대폭 늘었다."
+      },
+      {
+        "number": 4,
+        "text": "매년 돌아오는 연휴를 앞두고 여행사마다 적극적인 홍보를 시작했다."
+      }
+    ],
+    "options_text": [
+      "연휴가 짧아서 여행 상품을 찾는 예약 문의가 줄어들었다.",
+      "값이 비싸더라도 연휴 기간에 여행을 가려는 사람이 많아졌다.",
+      "오랜만에 오는 긴 연휴를 맞아 여행사에 예약 상담이 대폭 늘었다.",
+      "매년 돌아오는 연휴를 앞두고 여행사마다 적극적인 홍보를 시작했다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 25,
+    "target_slot": 25,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 13,
+    "source_bank_id": "T2-96-R025",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 13,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q014-FROM-R031",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 12,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "소비 경향 설명 지문의 문맥에 맞는 표현 선택",
+    "original_question_number": 31,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[14] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "상품의 종류와 유통 방식이 다양해지면서 물건을 고르는 것도 어려워졌다. 그런데 보니 선택에 들이는 시간을 줄이면서 실패 없는 구매를 하려는 경향이 생겼다. 그중 하나가 유명인이 추천하는 물건을 고민 없이 따라 사는 것이다. 영향력 있는 인물이 (     ) 짧은 시간 안에 최선의 선택을 할 수 있을 것이라는 믿음이 이러한 소비에 반영된 것이다.",
+    "passage_template": "상품의 종류와 유통 방식이 다양해지면서 물건을 고르는 것도 어려워졌다. 그런데 보니 선택에 들이는 시간을 줄이면서 실패 없는 구매를 하려는 경향이 생겼다. 그중 하나가 유명인이 추천하는 물건을 고민 없이 따라 사는 것이다. 영향력 있는 인물이 (     ) 짧은 시간 안에 최선의 선택을 할 수 있을 것이라는 믿음이 이러한 소비에 반영된 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "직접 물건을 보내 주면"
+      },
+      {
+        "number": 2,
+        "text": "높은 가격으로 판매하면"
+      },
+      {
+        "number": 3,
+        "text": "선택한 것을 그대로 따르면"
+      },
+      {
+        "number": 4,
+        "text": "상품을 생산하도록 도와주면"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "직접 물건을 보내 주면"
+      },
+      {
+        "number": 2,
+        "text": "높은 가격으로 판매하면"
+      },
+      {
+        "number": 3,
+        "text": "선택한 것을 그대로 따르면"
+      },
+      {
+        "number": 4,
+        "text": "상품을 생산하도록 도와주면"
+      }
+    ],
+    "options_text": [
+      "직접 물건을 보내 주면",
+      "높은 가격으로 판매하면",
+      "선택한 것을 그대로 따르면",
+      "상품을 생산하도록 도와주면"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 31,
+    "target_slot": 31,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 14,
+    "source_bank_id": "T2-96-R031",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 14,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q015-FROM-R032",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "detail",
+    "category": "내용 일치",
+    "diagnostic_area": "동물 연구 지문의 세부 내용 이해",
+    "original_question_number": 32,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[15] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "한 연구팀이 10년간 기린을 촬영하고 분석했다. 이 연구에서는 암컷 기린이 4~5세가 되면 몸 전체의 길이에서 목이 차지하는 비율이 이전보다 더 커지는 것을 발견했다. 기린이 임신으로 영양이 많이 필요한 나이에 더 높이 있는 나뭇잎까지 먹으려고 하면서 목이 길어지는 것이다. 연구팀은 이를 바탕으로 기린의 목 길이 변화가 먹이를 찾기 위해 노력하는 것과 밀접한 관계가 있다고 주장했다.",
+    "passage_template": "한 연구팀이 10년간 기린을 촬영하고 분석했다. 이 연구에서는 암컷 기린이 4~5세가 되면 몸 전체의 길이에서 목이 차지하는 비율이 이전보다 더 커지는 것을 발견했다. 기린이 임신으로 영양이 많이 필요한 나이에 더 높이 있는 나뭇잎까지 먹으려고 하면서 목이 길어지는 것이다. 연구팀은 이를 바탕으로 기린의 목 길이 변화가 먹이를 찾기 위해 노력하는 것과 밀접한 관계가 있다고 주장했다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "연구팀은 올해부터 기린을 촬영하기 시작했다."
+      },
+      {
+        "number": 2,
+        "text": "암컷 기린은 4~5세부터 먹이를 먹는 양을 줄인다."
+      },
+      {
+        "number": 3,
+        "text": "암컷 기린은 임신을 하는 시기에 목이 더 길어진다."
+      },
+      {
+        "number": 4,
+        "text": "연구팀은 기린의 목 길이가 먹이와 관련이 없다고 보았다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "연구팀은 올해부터 기린을 촬영하기 시작했다."
+      },
+      {
+        "number": 2,
+        "text": "암컷 기린은 4~5세부터 먹이를 먹는 양을 줄인다."
+      },
+      {
+        "number": 3,
+        "text": "암컷 기린은 임신을 하는 시기에 목이 더 길어진다."
+      },
+      {
+        "number": 4,
+        "text": "연구팀은 기린의 목 길이가 먹이와 관련이 없다고 보았다."
+      }
+    ],
+    "options_text": [
+      "연구팀은 올해부터 기린을 촬영하기 시작했다.",
+      "암컷 기린은 4~5세부터 먹이를 먹는 양을 줄인다.",
+      "암컷 기린은 임신을 하는 시기에 목이 더 길어진다.",
+      "연구팀은 기린의 목 길이가 먹이와 관련이 없다고 보았다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 32,
+    "target_slot": 32,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 15,
+    "source_bank_id": "T2-96-R032",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 15,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q016-FROM-R035",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "식물 특성과 식재 장소 관련 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "메타세쿼이아는 위로 쭉쭉 뻗은 모양이 아름다워서 가로수로 선호된다. 그런데 메타세쿼이아를 심을 때는 장소에 유의해야 한다. 메타세쿼이아는 생장이 빠른 특성이 있어서 건물이 늘어선 도로에 심어서는 안 된다. 뿌리가 빠르게 자라 주변 건물의 벽을 갈라지게 하기 때문이다. 또 키가 크고 잎이 무성해서 건물의 채광을 가리는 등 피해를 주기도 한다.",
+    "passage_template": "메타세쿼이아는 위로 쭉쭉 뻗은 모양이 아름다워서 가로수로 선호된다. 그런데 메타세쿼이아를 심을 때는 장소에 유의해야 한다. 메타세쿼이아는 생장이 빠른 특성이 있어서 건물이 늘어선 도로에 심어서는 안 된다. 뿌리가 빠르게 자라 주변 건물의 벽을 갈라지게 하기 때문이다. 또 키가 크고 잎이 무성해서 건물의 채광을 가리는 등 피해를 주기도 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "메타세쿼이아는 생장이 느려 가로수로 적절하지 않다."
+      },
+      {
+        "number": 2,
+        "text": "메타세쿼이아를 도로에 심으면 도시 경관을 개선할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "메타세쿼이아는 적합한 장소에 심지 않으면 문제가 될 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "메타세쿼이아가 자라는 높이는 뿌리 내리는 장소에 따라 달라진다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "메타세쿼이아는 생장이 느려 가로수로 적절하지 않다."
+      },
+      {
+        "number": 2,
+        "text": "메타세쿼이아를 도로에 심으면 도시 경관을 개선할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "메타세쿼이아는 적합한 장소에 심지 않으면 문제가 될 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "메타세쿼이아가 자라는 높이는 뿌리 내리는 장소에 따라 달라진다."
+      }
+    ],
+    "options_text": [
+      "메타세쿼이아는 생장이 느려 가로수로 적절하지 않다.",
+      "메타세쿼이아를 도로에 심으면 도시 경관을 개선할 수 있다.",
+      "메타세쿼이아는 적합한 장소에 심지 않으면 문제가 될 수 있다.",
+      "메타세쿼이아가 자라는 높이는 뿌리 내리는 장소에 따라 달라진다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 35,
+    "target_slot": 35,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 16,
+    "source_bank_id": "T2-96-R035",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 16,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q017-FROM-R039",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[17] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "고대 이집트에서는 물에 푼 섬유질을 틀에 올려 건조하는 방식으로 종이를 만들었다. ( ㉠ ) 이후 제지업자들이 틀에 고유의 문양을 새겨 자신만의 워터 마크를 남기기 시작했다. ( ㉡ ) 이것이 이어져 저작권을 표시하거나 위조를 막기 위해 문서나 지폐 등에 워터 마크를 넣게 되었다. ( ㉢ ) 지금은 이 워터 마크는 사진이나 영상 등의 저작권을 보호하는 용도로 널리 활용되고 있다. ( ㉣ )",
+    "passage_template": "고대 이집트에서는 물에 푼 섬유질을 틀에 올려 건조하는 방식으로 종이를 만들었다. ( ㉠ ) 이후 제지업자들이 틀에 고유의 문양을 새겨 자신만의 워터 마크를 남기기 시작했다. ( ㉡ ) 이것이 이어져 저작권을 표시하거나 위조를 막기 위해 문서나 지폐 등에 워터 마크를 넣게 되었다. ( ㉢ ) 지금은 이 워터 마크는 사진이나 영상 등의 저작권을 보호하는 용도로 널리 활용되고 있다. ( ㉣ )",
+    "options": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 39,
+    "target_slot": 39,
+    "insert_sentence": "섬유질이 마르는 과정에서 자연스레 틀의 자국이 남았는데, 이를 워터마크라고 불렀다.",
+    "sentence_to_insert": "섬유질이 마르는 과정에서 자연스레 틀의 자국이 남았는데, 이를 워터마크라고 불렀다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉠",
+    "correct_insert_position": "㉠",
+    "interaction_mode": "click_insert_sentence_into_position",
+    "template_required_type": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "sentence_insert_source_round": "96",
+    "sentence_insert_note": "96회 원문 기준 주어진 문장과 ㉠/㉡/㉢/㉣ 위치를 연결한 검수용 초안입니다.",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 17,
+    "source_bank_id": "T2-96-R039",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 17,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q018-FROM-R042",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 19,
+    "source_printed_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[18] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘재현’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "진행 상황으로 보자면 아내의 출산 시간은 어림잡아 오후쯤이라고 했다. 내비게이션에 뜬 도착 시간은 두 시간 후였다. 시간은 넉넉했다. (중략) 재현은 콧노래를 부르며 발에 힘을 실었다. 그때 휴대전화가 울렸다. 처제였다. (중략) 아내와 달리 활발한 성격인 처제는 수다스럽고 유머러스했지만 때론 입이 방정이었다. (중략)\n\n“출산 예정 시간은 오후라는데 지금 보면 그냥 나올 것도 같아요. 어떡하지요? 예정 시간보다 일찍 나오는 경우도 많대요. 상황에 따라선 제왕절개를 할 수도 있고요.” 심각한 거냐고 재현이 묻자 처제는 잘 모르겠다고 했고 멀리서 아내가 거듭 괜찮다고 말했다. (중략)\n\n“하여간 유난은...” 재현이 중얼거렸다. 결혼 전에 처제를 처음 봤을 때부터 아내의 가족으로가 아니라 사회에서 만났더라면 그다지 신뢰가 가는 편은 아니었을 거라고 생각했다. 처제는 사소한 일도 크게 부풀리는 버릇이 있었다. 평소에는 그저 농담으로 넘길 수 있지만 이런 날에는 도움이 되는 것이 하나도 없었다. 처제의 호들갑은 잔잔한 호수에 던진 돌멩이처럼 재현의 마음을 헤집어 놓았다.",
+    "passage_template": "진행 상황으로 보자면 아내의 출산 시간은 어림잡아 오후쯤이라고 했다. 내비게이션에 뜬 도착 시간은 두 시간 후였다. 시간은 넉넉했다. (중략) 재현은 콧노래를 부르며 발에 힘을 실었다. 그때 휴대전화가 울렸다. 처제였다. (중략) 아내와 달리 활발한 성격인 처제는 수다스럽고 유머러스했지만 때론 입이 방정이었다. (중략)\n\n“출산 예정 시간은 오후라는데 지금 보면 그냥 나올 것도 같아요. 어떡하지요? 예정 시간보다 일찍 나오는 경우도 많대요. 상황에 따라선 제왕절개를 할 수도 있고요.” 심각한 거냐고 재현이 묻자 처제는 잘 모르겠다고 했고 멀리서 아내가 거듭 괜찮다고 말했다. (중략)\n\n“하여간 유난은...” 재현이 중얼거렸다. 결혼 전에 처제를 처음 봤을 때부터 아내의 가족으로가 아니라 사회에서 만났더라면 그다지 신뢰가 가는 편은 아니었을 거라고 생각했다. 처제는 사소한 일도 크게 부풀리는 버릇이 있었다. 평소에는 그저 농담으로 넘길 수 있지만 이런 날에는 도움이 되는 것이 하나도 없었다. 처제의 호들갑은 잔잔한 호수에 던진 돌멩이처럼 재현의 마음을 헤집어 놓았다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "대견하다"
+      },
+      {
+        "number": 2,
+        "text": "허전하다"
+      },
+      {
+        "number": 3,
+        "text": "못마땅하다"
+      },
+      {
+        "number": 4,
+        "text": "감격스럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "대견하다"
+      },
+      {
+        "number": 2,
+        "text": "허전하다"
+      },
+      {
+        "number": 3,
+        "text": "못마땅하다"
+      },
+      {
+        "number": 4,
+        "text": "감격스럽다"
+      }
+    ],
+    "options_text": [
+      "대견하다",
+      "허전하다",
+      "못마땅하다",
+      "감격스럽다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 42,
+    "target_slot": 42,
+    "underline_targets": [
+      "“하여간 유난은...” 재현이 중얼거렸다."
+    ],
+    "underlined_parts": [
+      "“하여간 유난은...” 재현이 중얼거렸다."
+    ],
+    "underline_text": "“하여간 유난은...” 재현이 중얼거렸다.",
+    "underlined_text": "“하여간 유난은...” 재현이 중얼거렸다.",
+    "underline_segments": [
+      "“하여간 유난은...” 재현이 중얼거렸다."
+    ],
+    "highlighted_parts": [
+      "“하여간 유난은...” 재현이 중얼거렸다."
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 18,
+    "source_bank_id": "T2-96-R042",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 18,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q019-FROM-R046",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자 태도",
+    "diagnostic_area": "필자의 우려와 태도 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "현행 문화재 보호법에서는 역사적, 예술적으로 가치가 높은 음악, 무용, 공예 기능 등을 국가 무형 문화재로 규정하고 있다. 이에 따라 여러 세대에 걸쳐 전승되어 온 무형의 문화유산 중 원형 그대로 계승될 만한 가치가 있는 것을 국가 무형 문화재로 지정한다. 이 무형 문화재는 형태가 없으므로 기능을 보유한 사람을 인간문화재로 지정해 이들을 통해 문화재가 보존되도록 한다. 그런데 이 무형 문화재를 전수받으려는 사람이 줄고 있어 문화재 보존에 비상등이 켜졌다. 오랜 시간 어렵게 기능을 전수받더라도 무조건 인간문화재로 지정되는 것도 아니고, 기능을 연마하는 동안에는 국가의 경제적 지원도 없기 때문이다. 전통문화는 그 민족의 자긍심과도 밀접하게 관련되어 있는 것인데 이렇게 가다가는 무형 문화재의 명맥이 끊기는 일이 생길 수 있을 것이다.",
+    "passage_template": "현행 문화재 보호법에서는 역사적, 예술적으로 가치가 높은 음악, 무용, 공예 기능 등을 국가 무형 문화재로 규정하고 있다. 이에 따라 여러 세대에 걸쳐 전승되어 온 무형의 문화유산 중 원형 그대로 계승될 만한 가치가 있는 것을 국가 무형 문화재로 지정한다. 이 무형 문화재는 형태가 없으므로 기능을 보유한 사람을 인간문화재로 지정해 이들을 통해 문화재가 보존되도록 한다. 그런데 이 무형 문화재를 전수받으려는 사람이 줄고 있어 문화재 보존에 비상등이 켜졌다. 오랜 시간 어렵게 기능을 전수받더라도 무조건 인간문화재로 지정되는 것도 아니고, 기능을 연마하는 동안에는 국가의 경제적 지원도 없기 때문이다. 전통문화는 그 민족의 자긍심과도 밀접하게 관련되어 있는 것인데 이렇게 가다가는 무형 문화재의 명맥이 끊기는 일이 생길 수 있을 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "인간문화재가 앞으로 더 많이 배출될 것을 기대하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "국가 무형 문화재의 전수가 단절되어 가는 것을 우려하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "인간문화재가 되기 위해 노력하는 사람들의 자세에 감탄하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "국가 무형 문화재의 선정 절차를 투명하게 할 것을 요구하고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "인간문화재가 앞으로 더 많이 배출될 것을 기대하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "국가 무형 문화재의 전수가 단절되어 가는 것을 우려하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "인간문화재가 되기 위해 노력하는 사람들의 자세에 감탄하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "국가 무형 문화재의 선정 절차를 투명하게 할 것을 요구하고 있다."
+      }
+    ],
+    "options_text": [
+      "인간문화재가 앞으로 더 많이 배출될 것을 기대하고 있다.",
+      "국가 무형 문화재의 전수가 단절되어 가는 것을 우려하고 있다.",
+      "인간문화재가 되기 위해 노력하는 사람들의 자세에 감탄하고 있다.",
+      "국가 무형 문화재의 선정 절차를 투명하게 할 것을 요구하고 있다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 46,
+    "target_slot": 46,
+    "passage_group_id": "SET-LT-96-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 19,
+    "source_bank_id": "T2-96-R046",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 19,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  },
+  {
+    "id": "LT-96-Q020-FROM-R047",
+    "source_round": "96",
+    "source_file": "96회 읽기 문제.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "제도 설명문의 세부 내용 이해",
+    "original_question_number": 47,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "현행 문화재 보호법에서는 역사적, 예술적으로 가치가 높은 음악, 무용, 공예 기능 등을 국가 무형 문화재로 규정하고 있다. 이에 따라 여러 세대에 걸쳐 전승되어 온 무형의 문화유산 중 원형 그대로 계승될 만한 가치가 있는 것을 국가 무형 문화재로 지정한다. 이 무형 문화재는 형태가 없으므로 기능을 보유한 사람을 인간문화재로 지정해 이들을 통해 문화재가 보존되도록 한다. 그런데 이 무형 문화재를 전수받으려는 사람이 줄고 있어 문화재 보존에 비상등이 켜졌다. 오랜 시간 어렵게 기능을 전수받더라도 무조건 인간문화재로 지정되는 것도 아니고, 기능을 연마하는 동안에는 국가의 경제적 지원도 없기 때문이다. 전통문화는 그 민족의 자긍심과도 밀접하게 관련되어 있는 것인데 이렇게 가다가는 무형 문화재의 명맥이 끊기는 일이 생길 수 있을 것이다.",
+    "passage_template": "현행 문화재 보호법에서는 역사적, 예술적으로 가치가 높은 음악, 무용, 공예 기능 등을 국가 무형 문화재로 규정하고 있다. 이에 따라 여러 세대에 걸쳐 전승되어 온 무형의 문화유산 중 원형 그대로 계승될 만한 가치가 있는 것을 국가 무형 문화재로 지정한다. 이 무형 문화재는 형태가 없으므로 기능을 보유한 사람을 인간문화재로 지정해 이들을 통해 문화재가 보존되도록 한다. 그런데 이 무형 문화재를 전수받으려는 사람이 줄고 있어 문화재 보존에 비상등이 켜졌다. 오랜 시간 어렵게 기능을 전수받더라도 무조건 인간문화재로 지정되는 것도 아니고, 기능을 연마하는 동안에는 국가의 경제적 지원도 없기 때문이다. 전통문화는 그 민족의 자긍심과도 밀접하게 관련되어 있는 것인데 이렇게 가다가는 무형 문화재의 명맥이 끊기는 일이 생길 수 있을 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "국가 무형 문화재에 대한 법적 근거가 존재하지 않는다."
+      },
+      {
+        "number": 2,
+        "text": "국가 무형 문화재는 그 기능을 보유한 인간문화재를 통해 전수된다."
+      },
+      {
+        "number": 3,
+        "text": "국가 무형 문화재 기능을 전수받는 동안 경제적 지원을 받을 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "국가 무형 문화재로 인정받으려면 원형을 시대에 맞게 변형해야 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "국가 무형 문화재에 대한 법적 근거가 존재하지 않는다."
+      },
+      {
+        "number": 2,
+        "text": "국가 무형 문화재는 그 기능을 보유한 인간문화재를 통해 전수된다."
+      },
+      {
+        "number": 3,
+        "text": "국가 무형 문화재 기능을 전수받는 동안 경제적 지원을 받을 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "국가 무형 문화재로 인정받으려면 원형을 시대에 맞게 변형해야 한다."
+      }
+    ],
+    "options_text": [
+      "국가 무형 문화재에 대한 법적 근거가 존재하지 않는다.",
+      "국가 무형 문화재는 그 기능을 보유한 인간문화재를 통해 전수된다.",
+      "국가 무형 문화재 기능을 전수받는 동안 경제적 지원을 받을 수 있다.",
+      "국가 무형 문화재로 인정받으려면 원형을 시대에 맞게 변형해야 한다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-96.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 47,
+    "target_slot": 47,
+    "passage_group_id": "SET-LT-96-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "96",
+    "generated_exam_label": "96회 레벨테스트 20문항",
+    "test_scope": "TOPIK II PBT 읽기 1~50번",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 100,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 20,
+    "source_bank_id": "T2-96-R047",
+    "source_exam_id": "reading-96",
+    "generated_exam_id": "LEVEL-TEST-96-FIXED-20",
+    "level_test_blueprint_slot": 20,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "96",
+    "data_status": "level_test_20_from_96_full"
+  }
+]
