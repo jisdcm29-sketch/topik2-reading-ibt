@@ -2463,6 +2463,24 @@ function getSentenceBlocks(question) {
     source = question.order_items;
   }
 
+  if ((!source || source.length === 0) && (question.passage_template || question.passage)) {
+    source = String(question.passage_template || question.passage || "")
+      .split(/\n+/)
+      .map(function (line) {
+        return line.trim();
+      })
+      .filter(Boolean)
+      .slice(0, 4)
+      .map(function (line, index) {
+        const match = line.match(/^(\([가-라]\)|[가-라]\.|\[[가-라]\]|㉠|㉡|㉢|㉣)\s*(.*)$/);
+
+        return {
+          label: match ? normalizeSentenceBlockLabel(match[1], index) : normalizeSentenceBlockLabel("", index),
+          text: match ? match[2] : line
+        };
+      });
+  }
+
   return source.map(function (item, index) {
     if (typeof item === "string") {
       return {
@@ -2777,7 +2795,8 @@ function renderStandardQuestion(question) {
   const passageHtml = renderPassageHtml(question);
   const imageHtml = renderImageHtml(question);
   const visualBoxClass = question.type && question.type.includes("visual") ? " visual-box" : "";
-  const shouldShowPassageBox = !question.image_only || Boolean(passageHtml.trim());
+  const hasPassageContent = Boolean(String(passageHtml || "").replace(/<[^>]*>/g, "").replace(/&nbsp;/g, " ").trim());
+  const shouldShowPassageBox = hasPassageContent;
 
   elements.questionStage.innerHTML = `
     <div class="reading-layout">
@@ -2786,7 +2805,7 @@ function renderStandardQuestion(question) {
           <span>지문 / 자료</span>
           <small>${escapeHtml(question.passage_group_title || "")}</small>
         </div>
-               ${imageHtml}
+        ${imageHtml}
         ${
           shouldShowPassageBox
             ? `<div class="passage-content${visualBoxClass}" data-passage-content="true">
@@ -2811,7 +2830,7 @@ function renderStandardQuestion(question) {
     </div>
   `;
 
-    bindOptionButtons(question);
+  bindOptionButtons(question);
   applyQuestionSpecificPassageStyle(question);
 }
 
@@ -2830,9 +2849,15 @@ function normalizeLongNarrativePassageSpacing(question, source) {
 function renderPassageHtml(question) {
   let source = question.passage_template || question.passage || "";
 
-  if (!source && question.type && question.type.includes("visual")) {
-    source = question.image_only ? "" : (question.passage || "자료 이미지 또는 안내문이 표시됩니다.");
+  /*
+    이미지·안내문 문항에서 지문 텍스트가 비어 있으면
+    예전처럼 "자료 이미지 또는 안내문이 표시됩니다."라는 안내 상자를 만들지 않는다.
+    실제 자료 이미지만 보이게 해야 5~12번 이미지형 문항 아래의 불필요한 빈 영역이 생기지 않는다.
+  */
+  if (!String(source || "").trim()) {
+    return "";
   }
+
   source = normalizeLongNarrativePassageSpacing(question, source);
   source = applySharedInsertStateToPassage(question, source);
   source = applyCurrentAnswerInsertToPassage(question, source);
@@ -3062,9 +3087,47 @@ function renderImageHtml(question) {
     return "";
   }
 
+  const maxHeight = Number(
+    question.image_max_height ||
+    question.imageMaxHeight ||
+    question.visual_image_max_height ||
+    0
+  ) || 320;
+
+  const displayWidth = String(
+    question.image_display_width ||
+    question.imageDisplayWidth ||
+    question.visual_image_width ||
+    ""
+  ).trim();
+
+  const widthStyle = displayWidth
+    ? `width:${escapeAttribute(displayWidth)}; max-width:100%;`
+    : "max-width:100%; width:auto;";
+
   return `
-    <div class="image-area">
-      <img src="${escapeAttribute(question.image_url)}" alt="문항 자료 이미지" />
+    <div class="image-area" style="
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:10px 12px;
+      margin:0 auto 12px;
+      width:100%;
+      box-sizing:border-box;
+    ">
+      <img
+        src="${escapeAttribute(question.image_url)}"
+        alt="문항 자료 이미지"
+        style="
+          ${widthStyle}
+          max-height:${maxHeight}px;
+          height:auto;
+          object-fit:contain;
+          border:1px solid #e3e6ea;
+          border-radius:10px;
+          display:block;
+        "
+      />
     </div>
   `;
 }
