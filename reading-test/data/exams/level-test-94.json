@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "LT-94-Q001-FROM-R001",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "다음 달부터 회사 근처에서 기타를 (     ).",
+    "passage_template": "다음 달부터 회사 근처에서 기타를 (     ).",
+    "options": [
+      {
+        "number": 1,
+        "text": "배워 왔다"
+      },
+      {
+        "number": 2,
+        "text": "배우기로 했다"
+      },
+      {
+        "number": 3,
+        "text": "배우는 중이다"
+      },
+      {
+        "number": 4,
+        "text": "배우는 편이다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "배워 왔다"
+      },
+      {
+        "number": 2,
+        "text": "배우기로 했다"
+      },
+      {
+        "number": 3,
+        "text": "배우는 중이다"
+      },
+      {
+        "number": 4,
+        "text": "배우는 편이다"
+      }
+    ],
+    "options_text": [
+      "배워 왔다",
+      "배우기로 했다",
+      "배우는 중이다",
+      "배우는 편이다"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 1,
+    "target_slot": 1,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 1,
+    "source_bank_id": "T2-94-R001",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 1,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q002-FROM-R003",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[2] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "오랜만에 만난 친구와 밤 12시가 넘도록 이야기를 나누었다.",
+    "passage_template": "오랜만에 만난 친구와 밤 12시가 넘도록 이야기를 나누었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "넘은 듯해서"
+      },
+      {
+        "number": 2,
+        "text": "넘은 데다가"
+      },
+      {
+        "number": 3,
+        "text": "넘을 테니까"
+      },
+      {
+        "number": 4,
+        "text": "넘을 때까지"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "넘은 듯해서"
+      },
+      {
+        "number": 2,
+        "text": "넘은 데다가"
+      },
+      {
+        "number": 3,
+        "text": "넘을 테니까"
+      },
+      {
+        "number": 4,
+        "text": "넘을 때까지"
+      }
+    ],
+    "options_text": [
+      "넘은 듯해서",
+      "넘은 데다가",
+      "넘을 테니까",
+      "넘을 때까지"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 3,
+    "target_slot": 3,
+    "underline_targets": [
+      "넘도록"
+    ],
+    "underlined_parts": [
+      "넘도록"
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 2,
+    "source_bank_id": "T2-94-R003",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 2,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q003-FROM-R005",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "화장품"
+      },
+      {
+        "number": 2,
+        "text": "자전거"
+      },
+      {
+        "number": 3,
+        "text": "장난감"
+      },
+      {
+        "number": 4,
+        "text": "등산화"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "화장품"
+      },
+      {
+        "number": 2,
+        "text": "자전거"
+      },
+      {
+        "number": 3,
+        "text": "장난감"
+      },
+      {
+        "number": 4,
+        "text": "등산화"
+      }
+    ],
+    "options_text": [
+      "화장품",
+      "자전거",
+      "장난감",
+      "등산화"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/94_R005.png",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 5,
+    "target_slot": 5,
+    "image_max_height": 230,
+    "image_max_width": "100%",
+    "image_only": true,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 3,
+    "source_bank_id": "T2-94-R005",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 3,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q004-FROM-R009",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[4] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "신청은 한 달 동안 가능하다."
+      },
+      {
+        "number": 2,
+        "text": "쓰레기 줍기 활동은 오전에 끝난다."
+      },
+      {
+        "number": 3,
+        "text": "참가자가 점심 식사를 준비해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "참가자가 날짜를 직접 선택할 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "신청은 한 달 동안 가능하다."
+      },
+      {
+        "number": 2,
+        "text": "쓰레기 줍기 활동은 오전에 끝난다."
+      },
+      {
+        "number": 3,
+        "text": "참가자가 점심 식사를 준비해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "참가자가 날짜를 직접 선택할 수 있다."
+      }
+    ],
+    "options_text": [
+      "신청은 한 달 동안 가능하다.",
+      "쓰레기 줍기 활동은 오전에 끝난다.",
+      "참가자가 점심 식사를 준비해야 한다.",
+      "참가자가 날짜를 직접 선택할 수 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/94_R009.png",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 9,
+    "target_slot": 9,
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "78%",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 4,
+    "source_bank_id": "T2-94-R009",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 4,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q005-FROM-R011",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "detail",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "original_question_number": 11,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "2024년 인주 불빛 공연이 4월 20일부터 한 달간 매주 토요일 저녁 8시부터 인주공원에서 펼쳐진다. 작년에 이어 올해도 진행되는 이번 공연에는 1,000여 대의 드론이 한 시간 동안 밤하늘을 아름답게 밝힐 예정이다. 5월 5일에는 어린이날을 맞아 아이들을 위한 특별한 불빛 공연이 같은 시간에 계획되어 있다.",
+    "passage_template": "2024년 인주 불빛 공연이 4월 20일부터 한 달간 매주 토요일 저녁 8시부터 인주공원에서 펼쳐진다. 작년에 이어 올해도 진행되는 이번 공연에는 1,000여 대의 드론이 한 시간 동안 밤하늘을 아름답게 밝힐 예정이다. 5월 5일에는 어린이날을 맞아 아이들을 위한 특별한 불빛 공연이 같은 시간에 계획되어 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "불빛 공연은 올해 처음 진행된다."
+      },
+      {
+        "number": 2,
+        "text": "5월 5일부터 불빛 공연 시간이 바뀐다."
+      },
+      {
+        "number": 3,
+        "text": "드론 1,000여 대가 불빛 공연에 사용될 예정이다."
+      },
+      {
+        "number": 4,
+        "text": "일 년 내내 인주공원에서 불빛 공연을 볼 수 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "불빛 공연은 올해 처음 진행된다."
+      },
+      {
+        "number": 2,
+        "text": "5월 5일부터 불빛 공연 시간이 바뀐다."
+      },
+      {
+        "number": 3,
+        "text": "드론 1,000여 대가 불빛 공연에 사용될 예정이다."
+      },
+      {
+        "number": 4,
+        "text": "일 년 내내 인주공원에서 불빛 공연을 볼 수 있다."
+      }
+    ],
+    "options_text": [
+      "불빛 공연은 올해 처음 진행된다.",
+      "5월 5일부터 불빛 공연 시간이 바뀐다.",
+      "드론 1,000여 대가 불빛 공연에 사용될 예정이다.",
+      "일 년 내내 인주공원에서 불빛 공연을 볼 수 있다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 11,
+    "target_slot": 11,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 5,
+    "source_bank_id": "T2-94-R011",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 5,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q006-FROM-R010",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[6] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "영화의 내용을 고려한다는 사람은 전체의 반을 넘는다."
+      },
+      {
+        "number": 2,
+        "text": "배우라는 응답이 영화의 내용이라는 응답보다 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "광고라고 답한 사람과 배우라고 답한 사람의 비율은 같다."
+      },
+      {
+        "number": 4,
+        "text": "주변 사람들의 평가를 고려한다는 응답의 비율이 가장 높다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "영화의 내용을 고려한다는 사람은 전체의 반을 넘는다."
+      },
+      {
+        "number": 2,
+        "text": "배우라는 응답이 영화의 내용이라는 응답보다 더 적다."
+      },
+      {
+        "number": 3,
+        "text": "광고라고 답한 사람과 배우라고 답한 사람의 비율은 같다."
+      },
+      {
+        "number": 4,
+        "text": "주변 사람들의 평가를 고려한다는 응답의 비율이 가장 높다."
+      }
+    ],
+    "options_text": [
+      "영화의 내용을 고려한다는 사람은 전체의 반을 넘는다.",
+      "배우라는 응답이 영화의 내용이라는 응답보다 더 적다.",
+      "광고라고 답한 사람과 배우라고 답한 사람의 비율은 같다.",
+      "주변 사람들의 평가를 고려한다는 응답의 비율이 가장 높다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/94_R010.png",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 10,
+    "target_slot": 10,
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "82%",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 6,
+    "source_bank_id": "T2-94-R010",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 6,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q007-FROM-R013",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[7] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 하늘에 떠 있는 구름은 다양한 이름을 가지고 있다.\n(나) 그 이름 중에는 구름의 모양에 따라 지어진 것이 많다.\n(다) 양떼구름은 양들이 무리 지어 있는 모습을 닮아 붙여진 이름이다.\n(라) 또 새털같이 흰 줄무늬 모양 때문에 새털구름이라고 지어진 것도 있다.",
+    "passage_template": "(가) 하늘에 떠 있는 구름은 다양한 이름을 가지고 있다.\n(나) 그 이름 중에는 구름의 모양에 따라 지어진 것이 많다.\n(다) 양떼구름은 양들이 무리 지어 있는 모습을 닮아 붙여진 이름이다.\n(라) 또 새털같이 흰 줄무늬 모양 때문에 새털구름이라고 지어진 것도 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 4,
+        "text": "(다)-(라)-(가)-(나)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(다)-(라)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 3,
+        "text": "(다)-(나)-(가)-(라)"
+      },
+      {
+        "number": 4,
+        "text": "(다)-(라)-(가)-(나)"
+      }
+    ],
+    "options_text": [
+      "(가)-(나)-(다)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(다)-(나)-(가)-(라)",
+      "(다)-(라)-(가)-(나)"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 13,
+    "target_slot": 13,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "하늘에 떠 있는 구름은 다양한 이름을 가지고 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "그 이름 중에는 구름의 모양에 따라 지어진 것이 많다."
+      },
+      {
+        "label": "(다)",
+        "text": "양떼구름은 양들이 무리 지어 있는 모습을 닮아 붙여진 이름이다."
+      },
+      {
+        "label": "(라)",
+        "text": "또 새털같이 흰 줄무늬 모양 때문에 새털구름이라고 지어진 것도 있다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "하늘에 떠 있는 구름은 다양한 이름을 가지고 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "그 이름 중에는 구름의 모양에 따라 지어진 것이 많다."
+      },
+      {
+        "label": "(다)",
+        "text": "양떼구름은 양들이 무리 지어 있는 모습을 닮아 붙여진 이름이다."
+      },
+      {
+        "label": "(라)",
+        "text": "또 새털같이 흰 줄무늬 모양 때문에 새털구름이라고 지어진 것도 있다."
+      }
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 7,
+    "source_bank_id": "T2-94-R013",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 7,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q008-FROM-R016",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[8] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "봄을 알리는 채소 중의 하나인 봄동은 맛이 달고 영양소가 풍부하다. 봄동은 겨울 동안 가리거나 덮개 없이 차가운 땅에서 자란 모든 배추를 뜻한다. 봄동은 그 품종이 따로 없다. (     ) 봄동이 될 수 있는 것이다. 그래서 추운 겨울을 나며 속이 꽉 차지 않고 잎이 옆으로 퍼져 자라는 어린 배추를 모두 봄동이라 한다.",
+    "passage_template": "봄을 알리는 채소 중의 하나인 봄동은 맛이 달고 영양소가 풍부하다. 봄동은 겨울 동안 가리거나 덮개 없이 차가운 땅에서 자란 모든 배추를 뜻한다. 봄동은 그 품종이 따로 없다. (     ) 봄동이 될 수 있는 것이다. 그래서 추운 겨울을 나며 속이 꽉 차지 않고 잎이 옆으로 퍼져 자라는 어린 배추를 모두 봄동이라 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "봄에 재배하는 채소는"
+      },
+      {
+        "number": 2,
+        "text": "어떤 배추를 심더라도"
+      },
+      {
+        "number": 3,
+        "text": "단맛이 나는 봄 채소는"
+      },
+      {
+        "number": 4,
+        "text": "꼭 겨울 배추가 아니어도"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "봄에 재배하는 채소는"
+      },
+      {
+        "number": 2,
+        "text": "어떤 배추를 심더라도"
+      },
+      {
+        "number": 3,
+        "text": "단맛이 나는 봄 채소는"
+      },
+      {
+        "number": 4,
+        "text": "꼭 겨울 배추가 아니어도"
+      }
+    ],
+    "options_text": [
+      "봄에 재배하는 채소는",
+      "어떤 배추를 심더라도",
+      "단맛이 나는 봄 채소는",
+      "꼭 겨울 배추가 아니어도"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 16,
+    "target_slot": 16,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 8,
+    "source_bank_id": "T2-94-R016",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 8,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q009-FROM-R019",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 길거리에는 의자나 조형물 등 다양한 공공시설이 설치되어 있다. 이 시설들은 시민들에게 편안한 휴식 공간을 제공하고 아름다운 경관을 조성해 준다. (     ) 이러한 시설을 둘러보면 부서지거나 녹이 슬어도 그대로 방치되는 경우가 많다. 공공시설은 설치만 한다고 해서 끝이 아니다. 끊임없이 정기적으로 점검하여 재정비하고 교체해야 공공시설로서의 제 기능을 다할 수 있다.",
+    "passage_template": "도시의 길거리에는 의자나 조형물 등 다양한 공공시설이 설치되어 있다. 이 시설들은 시민들에게 편안한 휴식 공간을 제공하고 아름다운 경관을 조성해 준다. (     ) 이러한 시설을 둘러보면 부서지거나 녹이 슬어도 그대로 방치되는 경우가 많다. 공공시설은 설치만 한다고 해서 끝이 아니다. 끊임없이 정기적으로 점검하여 재정비하고 교체해야 공공시설로서의 제 기능을 다할 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "비록"
+      },
+      {
+        "number": 2,
+        "text": "결국"
+      },
+      {
+        "number": 3,
+        "text": "그런데"
+      },
+      {
+        "number": 4,
+        "text": "그래서"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "비록"
+      },
+      {
+        "number": 2,
+        "text": "결국"
+      },
+      {
+        "number": 3,
+        "text": "그런데"
+      },
+      {
+        "number": 4,
+        "text": "그래서"
+      }
+    ],
+    "options_text": [
+      "비록",
+      "결국",
+      "그런데",
+      "그래서"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 19,
+    "target_slot": 19,
+    "passage_group_id": "SET-LT-94-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 9,
+    "source_bank_id": "T2-94-R019",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 9,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q010-FROM-R020",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 길거리에는 의자나 조형물 등 다양한 공공시설이 설치되어 있다. 이 시설들은 시민들에게 편안한 휴식 공간을 제공하고 아름다운 경관을 조성해 준다. (     ) 이러한 시설을 둘러보면 부서지거나 녹이 슬어도 그대로 방치되는 경우가 많다. 공공시설은 설치만 한다고 해서 끝이 아니다. 끊임없이 정기적으로 점검하여 재정비하고 교체해야 공공시설로서의 제 기능을 다할 수 있다.",
+    "passage_template": "도시의 길거리에는 의자나 조형물 등 다양한 공공시설이 설치되어 있다. 이 시설들은 시민들에게 편안한 휴식 공간을 제공하고 아름다운 경관을 조성해 준다. (     ) 이러한 시설을 둘러보면 부서지거나 녹이 슬어도 그대로 방치되는 경우가 많다. 공공시설은 설치만 한다고 해서 끝이 아니다. 끊임없이 정기적으로 점검하여 재정비하고 교체해야 공공시설로서의 제 기능을 다할 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "공공시설의 설치를 전국적으로 확대할 필요가 있다."
+      },
+      {
+        "number": 2,
+        "text": "성숙한 시민 의식을 가지고 공공시설을 이용해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "주택가의 공공시설은 이용 시간을 제한하는 것이 바람직하다."
+      },
+      {
+        "number": 4,
+        "text": "공공시설이 제대로 유지될 수 있도록 지속적인 관리가 필요하다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "공공시설의 설치를 전국적으로 확대할 필요가 있다."
+      },
+      {
+        "number": 2,
+        "text": "성숙한 시민 의식을 가지고 공공시설을 이용해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "주택가의 공공시설은 이용 시간을 제한하는 것이 바람직하다."
+      },
+      {
+        "number": 4,
+        "text": "공공시설이 제대로 유지될 수 있도록 지속적인 관리가 필요하다."
+      }
+    ],
+    "options_text": [
+      "공공시설의 설치를 전국적으로 확대할 필요가 있다.",
+      "성숙한 시민 의식을 가지고 공공시설을 이용해야 한다.",
+      "주택가의 공공시설은 이용 시간을 제한하는 것이 바람직하다.",
+      "공공시설이 제대로 유지될 수 있도록 지속적인 관리가 필요하다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 20,
+    "target_slot": 20,
+    "passage_group_id": "SET-LT-94-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 10,
+    "source_bank_id": "T2-94-R020",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 10,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q011-FROM-R023",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "어느 날 학교 수업을 마치고 집으로 돌아온 선우의 옷에 진한 파란색 물감이 묻어 있었다. 어쩌다 그랬냐고 물었더니 미술 시간에 녹색 물감으로 그림을 그리다 실수로 옷에 튀었다고 했다. “녹색 물감이라고?” 나는 오만 가지 생각으로 머리가 복잡해졌다. 그날 오후 선우를 데리고 안과에 갔다. 혹시나 했지만…… 녹색을 다른 색깔과 잘 구별하지 못하는 색약이라는 검사 결과가 나왔다. 선우가 의사 선생님에게 “선생님, 저 야구 선수는 될 수 있죠?” 하고 물었다. 그렇다는 의사 선생님의 대답에 선우는 얼굴 가득 미소를 지었다. 많은 직업 중에 선우가 어쩌면 ‘할 수 없는’ 일이 존재할지 모르겠다. 선우가 요즘은 또 어떤 예능 프로그램을 감명 깊게 보고는 군인이 되고 싶다며 매일 운동을 하고 있다. 나는 걱정을 그만두기로 했다. 그저 선우가 앞으로 맞닥뜨릴 미래를 옆에서 묵묵히 응원할 뿐이다.",
+    "passage_template": "어느 날 학교 수업을 마치고 집으로 돌아온 선우의 옷에 진한 파란색 물감이 묻어 있었다. 어쩌다 그랬냐고 물었더니 미술 시간에 녹색 물감으로 그림을 그리다 실수로 옷에 튀었다고 했다. “녹색 물감이라고?” 나는 오만 가지 생각으로 머리가 복잡해졌다. 그날 오후 선우를 데리고 안과에 갔다. 혹시나 했지만…… 녹색을 다른 색깔과 잘 구별하지 못하는 색약이라는 검사 결과가 나왔다. 선우가 의사 선생님에게 “선생님, 저 야구 선수는 될 수 있죠?” 하고 물었다. 그렇다는 의사 선생님의 대답에 선우는 얼굴 가득 미소를 지었다. 많은 직업 중에 선우가 어쩌면 ‘할 수 없는’ 일이 존재할지 모르겠다. 선우가 요즘은 또 어떤 예능 프로그램을 감명 깊게 보고는 군인이 되고 싶다며 매일 운동을 하고 있다. 나는 걱정을 그만두기로 했다. 그저 선우가 앞으로 맞닥뜨릴 미래를 옆에서 묵묵히 응원할 뿐이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "허전하다"
+      },
+      {
+        "number": 2,
+        "text": "민망하다"
+      },
+      {
+        "number": 3,
+        "text": "걱정스럽다"
+      },
+      {
+        "number": 4,
+        "text": "창피스럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "허전하다"
+      },
+      {
+        "number": 2,
+        "text": "민망하다"
+      },
+      {
+        "number": 3,
+        "text": "걱정스럽다"
+      },
+      {
+        "number": 4,
+        "text": "창피스럽다"
+      }
+    ],
+    "options_text": [
+      "허전하다",
+      "민망하다",
+      "걱정스럽다",
+      "창피스럽다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 23,
+    "target_slot": 23,
+    "passage_group_id": "SET-LT-94-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "나는 오만 가지 생각으로 머리가 복잡해졌다."
+    ],
+    "underlined_parts": [
+      "나는 오만 가지 생각으로 머리가 복잡해졌다."
+    ],
+    "shared_passage_index": 1,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 11,
+    "source_bank_id": "T2-94-R023",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 11,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q012-FROM-R024",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "서사 글 이해",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "어느 날 학교 수업을 마치고 집으로 돌아온 선우의 옷에 진한 파란색 물감이 묻어 있었다. 어쩌다 그랬냐고 물었더니 미술 시간에 녹색 물감으로 그림을 그리다 실수로 옷에 튀었다고 했다. “녹색 물감이라고?” 나는 오만 가지 생각으로 머리가 복잡해졌다. 그날 오후 선우를 데리고 안과에 갔다. 혹시나 했지만…… 녹색을 다른 색깔과 잘 구별하지 못하는 색약이라는 검사 결과가 나왔다. 선우가 의사 선생님에게 “선생님, 저 야구 선수는 될 수 있죠?” 하고 물었다. 그렇다는 의사 선생님의 대답에 선우는 얼굴 가득 미소를 지었다. 많은 직업 중에 선우가 어쩌면 ‘할 수 없는’ 일이 존재할지 모르겠다. 선우가 요즘은 또 어떤 예능 프로그램을 감명 깊게 보고는 군인이 되고 싶다며 매일 운동을 하고 있다. 나는 걱정을 그만두기로 했다. 그저 선우가 앞으로 맞닥뜨릴 미래를 옆에서 묵묵히 응원할 뿐이다.",
+    "passage_template": "어느 날 학교 수업을 마치고 집으로 돌아온 선우의 옷에 진한 파란색 물감이 묻어 있었다. 어쩌다 그랬냐고 물었더니 미술 시간에 녹색 물감으로 그림을 그리다 실수로 옷에 튀었다고 했다. “녹색 물감이라고?” 나는 오만 가지 생각으로 머리가 복잡해졌다. 그날 오후 선우를 데리고 안과에 갔다. 혹시나 했지만…… 녹색을 다른 색깔과 잘 구별하지 못하는 색약이라는 검사 결과가 나왔다. 선우가 의사 선생님에게 “선생님, 저 야구 선수는 될 수 있죠?” 하고 물었다. 그렇다는 의사 선생님의 대답에 선우는 얼굴 가득 미소를 지었다. 많은 직업 중에 선우가 어쩌면 ‘할 수 없는’ 일이 존재할지 모르겠다. 선우가 요즘은 또 어떤 예능 프로그램을 감명 깊게 보고는 군인이 되고 싶다며 매일 운동을 하고 있다. 나는 걱정을 그만두기로 했다. 그저 선우가 앞으로 맞닥뜨릴 미래를 옆에서 묵묵히 응원할 뿐이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "선우는 수업 중에 갑자기 눈이 아파서 안과에 갔다."
+      },
+      {
+        "number": 2,
+        "text": "선우는 옷에 묻은 물감을 깨끗이 닦고 집에 돌아왔다."
+      },
+      {
+        "number": 3,
+        "text": "선우는 의사 선생님의 대답을 듣고 슬퍼서 눈물이 났다."
+      },
+      {
+        "number": 4,
+        "text": "선우는 예능 프로그램의 영향으로 군인이 되고 싶어 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "선우는 수업 중에 갑자기 눈이 아파서 안과에 갔다."
+      },
+      {
+        "number": 2,
+        "text": "선우는 옷에 묻은 물감을 깨끗이 닦고 집에 돌아왔다."
+      },
+      {
+        "number": 3,
+        "text": "선우는 의사 선생님의 대답을 듣고 슬퍼서 눈물이 났다."
+      },
+      {
+        "number": 4,
+        "text": "선우는 예능 프로그램의 영향으로 군인이 되고 싶어 한다."
+      }
+    ],
+    "options_text": [
+      "선우는 수업 중에 갑자기 눈이 아파서 안과에 갔다.",
+      "선우는 옷에 묻은 물감을 깨끗이 닦고 집에 돌아왔다.",
+      "선우는 의사 선생님의 대답을 듣고 슬퍼서 눈물이 났다.",
+      "선우는 예능 프로그램의 영향으로 군인이 되고 싶어 한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 24,
+    "target_slot": 24,
+    "passage_group_id": "SET-LT-94-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "나는 오만 가지 생각으로 머리가 복잡해졌다."
+    ],
+    "underlined_parts": [
+      "나는 오만 가지 생각으로 머리가 복잡해졌다."
+    ],
+    "shared_passage_index": 2,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 12,
+    "source_bank_id": "T2-94-R024",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 12,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q013-FROM-R025",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "맛은 물론 골라 먹는 재미까지, 한국 빵 해외 시장에서 ‘날개’",
+    "passage_template": "맛은 물론 골라 먹는 재미까지, 한국 빵 해외 시장에서 ‘날개’",
+    "options": [
+      {
+        "number": 1,
+        "text": "한국 빵은 맛있고 종류도 다양해서 해외에서 많이 팔리고 있다."
+      },
+      {
+        "number": 2,
+        "text": "해외 소비자들이 쉽게 한국 빵을 맛볼 수 있도록 매장을 늘렸다."
+      },
+      {
+        "number": 3,
+        "text": "한국 빵을 해외 시장에 팔려면 외국인의 입맛에 맞게 만들어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "해외 소비자의 입맛에 맞는 한국 빵을 만들었으나 시장 반응은 나빴다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "한국 빵은 맛있고 종류도 다양해서 해외에서 많이 팔리고 있다."
+      },
+      {
+        "number": 2,
+        "text": "해외 소비자들이 쉽게 한국 빵을 맛볼 수 있도록 매장을 늘렸다."
+      },
+      {
+        "number": 3,
+        "text": "한국 빵을 해외 시장에 팔려면 외국인의 입맛에 맞게 만들어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "해외 소비자의 입맛에 맞는 한국 빵을 만들었으나 시장 반응은 나빴다."
+      }
+    ],
+    "options_text": [
+      "한국 빵은 맛있고 종류도 다양해서 해외에서 많이 팔리고 있다.",
+      "해외 소비자들이 쉽게 한국 빵을 맛볼 수 있도록 매장을 늘렸다.",
+      "한국 빵을 해외 시장에 팔려면 외국인의 입맛에 맞게 만들어야 한다.",
+      "해외 소비자의 입맛에 맞는 한국 빵을 만들었으나 시장 반응은 나빴다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 25,
+    "target_slot": 25,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 13,
+    "source_bank_id": "T2-94-R025",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 13,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q014-FROM-R031",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 12,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "original_question_number": 31,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[14] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "최근 전 세계 20~30대 젊은이들을 중심으로 ‘육각형 인간’이 되고자 하는 경향이 나타나고 있다. 육각형 인간이란 외모, 학력, 자산, 직업, 집안, 성격의 여섯 가지가 골고루 갖추어진 완벽한 사람을 의미한다. 젊은이들은 이 중 어느 하나라도 부족하면 (     ) 것 같은 압박감을 갖는다. 이러한 현상은 미래의 삶에 대한 젊은 세대의 불안감을 반영하는 것으로 이해된다.",
+    "passage_template": "최근 전 세계 20~30대 젊은이들을 중심으로 ‘육각형 인간’이 되고자 하는 경향이 나타나고 있다. 육각형 인간이란 외모, 학력, 자산, 직업, 집안, 성격의 여섯 가지가 골고루 갖추어진 완벽한 사람을 의미한다. 젊은이들은 이 중 어느 하나라도 부족하면 (     ) 것 같은 압박감을 갖는다. 이러한 현상은 미래의 삶에 대한 젊은 세대의 불안감을 반영하는 것으로 이해된다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "인간미가 부족해 보일"
+      },
+      {
+        "number": 2,
+        "text": "건강이 갑자기 악화될"
+      },
+      {
+        "number": 3,
+        "text": "세대 간의 단절이 발생할"
+      },
+      {
+        "number": 4,
+        "text": "타인과의 경쟁에서 뒤처질"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "인간미가 부족해 보일"
+      },
+      {
+        "number": 2,
+        "text": "건강이 갑자기 악화될"
+      },
+      {
+        "number": 3,
+        "text": "세대 간의 단절이 발생할"
+      },
+      {
+        "number": 4,
+        "text": "타인과의 경쟁에서 뒤처질"
+      }
+    ],
+    "options_text": [
+      "인간미가 부족해 보일",
+      "건강이 갑자기 악화될",
+      "세대 간의 단절이 발생할",
+      "타인과의 경쟁에서 뒤처질"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 31,
+    "target_slot": 31,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 14,
+    "source_bank_id": "T2-94-R031",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 14,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q015-FROM-R032",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "detail",
+    "category": "내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "original_question_number": 32,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[15] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "인주군은 2015년부터 버스가 다니지 않는 일부 지역에 ‘다람쥐 택시’ 서비스를 제공해 왔다. 이 택시는 인주군의 해당 지역 안에서만 운행되는데 주민들은 버스 요금만 내고 택시를 편히 이용할 수 있다. 택시비에서 버스 요금을 제한 나머지 금액은 인주군에서 택시 기사에게 지급한다. 인주군은 소수의 주민에게만 혜택이 편중되지 않도록 올해부터 1인당 택시 이용 가능 횟수를 제한하고 앞으로 운행 지역도 더 확대할 예정이다.",
+    "passage_template": "인주군은 2015년부터 버스가 다니지 않는 일부 지역에 ‘다람쥐 택시’ 서비스를 제공해 왔다. 이 택시는 인주군의 해당 지역 안에서만 운행되는데 주민들은 버스 요금만 내고 택시를 편히 이용할 수 있다. 택시비에서 버스 요금을 제한 나머지 금액은 인주군에서 택시 기사에게 지급한다. 인주군은 소수의 주민에게만 혜택이 편중되지 않도록 올해부터 1인당 택시 이용 가능 횟수를 제한하고 앞으로 운행 지역도 더 확대할 예정이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "인주군은 다람쥐 택시 요금을 보조해 주고 있다."
+      },
+      {
+        "number": 2,
+        "text": "다람쥐 택시를 타고 인주군 밖으로 나갈 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주군은 다람쥐 택시의 운행 가능 지역을 줄일 예정이다."
+      },
+      {
+        "number": 4,
+        "text": "다람쥐 택시의 1인당 이용 횟수를 2015년부터 제한해 왔다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "인주군은 다람쥐 택시 요금을 보조해 주고 있다."
+      },
+      {
+        "number": 2,
+        "text": "다람쥐 택시를 타고 인주군 밖으로 나갈 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "인주군은 다람쥐 택시의 운행 가능 지역을 줄일 예정이다."
+      },
+      {
+        "number": 4,
+        "text": "다람쥐 택시의 1인당 이용 횟수를 2015년부터 제한해 왔다."
+      }
+    ],
+    "options_text": [
+      "인주군은 다람쥐 택시 요금을 보조해 주고 있다.",
+      "다람쥐 택시를 타고 인주군 밖으로 나갈 수 있다.",
+      "인주군은 다람쥐 택시의 운행 가능 지역을 줄일 예정이다.",
+      "다람쥐 택시의 1인당 이용 횟수를 2015년부터 제한해 왔다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 32,
+    "target_slot": 32,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 15,
+    "source_bank_id": "T2-94-R032",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 15,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q016-FROM-R035",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "긴 지문의 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "인체가 느끼는 추위나 더위를 수치화한 것을 체감 온도라고 한다. 국내에서는 겨울철 체감 온도를 계산할 때 바람의 세기를 기준으로 한다. 이 방식은 간단하고 효율적이어서 현재 여러 나라에서 활용되고 있으나 변수를 지나치게 단순화했다는 점에서 재고되어야 한다. 실생활에서 추위를 느끼게 하는 요인으로 바람만 있는 것이 아니기 때문이다. 일조량, 습도, 주변의 지형지물에 따라 인체가 느끼는 추위는 달라질 수 있다.",
+    "passage_template": "인체가 느끼는 추위나 더위를 수치화한 것을 체감 온도라고 한다. 국내에서는 겨울철 체감 온도를 계산할 때 바람의 세기를 기준으로 한다. 이 방식은 간단하고 효율적이어서 현재 여러 나라에서 활용되고 있으나 변수를 지나치게 단순화했다는 점에서 재고되어야 한다. 실생활에서 추위를 느끼게 하는 요인으로 바람만 있는 것이 아니기 때문이다. 일조량, 습도, 주변의 지형지물에 따라 인체가 느끼는 추위는 달라질 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "국가마다 각각의 특성에 맞는 체감 온도 계산식을 개발해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "체감 온도를 계산할 때는 다양한 변수를 고려하는 것이 필요하다."
+      },
+      {
+        "number": 3,
+        "text": "체감 온도 계산에 개인의 특성을 반영하는 것은 바람직하지 않다."
+      },
+      {
+        "number": 4,
+        "text": "체감 온도에 영향을 주는 요인을 찾기 위해 꾸준히 노력해야 한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "국가마다 각각의 특성에 맞는 체감 온도 계산식을 개발해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "체감 온도를 계산할 때는 다양한 변수를 고려하는 것이 필요하다."
+      },
+      {
+        "number": 3,
+        "text": "체감 온도 계산에 개인의 특성을 반영하는 것은 바람직하지 않다."
+      },
+      {
+        "number": 4,
+        "text": "체감 온도에 영향을 주는 요인을 찾기 위해 꾸준히 노력해야 한다."
+      }
+    ],
+    "options_text": [
+      "국가마다 각각의 특성에 맞는 체감 온도 계산식을 개발해야 한다.",
+      "체감 온도를 계산할 때는 다양한 변수를 고려하는 것이 필요하다.",
+      "체감 온도 계산에 개인의 특성을 반영하는 것은 바람직하지 않다.",
+      "체감 온도에 영향을 주는 요인을 찾기 위해 꾸준히 노력해야 한다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 35,
+    "target_slot": 35,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 16,
+    "source_bank_id": "T2-94-R035",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 16,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q017-FROM-R039",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "original_question_number": 39,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[17] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "방울뱀은 꼬리에 있는 고리를 이용하여 소리를 낸다. ( ㉠ ) 즉 방울뱀은 자라면서 허물을 몇 차례 벗는데 이때 완전히 벗겨지지 않은 허물들이 둥글게 말려 굳으면서 고리 모양이 되는 것이다. ( ㉡ ) 이렇게 하나둘씩 생겨난 고리들은 방울뱀이 꼬리를 흔들 때마다 특유의 소리를 내게 된다. ( ㉢ ) 방울뱀은 몸집이 큰 동물이 공격해 올 때 방울 소리로 위협하여 자신을 보호하기 위해 이렇게 진화한 것으로 보인다. ( ㉣ )",
+    "passage_template": "방울뱀은 꼬리에 있는 고리를 이용하여 소리를 낸다. ( ㉠ ) 즉 방울뱀은 자라면서 허물을 몇 차례 벗는데 이때 완전히 벗겨지지 않은 허물들이 둥글게 말려 굳으면서 고리 모양이 되는 것이다. ( ㉡ ) 이렇게 하나둘씩 생겨난 고리들은 방울뱀이 꼬리를 흔들 때마다 특유의 소리를 내게 된다. ( ㉢ ) 방울뱀은 몸집이 큰 동물이 공격해 올 때 방울 소리로 위협하여 자신을 보호하기 위해 이렇게 진화한 것으로 보인다. ( ㉣ )",
+    "options": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 39,
+    "target_slot": 39,
+    "insert_sentence": "이 꼬리는 타고나는 것이 아니라 성장 과정에서 후천적으로 만들어진다.",
+    "sentence_to_insert": "이 꼬리는 타고나는 것이 아니라 성장 과정에서 후천적으로 만들어진다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉠",
+    "correct_insert_position": "㉠",
+    "interaction_mode": "click_insert_sentence_into_position",
+    "template_required_type": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "sentence_insert_source_round": "94",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 17,
+    "source_bank_id": "T2-94-R039",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 17,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q018-FROM-R042",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 19,
+    "source_printed_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[18] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘어머니’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "지지난 주 화요일 오후, 고향에 계신 어머니의 전화 한 통을 받았다.\n\n“다음 주에 네 아버지랑 너희들 집에 가려고.”\n“다음 주요? 무슨 일 있으세요?”\n\n마침 나는 과제로 제출된 학생들의 글을 읽고 있었다. 서른 명이 넘는 4학년 수강생들의 단편소설이었다. 그걸 다 읽은 뒤엔 대학원 스터디 멤버들의 소설, 논문 학기에 돌입한 박사과정생의 논문 초고를 살펴봐야 했다. 주말엔 따로 봄 내 학과 발전 계획서 및 특성화 보고서 서류도 검토해야 했다. 학교 선생들은 원래 봄이 바쁜 법. 나는 집에서 아이들 저녁을 챙긴 후 다시 학교 연구실로 나가 자정 무렵 퇴근하는 일을 반복하고 있었다. (중략)\n\n“무슨 일 있어야지 자식 집에 갈 수 있는 거니?”\n“에이, 그게 아니고요……. 저는, 아버지가 걱정되어서 그렇죠.”\n\n사실, 그것도 맞긴 맞았다. (중략) 혼자 걷는 일이 힘들어져 작년 말부턴 산책도 제대로 하지 못한 채, 집 안에서만 머물고 계신 아버지. 그런 아버지가 강원도 원주에서 전라도 광주까지 오신다고 하니, 걱정부터 앞선 것이다. (중략) 나는 무슨 말인가 더 하려고 했지만, 어머니는 기다리지 않고 바로 전화를 끊었다. 잠깐 동안 멍하니 스마트폰만 내려다보고 있던 내 머릿속엔 딱 한 가지 생각만 계속 맴돌았다. ‘청소해야 한다!’",
+    "passage_template": "지지난 주 화요일 오후, 고향에 계신 어머니의 전화 한 통을 받았다.\n\n“다음 주에 네 아버지랑 너희들 집에 가려고.”\n“다음 주요? 무슨 일 있으세요?”\n\n마침 나는 과제로 제출된 학생들의 글을 읽고 있었다. 서른 명이 넘는 4학년 수강생들의 단편소설이었다. 그걸 다 읽은 뒤엔 대학원 스터디 멤버들의 소설, 논문 학기에 돌입한 박사과정생의 논문 초고를 살펴봐야 했다. 주말엔 따로 봄 내 학과 발전 계획서 및 특성화 보고서 서류도 검토해야 했다. 학교 선생들은 원래 봄이 바쁜 법. 나는 집에서 아이들 저녁을 챙긴 후 다시 학교 연구실로 나가 자정 무렵 퇴근하는 일을 반복하고 있었다. (중략)\n\n“무슨 일 있어야지 자식 집에 갈 수 있는 거니?”\n“에이, 그게 아니고요……. 저는, 아버지가 걱정되어서 그렇죠.”\n\n사실, 그것도 맞긴 맞았다. (중략) 혼자 걷는 일이 힘들어져 작년 말부턴 산책도 제대로 하지 못한 채, 집 안에서만 머물고 계신 아버지. 그런 아버지가 강원도 원주에서 전라도 광주까지 오신다고 하니, 걱정부터 앞선 것이다. (중략) 나는 무슨 말인가 더 하려고 했지만, 어머니는 기다리지 않고 바로 전화를 끊었다. 잠깐 동안 멍하니 스마트폰만 내려다보고 있던 내 머릿속엔 딱 한 가지 생각만 계속 맴돌았다. ‘청소해야 한다!’",
+    "options": [
+      {
+        "number": 1,
+        "text": "서운하다"
+      },
+      {
+        "number": 2,
+        "text": "대견하다"
+      },
+      {
+        "number": 3,
+        "text": "다행스럽다"
+      },
+      {
+        "number": 4,
+        "text": "부담스럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "서운하다"
+      },
+      {
+        "number": 2,
+        "text": "대견하다"
+      },
+      {
+        "number": 3,
+        "text": "다행스럽다"
+      },
+      {
+        "number": 4,
+        "text": "부담스럽다"
+      }
+    ],
+    "options_text": [
+      "서운하다",
+      "대견하다",
+      "다행스럽다",
+      "부담스럽다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 42,
+    "target_slot": 42,
+    "underline_targets": [
+      "“무슨 일 있어야지 자식 집에 갈 수 있는 거니?”"
+    ],
+    "underlined_parts": [
+      "“무슨 일 있어야지 자식 집에 갈 수 있는 거니?”"
+    ],
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 18,
+    "source_bank_id": "T2-94-R042",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 18,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q019-FROM-R046",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자 태도",
+    "diagnostic_area": "필자의 태도와 주장 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "한라산 국립 공원에는 특정 지역에 탐방객의 출입을 금지하는 ‘자연 휴식년제’가 시행되고 있다. 이 제도는 탐방객의 집중적인 이용으로 훼손된 등산로나 희귀 동식물 서식지 등에 대해 일정 기간 사람의 출입을 금지함으로써 자연을 회복시키자는 취지로 도입되었다. 자연 휴식년제는 출입을 금지한 등산로의 정비와 복원 상태 등을 고려해 재개방 여부를 결정하는 방식으로 운영된다. 그러나 자연 휴식년제만으로 훼손된 자연을 회복시키기가 점차 어려워지고 있다. 한라산 탐방객이 늘면서 출입 금지 구역을 무단으로 출입하는 사람들이 많아지고 있기 때문이다. 이를 막기 위해서는 자연 휴식년제 대상 지역을 지정하는 데 그칠 것이 아니라 제도를 지속적으로 홍보하고 위반 시 법적으로 처벌할 수 있도록 하는 등의 대책 마련이 병행되어야 할 것이다.",
+    "passage_template": "한라산 국립 공원에는 특정 지역에 탐방객의 출입을 금지하는 ‘자연 휴식년제’가 시행되고 있다. 이 제도는 탐방객의 집중적인 이용으로 훼손된 등산로나 희귀 동식물 서식지 등에 대해 일정 기간 사람의 출입을 금지함으로써 자연을 회복시키자는 취지로 도입되었다. 자연 휴식년제는 출입을 금지한 등산로의 정비와 복원 상태 등을 고려해 재개방 여부를 결정하는 방식으로 운영된다. 그러나 자연 휴식년제만으로 훼손된 자연을 회복시키기가 점차 어려워지고 있다. 한라산 탐방객이 늘면서 출입 금지 구역을 무단으로 출입하는 사람들이 많아지고 있기 때문이다. 이를 막기 위해서는 자연 휴식년제 대상 지역을 지정하는 데 그칠 것이 아니라 제도를 지속적으로 홍보하고 위반 시 법적으로 처벌할 수 있도록 하는 등의 대책 마련이 병행되어야 할 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "자연 휴식년제의 보완 필요성을 주장하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "한라산을 찾는 탐방객의 증가를 경계하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "한라산에 대한 출입 금지 조치를 비판하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "자연 휴식년제의 시행 결과를 높이 평가하고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "자연 휴식년제의 보완 필요성을 주장하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "한라산을 찾는 탐방객의 증가를 경계하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "한라산에 대한 출입 금지 조치를 비판하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "자연 휴식년제의 시행 결과를 높이 평가하고 있다."
+      }
+    ],
+    "options_text": [
+      "자연 휴식년제의 보완 필요성을 주장하고 있다.",
+      "한라산을 찾는 탐방객의 증가를 경계하고 있다.",
+      "한라산에 대한 출입 금지 조치를 비판하고 있다.",
+      "자연 휴식년제의 시행 결과를 높이 평가하고 있다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 46,
+    "target_slot": 46,
+    "passage_group_id": "SET-LT-94-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 19,
+    "source_bank_id": "T2-94-R046",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 19,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  },
+  {
+    "id": "LT-94-Q020-FROM-R047",
+    "source_round": "94",
+    "source_file": "94회 읽기.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "제도 설명문의 세부 내용 이해",
+    "original_question_number": 47,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "한라산 국립 공원에는 특정 지역에 탐방객의 출입을 금지하는 ‘자연 휴식년제’가 시행되고 있다. 이 제도는 탐방객의 집중적인 이용으로 훼손된 등산로나 희귀 동식물 서식지 등에 대해 일정 기간 사람의 출입을 금지함으로써 자연을 회복시키자는 취지로 도입되었다. 자연 휴식년제는 출입을 금지한 등산로의 정비와 복원 상태 등을 고려해 재개방 여부를 결정하는 방식으로 운영된다. 그러나 자연 휴식년제만으로 훼손된 자연을 회복시키기가 점차 어려워지고 있다. 한라산 탐방객이 늘면서 출입 금지 구역을 무단으로 출입하는 사람들이 많아지고 있기 때문이다. 이를 막기 위해서는 자연 휴식년제 대상 지역을 지정하는 데 그칠 것이 아니라 제도를 지속적으로 홍보하고 위반 시 법적으로 처벌할 수 있도록 하는 등의 대책 마련이 병행되어야 할 것이다.",
+    "passage_template": "한라산 국립 공원에는 특정 지역에 탐방객의 출입을 금지하는 ‘자연 휴식년제’가 시행되고 있다. 이 제도는 탐방객의 집중적인 이용으로 훼손된 등산로나 희귀 동식물 서식지 등에 대해 일정 기간 사람의 출입을 금지함으로써 자연을 회복시키자는 취지로 도입되었다. 자연 휴식년제는 출입을 금지한 등산로의 정비와 복원 상태 등을 고려해 재개방 여부를 결정하는 방식으로 운영된다. 그러나 자연 휴식년제만으로 훼손된 자연을 회복시키기가 점차 어려워지고 있다. 한라산 탐방객이 늘면서 출입 금지 구역을 무단으로 출입하는 사람들이 많아지고 있기 때문이다. 이를 막기 위해서는 자연 휴식년제 대상 지역을 지정하는 데 그칠 것이 아니라 제도를 지속적으로 홍보하고 위반 시 법적으로 처벌할 수 있도록 하는 등의 대책 마련이 병행되어야 할 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "자연 휴식년제 대상 지역에 허가 없이 출입하는 사람이 줄었다."
+      },
+      {
+        "number": 2,
+        "text": "출입이 금지된 등산로의 복원 상태를 살펴 출입 금지를 해제한다."
+      },
+      {
+        "number": 3,
+        "text": "자연 휴식년제는 야생 동물로 인해 훼손된 지역을 대상으로 실시한다."
+      },
+      {
+        "number": 4,
+        "text": "한라산의 희귀 동식물 서식지에 사람의 출입이 영구적으로 금지되었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "자연 휴식년제 대상 지역에 허가 없이 출입하는 사람이 줄었다."
+      },
+      {
+        "number": 2,
+        "text": "출입이 금지된 등산로의 복원 상태를 살펴 출입 금지를 해제한다."
+      },
+      {
+        "number": 3,
+        "text": "자연 휴식년제는 야생 동물로 인해 훼손된 지역을 대상으로 실시한다."
+      },
+      {
+        "number": 4,
+        "text": "한라산의 희귀 동식물 서식지에 사람의 출입이 영구적으로 금지되었다."
+      }
+    ],
+    "options_text": [
+      "자연 휴식년제 대상 지역에 허가 없이 출입하는 사람이 줄었다.",
+      "출입이 금지된 등산로의 복원 상태를 살펴 출입 금지를 해제한다.",
+      "자연 휴식년제는 야생 동물로 인해 훼손된 지역을 대상으로 실시한다.",
+      "한라산의 희귀 동식물 서식지에 사람의 출입이 영구적으로 금지되었다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-94.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 47,
+    "target_slot": 47,
+    "passage_group_id": "SET-LT-94-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "94",
+    "generated_exam_label": "94회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_question_number": 20,
+    "source_bank_id": "T2-94-R047",
+    "source_exam_id": "reading-94",
+    "generated_exam_id": "LEVEL-TEST-94-FIXED-20",
+    "level_test_blueprint_slot": 20,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "94",
+    "data_status": "level_test_20_from_94_full"
+  }
+]
