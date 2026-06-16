@@ -1,19 +1,19 @@
 "use strict";
 
 /*
-  TOPIK II 읽기 인증 화면 → 교사용 문제지 출력 화면 연결 버튼
+  TOPIK II 읽기 인증 화면 → TOPIK II 유형별 문제지 출력 화면 연결 버튼
 
   안전 원칙
   - reading-test.js를 수정하지 않습니다.
   - 시험 시작, 채점, 진단 보고서 기능과 연결하지 않습니다.
   - 인증/시작 화면에 버튼 1개만 추가합니다.
-  - 버튼은 새 탭으로 practice-print 화면을 엽니다.
+  - 버튼은 TOPIK II practice-print 화면을 새 탭으로 엽니다.
 */
 
 (function () {
   const BUTTON_ID = "practicePrintLinkButton";
   const BOX_ID = "practicePrintLinkBox";
-  const PRACTICE_PRINT_URL = "../practice-print/index.html?v=from_reading_auth";
+  const PRACTICE_PRINT_URL = "../practice-print/index.html?v=topik2_from_reading_auth";
 
   function openPracticePrint() {
     window.open(PRACTICE_PRINT_URL, "_blank", "noopener,noreferrer");
@@ -51,7 +51,7 @@
     title.style.textAlign = "center";
 
     const desc = document.createElement("div");
-    desc.textContent = "원본 문항 번호 범위로 유형별 문제지와 정답표를 PDF로 저장합니다.";
+    desc.textContent = "TOPIK II 원본 문항 번호 범위로 유형별 문제지와 정답표를 PDF로 저장합니다.";
     desc.style.color = "#5f6368";
     desc.style.fontSize = "12px";
     desc.style.lineHeight = "1.45";
