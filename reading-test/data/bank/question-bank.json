@@ -1,19 +1,3045 @@
 {
-  "bank_version": "topik2-reading-bank-v350-94-96-97-99-100-102-103",
-  "bank_name": "TOPIK II Reading Question Bank - 96회·97회·99회·100회·102회·103회 300문항 정규화본",
+  "bank_version": "topik2-reading-bank-v400-93-94-96-97-99-100-102-103",
+  "bank_name": "TOPIK II Reading Question Bank - 93·94·96·97·99·100·102·103회 400문항 정규화본",
   "level": "TOPIK II",
   "section": "reading",
   "question_number_start": 1,
   "question_number_end": 50,
   "expected_total_questions": 50,
   "status": "draft_review_required",
-  "description": "TOPIK II PBT 읽기 94·96·97·99·100·102·103회 기반 350문항 문제은행입니다.",
-  "source_round": "96,97,99,100,102,103",
+  "description": "TOPIK II PBT 읽기 93·94·96·97·99·100·102·103회 기반 400문항 문제은행입니다.",
+  "source_round": "93,94,96,97,99,100,102,103",
   "source_file": "96회 읽기 문제.pdf; 97회 읽기.pdf; 99회 읽기.pdf; 100회 토픽2 읽기.pdf; 102회 TOPIK II 읽기 문제.pdf; 103회 읽기 문제.pdf",
-  "converted_at": "2026-06-16",
-  "conversion_mode": "appended_96_round_from_fixed_exam_json_to_existing_250_bank",
-  "total_bank_questions": 350,
+  "converted_at": "2026-06-17",
+  "conversion_mode": "appended_93_round_from_reviewed_full_50_exam_json_to_existing_350_bank",
+  "total_bank_questions": 400,
   "single_items": [
+    {
+      "id": "QB-T2-93-R001",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "original_question_number": 1,
+      "question_number": 1,
+      "target_slots": [
+        1
+      ],
+      "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "나는 주말에 수영을 (     ) 드라마를 본다.",
+      "passage_template": "나는 주말에 수영을 (     ) 드라마를 본다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "하거나"
+        },
+        {
+          "number": 2,
+          "text": "하는지"
+        },
+        {
+          "number": 3,
+          "text": "하도록"
+        },
+        {
+          "number": 4,
+          "text": "하더니"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "하거나"
+        },
+        {
+          "number": 2,
+          "text": "하는지"
+        },
+        {
+          "number": 3,
+          "text": "하도록"
+        },
+        {
+          "number": 4,
+          "text": "하더니"
+        }
+      ],
+      "options_text": [
+        "하거나",
+        "하는지",
+        "하도록",
+        "하더니"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 1,
+      "target_slot": 1,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R002",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "original_question_number": 2,
+      "question_number": 2,
+      "target_slots": [
+        2
+      ],
+      "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "우리 집은 지은 지 벌써 30년이 다 (     ).",
+      "passage_template": "우리 집은 지은 지 벌써 30년이 다 (     ).",
+      "options": [
+        {
+          "number": 1,
+          "text": "되게 했다"
+        },
+        {
+          "number": 2,
+          "text": "되어 간다"
+        },
+        {
+          "number": 3,
+          "text": "되어야 한다"
+        },
+        {
+          "number": 4,
+          "text": "되기로 했다"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "되게 했다"
+        },
+        {
+          "number": 2,
+          "text": "되어 간다"
+        },
+        {
+          "number": 3,
+          "text": "되어야 한다"
+        },
+        {
+          "number": 4,
+          "text": "되기로 했다"
+        }
+      ],
+      "options_text": [
+        "되게 했다",
+        "되어 간다",
+        "되어야 한다",
+        "되기로 했다"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 2,
+      "target_slot": 2,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R003",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "original_question_number": 3,
+      "question_number": 3,
+      "target_slots": [
+        3
+      ],
+      "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "조사 결과에 의하면 지난해 화장품 수출이 크게 증가했다고 한다.",
+      "passage_template": "조사 결과에 의하면 지난해 화장품 수출이 크게 증가했다고 한다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "조사 결과에 따르면"
+        },
+        {
+          "number": 2,
+          "text": "조사 결과를 통해서"
+        },
+        {
+          "number": 3,
+          "text": "조사 결과로 인해서"
+        },
+        {
+          "number": 4,
+          "text": "조사 결과에 비하면"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "조사 결과에 따르면"
+        },
+        {
+          "number": 2,
+          "text": "조사 결과를 통해서"
+        },
+        {
+          "number": 3,
+          "text": "조사 결과로 인해서"
+        },
+        {
+          "number": 4,
+          "text": "조사 결과에 비하면"
+        }
+      ],
+      "options_text": [
+        "조사 결과에 따르면",
+        "조사 결과를 통해서",
+        "조사 결과로 인해서",
+        "조사 결과에 비하면"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 3,
+      "target_slot": 3,
+      "underline_targets": [
+        "조사 결과에 의하면"
+      ],
+      "underlined_parts": [
+        "조사 결과에 의하면"
+      ],
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R004",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 1,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "original_question_number": 4,
+      "question_number": 4,
+      "target_slots": [
+        4
+      ],
+      "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "이번 일을 잘 마칠 수 있게 도와준 팀원들에게 고마울 따름이다.",
+      "passage_template": "이번 일을 잘 마칠 수 있게 도와준 팀원들에게 고마울 따름이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "고마운 척했다"
+        },
+        {
+          "number": 2,
+          "text": "고마울 뻔했다"
+        },
+        {
+          "number": 3,
+          "text": "고마울 뿐이다"
+        },
+        {
+          "number": 4,
+          "text": "고마운 편이다"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "고마운 척했다"
+        },
+        {
+          "number": 2,
+          "text": "고마울 뻔했다"
+        },
+        {
+          "number": 3,
+          "text": "고마울 뿐이다"
+        },
+        {
+          "number": 4,
+          "text": "고마운 편이다"
+        }
+      ],
+      "options_text": [
+        "고마운 척했다",
+        "고마울 뻔했다",
+        "고마울 뿐이다",
+        "고마운 편이다"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 4,
+      "target_slot": 4,
+      "underline_targets": [
+        "고마울 따름이다"
+      ],
+      "underlined_parts": [
+        "고마울 따름이다"
+      ],
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R005",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 5,
+      "question_number": 5,
+      "target_slots": [
+        5
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "침대"
+        },
+        {
+          "number": 2,
+          "text": "책상"
+        },
+        {
+          "number": 3,
+          "text": "컴퓨터"
+        },
+        {
+          "number": 4,
+          "text": "텔레비전"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "침대"
+        },
+        {
+          "number": 2,
+          "text": "책상"
+        },
+        {
+          "number": 3,
+          "text": "컴퓨터"
+        },
+        {
+          "number": 4,
+          "text": "텔레비전"
+        }
+      ],
+      "options_text": [
+        "침대",
+        "책상",
+        "컴퓨터",
+        "텔레비전"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R005.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 5,
+      "target_slot": 5,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R006",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 6,
+      "question_number": 6,
+      "target_slots": [
+        6
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "병원"
+        },
+        {
+          "number": 2,
+          "text": "극장"
+        },
+        {
+          "number": 3,
+          "text": "은행"
+        },
+        {
+          "number": 4,
+          "text": "식당"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "병원"
+        },
+        {
+          "number": 2,
+          "text": "극장"
+        },
+        {
+          "number": 3,
+          "text": "은행"
+        },
+        {
+          "number": 4,
+          "text": "식당"
+        }
+      ],
+      "options_text": [
+        "병원",
+        "극장",
+        "은행",
+        "식당"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R006.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 6,
+      "target_slot": 6,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R007",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 7,
+      "question_number": 7,
+      "target_slots": [
+        7
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "교통 정보"
+        },
+        {
+          "number": 2,
+          "text": "언어 예절"
+        },
+        {
+          "number": 3,
+          "text": "자연 보호"
+        },
+        {
+          "number": 4,
+          "text": "전기 절약"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "교통 정보"
+        },
+        {
+          "number": 2,
+          "text": "언어 예절"
+        },
+        {
+          "number": 3,
+          "text": "자연 보호"
+        },
+        {
+          "number": 4,
+          "text": "전기 절약"
+        }
+      ],
+      "options_text": [
+        "교통 정보",
+        "언어 예절",
+        "자연 보호",
+        "전기 절약"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R007.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 7,
+      "target_slot": 7,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R008",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 2,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "original_question_number": 8,
+      "question_number": 8,
+      "target_slots": [
+        8
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "이용 안내"
+        },
+        {
+          "number": 2,
+          "text": "배달 문의"
+        },
+        {
+          "number": 3,
+          "text": "제품 소개"
+        },
+        {
+          "number": 4,
+          "text": "교환 방법"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이용 안내"
+        },
+        {
+          "number": 2,
+          "text": "배달 문의"
+        },
+        {
+          "number": 3,
+          "text": "제품 소개"
+        },
+        {
+          "number": 4,
+          "text": "교환 방법"
+        }
+      ],
+      "options_text": [
+        "이용 안내",
+        "배달 문의",
+        "제품 소개",
+        "교환 방법"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R008.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 8,
+      "target_slot": 8,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R009",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 4,
+      "source_printed_page": 3,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_visual",
+      "category": "내용 일치",
+      "diagnostic_area": "안내문 세부 정보 파악",
+      "original_question_number": 9,
+      "question_number": 9,
+      "target_slots": [
+        9
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "주말에는 야간 관람을 할 수 없다."
+        },
+        {
+          "number": 2,
+          "text": "야간 관람은 한 달 동안 진행된다."
+        },
+        {
+          "number": 3,
+          "text": "입장권은 경복궁에 가서 사야 한다."
+        },
+        {
+          "number": 4,
+          "text": "한복을 입으면 표를 사지 않아도 된다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "주말에는 야간 관람을 할 수 없다."
+        },
+        {
+          "number": 2,
+          "text": "야간 관람은 한 달 동안 진행된다."
+        },
+        {
+          "number": 3,
+          "text": "입장권은 경복궁에 가서 사야 한다."
+        },
+        {
+          "number": 4,
+          "text": "한복을 입으면 표를 사지 않아도 된다."
+        }
+      ],
+      "options_text": [
+        "주말에는 야간 관람을 할 수 없다.",
+        "야간 관람은 한 달 동안 진행된다.",
+        "입장권은 경복궁에 가서 사야 한다.",
+        "한복을 입으면 표를 사지 않아도 된다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R009.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 9,
+      "target_slot": 9,
+      "image_max_height": 420,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "78%",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R010",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 4,
+      "source_printed_page": 3,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_visual",
+      "category": "자료·그래프 이해",
+      "diagnostic_area": "그래프 정보 비교",
+      "original_question_number": 10,
+      "question_number": 10,
+      "target_slots": [
+        10
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        {
+          "number": 1,
+          "text": "건강식품을 먹는다는 응답이 가장 많았다."
+        },
+        {
+          "number": 2,
+          "text": "물 자주 마시기는 전체 응답의 반을 넘었다."
+        },
+        {
+          "number": 3,
+          "text": "운동을 한다고 응답한 비율이 세 번째로 높았다."
+        },
+        {
+          "number": 4,
+          "text": "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "건강식품을 먹는다는 응답이 가장 많았다."
+        },
+        {
+          "number": 2,
+          "text": "물 자주 마시기는 전체 응답의 반을 넘었다."
+        },
+        {
+          "number": 3,
+          "text": "운동을 한다고 응답한 비율이 세 번째로 높았다."
+        },
+        {
+          "number": 4,
+          "text": "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+        }
+      ],
+      "options_text": [
+        "건강식품을 먹는다는 응답이 가장 많았다.",
+        "물 자주 마시기는 전체 응답의 반을 넘었다.",
+        "운동을 한다고 응답한 비율이 세 번째로 높았다.",
+        "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/93_R010.png",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 10,
+      "target_slot": 10,
+      "image_max_height": 420,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "82%",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R011",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 5,
+      "source_printed_page": 4,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_passage",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 파악",
+      "original_question_number": 11,
+      "question_number": 11,
+      "target_slots": [
+        11
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "시민들의 새로운 문화 공간이 될 인주박물관이 다음 달 1일 문을 연다. 인주박물관은 개관을 기념하여 1980년대 한국의 거리를 주제로 특별 전시를 진행한다. 그때의 미용실, 영화관 등 추억의 장소에서는 사진도 찍고 80년대에 유행한 놀이도 해 볼 수 있다. 또한 전시 기간 중 놀이에 참여한 사람들에게는 특별한 기념품도 제공할 예정이다.",
+      "passage_template": "시민들의 새로운 문화 공간이 될 인주박물관이 다음 달 1일 문을 연다. 인주박물관은 개관을 기념하여 1980년대 한국의 거리를 주제로 특별 전시를 진행한다. 그때의 미용실, 영화관 등 추억의 장소에서는 사진도 찍고 80년대에 유행한 놀이도 해 볼 수 있다. 또한 전시 기간 중 놀이에 참여한 사람들에게는 특별한 기념품도 제공할 예정이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "이 박물관은 오랫동안 운영되어 왔다."
+        },
+        {
+          "number": 2,
+          "text": "박물관을 구경하는 사람들은 모두 기념품을 받는다."
+        },
+        {
+          "number": 3,
+          "text": "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다."
+        },
+        {
+          "number": 4,
+          "text": "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이 박물관은 오랫동안 운영되어 왔다."
+        },
+        {
+          "number": 2,
+          "text": "박물관을 구경하는 사람들은 모두 기념품을 받는다."
+        },
+        {
+          "number": 3,
+          "text": "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다."
+        },
+        {
+          "number": 4,
+          "text": "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+        }
+      ],
+      "options_text": [
+        "이 박물관은 오랫동안 운영되어 왔다.",
+        "박물관을 구경하는 사람들은 모두 기념품을 받는다.",
+        "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다.",
+        "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 11,
+      "target_slot": 11,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R012",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 5,
+      "source_printed_page": 4,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_passage",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 파악",
+      "original_question_number": 12,
+      "question_number": 12,
+      "target_slots": [
+        12
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "인주시의 한 아파트에서 주민들이 마음을 모아 택배 기사를 도운 사실이 알려져 화제다. 지난달 9일, 택배 기사의 60대 남성이 일을 하던 중 쓰러져 수술을 받는 일이 있었다. 이 소식을 듣게 된 주민들은 수술비를 모아 편지와 함께 전달했다. 택배 기사는 아파트 주민들에게 감사함을 전했고 현재는 건강한 모습으로 일을 하고 있다고 한다.",
+      "passage_template": "인주시의 한 아파트에서 주민들이 마음을 모아 택배 기사를 도운 사실이 알려져 화제다. 지난달 9일, 택배 기사의 60대 남성이 일을 하던 중 쓰러져 수술을 받는 일이 있었다. 이 소식을 듣게 된 주민들은 수술비를 모아 편지와 함께 전달했다. 택배 기사는 아파트 주민들에게 감사함을 전했고 현재는 건강한 모습으로 일을 하고 있다고 한다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "택배 기사는 수술을 받으려고 입원해 있다."
+        },
+        {
+          "number": 2,
+          "text": "아파트 주민들은 택배 기사의 편지를 받았다."
+        },
+        {
+          "number": 3,
+          "text": "아파트 주민들은 택배 기사에게 수술비를 주었다."
+        },
+        {
+          "number": 4,
+          "text": "택배 기사는 다음 달부터 일을 다시 시작할 것이다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "택배 기사는 수술을 받으려고 입원해 있다."
+        },
+        {
+          "number": 2,
+          "text": "아파트 주민들은 택배 기사의 편지를 받았다."
+        },
+        {
+          "number": 3,
+          "text": "아파트 주민들은 택배 기사에게 수술비를 주었다."
+        },
+        {
+          "number": 4,
+          "text": "택배 기사는 다음 달부터 일을 다시 시작할 것이다."
+        }
+      ],
+      "options_text": [
+        "택배 기사는 수술을 받으려고 입원해 있다.",
+        "아파트 주민들은 택배 기사의 편지를 받았다.",
+        "아파트 주민들은 택배 기사에게 수술비를 주었다.",
+        "택배 기사는 다음 달부터 일을 다시 시작할 것이다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 12,
+      "target_slot": 12,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R013",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 13,
+      "question_number": 13,
+      "target_slots": [
+        13
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열하십시오.",
+      "passage": "(가) 빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다.\n(나) 그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다.\n(다) 그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다.\n(라) 어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다.",
+      "passage_template": "(가) 빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다.\n(나) 그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다.\n(다) 그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다.\n(라) 어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(다)-(나)-(라)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(다)-(가)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(다)-(가)-(나)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(다)-(나)-(라)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(다)-(가)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(다)-(가)-(나)"
+        }
+      ],
+      "options_text": [
+        "(가)-(나)-(라)-(다)",
+        "(가)-(다)-(나)-(라)",
+        "(라)-(나)-(다)-(가)",
+        "(라)-(다)-(가)-(나)"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 13,
+      "target_slot": 13,
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다."
+        },
+        {
+          "label": "(나)",
+          "text": "그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다."
+        },
+        {
+          "label": "(다)",
+          "text": "그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다."
+        },
+        {
+          "label": "(라)",
+          "text": "어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다."
+        },
+        {
+          "label": "(나)",
+          "text": "그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다."
+        },
+        {
+          "label": "(다)",
+          "text": "그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다."
+        },
+        {
+          "label": "(라)",
+          "text": "어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다."
+        }
+      ],
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R014",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 14,
+      "question_number": 14,
+      "target_slots": [
+        14
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열하십시오.",
+      "passage": "(가) 지방에 회의가 있어서 아침 일찍 기차를 탔다.\n(나) 평소 음악을 즐겨 듣는 나는 음악을 들을 수 없어 좀 답답했다.\n(다) 그런데 창밖 풍경을 감상하며 가다 보니 어느새 마음이 편안해졌다.\n(라) 자리에 앉아서 음악을 들으려고 이어폰을 찾았는데 어디에도 없었다.",
+      "passage_template": "(가) 지방에 회의가 있어서 아침 일찍 기차를 탔다.\n(나) 평소 음악을 즐겨 듣는 나는 음악을 들을 수 없어 좀 답답했다.\n(다) 그런데 창밖 풍경을 감상하며 가다 보니 어느새 마음이 편안해졌다.\n(라) 자리에 앉아서 음악을 들으려고 이어폰을 찾았는데 어디에도 없었다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(다)-(라)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(라)-(나)-(다)"
+        },
+        {
+          "number": 3,
+          "text": "(나)-(라)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(나)-(라)-(다)-(가)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(가)-(나)-(다)-(라)"
+        },
+        {
+          "number": 2,
+          "text": "(가)-(라)-(나)-(다)"
+        },
+        {
+          "number": 3,
+          "text": "(나)-(라)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(나)-(라)-(다)-(가)"
+        }
+      ],
+      "options_text": [
+        "(가)-(나)-(다)-(라)",
+        "(가)-(라)-(나)-(다)",
+        "(나)-(라)-(가)-(다)",
+        "(나)-(라)-(다)-(가)"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 14,
+      "target_slot": 14,
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "지방에 회의가 있어서 아침 일찍 기차를 탔다."
+        },
+        {
+          "label": "(나)",
+          "text": "평소 음악을 즐겨 듣는 나는 음악을 들을 수 없어 좀 답답했다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 창밖 풍경을 감상하며 가다 보니 어느새 마음이 편안해졌다."
+        },
+        {
+          "label": "(라)",
+          "text": "자리에 앉아서 음악을 들으려고 이어폰을 찾았는데 어디에도 없었다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "지방에 회의가 있어서 아침 일찍 기차를 탔다."
+        },
+        {
+          "label": "(나)",
+          "text": "평소 음악을 즐겨 듣는 나는 음악을 들을 수 없어 좀 답답했다."
+        },
+        {
+          "label": "(다)",
+          "text": "그런데 창밖 풍경을 감상하며 가다 보니 어느새 마음이 편안해졌다."
+        },
+        {
+          "label": "(라)",
+          "text": "자리에 앉아서 음악을 들으려고 이어폰을 찾았는데 어디에도 없었다."
+        }
+      ],
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R015",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 6,
+      "source_printed_page": 5,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "original_question_number": 15,
+      "question_number": 15,
+      "target_slots": [
+        15
+      ],
+      "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열하십시오.",
+      "passage": "(가) 하지만 우리 생활에 이롭게 활용되기도 한다.\n(나) 또 유해 물질을 분해해 오염된 물을 정화하는 데도 유용하다.\n(다) 곰팡이는 음식과 물건을 상하게 하여 해로운 것으로 여겨진다.\n(라) 곰팡이는 된장과 치즈 등의 발효 식품을 만드는 데 꼭 필요하다.",
+      "passage_template": "(가) 하지만 우리 생활에 이롭게 활용되기도 한다.\n(나) 또 유해 물질을 분해해 오염된 물을 정화하는 데도 유용하다.\n(다) 곰팡이는 음식과 물건을 상하게 하여 해로운 것으로 여겨진다.\n(라) 곰팡이는 된장과 치즈 등의 발효 식품을 만드는 데 꼭 필요하다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "(다)-(가)-(라)-(나)"
+        },
+        {
+          "number": 2,
+          "text": "(다)-(나)-(가)-(라)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(나)-(다)-(가)"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "(다)-(가)-(라)-(나)"
+        },
+        {
+          "number": 2,
+          "text": "(다)-(나)-(가)-(라)"
+        },
+        {
+          "number": 3,
+          "text": "(라)-(나)-(가)-(다)"
+        },
+        {
+          "number": 4,
+          "text": "(라)-(나)-(다)-(가)"
+        }
+      ],
+      "options_text": [
+        "(다)-(가)-(라)-(나)",
+        "(다)-(나)-(가)-(라)",
+        "(라)-(나)-(가)-(다)",
+        "(라)-(나)-(다)-(가)"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 15,
+      "target_slot": 15,
+      "sentence_items": [
+        {
+          "label": "(가)",
+          "text": "하지만 우리 생활에 이롭게 활용되기도 한다."
+        },
+        {
+          "label": "(나)",
+          "text": "또 유해 물질을 분해해 오염된 물을 정화하는 데도 유용하다."
+        },
+        {
+          "label": "(다)",
+          "text": "곰팡이는 음식과 물건을 상하게 하여 해로운 것으로 여겨진다."
+        },
+        {
+          "label": "(라)",
+          "text": "곰팡이는 된장과 치즈 등의 발효 식품을 만드는 데 꼭 필요하다."
+        }
+      ],
+      "sentence_blocks": [
+        {
+          "label": "(가)",
+          "text": "하지만 우리 생활에 이롭게 활용되기도 한다."
+        },
+        {
+          "label": "(나)",
+          "text": "또 유해 물질을 분해해 오염된 물을 정화하는 데도 유용하다."
+        },
+        {
+          "label": "(다)",
+          "text": "곰팡이는 음식과 물건을 상하게 하여 해로운 것으로 여겨진다."
+        },
+        {
+          "label": "(라)",
+          "text": "곰팡이는 된장과 치즈 등의 발효 식품을 만드는 데 꼭 필요하다."
+        }
+      ],
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R016",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+      "original_question_number": 16,
+      "question_number": 16,
+      "target_slots": [
+        16
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "사용자의 (     ) 자동으로 바뀌는 인공 지능 의자가 개발됐다. 이 의자는 온도를 체크하는 장치가 있어 사용자의 체온이 오르면 시원한 공기가 나온다. 또 팔걸이에 팔을 올리고 등을 기대면 사용자의 체형을 파악해 팔걸이와 등받이를 조절하여 편안한 자세를 만들어 준다.",
+      "passage_template": "사용자의 (     ) 자동으로 바뀌는 인공 지능 의자가 개발됐다. 이 의자는 온도를 체크하는 장치가 있어 사용자의 체온이 오르면 시원한 공기가 나온다. 또 팔걸이에 팔을 올리고 등을 기대면 사용자의 체형을 파악해 팔걸이와 등받이를 조절하여 편안한 자세를 만들어 준다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "심리 상태에 따라"
+        },
+        {
+          "number": 2,
+          "text": "체온과 자세에 따라"
+        },
+        {
+          "number": 3,
+          "text": "생활 습관을 고려해"
+        },
+        {
+          "number": 4,
+          "text": "체형과 성격을 고려해"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "심리 상태에 따라"
+        },
+        {
+          "number": 2,
+          "text": "체온과 자세에 따라"
+        },
+        {
+          "number": 3,
+          "text": "생활 습관을 고려해"
+        },
+        {
+          "number": 4,
+          "text": "체형과 성격을 고려해"
+        }
+      ],
+      "options_text": [
+        "심리 상태에 따라",
+        "체온과 자세에 따라",
+        "생활 습관을 고려해",
+        "체형과 성격을 고려해"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 16,
+      "target_slot": 16,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R017",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+      "original_question_number": 17,
+      "question_number": 17,
+      "target_slots": [
+        17
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "불을 끌 때는 찬물보다 뜨거운 물로 끄는 것이 더 효과적이다. 뜨거운 물이 수증기를 더 빨리 생기게 하기 때문이다. 수증기는 불이 붙은 물체의 표면을 덮어 불을 끄는 데 중요한 역할을 한다. 그래서 불이 났을 때는 수증기가 (     ) 뜨거운 물로 불을 끄는 것이 좋다.",
+      "passage_template": "불을 끌 때는 찬물보다 뜨거운 물로 끄는 것이 더 효과적이다. 뜨거운 물이 수증기를 더 빨리 생기게 하기 때문이다. 수증기는 불이 붙은 물체의 표면을 덮어 불을 끄는 데 중요한 역할을 한다. 그래서 불이 났을 때는 수증기가 (     ) 뜨거운 물로 불을 끄는 것이 좋다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "닿지 않도록"
+        },
+        {
+          "number": 2,
+          "text": "변하지 않도록"
+        },
+        {
+          "number": 3,
+          "text": "더 쉽게 분리되도록"
+        },
+        {
+          "number": 4,
+          "text": "더 빨리 발생하도록"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "닿지 않도록"
+        },
+        {
+          "number": 2,
+          "text": "변하지 않도록"
+        },
+        {
+          "number": 3,
+          "text": "더 쉽게 분리되도록"
+        },
+        {
+          "number": 4,
+          "text": "더 빨리 발생하도록"
+        }
+      ],
+      "options_text": [
+        "닿지 않도록",
+        "변하지 않도록",
+        "더 쉽게 분리되도록",
+        "더 빨리 발생하도록"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 17,
+      "target_slot": 17,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R018",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 7,
+      "source_printed_page": 6,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+      "original_question_number": 18,
+      "question_number": 18,
+      "target_slots": [
+        18
+      ],
+      "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "오케스트라는 지휘자를 중심으로 가장 높은 음을 내는 악기를 왼쪽부터 순서대로 배치하는 것이 일반적이다. 이와는 달리 고음을 내는 악기와 저음을 내는 악기가 (     ) 배치하는 방식도 있다. 국악의 특성에 따라 악기들의 소리가 조화를 이루게 하기 위해서다. 그러나 어떤 경우에도 연주를 이끄는 제1 바이올린의 수석 자리는 절대 바뀌지 않는다.",
+      "passage_template": "오케스트라는 지휘자를 중심으로 가장 높은 음을 내는 악기를 왼쪽부터 순서대로 배치하는 것이 일반적이다. 이와는 달리 고음을 내는 악기와 저음을 내는 악기가 (     ) 배치하는 방식도 있다. 국악의 특성에 따라 악기들의 소리가 조화를 이루게 하기 위해서다. 그러나 어떤 경우에도 연주를 이끄는 제1 바이올린의 수석 자리는 절대 바뀌지 않는다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "고루 섞이게"
+        },
+        {
+          "number": 2,
+          "text": "서로 거리를 두게"
+        },
+        {
+          "number": 3,
+          "text": "지휘자와 멀어지게"
+        },
+        {
+          "number": 4,
+          "text": "순서대로 연주되게"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "고루 섞이게"
+        },
+        {
+          "number": 2,
+          "text": "서로 거리를 두게"
+        },
+        {
+          "number": 3,
+          "text": "지휘자와 멀어지게"
+        },
+        {
+          "number": 4,
+          "text": "순서대로 연주되게"
+        }
+      ],
+      "options_text": [
+        "고루 섞이게",
+        "서로 거리를 두게",
+        "지휘자와 멀어지게",
+        "순서대로 연주되게"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 18,
+      "target_slot": 18,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R025",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "newspaper_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 25,
+      "question_number": 25,
+      "target_slots": [
+        25
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "구름 인파 몰린 지역 축제, 지역 경제 활짝",
+      "passage_template": "구름 인파 몰린 지역 축제, 지역 경제 활짝",
+      "options": [
+        {
+          "number": 1,
+          "text": "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다."
+        },
+        {
+          "number": 2,
+          "text": "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다."
+        },
+        {
+          "number": 3,
+          "text": "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다."
+        },
+        {
+          "number": 4,
+          "text": "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다."
+        },
+        {
+          "number": 2,
+          "text": "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다."
+        },
+        {
+          "number": 3,
+          "text": "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다."
+        },
+        {
+          "number": 4,
+          "text": "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+        }
+      ],
+      "options_text": [
+        "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다.",
+        "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다.",
+        "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다.",
+        "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 25,
+      "target_slot": 25,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R026",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "newspaper_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 26,
+      "question_number": 26,
+      "target_slots": [
+        26
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "관객들의 매너 부재, 배우들 한숨지어",
+      "passage_template": "관객들의 매너 부재, 배우들 한숨지어",
+      "options": [
+        {
+          "number": 1,
+          "text": "공연 관람 예절을 지킨 관객들에게 배우들이 감사의 마음을 전했다."
+        },
+        {
+          "number": 2,
+          "text": "공연장에서 예의를 지키지 않는 관객들로 인해 배우들이 힘들어했다."
+        },
+        {
+          "number": 3,
+          "text": "공연장을 찾은 관객들은 배우들의 훌륭한 무대 매너에 환호를 보냈다."
+        },
+        {
+          "number": 4,
+          "text": "공연 관람을 할 때 매너를 지켜 달라고 배우들이 관객들에게 당부했다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "공연 관람 예절을 지킨 관객들에게 배우들이 감사의 마음을 전했다."
+        },
+        {
+          "number": 2,
+          "text": "공연장에서 예의를 지키지 않는 관객들로 인해 배우들이 힘들어했다."
+        },
+        {
+          "number": 3,
+          "text": "공연장을 찾은 관객들은 배우들의 훌륭한 무대 매너에 환호를 보냈다."
+        },
+        {
+          "number": 4,
+          "text": "공연 관람을 할 때 매너를 지켜 달라고 배우들이 관객들에게 당부했다."
+        }
+      ],
+      "options_text": [
+        "공연 관람 예절을 지킨 관객들에게 배우들이 감사의 마음을 전했다.",
+        "공연장에서 예의를 지키지 않는 관객들로 인해 배우들이 힘들어했다.",
+        "공연장을 찾은 관객들은 배우들의 훌륭한 무대 매너에 환호를 보냈다.",
+        "공연 관람을 할 때 매너를 지켜 달라고 배우들이 관객들에게 당부했다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 26,
+      "target_slot": 26,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R027",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 11,
+      "source_printed_page": 10,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "newspaper_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "기사 제목의 핵심 의미 파악",
+      "original_question_number": 27,
+      "question_number": 27,
+      "target_slots": [
+        27
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "늘어나는 고령 운전자 사고, 정부 대책 마련 시급",
+      "passage_template": "늘어나는 고령 운전자 사고, 정부 대책 마련 시급",
+      "options": [
+        {
+          "number": 1,
+          "text": "정부는 늘어나는 고령 운전자를 지원하기 위한 대책을 마련했다."
+        },
+        {
+          "number": 2,
+          "text": "고령 운전자의 사고를 줄이기 위해 정부가 대책을 논의하고 있다."
+        },
+        {
+          "number": 3,
+          "text": "정부는 고령 운전자의 사고 발생률을 낮추기 위한 대책을 발표했다."
+        },
+        {
+          "number": 4,
+          "text": "고령 운전자의 사고가 증가하므로 정부가 서둘러 대책을 세워야 한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "정부는 늘어나는 고령 운전자를 지원하기 위한 대책을 마련했다."
+        },
+        {
+          "number": 2,
+          "text": "고령 운전자의 사고를 줄이기 위해 정부가 대책을 논의하고 있다."
+        },
+        {
+          "number": 3,
+          "text": "정부는 고령 운전자의 사고 발생률을 낮추기 위한 대책을 발표했다."
+        },
+        {
+          "number": 4,
+          "text": "고령 운전자의 사고가 증가하므로 정부가 서둘러 대책을 세워야 한다."
+        }
+      ],
+      "options_text": [
+        "정부는 늘어나는 고령 운전자를 지원하기 위한 대책을 마련했다.",
+        "고령 운전자의 사고를 줄이기 위해 정부가 대책을 논의하고 있다.",
+        "정부는 고령 운전자의 사고 발생률을 낮추기 위한 대책을 발표했다.",
+        "고령 운전자의 사고가 증가하므로 정부가 서둘러 대책을 세워야 한다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 27,
+      "target_slot": 27,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R028",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 12,
+      "source_printed_page": 11,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 28,
+      "question_number": 28,
+      "target_slots": [
+        28
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "‘반려견 순찰대’는 일반 시민이 반려견을 산책시키면서 범죄나 생활 위험 요소를 살피는 시민 참여형 치안 정책이다. 반려견 순찰대는 지역 안전 지킴이 역할을 하는 것 외에 (     ) 한몫을 하고 있다. 반려견과 견주에 대해 부정적인 인식을 가졌던 일부 시민들도 반려견 순찰대의 활동을 보며 생각이 바뀌고 있기 때문이다.",
+      "passage_template": "‘반려견 순찰대’는 일반 시민이 반려견을 산책시키면서 범죄나 생활 위험 요소를 살피는 시민 참여형 치안 정책이다. 반려견 순찰대는 지역 안전 지킴이 역할을 하는 것 외에 (     ) 한몫을 하고 있다. 반려견과 견주에 대해 부정적인 인식을 가졌던 일부 시민들도 반려견 순찰대의 활동을 보며 생각이 바뀌고 있기 때문이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "순찰대의 생활 안전에도"
+        },
+        {
+          "number": 2,
+          "text": "시민들의 건강 증진에도"
+        },
+        {
+          "number": 3,
+          "text": "범죄 피해자를 위한 지원에도"
+        },
+        {
+          "number": 4,
+          "text": "반려견에 대한 인식 개선에도"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "순찰대의 생활 안전에도"
+        },
+        {
+          "number": 2,
+          "text": "시민들의 건강 증진에도"
+        },
+        {
+          "number": 3,
+          "text": "범죄 피해자를 위한 지원에도"
+        },
+        {
+          "number": 4,
+          "text": "반려견에 대한 인식 개선에도"
+        }
+      ],
+      "options_text": [
+        "순찰대의 생활 안전에도",
+        "시민들의 건강 증진에도",
+        "범죄 피해자를 위한 지원에도",
+        "반려견에 대한 인식 개선에도"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 28,
+      "target_slot": 28,
+      "blank_key": "BLANK-T2-93-R028",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R029",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 12,
+      "source_printed_page": 11,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 29,
+      "question_number": 29,
+      "target_slots": [
+        29
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "“낙서하지 마시오.”라는 경고 문구가 있으면 낙서를 더 하고 싶어진다. 이렇듯 하지 말라고 강요받을수록 더 하고 싶어지는 심리를 ‘반발심리’라고 한다. 왜 금지하면 더 하고 싶어질까? 심리학자들은 이를 자신이 행동에 대한 결정권을 가지려는 욕구 때문이라고 설명한다. 외부에서 행동을 통제하려 할 때 이에 따르지 않고 반발함으로써 자신의 행동에 대한 (     ) 것이다.",
+      "passage_template": "“낙서하지 마시오.”라는 경고 문구가 있으면 낙서를 더 하고 싶어진다. 이렇듯 하지 말라고 강요받을수록 더 하고 싶어지는 심리를 ‘반발심리’라고 한다. 왜 금지하면 더 하고 싶어질까? 심리학자들은 이를 자신이 행동에 대한 결정권을 가지려는 욕구 때문이라고 설명한다. 외부에서 행동을 통제하려 할 때 이에 따르지 않고 반발함으로써 자신의 행동에 대한 (     ) 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "지시를 따르려는"
+        },
+        {
+          "number": 2,
+          "text": "규칙을 준수하려는"
+        },
+        {
+          "number": 3,
+          "text": "주도권을 유지하려는"
+        },
+        {
+          "number": 4,
+          "text": "결정권을 포기하려는"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "지시를 따르려는"
+        },
+        {
+          "number": 2,
+          "text": "규칙을 준수하려는"
+        },
+        {
+          "number": 3,
+          "text": "주도권을 유지하려는"
+        },
+        {
+          "number": 4,
+          "text": "결정권을 포기하려는"
+        }
+      ],
+      "options_text": [
+        "지시를 따르려는",
+        "규칙을 준수하려는",
+        "주도권을 유지하려는",
+        "결정권을 포기하려는"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 29,
+      "target_slot": 29,
+      "blank_key": "BLANK-T2-93-R029",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R030",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 13,
+      "source_printed_page": 12,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "long_blank_choice",
+      "category": "긴 지문 빈칸",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "original_question_number": 30,
+      "question_number": 30,
+      "target_slots": [
+        30
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "고가의 회사 업무용 차량을 새로 등록할 경우 일반 차량과 다른 색의 번호판을 부착하게 하는 제도가 생겼다. 업무용 차량은 구입 비용을 회사가 부담하고 세금 감면 혜택까지 있다. 이 때문에 그간 고가의 차량을 회사돈으로 구매한 뒤 개인 용도로 쓰는 사례가 적지 않았으나 일반 차량과 업무용 차량을 구분할 수 없어 제재가 어려웠다. 이에 업무용 차량에 새 번호판을 부착하면 쉽게 눈에 띄어 (     ) 데 도움이 될 것으로 보인다.",
+      "passage_template": "고가의 회사 업무용 차량을 새로 등록할 경우 일반 차량과 다른 색의 번호판을 부착하게 하는 제도가 생겼다. 업무용 차량은 구입 비용을 회사가 부담하고 세금 감면 혜택까지 있다. 이 때문에 그간 고가의 차량을 회사돈으로 구매한 뒤 개인 용도로 쓰는 사례가 적지 않았으나 일반 차량과 업무용 차량을 구분할 수 없어 제재가 어려웠다. 이에 업무용 차량에 새 번호판을 부착하면 쉽게 눈에 띄어 (     ) 데 도움이 될 것으로 보인다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "세금 혜택을 받는"
+        },
+        {
+          "number": 2,
+          "text": "개인적 사용을 막는"
+        },
+        {
+          "number": 3,
+          "text": "차량 등록을 간소화하는"
+        },
+        {
+          "number": 4,
+          "text": "차량 구입 비용을 절감하는"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "세금 혜택을 받는"
+        },
+        {
+          "number": 2,
+          "text": "개인적 사용을 막는"
+        },
+        {
+          "number": 3,
+          "text": "차량 등록을 간소화하는"
+        },
+        {
+          "number": 4,
+          "text": "차량 구입 비용을 절감하는"
+        }
+      ],
+      "options_text": [
+        "세금 혜택을 받는",
+        "개인적 사용을 막는",
+        "차량 등록을 간소화하는",
+        "차량 구입 비용을 절감하는"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 30,
+      "target_slot": 30,
+      "blank_key": "BLANK-T2-93-R030",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R031",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 13,
+      "source_printed_page": 12,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "빈칸 완성",
+      "diagnostic_area": "긴 지문의 문맥에 맞는 내용 선택",
+      "original_question_number": 31,
+      "question_number": 31,
+      "target_slots": [
+        31
+      ],
+      "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "국제법은 국가 상호 간의 협의를 바탕으로 국가 간의 권리와 의무에 대하여 규정한 법률이다. 20세기 이후 국제 무역이 증가하고 국가 간의 갈등이 커지면서 국제법의 역할이 중요해졌다. 그러나 대부분의 국제법은 불완전한 법으로 평가받고 있다. 법을 집행할 수 있는 강제력을 가진 권력 기구가 없기 때문이다. 법이 (     ) 위해서는 법률에 근거하여 수사를 진행하고 위법 사항에 대해 제재를 가할 권력 기구가 필요하다.",
+      "passage_template": "국제법은 국가 상호 간의 협의를 바탕으로 국가 간의 권리와 의무에 대하여 규정한 법률이다. 20세기 이후 국제 무역이 증가하고 국가 간의 갈등이 커지면서 국제법의 역할이 중요해졌다. 그러나 대부분의 국제법은 불완전한 법으로 평가받고 있다. 법을 집행할 수 있는 강제력을 가진 권력 기구가 없기 때문이다. 법이 (     ) 위해서는 법률에 근거하여 수사를 진행하고 위법 사항에 대해 제재를 가할 권력 기구가 필요하다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "시대에 맞게 개정되기"
+        },
+        {
+          "number": 2,
+          "text": "단시간에 널리 알려지기"
+        },
+        {
+          "number": 3,
+          "text": "실질적인 효력을 가지기"
+        },
+        {
+          "number": 4,
+          "text": "국가 간의 교류를 증대시키기"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "시대에 맞게 개정되기"
+        },
+        {
+          "number": 2,
+          "text": "단시간에 널리 알려지기"
+        },
+        {
+          "number": 3,
+          "text": "실질적인 효력을 가지기"
+        },
+        {
+          "number": 4,
+          "text": "국가 간의 교류를 증대시키기"
+        }
+      ],
+      "options_text": [
+        "시대에 맞게 개정되기",
+        "단시간에 널리 알려지기",
+        "실질적인 효력을 가지기",
+        "국가 간의 교류를 증대시키기"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 31,
+      "target_slot": 31,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R032",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 14,
+      "source_printed_page": 13,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_passage",
+      "category": "내용 일치",
+      "diagnostic_area": "세부 내용 일치 여부 파악",
+      "original_question_number": 32,
+      "question_number": 32,
+      "target_slots": [
+        32
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "한 해의 마지막 날인 설달 그믐날 풍물을 치면서 마을을 도는 아이들은 집집마다 들러 복을 빌어 준다. 이때 어른들이 큰 자루를 들고 아이들 뒤를 따르는데 집주인은 형편대로 자루에 곡식을 담아 주었다. 자루가 여러 개 모이면 마을에서 논의해 상황이 어려운 집들을 골라 나눠 주었다. 사람들은 어느 집이 자루를 받았는지 서로 모른 척했다. 힘든 이웃이 체면이 상하지 않고 따뜻하게 연말을 보내게 하려는 배려였다.",
+      "passage_template": "한 해의 마지막 날인 설달 그믐날 풍물을 치면서 마을을 도는 아이들은 집집마다 들러 복을 빌어 준다. 이때 어른들이 큰 자루를 들고 아이들 뒤를 따르는데 집주인은 형편대로 자루에 곡식을 담아 주었다. 자루가 여러 개 모이면 마을에서 논의해 상황이 어려운 집들을 골라 나눠 주었다. 사람들은 어느 집이 자루를 받았는지 서로 모른 척했다. 힘든 이웃이 체면이 상하지 않고 따뜻하게 연말을 보내게 하려는 배려였다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다."
+        },
+        {
+          "number": 2,
+          "text": "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다."
+        },
+        {
+          "number": 3,
+          "text": "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다."
+        },
+        {
+          "number": 4,
+          "text": "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다."
+        },
+        {
+          "number": 2,
+          "text": "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다."
+        },
+        {
+          "number": 3,
+          "text": "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다."
+        },
+        {
+          "number": 4,
+          "text": "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+        }
+      ],
+      "options_text": [
+        "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다.",
+        "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다.",
+        "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다.",
+        "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 32,
+      "target_slot": 32,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R033",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 14,
+      "source_printed_page": 13,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_passage",
+      "category": "내용 일치",
+      "diagnostic_area": "세부 내용 일치 여부 파악",
+      "original_question_number": 33,
+      "question_number": 33,
+      "target_slots": [
+        33
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "이중섭 화가 회고전이 작품과 함께 화가의 삶을 전시 공간에 담아내어 주목받고 있다. 전시실 바닥에는 화가가 살았던 방의 크기를 선으로 표시하고 벽에는 웃는 표정이 담긴 그림을 걸었다. 이 공간에서는 생활고로 비좁은 방에 살면서도 가족과 함께 행복했던 그의 삶을 상상할 수 있다. 또한 화가가 그린 그림을 벽에 비춰 대형 벽화처럼 구현해 생전에 벽화를 그리고 싶어 했던 그의 소망을 실현시켰다.",
+      "passage_template": "이중섭 화가 회고전이 작품과 함께 화가의 삶을 전시 공간에 담아내어 주목받고 있다. 전시실 바닥에는 화가가 살았던 방의 크기를 선으로 표시하고 벽에는 웃는 표정이 담긴 그림을 걸었다. 이 공간에서는 생활고로 비좁은 방에 살면서도 가족과 함께 행복했던 그의 삶을 상상할 수 있다. 또한 화가가 그린 그림을 벽에 비춰 대형 벽화처럼 구현해 생전에 벽화를 그리고 싶어 했던 그의 소망을 실현시켰다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "이 전시는 화가의 삶과 생전의 바람을 공간에 담아냈다."
+        },
+        {
+          "number": 2,
+          "text": "이 전시에서는 화가가 직접 그린 대형 벽화가 공개되었다."
+        },
+        {
+          "number": 3,
+          "text": "이 전시는 화가가 생전에 그림을 그렸던 방에서 개최되었다."
+        },
+        {
+          "number": 4,
+          "text": "이 전시에서는 가족과 떨어져 살았던 화가의 삶이 구현됐다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "이 전시는 화가의 삶과 생전의 바람을 공간에 담아냈다."
+        },
+        {
+          "number": 2,
+          "text": "이 전시에서는 화가가 직접 그린 대형 벽화가 공개되었다."
+        },
+        {
+          "number": 3,
+          "text": "이 전시는 화가가 생전에 그림을 그렸던 방에서 개최되었다."
+        },
+        {
+          "number": 4,
+          "text": "이 전시에서는 가족과 떨어져 살았던 화가의 삶이 구현됐다."
+        }
+      ],
+      "options_text": [
+        "이 전시는 화가의 삶과 생전의 바람을 공간에 담아냈다.",
+        "이 전시에서는 화가가 직접 그린 대형 벽화가 공개되었다.",
+        "이 전시는 화가가 생전에 그림을 그렸던 방에서 개최되었다.",
+        "이 전시에서는 가족과 떨어져 살았던 화가의 삶이 구현됐다."
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 33,
+      "target_slot": 33,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R034",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 15,
+      "source_printed_page": 14,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_passage",
+      "category": "내용 일치",
+      "diagnostic_area": "세부 내용 일치 여부 파악",
+      "original_question_number": 34,
+      "question_number": 34,
+      "target_slots": [
+        34
+      ],
+      "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "번개로 인해 주변 시설물이 파괴되는 것을 막는 피뢰침은 고정된 자리에서 자신의 높이 정도에 해당하는 영역만 보호한다는 한계가 있다. 그런데 최근 강력한 레이저를 대기로 발사해 레이저를 쏜 방향으로 번개를 유도하는 방법이 개발되었다. 이 방법은 번개의 방향을 틀 수 있어 번개로 인한 피해를 줄일 수 있다. 아직 보완할 점이 있지만 번개를 방어만 하는 단계를 넘어 조절할 수 있는 단계로 나아갈 수 있게 되었다.",
+      "passage_template": "번개로 인해 주변 시설물이 파괴되는 것을 막는 피뢰침은 고정된 자리에서 자신의 높이 정도에 해당하는 영역만 보호한다는 한계가 있다. 그런데 최근 강력한 레이저를 대기로 발사해 레이저를 쏜 방향으로 번개를 유도하는 방법이 개발되었다. 이 방법은 번개의 방향을 틀 수 있어 번개로 인한 피해를 줄일 수 있다. 아직 보완할 점이 있지만 번개를 방어만 하는 단계를 넘어 조절할 수 있는 단계로 나아갈 수 있게 되었다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "피뢰침은 번개의 방향을 바꾸기 위해 설치되었다."
+        },
+        {
+          "number": 2,
+          "text": "레이저로 번개의 방향을 조절하는 것은 불가능하다."
+        },
+        {
+          "number": 3,
+          "text": "레이저의 개발로 피뢰침의 한계를 보완하게 되었다."
+        },
+        {
+          "number": 4,
+          "text": "피뢰침은 자신의 높이보다 더 넓은 영역을 보호한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "피뢰침은 번개의 방향을 바꾸기 위해 설치되었다."
+        },
+        {
+          "number": 2,
+          "text": "레이저로 번개의 방향을 조절하는 것은 불가능하다."
+        },
+        {
+          "number": 3,
+          "text": "레이저의 개발로 피뢰침의 한계를 보완하게 되었다."
+        },
+        {
+          "number": 4,
+          "text": "피뢰침은 자신의 높이보다 더 넓은 영역을 보호한다."
+        }
+      ],
+      "options_text": [
+        "피뢰침은 번개의 방향을 바꾸기 위해 설치되었다.",
+        "레이저로 번개의 방향을 조절하는 것은 불가능하다.",
+        "레이저의 개발로 피뢰침의 한계를 보완하게 되었다.",
+        "피뢰침은 자신의 높이보다 더 넓은 영역을 보호한다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 34,
+      "target_slot": 34,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R035",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 15,
+      "source_printed_page": 14,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "설명문 중심 내용 파악",
+      "original_question_number": 35,
+      "question_number": 35,
+      "target_slots": [
+        35
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "예전에는 큰 규격의 종이를 절반으로 자르는 과정을 반복해 업무에 필요한 다양한 크기의 종이를 만들었다. 그런데 종이를 자르는 과정에서 비율이 달라져서 버려야 하는 부분이 매번 발생하였다. 이에 한 물리학자는 가로세로 비율이 1:1.414인 종이를 만들었다. 이 비율로 만들어진 종이는 인쇄에서 축소나 확대를 해도 문서 내용의 비율이 일관되게 유지되어 종이의 낭비되는 것을 줄일 수 있었다. 이러한 과정에서 만들어진 것이 A4 용지이다.",
+      "passage_template": "예전에는 큰 규격의 종이를 절반으로 자르는 과정을 반복해 업무에 필요한 다양한 크기의 종이를 만들었다. 그런데 종이를 자르는 과정에서 비율이 달라져서 버려야 하는 부분이 매번 발생하였다. 이에 한 물리학자는 가로세로 비율이 1:1.414인 종이를 만들었다. 이 비율로 만들어진 종이는 인쇄에서 축소나 확대를 해도 문서 내용의 비율이 일관되게 유지되어 종이의 낭비되는 것을 줄일 수 있었다. 이러한 과정에서 만들어진 것이 A4 용지이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다."
+        },
+        {
+          "number": 2,
+          "text": "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다."
+        },
+        {
+          "number": 3,
+          "text": "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다."
+        },
+        {
+          "number": 4,
+          "text": "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다."
+        },
+        {
+          "number": 2,
+          "text": "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다."
+        },
+        {
+          "number": 3,
+          "text": "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다."
+        },
+        {
+          "number": 4,
+          "text": "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+        }
+      ],
+      "options_text": [
+        "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다.",
+        "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다.",
+        "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다.",
+        "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 35,
+      "target_slot": 35,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R036",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 16,
+      "source_printed_page": 15,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "설명문 중심 내용 파악",
+      "original_question_number": 36,
+      "question_number": 36,
+      "target_slots": [
+        36
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "동전 던지기는 어떠한 꼼수도 통하지 않을 것이라는 믿음 때문에 공정한 방법으로 여겨져 왔다. 이에 동점인 상황에서 승패를 가려야 할 때 동전 던지기를 하는 경우가 있다. 그러나 최근 동전 던지기의 확률이 절반이 아니라는 연구 결과가 나왔다. 동전을 던질 때 위에 있던 면이 떨어진 후에도 다시 위로 나올 확률이 조금 더 높았다. 동전을 던지기 전에 위를 향하고 있는 면을 안다면 이길 수 있는 확률은 높아진다.",
+      "passage_template": "동전 던지기는 어떠한 꼼수도 통하지 않을 것이라는 믿음 때문에 공정한 방법으로 여겨져 왔다. 이에 동점인 상황에서 승패를 가려야 할 때 동전 던지기를 하는 경우가 있다. 그러나 최근 동전 던지기의 확률이 절반이 아니라는 연구 결과가 나왔다. 동전을 던질 때 위에 있던 면이 떨어진 후에도 다시 위로 나올 확률이 조금 더 높았다. 동전을 던지기 전에 위를 향하고 있는 면을 안다면 이길 수 있는 확률은 높아진다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "동전 던지기를 시행하는 방식이 달라졌다."
+        },
+        {
+          "number": 2,
+          "text": "동전 던지기를 활용하는 상황이 많아지고 있다."
+        },
+        {
+          "number": 3,
+          "text": "동전 던지기는 공정한 승패 결정 방식으로 보기 어렵다."
+        },
+        {
+          "number": 4,
+          "text": "동전 던지기의 확률에 대한 다양한 연구들이 진행되었다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "동전 던지기를 시행하는 방식이 달라졌다."
+        },
+        {
+          "number": 2,
+          "text": "동전 던지기를 활용하는 상황이 많아지고 있다."
+        },
+        {
+          "number": 3,
+          "text": "동전 던지기는 공정한 승패 결정 방식으로 보기 어렵다."
+        },
+        {
+          "number": 4,
+          "text": "동전 던지기의 확률에 대한 다양한 연구들이 진행되었다."
+        }
+      ],
+      "options_text": [
+        "동전 던지기를 시행하는 방식이 달라졌다.",
+        "동전 던지기를 활용하는 상황이 많아지고 있다.",
+        "동전 던지기는 공정한 승패 결정 방식으로 보기 어렵다.",
+        "동전 던지기의 확률에 대한 다양한 연구들이 진행되었다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 36,
+      "target_slot": 36,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R037",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 16,
+      "source_printed_page": 15,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "설명문 중심 내용 파악",
+      "original_question_number": 37,
+      "question_number": 37,
+      "target_slots": [
+        37
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "고물가 현상이 지속될 경우 기업은 가격을 올리는 대신 제품의 용량을 줄이는 전략을 사용한다. 이에 대해 편법 가격 인상이라는 비판의 목소리가 커지자 정부는 제품에 용량 변경 표기를 의무화하는 대책을 내놓았다. 그러나 이러한 표기 의무화에 대한 규정이 상세하지 않아 문제이다. 포장지에 용량 변경 전후를 정확히 기재하고 의무적으로 일정 기간 동안 표기하게 해야 표기 의무화 대책이 제 역할을 할 수 있을 것이다.",
+      "passage_template": "고물가 현상이 지속될 경우 기업은 가격을 올리는 대신 제품의 용량을 줄이는 전략을 사용한다. 이에 대해 편법 가격 인상이라는 비판의 목소리가 커지자 정부는 제품에 용량 변경 표기를 의무화하는 대책을 내놓았다. 그러나 이러한 표기 의무화에 대한 규정이 상세하지 않아 문제이다. 포장지에 용량 변경 전후를 정확히 기재하고 의무적으로 일정 기간 동안 표기하게 해야 표기 의무화 대책이 제 역할을 할 수 있을 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "표기 의무화 대책은 높은 물가를 안정시키는 데 도움이 된다."
+        },
+        {
+          "number": 2,
+          "text": "표기 의무화 규정으로 기업과 소비자의 입장 차이를 좁힐 수 있다."
+        },
+        {
+          "number": 3,
+          "text": "표기 의무화 규정을 지키지 않는 기업에 대한 제재를 강화해야 한다."
+        },
+        {
+          "number": 4,
+          "text": "표기 의무화 대책이 효과를 거두기 위해 세부 규정이 명확해져야 한다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "표기 의무화 대책은 높은 물가를 안정시키는 데 도움이 된다."
+        },
+        {
+          "number": 2,
+          "text": "표기 의무화 규정으로 기업과 소비자의 입장 차이를 좁힐 수 있다."
+        },
+        {
+          "number": 3,
+          "text": "표기 의무화 규정을 지키지 않는 기업에 대한 제재를 강화해야 한다."
+        },
+        {
+          "number": 4,
+          "text": "표기 의무화 대책이 효과를 거두기 위해 세부 규정이 명확해져야 한다."
+        }
+      ],
+      "options_text": [
+        "표기 의무화 대책은 높은 물가를 안정시키는 데 도움이 된다.",
+        "표기 의무화 규정으로 기업과 소비자의 입장 차이를 좁힐 수 있다.",
+        "표기 의무화 규정을 지키지 않는 기업에 대한 제재를 강화해야 한다.",
+        "표기 의무화 대책이 효과를 거두기 위해 세부 규정이 명확해져야 한다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 37,
+      "target_slot": 37,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R038",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 17,
+      "source_printed_page": 16,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "main_idea",
+      "category": "주제 파악",
+      "diagnostic_area": "설명문 중심 내용 파악",
+      "original_question_number": 38,
+      "question_number": 38,
+      "target_slots": [
+        38
+      ],
+      "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "유적에서 출토된 사람의 뼈를 분석하여 나이, 성별뿐만 아니라 평소에 섭취한 음식의 종류와 비중까지 알 수 있게 되었다. 뼛속 콜라겐에 남아 있는 화학 성분인 안정동위원소 덕분이다. 내륙 지방에 있는 상위 계층의 사람들은 해산물을 섭취했으나 하위 계층의 사람들은 주로 곡물을 섭취했다. 해안에서 조달한 어패류는 높은 계층만 섭취할 수 있었던 것이다.",
+      "passage_template": "유적에서 출토된 사람의 뼈를 분석하여 나이, 성별뿐만 아니라 평소에 섭취한 음식의 종류와 비중까지 알 수 있게 되었다. 뼛속 콜라겐에 남아 있는 화학 성분인 안정동위원소 덕분이다. 내륙 지방에 있는 상위 계층의 사람들은 해산물을 섭취했으나 하위 계층의 사람들은 주로 곡물을 섭취했다. 해안에서 조달한 어패류는 높은 계층만 섭취할 수 있었던 것이다.",
+      "options": [
+        {
+          "number": 1,
+          "text": "유골 분석의 역사학적 가치가 제대로 인정받기 시작하였다."
+        },
+        {
+          "number": 2,
+          "text": "고대인의 유전자 분석이 뼈의 화학적 분석 기술로 가능해졌다."
+        },
+        {
+          "number": 3,
+          "text": "뼈의 화학적 분석을 통해 사회적 지위를 짐작할 수 있게 되었다."
+        },
+        {
+          "number": 4,
+          "text": "뼈의 성분 분석을 통해 고대인의 이주 양상을 알 수 있게 되었다."
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "유골 분석의 역사학적 가치가 제대로 인정받기 시작하였다."
+        },
+        {
+          "number": 2,
+          "text": "고대인의 유전자 분석이 뼈의 화학적 분석 기술로 가능해졌다."
+        },
+        {
+          "number": 3,
+          "text": "뼈의 화학적 분석을 통해 사회적 지위를 짐작할 수 있게 되었다."
+        },
+        {
+          "number": 4,
+          "text": "뼈의 성분 분석을 통해 고대인의 이주 양상을 알 수 있게 되었다."
+        }
+      ],
+      "options_text": [
+        "유골 분석의 역사학적 가치가 제대로 인정받기 시작하였다.",
+        "고대인의 유전자 분석이 뼈의 화학적 분석 기술로 가능해졌다.",
+        "뼈의 화학적 분석을 통해 사회적 지위를 짐작할 수 있게 되었다.",
+        "뼈의 성분 분석을 통해 고대인의 이주 양상을 알 수 있게 되었다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 38,
+      "target_slot": 38,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R039",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 17,
+      "source_printed_page": 16,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "문장 간 연결 관계와 지시어 이해",
+      "original_question_number": 39,
+      "question_number": 39,
+      "target_slots": [
+        39
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "passage": "농구는 공을 차지하기 위한 경쟁이 치열하다. ( ㉠ ) 수비수들은 공을 가지고 있는 선수의 시선을 살펴 공의 이동 방향을 예측한다. ( ㉡ ) 그러다 보니 공격수 중에는 공을 보내려는 방향으로 시선을 주지 않고 전혀 엉뚱한 방향을 보면서 패스를 하는 선수도 있다. ( ㉢ ) 이는 동료 선수와의 호흡이 잘 맞아야 함은 물론 정확성이 요구되는 기술로 여러 구기 종목에서 사용되고 있다. ( ㉣ )",
+      "passage_template": "농구는 공을 차지하기 위한 경쟁이 치열하다. ( ㉠ ) 수비수들은 공을 가지고 있는 선수의 시선을 살펴 공의 이동 방향을 예측한다. ( ㉡ ) 그러다 보니 공격수 중에는 공을 보내려는 방향으로 시선을 주지 않고 전혀 엉뚱한 방향을 보면서 패스를 하는 선수도 있다. ( ㉢ ) 이는 동료 선수와의 호흡이 잘 맞아야 함은 물론 정확성이 요구되는 기술로 여러 구기 종목에서 사용되고 있다. ( ㉣ )",
+      "options": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 39,
+      "target_slot": 39,
+      "insert_sentence": "상대 수비수들을 속이는 눈속임 기술을 쓰는 것이다.",
+      "sentence_to_insert": "상대 수비수들을 속이는 눈속임 기술을 쓰는 것이다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "position_labels": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_position": "㉢",
+      "correct_insert_position": "㉢",
+      "interaction_mode": "sentence_insert",
+      "template_required_type": "sentence_insert",
+      "sentence_insert_reviewed": false,
+      "sentence_insert_source_round": "93",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R040",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 18,
+      "source_printed_page": 17,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "문장 간 연결 관계와 지시어 이해",
+      "original_question_number": 40,
+      "question_number": 40,
+      "target_slots": [
+        40
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "passage": "건조한 지역에 사는 바오바브나무는 특히 생명력이 강한 나무로 알려져 있다. ( ㉠ ) 이 나무는 광합성을 할 때 물을 아주 조금씩 사용하며 숨을 쉴 때 사용하는 기공도 아주 조금씩 여닫는다. ( ㉡ ) 또 이 나무는 키의 두 배에 달하는 뿌리를 가졌다. ( ㉢ ) 긴 뿌리 덕분에 땅속 깊이 있는 물도 흡수할 수 있다. ( ㉣ )",
+      "passage_template": "건조한 지역에 사는 바오바브나무는 특히 생명력이 강한 나무로 알려져 있다. ( ㉠ ) 이 나무는 광합성을 할 때 물을 아주 조금씩 사용하며 숨을 쉴 때 사용하는 기공도 아주 조금씩 여닫는다. ( ㉡ ) 또 이 나무는 키의 두 배에 달하는 뿌리를 가졌다. ( ㉢ ) 긴 뿌리 덕분에 땅속 깊이 있는 물도 흡수할 수 있다. ( ㉣ )",
+      "options": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 40,
+      "target_slot": 40,
+      "insert_sentence": "물이 부족한 기후에 적응하기 위해 모든 활동을 최소화하는 것이다.",
+      "sentence_to_insert": "물이 부족한 기후에 적응하기 위해 모든 활동을 최소화하는 것이다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "position_labels": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_position": "㉡",
+      "correct_insert_position": "㉡",
+      "interaction_mode": "sentence_insert",
+      "template_required_type": "sentence_insert",
+      "sentence_insert_reviewed": false,
+      "sentence_insert_source_round": "93",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "id": "QB-T2-93-R041",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 18,
+      "source_printed_page": 17,
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "문장 간 연결 관계와 지시어 이해",
+      "original_question_number": 41,
+      "question_number": 41,
+      "target_slots": [
+        41
+      ],
+      "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+      "passage": "시인 김시화가 신작 『내가 생각한 인생』이라는 산문집을 들고 독자 곁으로 돌아왔다. ( ㉠ ) 그동안 시인은 자기 성찰적 시나 명상 서적으로 많은 사랑을 받았다. ( ㉡ ) 이야기 속에서 시인은 삶을 힘겨워하는 이들의 아픔에 공감하며 자신이 깨달은 것들을 진심을 다해 전달한다. ( ㉢ ) 우리는 그가 건네는 말을 통해 자연스럽게 자신의 내면을 들여다보고 삶을 유연하고 긍정적으로 바라보게 된다. ( ㉣ )",
+      "passage_template": "시인 김시화가 신작 『내가 생각한 인생』이라는 산문집을 들고 독자 곁으로 돌아왔다. ( ㉠ ) 그동안 시인은 자기 성찰적 시나 명상 서적으로 많은 사랑을 받았다. ( ㉡ ) 이야기 속에서 시인은 삶을 힘겨워하는 이들의 아픔에 공감하며 자신이 깨달은 것들을 진심을 다해 전달한다. ( ㉢ ) 우리는 그가 건네는 말을 통해 자연스럽게 자신의 내면을 들여다보고 삶을 유연하고 긍정적으로 바라보게 된다. ( ㉣ )",
+      "options": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "option_objects": [
+        {
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "answer-key-93.json",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "review_confidence": "draft",
+      "template_slot": 41,
+      "target_slot": 41,
+      "insert_sentence": "하지만 이번 작품에는 자신이 여행하면서 느끼고 경험한 것들을 생생한 일화와 함께 담았다.",
+      "sentence_to_insert": "하지만 이번 작품에는 자신이 여행하면서 느끼고 경험한 것들을 생생한 일화와 함께 담았다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "position_labels": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_position": "㉡",
+      "correct_insert_position": "㉡",
+      "interaction_mode": "sentence_insert",
+      "template_required_type": "sentence_insert",
+      "sentence_insert_reviewed": false,
+      "sentence_insert_source_round": "93",
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "full_exam_id": "reading-93",
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
     {
       "id": "QB-T2-94-R001",
       "source_round": "94",
@@ -20277,6 +23303,1579 @@
   ],
   "passage_sets": [
     {
+      "set_id": "SET-T2-93-R019-020",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 8,
+      "source_printed_page": 7,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[19~20] 공통 지문",
+      "target_slots": [
+        19,
+        20
+      ],
+      "passage": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+      "passage_template": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R019",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 8,
+          "source_printed_page": 7,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+          "original_question_number": 19,
+          "question_number": 19,
+          "target_slots": [
+            19
+          ],
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+          "passage_template": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "과연"
+            },
+            {
+              "number": 2,
+              "text": "비록"
+            },
+            {
+              "number": 3,
+              "text": "게다가"
+            },
+            {
+              "number": 4,
+              "text": "오히려"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "과연"
+            },
+            {
+              "number": 2,
+              "text": "비록"
+            },
+            {
+              "number": 3,
+              "text": "게다가"
+            },
+            {
+              "number": 4,
+              "text": "오히려"
+            }
+          ],
+          "options_text": [
+            "과연",
+            "비록",
+            "게다가",
+            "오히려"
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 19,
+          "target_slot": 19,
+          "passage_group_id": "SET-T2-93-R019-020",
+          "passage_group_title": "[19~20] 공통 지문",
+          "passage_group_numbers": [
+            19,
+            20
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 1,
+          "blank_key": "blank_1",
+          "shared_insert_enabled": true,
+          "shared_insert_keys": [
+            "blank_1"
+          ],
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R020",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 8,
+          "source_printed_page": 7,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "짧은 공통 지문의 주제 파악",
+          "original_question_number": 20,
+          "question_number": 20,
+          "target_slots": [
+            20
+          ],
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+          "passage": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+          "passage_template": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다."
+            },
+            {
+              "number": 2,
+              "text": "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다."
+            },
+            {
+              "number": 3,
+              "text": "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다."
+            },
+            {
+              "number": 4,
+              "text": "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다."
+            },
+            {
+              "number": 2,
+              "text": "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다."
+            },
+            {
+              "number": 3,
+              "text": "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다."
+            },
+            {
+              "number": 4,
+              "text": "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+            }
+          ],
+          "options_text": [
+            "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다.",
+            "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다.",
+            "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다.",
+            "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 20,
+          "target_slot": 20,
+          "passage_group_id": "SET-T2-93-R019-020",
+          "passage_group_title": "[19~20] 공통 지문",
+          "passage_group_numbers": [
+            19,
+            20
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "set_id": "SET-T2-93-R021-022",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 9,
+      "source_printed_page": 8,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[21~22] 공통 지문",
+      "target_slots": [
+        21,
+        22
+      ],
+      "passage": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+      "passage_template": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R021",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 9,
+          "source_printed_page": 8,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "문맥에 맞는 관용 표현 선택",
+          "original_question_number": 21,
+          "question_number": 21,
+          "target_slots": [
+            21
+          ],
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+          "passage_template": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "눈길을 끌고"
+            },
+            {
+              "number": 2,
+              "text": "발목을 잡고"
+            },
+            {
+              "number": 3,
+              "text": "고개를 숙이고"
+            },
+            {
+              "number": 4,
+              "text": "머리를 식히고"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "눈길을 끌고"
+            },
+            {
+              "number": 2,
+              "text": "발목을 잡고"
+            },
+            {
+              "number": 3,
+              "text": "고개를 숙이고"
+            },
+            {
+              "number": 4,
+              "text": "머리를 식히고"
+            }
+          ],
+          "options_text": [
+            "눈길을 끌고",
+            "발목을 잡고",
+            "고개를 숙이고",
+            "머리를 식히고"
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 21,
+          "target_slot": 21,
+          "passage_group_id": "SET-T2-93-R021-022",
+          "passage_group_title": "[21~22] 공통 지문",
+          "passage_group_numbers": [
+            21,
+            22
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 1,
+          "blank_key": "BLANK-T2-93-R021",
+          "shared_insert_enabled": true,
+          "shared_insert_keys": [
+            "BLANK-T2-93-R021"
+          ],
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R022",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 9,
+          "source_printed_page": 8,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "공통 지문 내용 일치",
+          "diagnostic_area": "공통 지문의 세부 내용 이해",
+          "original_question_number": 22,
+          "question_number": 22,
+          "target_slots": [
+            22
+          ],
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+          "passage_template": "홍합은 파도에도 끄떡없이 바위 표면에 붙어 있다. 홍합이 강력한 접착 단백질을 생산하기 때문이다. 이러한 특성을 지닌 홍합은 상처 치료를 위한 의료용 접착제로 이용될 수 있어 (     ) 있다. 홍합의 접착 단백질은 인체에서 오랫동안 접착력을 유지할 수 있고 부작용도 없다. 그래서 기존에는 찢어진 상처를 실로 꿰매야만 했으나 이제는 실로 꿰맬 필요 없이 홍합으로 만든 접착제만 발라도 상처 부위를 붙게 할 수 있다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "홍합으로 만든 의료용 접착제는 지속력이 강하다."
+            },
+            {
+              "number": 2,
+              "text": "홍합은 인체에서 접착 단백질의 생산을 도와준다."
+            },
+            {
+              "number": 3,
+              "text": "홍합의 접착 단백질은 인체에 사용하면 부작용이 생긴다."
+            },
+            {
+              "number": 4,
+              "text": "홍합을 이용한 의료용 접착제는 상처를 실로 꿰맨 후 바른다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "홍합으로 만든 의료용 접착제는 지속력이 강하다."
+            },
+            {
+              "number": 2,
+              "text": "홍합은 인체에서 접착 단백질의 생산을 도와준다."
+            },
+            {
+              "number": 3,
+              "text": "홍합의 접착 단백질은 인체에 사용하면 부작용이 생긴다."
+            },
+            {
+              "number": 4,
+              "text": "홍합을 이용한 의료용 접착제는 상처를 실로 꿰맨 후 바른다."
+            }
+          ],
+          "options_text": [
+            "홍합으로 만든 의료용 접착제는 지속력이 강하다.",
+            "홍합은 인체에서 접착 단백질의 생산을 도와준다.",
+            "홍합의 접착 단백질은 인체에 사용하면 부작용이 생긴다.",
+            "홍합을 이용한 의료용 접착제는 상처를 실로 꿰맨 후 바른다."
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 22,
+          "target_slot": 22,
+          "passage_group_id": "SET-T2-93-R021-022",
+          "passage_group_title": "[21~22] 공통 지문",
+          "passage_group_numbers": [
+            21,
+            22
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "set_id": "SET-T2-93-R023-024",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 10,
+      "source_printed_page": 9,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[23~24] 공통 지문",
+      "target_slots": [
+        23,
+        24
+      ],
+      "passage": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+      "passage_template": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R023",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 10,
+          "source_printed_page": 9,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "original_question_number": 23,
+          "question_number": 23,
+          "target_slots": [
+            23
+          ],
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+          "passage": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+          "passage_template": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "놀랍다"
+            },
+            {
+              "number": 2,
+              "text": "아쉽다"
+            },
+            {
+              "number": 3,
+              "text": "미안하다"
+            },
+            {
+              "number": 4,
+              "text": "창피하다"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "놀랍다"
+            },
+            {
+              "number": 2,
+              "text": "아쉽다"
+            },
+            {
+              "number": 3,
+              "text": "미안하다"
+            },
+            {
+              "number": 4,
+              "text": "창피하다"
+            }
+          ],
+          "options_text": [
+            "놀랍다",
+            "아쉽다",
+            "미안하다",
+            "창피하다"
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 23,
+          "target_slot": 23,
+          "passage_group_id": "SET-T2-93-R023-024",
+          "passage_group_title": "[23~24] 공통 지문",
+          "passage_group_numbers": [
+            23,
+            24
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 1,
+          "underline_targets": [
+            "“오늘도 늦었네요.”"
+          ],
+          "underlined_parts": [
+            "“오늘도 늦었네요.”"
+          ],
+          "underline_review_note": "23~24번 공통 지문 기준: 원본 밑줄은 “오늘도 늦었네요.” 부분입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄 표시를 유지합니다.",
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R024",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 10,
+          "source_printed_page": 9,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "서사 글 이해",
+          "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+          "original_question_number": 24,
+          "question_number": 24,
+          "target_slots": [
+            24
+          ],
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+          "passage_template": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "내가 지금 다니고 있는 직장은 이 가게에서 멀다."
+            },
+            {
+              "number": 2,
+              "text": "이 샌드위치 가게는 많은 종류의 샌드위치를 판다."
+            },
+            {
+              "number": 3,
+              "text": "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다."
+            },
+            {
+              "number": 4,
+              "text": "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "내가 지금 다니고 있는 직장은 이 가게에서 멀다."
+            },
+            {
+              "number": 2,
+              "text": "이 샌드위치 가게는 많은 종류의 샌드위치를 판다."
+            },
+            {
+              "number": 3,
+              "text": "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다."
+            },
+            {
+              "number": 4,
+              "text": "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+            }
+          ],
+          "options_text": [
+            "내가 지금 다니고 있는 직장은 이 가게에서 멀다.",
+            "이 샌드위치 가게는 많은 종류의 샌드위치를 판다.",
+            "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다.",
+            "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 24,
+          "target_slot": 24,
+          "passage_group_id": "SET-T2-93-R023-024",
+          "passage_group_title": "[23~24] 공통 지문",
+          "passage_group_numbers": [
+            23,
+            24
+          ],
+          "shared_passage_total": 2,
+          "shared_passage_index": 2,
+          "underline_targets": [
+            "“오늘도 늦었네요.”"
+          ],
+          "underlined_parts": [
+            "“오늘도 늦었네요.”"
+          ],
+          "underline_review_note": "23~24번 공통 지문 기준: 원본 밑줄은 “오늘도 늦었네요.” 부분입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄 표시를 유지합니다.",
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments",
+      "underline_targets": [
+        "“오늘도 늦었네요.”"
+      ],
+      "underlined_parts": [
+        "“오늘도 늦었네요.”"
+      ],
+      "underline_review_note": "23~24번 공통 지문 기준: 원본 밑줄은 “오늘도 늦었네요.” 부분입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄 표시를 유지합니다."
+    },
+    {
+      "set_id": "SET-T2-93-R042-043",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 19,
+      "source_printed_page": 18,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[42~43] 공통 지문",
+      "target_slots": [
+        42,
+        43
+      ],
+      "passage": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+      "passage_template": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R042",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 19,
+          "source_printed_page": 18,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "original_question_number": 42,
+          "question_number": 42,
+          "target_slots": [
+            42
+          ],
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 ‘영화’의 심정으로 가장 알맞은 것을 고르십시오.",
+          "passage": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+          "passage_template": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "후회스럽다"
+            },
+            {
+              "number": 2,
+              "text": "의심스럽다"
+            },
+            {
+              "number": 3,
+              "text": "갑작스럽다"
+            },
+            {
+              "number": 4,
+              "text": "다행스럽다"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "후회스럽다"
+            },
+            {
+              "number": 2,
+              "text": "의심스럽다"
+            },
+            {
+              "number": 3,
+              "text": "갑작스럽다"
+            },
+            {
+              "number": 4,
+              "text": "다행스럽다"
+            }
+          ],
+          "options_text": [
+            "후회스럽다",
+            "의심스럽다",
+            "갑작스럽다",
+            "다행스럽다"
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 42,
+          "target_slot": 42,
+          "shared_passage_index": 1,
+          "passage_group_id": "SET-T2-93-R042-043",
+          "passage_group_title": "[42~43] 공통 지문",
+          "passage_group_numbers": [
+            42,
+            43
+          ],
+          "shared_passage_total": 2,
+          "underline_targets": [
+            "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+          ],
+          "underlined_parts": [
+            "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+          ],
+          "underline_review_note": "사용자 첨부 원본 화면 기준: 42~43번 공통 지문의 밑줄은 ‘아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!’ 부분입니다. 공통 지문이므로 42번과 43번 모두 같은 밑줄 표시를 유지합니다.",
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R043",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 19,
+          "source_printed_page": 18,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "서사 글 이해",
+          "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+          "original_question_number": 43,
+          "question_number": 43,
+          "target_slots": [
+            43
+          ],
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+          "passage": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+          "passage_template": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "영화는 약속과 다른 곳에서 기한을 기다렸다."
+            },
+            {
+              "number": 2,
+              "text": "기한은 영화가 느끼는 괴로움을 잘 이해해 주었다."
+            },
+            {
+              "number": 3,
+              "text": "영화와 기한은 편지를 주고받다가 서로 알게 되었다."
+            },
+            {
+              "number": 4,
+              "text": "기한은 값이 오른 물건을 미리 사서 돈을 벌곤 했다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "영화는 약속과 다른 곳에서 기한을 기다렸다."
+            },
+            {
+              "number": 2,
+              "text": "기한은 영화가 느끼는 괴로움을 잘 이해해 주었다."
+            },
+            {
+              "number": 3,
+              "text": "영화와 기한은 편지를 주고받다가 서로 알게 되었다."
+            },
+            {
+              "number": 4,
+              "text": "기한은 값이 오른 물건을 미리 사서 돈을 벌곤 했다."
+            }
+          ],
+          "options_text": [
+            "영화는 약속과 다른 곳에서 기한을 기다렸다.",
+            "기한은 영화가 느끼는 괴로움을 잘 이해해 주었다.",
+            "영화와 기한은 편지를 주고받다가 서로 알게 되었다.",
+            "기한은 값이 오른 물건을 미리 사서 돈을 벌곤 했다."
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 43,
+          "target_slot": 43,
+          "shared_passage_index": 2,
+          "passage_group_id": "SET-T2-93-R042-043",
+          "passage_group_title": "[42~43] 공통 지문",
+          "passage_group_numbers": [
+            42,
+            43
+          ],
+          "shared_passage_total": 2,
+          "underline_targets": [
+            "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+          ],
+          "underlined_parts": [
+            "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+          ],
+          "underline_review_note": "사용자 첨부 원본 화면 기준: 42~43번 공통 지문의 밑줄은 ‘아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!’ 부분입니다. 공통 지문이므로 42번과 43번 모두 같은 밑줄 표시를 유지합니다.",
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments",
+      "underline_targets": [
+        "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+      ],
+      "underlined_parts": [
+        "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+      ],
+      "underline_review_note": "사용자 첨부 원본 화면 기준: 42~43번 공통 지문의 밑줄은 ‘아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!’ 부분입니다. 공통 지문이므로 42번과 43번 모두 같은 밑줄 표시를 유지합니다."
+    },
+    {
+      "set_id": "SET-T2-93-R044-045",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 20,
+      "source_printed_page": 19,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[44~45] 공통 지문",
+      "target_slots": [
+        44,
+        45
+      ],
+      "passage": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+      "passage_template": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R044",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 20,
+          "source_printed_page": 19,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "빈칸 완성",
+          "diagnostic_area": "긴 지문의 문맥에 맞는 내용 선택",
+          "original_question_number": 44,
+          "question_number": 44,
+          "target_slots": [
+            44
+          ],
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+          "passage_template": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "낮은 생장률을 보여"
+            },
+            {
+              "number": 2,
+              "text": "높은 번식률을 보여"
+            },
+            {
+              "number": 3,
+              "text": "저조한 흡수율을 나타내"
+            },
+            {
+              "number": 4,
+              "text": "일정한 생존율을 나타내"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "낮은 생장률을 보여"
+            },
+            {
+              "number": 2,
+              "text": "높은 번식률을 보여"
+            },
+            {
+              "number": 3,
+              "text": "저조한 흡수율을 나타내"
+            },
+            {
+              "number": 4,
+              "text": "일정한 생존율을 나타내"
+            }
+          ],
+          "options_text": [
+            "낮은 생장률을 보여",
+            "높은 번식률을 보여",
+            "저조한 흡수율을 나타내",
+            "일정한 생존율을 나타내"
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 44,
+          "target_slot": 44,
+          "shared_passage_index": 1,
+          "passage_group_id": "SET-T2-93-R044-045",
+          "passage_group_title": "[44~45] 공통 지문",
+          "passage_group_numbers": [
+            44,
+            45
+          ],
+          "shared_passage_total": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R045",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 20,
+          "source_printed_page": 19,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "주제 파악",
+          "diagnostic_area": "공통 지문 중심 내용 파악",
+          "original_question_number": 45,
+          "question_number": 45,
+          "target_slots": [
+            45
+          ],
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+          "passage": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+          "passage_template": "‘능화판’은 각종 무늬가 조각되어 있는 나무 판목을 말한다. 조상들은 능화판에 밀랍을 칠하고 종이를 찍어 책의 표지를 만들었다. 능화판으로 찍은 책 표지는 다른 표지보다 문양이 선명하고 광택과 방습 효과가 있다고 알려져 왔다. 최근에는 능화판에 찍은 표지와 그렇지 않은 표지를 비교해 능화 표지의 보존적 특성을 분석하기도 했다. 연구에 따르면 두 종류의 표지에 열을 가했을 때 일반 책의 표지는 열을 가한 직후부터 훼손이 시작됐다. 반면 능화 표지는 초기에는 변화를 보이지 않다가 27일 이후부터 훼손이 되기 시작했다. 두 종류의 표지에 균을 배양했을 때에도 차이가 있었다. 균이 일반 책의 표지보다 능화 표지에서 (     ) 능화 표지의 높은 항균성을 증명했다. 이를 통해 능화판으로 만든 책 표지의 우수성을 확인할 수 있었다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "능화판으로 만든 표지의 책은 역사적인 가치가 뛰어나다."
+            },
+            {
+              "number": 2,
+              "text": "능화판으로 책의 표지를 만들면 책 표지의 보존성이 높아진다."
+            },
+            {
+              "number": 3,
+              "text": "능화 표지의 특수성을 알리기 위해서는 비교 실험이 필요하다."
+            },
+            {
+              "number": 4,
+              "text": "능화판의 다양한 무늬는 책의 표지를 아름답게 하는 역할을 한다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "능화판으로 만든 표지의 책은 역사적인 가치가 뛰어나다."
+            },
+            {
+              "number": 2,
+              "text": "능화판으로 책의 표지를 만들면 책 표지의 보존성이 높아진다."
+            },
+            {
+              "number": 3,
+              "text": "능화 표지의 특수성을 알리기 위해서는 비교 실험이 필요하다."
+            },
+            {
+              "number": 4,
+              "text": "능화판의 다양한 무늬는 책의 표지를 아름답게 하는 역할을 한다."
+            }
+          ],
+          "options_text": [
+            "능화판으로 만든 표지의 책은 역사적인 가치가 뛰어나다.",
+            "능화판으로 책의 표지를 만들면 책 표지의 보존성이 높아진다.",
+            "능화 표지의 특수성을 알리기 위해서는 비교 실험이 필요하다.",
+            "능화판의 다양한 무늬는 책의 표지를 아름답게 하는 역할을 한다."
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 45,
+          "target_slot": 45,
+          "shared_passage_index": 2,
+          "passage_group_id": "SET-T2-93-R044-045",
+          "passage_group_title": "[44~45] 공통 지문",
+          "passage_group_numbers": [
+            44,
+            45
+          ],
+          "shared_passage_total": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "set_id": "SET-T2-93-R046-047",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 21,
+      "source_printed_page": 20,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "group_title": "[46~47] 공통 지문",
+      "target_slots": [
+        46,
+        47
+      ],
+      "passage": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+      "passage_template": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R046",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 21,
+          "source_printed_page": 20,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "필자의 태도",
+          "diagnostic_area": "글쓴이의 태도와 주장 파악",
+          "original_question_number": 46,
+          "question_number": 46,
+          "target_slots": [
+            46
+          ],
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+          "passage": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+          "passage_template": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다."
+            },
+            {
+              "number": 3,
+              "text": "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다."
+            },
+            {
+              "number": 4,
+              "text": "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다."
+            },
+            {
+              "number": 2,
+              "text": "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다."
+            },
+            {
+              "number": 3,
+              "text": "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다."
+            },
+            {
+              "number": 4,
+              "text": "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+            }
+          ],
+          "options_text": [
+            "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다.",
+            "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다.",
+            "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다.",
+            "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 46,
+          "target_slot": 46,
+          "shared_passage_index": 1,
+          "passage_group_id": "SET-T2-93-R046-047",
+          "passage_group_title": "[46~47] 공통 지문",
+          "passage_group_numbers": [
+            46,
+            47
+          ],
+          "shared_passage_total": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R047",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 21,
+          "source_printed_page": 20,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "세부 내용 일치 여부 파악",
+          "original_question_number": 47,
+          "question_number": 47,
+          "target_slots": [
+            47
+          ],
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+          "passage_template": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다."
+            },
+            {
+              "number": 2,
+              "text": "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다."
+            },
+            {
+              "number": 3,
+              "text": "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다."
+            },
+            {
+              "number": 4,
+              "text": "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다."
+            },
+            {
+              "number": 2,
+              "text": "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다."
+            },
+            {
+              "number": 3,
+              "text": "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다."
+            },
+            {
+              "number": 4,
+              "text": "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+            }
+          ],
+          "options_text": [
+            "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다.",
+            "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다.",
+            "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다.",
+            "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 47,
+          "target_slot": 47,
+          "shared_passage_index": 2,
+          "passage_group_id": "SET-T2-93-R046-047",
+          "passage_group_title": "[46~47] 공통 지문",
+          "passage_group_numbers": [
+            46,
+            47
+          ],
+          "shared_passage_total": 2,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
+      "set_id": "SET-T2-93-R048-050",
+      "source_round": "93",
+      "source_file": "93회 읽기.pdf",
+      "source_pdf_page": 22,
+      "source_printed_page": 21,
+      "level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_3_questions",
+      "group_title": "[48~50] 공통 지문",
+      "target_slots": [
+        48,
+        49,
+        50
+      ],
+      "passage": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+      "passage_template": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+      "image_url": "",
+      "items": [
+        {
+          "id": "QB-T2-93-R048",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 22,
+          "source_printed_page": 21,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "쓰기 목적",
+          "diagnostic_area": "글쓴이의 글쓰기 목적 파악",
+          "original_question_number": 48,
+          "question_number": 48,
+          "target_slots": [
+            48
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+          "passage": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "passage_template": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "생태계 파괴에 백색목록제가 미칠 영향을 비판하려고"
+            },
+            {
+              "number": 2,
+              "text": "백색목록제가 수용한 국제 환경법의 원리를 소개하려고"
+            },
+            {
+              "number": 3,
+              "text": "백색목록에 포함된 생물종에 문제가 없는지를 분석하려고"
+            },
+            {
+              "number": 4,
+              "text": "과학적 검증을 통해 백색목록을 만들어야 함을 강조하려고"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "생태계 파괴에 백색목록제가 미칠 영향을 비판하려고"
+            },
+            {
+              "number": 2,
+              "text": "백색목록제가 수용한 국제 환경법의 원리를 소개하려고"
+            },
+            {
+              "number": 3,
+              "text": "백색목록에 포함된 생물종에 문제가 없는지를 분석하려고"
+            },
+            {
+              "number": 4,
+              "text": "과학적 검증을 통해 백색목록을 만들어야 함을 강조하려고"
+            }
+          ],
+          "options_text": [
+            "생태계 파괴에 백색목록제가 미칠 영향을 비판하려고",
+            "백색목록제가 수용한 국제 환경법의 원리를 소개하려고",
+            "백색목록에 포함된 생물종에 문제가 없는지를 분석하려고",
+            "과학적 검증을 통해 백색목록을 만들어야 함을 강조하려고"
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 48,
+          "target_slot": 48,
+          "shared_passage_index": 1,
+          "passage_group_id": "SET-T2-93-R048-050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R049",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 22,
+          "source_printed_page": 21,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_blank_choice",
+          "category": "빈칸 완성",
+          "diagnostic_area": "긴 지문의 문맥에 맞는 내용 선택",
+          "original_question_number": 49,
+          "question_number": 49,
+          "target_slots": [
+            49
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "passage_template": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "유입 경로와 관련해"
+            },
+            {
+              "number": 2,
+              "text": "평가 기준 설정을 위해"
+            },
+            {
+              "number": 3,
+              "text": "개체 수 관리와 관련해"
+            },
+            {
+              "number": 4,
+              "text": "수입 및 판매 확대를 위해"
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "유입 경로와 관련해"
+            },
+            {
+              "number": 2,
+              "text": "평가 기준 설정을 위해"
+            },
+            {
+              "number": 3,
+              "text": "개체 수 관리와 관련해"
+            },
+            {
+              "number": 4,
+              "text": "수입 및 판매 확대를 위해"
+            }
+          ],
+          "options_text": [
+            "유입 경로와 관련해",
+            "평가 기준 설정을 위해",
+            "개체 수 관리와 관련해",
+            "수입 및 판매 확대를 위해"
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 49,
+          "target_slot": 49,
+          "shared_passage_index": 2,
+          "passage_group_id": "SET-T2-93-R048-050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        },
+        {
+          "id": "QB-T2-93-R050",
+          "source_round": "93",
+          "source_file": "93회 읽기.pdf",
+          "source_pdf_page": 22,
+          "source_printed_page": 21,
+          "level": "TOPIK II",
+          "test_level": "TOPIK II",
+          "section": "reading",
+          "type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "세부 내용 일치 여부 파악",
+          "original_question_number": 50,
+          "question_number": 50,
+          "target_slots": [
+            50
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "passage_template": "얼마 전 국회에서는 법안 개정을 통해 외래 생물종에 대한 ‘백색목록제’를 도입하였다. 백색목록제는 국내 생태계에 해가 없음이 과학적으로 입증된 종만 도입하고 그 외 모든 종의 유입을 금지하는 제도이다. 이는 국제 환경법 원리 중 하나인 사전 예방의 원칙을 수용하는 제도로 생물종 정책의 의미 있는 진전임에 틀림없다. 그런데 이 제도가 도입 취지에 맞게 시행되기 위해서는 수입이 가능한 생물종에 대한 근거를 마련하는 것이 무엇보다 중요하다. 만약 이해관계자의 요구에 따라 백색목록이 만들어질 경우 위험한 제도로 전락할 수 있다. 현재 환경부는 백색목록 지정에 필요한 생물종의 (     ) 연구하고 있다. 백색목록제의 시행을 위해서는 과학적이고 객관적인 검증을 통한 목록 등재 절차 마련이 핵심이기 때문이다. 이 제도로 인해 국내 고유 생물종이 보호되고 생태계가 안전하게 보존되기를 바란다.",
+          "options": [
+            {
+              "number": 1,
+              "text": "백색목록에는 검증되지 않은 생물종을 포함시킬 수 있다."
+            },
+            {
+              "number": 2,
+              "text": "백색목록제에는 생태계 문제를 예방하려는 의도가 담겨 있다."
+            },
+            {
+              "number": 3,
+              "text": "백색목록제는 다양한 생물종의 국내 유입을 권장하는 제도이다."
+            },
+            {
+              "number": 4,
+              "text": "백색목록은 제도와 관련된 사람들의 이해 정도를 반영해 만들어진다."
+            }
+          ],
+          "option_objects": [
+            {
+              "number": 1,
+              "text": "백색목록에는 검증되지 않은 생물종을 포함시킬 수 있다."
+            },
+            {
+              "number": 2,
+              "text": "백색목록제에는 생태계 문제를 예방하려는 의도가 담겨 있다."
+            },
+            {
+              "number": 3,
+              "text": "백색목록제는 다양한 생물종의 국내 유입을 권장하는 제도이다."
+            },
+            {
+              "number": 4,
+              "text": "백색목록은 제도와 관련된 사람들의 이해 정도를 반영해 만들어진다."
+            }
+          ],
+          "options_text": [
+            "백색목록에는 검증되지 않은 생물종을 포함시킬 수 있다.",
+            "백색목록제에는 생태계 문제를 예방하려는 의도가 담겨 있다.",
+            "백색목록제는 다양한 생물종의 국내 유입을 권장하는 제도이다.",
+            "백색목록은 제도와 관련된 사람들의 이해 정도를 반영해 만들어진다."
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "answer_source": "answer-key-93.json",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": true,
+          "needs_answer_review": true,
+          "review_confidence": "draft",
+          "template_slot": 50,
+          "target_slot": 50,
+          "shared_passage_index": 3,
+          "passage_group_id": "SET-T2-93-R048-050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "data_status": "full_50_integrated_from_reviewed_segments",
+          "full_exam_id": "reading-93",
+          "bank_source": "reading-93.json",
+          "bank_status": "merged_from_93_full_50_reviewed_segments"
+        }
+      ],
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": true,
+      "needs_answer_review": true,
+      "bank_source": "reading-93.json",
+      "bank_status": "merged_from_93_full_50_reviewed_segments"
+    },
+    {
       "set_id": "SET-T2-94-R019-020",
       "source_round": "94",
       "source_file": "94회 읽기.pdf",
@@ -29809,10 +34408,11 @@
       ]
     }
   ],
-  "single_items_count": 245,
-  "passage_sets_count": 49,
-  "passage_set_items_count": 105,
+  "single_items_count": 280,
+  "passage_sets_count": 56,
+  "passage_set_items_count": 120,
   "source_rounds": [
+    "93",
     "94",
     "96",
     "97",
@@ -29822,15 +34422,16 @@
     "103"
   ],
   "source_files": [
-    "100회 토픽2 읽기.pdf",
-    "102회 TOPIK II 읽기 문제.pdf",
-    "103회 읽기 문제.pdf",
+    "93회 읽기.pdf",
     "94회 읽기.pdf",
     "96회 읽기 문제.pdf",
     "97회 읽기.pdf",
-    "99회 읽기.pdf"
+    "99회 읽기.pdf",
+    "100회 토픽2 읽기.pdf",
+    "102회 TOPIK II 읽기 문제.pdf",
+    "103회 읽기 문제.pdf"
   ],
-  "normalized_at": "2026-06-16",
+  "normalized_at": "2026-06-17",
   "normalization_basis": {
     "template_name": "TOPIK II Reading 1-50 Fixed Structure Template",
     "template_version": "1.0-103-draft",
@@ -29841,23 +34442,26 @@
   },
   "normalization_scope": {
     "previous_rounds_preserved": [
+      "94",
+      "96",
       "97",
       "99",
       "100",
       "102",
       "103"
     ],
-    "new_round_added": "96",
+    "new_round_added": "93",
     "new_round_single_items": 35,
     "new_round_passage_sets": 7,
     "new_round_passage_set_items": 15,
-    "total_bank_questions_after_merge": 300,
-    "answer_key_status_for_96": "user_provided_answer_table",
-    "needs_answer_review_for_96": true,
-    "text_review_basis_for_96": "segment_screen_review_completed_for_1_20_21_30_31_40_41_50_and_full_50"
+    "total_bank_questions_after_merge": 400,
+    "answer_key_status_for_93": "user_provided_answer_table",
+    "needs_answer_review_for_93": true,
+    "text_review_basis_for_93": "93회 구간별 draft 검수 후 full 50 통합본 기준"
   },
-  "previous_bank_version": "topik2-reading-bank-v300-96-97-99-100-102-103",
+  "previous_bank_version": "topik2-reading-bank-v350-94-96-97-99-100-102-103",
   "source_round_question_counts": {
+    "93": 50,
     "94": 50,
     "96": 50,
     "97": 50,
