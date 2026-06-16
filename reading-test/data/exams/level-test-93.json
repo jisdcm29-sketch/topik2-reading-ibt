@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "LT-93-Q001-FROM-R001",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 주말에 수영을 (     ) 드라마를 본다.",
+    "passage_template": "나는 주말에 수영을 (     ) 드라마를 본다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "하거나"
+      },
+      {
+        "number": 2,
+        "text": "하는지"
+      },
+      {
+        "number": 3,
+        "text": "하도록"
+      },
+      {
+        "number": 4,
+        "text": "하더니"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "하거나"
+      },
+      {
+        "number": 2,
+        "text": "하는지"
+      },
+      {
+        "number": 3,
+        "text": "하도록"
+      },
+      {
+        "number": 4,
+        "text": "하더니"
+      }
+    ],
+    "options_text": [
+      "하거나",
+      "하는지",
+      "하도록",
+      "하더니"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 1,
+    "target_slot": 1,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 1,
+    "source_bank_id": "T2-93-R001",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 1,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q002-FROM-R003",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[2] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "조사 결과에 의하면 지난해 화장품 수출이 크게 증가했다고 한다.",
+    "passage_template": "조사 결과에 의하면 지난해 화장품 수출이 크게 증가했다고 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "조사 결과에 따르면"
+      },
+      {
+        "number": 2,
+        "text": "조사 결과를 통해서"
+      },
+      {
+        "number": 3,
+        "text": "조사 결과로 인해서"
+      },
+      {
+        "number": 4,
+        "text": "조사 결과에 비하면"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "조사 결과에 따르면"
+      },
+      {
+        "number": 2,
+        "text": "조사 결과를 통해서"
+      },
+      {
+        "number": 3,
+        "text": "조사 결과로 인해서"
+      },
+      {
+        "number": 4,
+        "text": "조사 결과에 비하면"
+      }
+    ],
+    "options_text": [
+      "조사 결과에 따르면",
+      "조사 결과를 통해서",
+      "조사 결과로 인해서",
+      "조사 결과에 비하면"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 3,
+    "target_slot": 3,
+    "underline_targets": [
+      "조사 결과에 의하면"
+    ],
+    "underlined_parts": [
+      "조사 결과에 의하면"
+    ],
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 2,
+    "source_bank_id": "T2-93-R003",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 2,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q003-FROM-R005",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[3] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "침대"
+      },
+      {
+        "number": 2,
+        "text": "책상"
+      },
+      {
+        "number": 3,
+        "text": "컴퓨터"
+      },
+      {
+        "number": 4,
+        "text": "텔레비전"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "침대"
+      },
+      {
+        "number": 2,
+        "text": "책상"
+      },
+      {
+        "number": 3,
+        "text": "컴퓨터"
+      },
+      {
+        "number": 4,
+        "text": "텔레비전"
+      }
+    ],
+    "options_text": [
+      "침대",
+      "책상",
+      "컴퓨터",
+      "텔레비전"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/93_R005.png",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 5,
+    "target_slot": 5,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 3,
+    "source_bank_id": "T2-93-R005",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 3,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q004-FROM-R009",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "original_question_number": 9,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[4] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "주말에는 야간 관람을 할 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "야간 관람은 한 달 동안 진행된다."
+      },
+      {
+        "number": 3,
+        "text": "입장권은 경복궁에 가서 사야 한다."
+      },
+      {
+        "number": 4,
+        "text": "한복을 입으면 표를 사지 않아도 된다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "주말에는 야간 관람을 할 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "야간 관람은 한 달 동안 진행된다."
+      },
+      {
+        "number": 3,
+        "text": "입장권은 경복궁에 가서 사야 한다."
+      },
+      {
+        "number": 4,
+        "text": "한복을 입으면 표를 사지 않아도 된다."
+      }
+    ],
+    "options_text": [
+      "주말에는 야간 관람을 할 수 없다.",
+      "야간 관람은 한 달 동안 진행된다.",
+      "입장권은 경복궁에 가서 사야 한다.",
+      "한복을 입으면 표를 사지 않아도 된다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/93_R009.png",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 9,
+    "target_slot": 9,
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "78%",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 4,
+    "source_bank_id": "T2-93-R009",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 4,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q005-FROM-R011",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "original_question_number": 11,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[5] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "시민들의 새로운 문화 공간이 될 인주박물관이 다음 달 1일 문을 연다. 인주박물관은 개관을 기념하여 1980년대 한국의 거리를 주제로 특별 전시를 진행한다. 그때의 미용실, 영화관 등 추억의 장소에서는 사진도 찍고 80년대에 유행한 놀이도 해 볼 수 있다. 또한 전시 기간 중 놀이에 참여한 사람들에게는 특별한 기념품도 제공할 예정이다.",
+    "passage_template": "시민들의 새로운 문화 공간이 될 인주박물관이 다음 달 1일 문을 연다. 인주박물관은 개관을 기념하여 1980년대 한국의 거리를 주제로 특별 전시를 진행한다. 그때의 미용실, 영화관 등 추억의 장소에서는 사진도 찍고 80년대에 유행한 놀이도 해 볼 수 있다. 또한 전시 기간 중 놀이에 참여한 사람들에게는 특별한 기념품도 제공할 예정이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "이 박물관은 오랫동안 운영되어 왔다."
+      },
+      {
+        "number": 2,
+        "text": "박물관을 구경하는 사람들은 모두 기념품을 받는다."
+      },
+      {
+        "number": 3,
+        "text": "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "이 박물관은 오랫동안 운영되어 왔다."
+      },
+      {
+        "number": 2,
+        "text": "박물관을 구경하는 사람들은 모두 기념품을 받는다."
+      },
+      {
+        "number": 3,
+        "text": "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+      }
+    ],
+    "options_text": [
+      "이 박물관은 오랫동안 운영되어 왔다.",
+      "박물관을 구경하는 사람들은 모두 기념품을 받는다.",
+      "사람들은 박물관에서 예전의 한국 모습을 볼 수 있다.",
+      "이번 전시에서는 추억의 영화관을 방문한 사람이 많았다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 11,
+    "target_slot": 11,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 5,
+    "source_bank_id": "T2-93-R011",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 5,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q006-FROM-R010",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[6] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "건강식품을 먹는다는 응답이 가장 많았다."
+      },
+      {
+        "number": 2,
+        "text": "물 자주 마시기는 전체 응답의 반을 넘었다."
+      },
+      {
+        "number": 3,
+        "text": "운동을 한다고 응답한 비율이 세 번째로 높았다."
+      },
+      {
+        "number": 4,
+        "text": "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "건강식품을 먹는다는 응답이 가장 많았다."
+      },
+      {
+        "number": 2,
+        "text": "물 자주 마시기는 전체 응답의 반을 넘었다."
+      },
+      {
+        "number": 3,
+        "text": "운동을 한다고 응답한 비율이 세 번째로 높았다."
+      },
+      {
+        "number": 4,
+        "text": "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+      }
+    ],
+    "options_text": [
+      "건강식품을 먹는다는 응답이 가장 많았다.",
+      "물 자주 마시기는 전체 응답의 반을 넘었다.",
+      "운동을 한다고 응답한 비율이 세 번째로 높았다.",
+      "채소를 먹는다는 사람이 충분히 쉰다는 사람보다 적었다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/93_R010.png",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 10,
+    "target_slot": 10,
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "82%",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 6,
+    "source_bank_id": "T2-93-R010",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 6,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q007-FROM-R013",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[7] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다.\n(나) 그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다.\n(다) 그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다.\n(라) 어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다.",
+    "passage_template": "(가) 빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다.\n(나) 그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다.\n(다) 그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다.\n(라) 어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(다)-(나)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(가)-(나)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(다)-(나)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(다)-(가)-(나)"
+      }
+    ],
+    "options_text": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(다)-(나)-(라)",
+      "(라)-(나)-(다)-(가)",
+      "(라)-(다)-(가)-(나)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 13,
+    "target_slot": 13,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다."
+      },
+      {
+        "label": "(나)",
+        "text": "그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다."
+      },
+      {
+        "label": "(다)",
+        "text": "그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다."
+      },
+      {
+        "label": "(라)",
+        "text": "어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "빨간색은 밝은 곳이나 먼 곳에서도 눈에 잘 보인다."
+      },
+      {
+        "label": "(나)",
+        "text": "그러나 대피 경로를 알리는 비상구에는 초록색을 사용한다."
+      },
+      {
+        "label": "(다)",
+        "text": "그래서 주의나 경고 표지판에는 빨간색을 사용하는 경우가 많다."
+      },
+      {
+        "label": "(라)",
+        "text": "어두운 곳에서도 초록색이 사람들의 눈에 더 잘 띄기 때문이다."
+      }
+    ],
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 7,
+    "source_bank_id": "T2-93-R013",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 7,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q008-FROM-R016",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[8] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "사용자의 (     ) 자동으로 바뀌는 인공 지능 의자가 개발됐다. 이 의자는 온도를 체크하는 장치가 있어 사용자의 체온이 오르면 시원한 공기가 나온다. 또 팔걸이에 팔을 올리고 등을 기대면 사용자의 체형을 파악해 팔걸이와 등받이를 조절하여 편안한 자세를 만들어 준다.",
+    "passage_template": "사용자의 (     ) 자동으로 바뀌는 인공 지능 의자가 개발됐다. 이 의자는 온도를 체크하는 장치가 있어 사용자의 체온이 오르면 시원한 공기가 나온다. 또 팔걸이에 팔을 올리고 등을 기대면 사용자의 체형을 파악해 팔걸이와 등받이를 조절하여 편안한 자세를 만들어 준다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "심리 상태에 따라"
+      },
+      {
+        "number": 2,
+        "text": "체온과 자세에 따라"
+      },
+      {
+        "number": 3,
+        "text": "생활 습관을 고려해"
+      },
+      {
+        "number": 4,
+        "text": "체형과 성격을 고려해"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "심리 상태에 따라"
+      },
+      {
+        "number": 2,
+        "text": "체온과 자세에 따라"
+      },
+      {
+        "number": 3,
+        "text": "생활 습관을 고려해"
+      },
+      {
+        "number": 4,
+        "text": "체형과 성격을 고려해"
+      }
+    ],
+    "options_text": [
+      "심리 상태에 따라",
+      "체온과 자세에 따라",
+      "생활 습관을 고려해",
+      "체형과 성격을 고려해"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 16,
+    "target_slot": 16,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 8,
+    "source_bank_id": "T2-93-R016",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 8,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q009-FROM-R019",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+    "passage_template": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "과연"
+      },
+      {
+        "number": 2,
+        "text": "비록"
+      },
+      {
+        "number": 3,
+        "text": "게다가"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "과연"
+      },
+      {
+        "number": 2,
+        "text": "비록"
+      },
+      {
+        "number": 3,
+        "text": "게다가"
+      },
+      {
+        "number": 4,
+        "text": "오히려"
+      }
+    ],
+    "options_text": [
+      "과연",
+      "비록",
+      "게다가",
+      "오히려"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 19,
+    "target_slot": 19,
+    "passage_group_id": "SET-LT-93-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 9,
+    "source_bank_id": "T2-93-R019",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 9,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q010-FROM-R020",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+    "passage_template": "책 한 권의 내용을 짧게 압축해서 보여 주는 영상 서비스가 늘고 있다. 저자나 각 분야의 전문가가 책의 내용을 요약해서 알려 주기 때문에 구독자들은 짧은 시간 안에 책의 내용을 알 수 있다. (     ) 책의 내용과 관련된 영상을 추천받음으로써 해당 분야의 지식과 정보를 더 확대해 나갈 수 있다. 그리고 출퇴근길에도 부담 없이 즐길 수 있어 이용하는 사람이 증가하고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다."
+      },
+      {
+        "number": 2,
+        "text": "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다."
+      },
+      {
+        "number": 3,
+        "text": "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다."
+      },
+      {
+        "number": 4,
+        "text": "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다."
+      },
+      {
+        "number": 2,
+        "text": "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다."
+      },
+      {
+        "number": 3,
+        "text": "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다."
+      },
+      {
+        "number": 4,
+        "text": "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+      }
+    ],
+    "options_text": [
+      "영상 서비스를 제작할 수 있는 내용 전문가가 부족하다.",
+      "영상 서비스를 통해서는 책의 내용을 제대로 알기 어렵다.",
+      "책의 내용을 이해하려면 관련된 영상을 먼저 보는 것이 좋다.",
+      "책의 내용을 요약해 주는 영상 서비스 이용자가 많아지고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 20,
+    "target_slot": 20,
+    "passage_group_id": "SET-LT-93-Q009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 10,
+    "source_bank_id": "T2-93-R020",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 10,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q011-FROM-R023",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+    "passage_template": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "놀랍다"
+      },
+      {
+        "number": 2,
+        "text": "아쉽다"
+      },
+      {
+        "number": 3,
+        "text": "미안하다"
+      },
+      {
+        "number": 4,
+        "text": "창피하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "놀랍다"
+      },
+      {
+        "number": 2,
+        "text": "아쉽다"
+      },
+      {
+        "number": 3,
+        "text": "미안하다"
+      },
+      {
+        "number": 4,
+        "text": "창피하다"
+      }
+    ],
+    "options_text": [
+      "놀랍다",
+      "아쉽다",
+      "미안하다",
+      "창피하다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 23,
+    "target_slot": 23,
+    "passage_group_id": "SET-LT-93-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "underline_targets": [
+      "“오늘도 늦었네요.”"
+    ],
+    "underlined_parts": [
+      "“오늘도 늦었네요.”"
+    ],
+    "underline_review_note": "23~24번 공통 지문 기준: 원본 밑줄은 “오늘도 늦었네요.” 부분입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄 표시를 유지합니다.",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 11,
+    "source_bank_id": "T2-93-R023",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 11,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q012-FROM-R024",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "서사 글 이해",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[11~12] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+    "passage_template": "내가 자주 다녔던 샌드위치 가게가 있다. 일이 바빠서 간단히 끼니를 해결해야 하는 날이면 나는 주로 그곳에서 샌드위치를 샀다. 종류가 그리 다양하지는 않았지만 그중 유독 한 샌드위치가 인기가 많아서 그것을 사러 가는 날이면 대부분 다 팔리고 없었다. 그래서 사장님에게 “오늘도 늦었네요.”라고 말씀드리고 다른 샌드위치를 사 가는 날이 많았다. 그날도 바빠서 점심을 거르고 그 가게를 방문했는데 사장님이 내가 늘 찾던 그 샌드위치를 하나 남겨 두신 것을 알고 깜짝 놀랐다. 그뿐만 아니라 정성스레 포장해 주시더니 포장지에 “민수님, 맛있게 드세요.”라고 이름까지 적어서 주시는 것이 아닌가! 그 순간 나는 그분의 섬세한 배려에 적지 않게 놀랐다. 전혀 예상하지 못한 감동을 선물받은 이후 나는 먼 곳으로 회사를 옮긴 후에도 그 가게에 가끔 들르곤 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "내가 지금 다니고 있는 직장은 이 가게에서 멀다."
+      },
+      {
+        "number": 2,
+        "text": "이 샌드위치 가게는 많은 종류의 샌드위치를 판다."
+      },
+      {
+        "number": 3,
+        "text": "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다."
+      },
+      {
+        "number": 4,
+        "text": "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "내가 지금 다니고 있는 직장은 이 가게에서 멀다."
+      },
+      {
+        "number": 2,
+        "text": "이 샌드위치 가게는 많은 종류의 샌드위치를 판다."
+      },
+      {
+        "number": 3,
+        "text": "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다."
+      },
+      {
+        "number": 4,
+        "text": "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+      }
+    ],
+    "options_text": [
+      "내가 지금 다니고 있는 직장은 이 가게에서 멀다.",
+      "이 샌드위치 가게는 많은 종류의 샌드위치를 판다.",
+      "나는 이 가게의 인기 있는 샌드위치를 자주 먹었다.",
+      "사장님은 항상 손님의 이름을 샌드위치 포장지에 써 주었다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 24,
+    "target_slot": 24,
+    "passage_group_id": "SET-LT-93-Q011-012",
+    "passage_group_title": "[11~12] 공통 지문",
+    "passage_group_numbers": [
+      11,
+      12
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "underline_targets": [
+      "“오늘도 늦었네요.”"
+    ],
+    "underlined_parts": [
+      "“오늘도 늦었네요.”"
+    ],
+    "underline_review_note": "23~24번 공통 지문 기준: 원본 밑줄은 “오늘도 늦었네요.” 부분입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄 표시를 유지합니다.",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 12,
+    "source_bank_id": "T2-93-R024",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 12,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q013-FROM-R025",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[13] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "구름 인파 몰린 지역 축제, 지역 경제 활짝",
+    "passage_template": "구름 인파 몰린 지역 축제, 지역 경제 활짝",
+    "options": [
+      {
+        "number": 1,
+        "text": "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다."
+      },
+      {
+        "number": 2,
+        "text": "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다."
+      },
+      {
+        "number": 3,
+        "text": "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다."
+      },
+      {
+        "number": 4,
+        "text": "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다."
+      },
+      {
+        "number": 2,
+        "text": "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다."
+      },
+      {
+        "number": 3,
+        "text": "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다."
+      },
+      {
+        "number": 4,
+        "text": "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+      }
+    ],
+    "options_text": [
+      "경제가 회복되어 지역 축제를 찾는 사람들이 많아지고 있다.",
+      "수많은 사람들이 지역 축제를 찾아와 지역 경제도 활기를 찾았다.",
+      "지역 축제 운영에 많은 비용이 들어 지역 경제가 어려움에 처해 있다.",
+      "수많은 사람들이 지역 축제를 찾았으나 지역 경제는 살아나지 않았다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 25,
+    "target_slot": 25,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 13,
+    "source_bank_id": "T2-93-R025",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 13,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q014-FROM-R031",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 12,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸 완성",
+    "diagnostic_area": "긴 지문의 문맥에 맞는 내용 선택",
+    "original_question_number": 31,
+    "question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[14] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "국제법은 국가 상호 간의 협의를 바탕으로 국가 간의 권리와 의무에 대하여 규정한 법률이다. 20세기 이후 국제 무역이 증가하고 국가 간의 갈등이 커지면서 국제법의 역할이 중요해졌다. 그러나 대부분의 국제법은 불완전한 법으로 평가받고 있다. 법을 집행할 수 있는 강제력을 가진 권력 기구가 없기 때문이다. 법이 (     ) 위해서는 법률에 근거하여 수사를 진행하고 위법 사항에 대해 제재를 가할 권력 기구가 필요하다.",
+    "passage_template": "국제법은 국가 상호 간의 협의를 바탕으로 국가 간의 권리와 의무에 대하여 규정한 법률이다. 20세기 이후 국제 무역이 증가하고 국가 간의 갈등이 커지면서 국제법의 역할이 중요해졌다. 그러나 대부분의 국제법은 불완전한 법으로 평가받고 있다. 법을 집행할 수 있는 강제력을 가진 권력 기구가 없기 때문이다. 법이 (     ) 위해서는 법률에 근거하여 수사를 진행하고 위법 사항에 대해 제재를 가할 권력 기구가 필요하다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "시대에 맞게 개정되기"
+      },
+      {
+        "number": 2,
+        "text": "단시간에 널리 알려지기"
+      },
+      {
+        "number": 3,
+        "text": "실질적인 효력을 가지기"
+      },
+      {
+        "number": 4,
+        "text": "국가 간의 교류를 증대시키기"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "시대에 맞게 개정되기"
+      },
+      {
+        "number": 2,
+        "text": "단시간에 널리 알려지기"
+      },
+      {
+        "number": 3,
+        "text": "실질적인 효력을 가지기"
+      },
+      {
+        "number": 4,
+        "text": "국가 간의 교류를 증대시키기"
+      }
+    ],
+    "options_text": [
+      "시대에 맞게 개정되기",
+      "단시간에 널리 알려지기",
+      "실질적인 효력을 가지기",
+      "국가 간의 교류를 증대시키기"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 31,
+    "target_slot": 31,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 14,
+    "source_bank_id": "T2-93-R031",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 14,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q015-FROM-R032",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "세부 내용 일치 여부 파악",
+    "original_question_number": 32,
+    "question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[15] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "한 해의 마지막 날인 설달 그믐날 풍물을 치면서 마을을 도는 아이들은 집집마다 들러 복을 빌어 준다. 이때 어른들이 큰 자루를 들고 아이들 뒤를 따르는데 집주인은 형편대로 자루에 곡식을 담아 주었다. 자루가 여러 개 모이면 마을에서 논의해 상황이 어려운 집들을 골라 나눠 주었다. 사람들은 어느 집이 자루를 받았는지 서로 모른 척했다. 힘든 이웃이 체면이 상하지 않고 따뜻하게 연말을 보내게 하려는 배려였다.",
+    "passage_template": "한 해의 마지막 날인 설달 그믐날 풍물을 치면서 마을을 도는 아이들은 집집마다 들러 복을 빌어 준다. 이때 어른들이 큰 자루를 들고 아이들 뒤를 따르는데 집주인은 형편대로 자루에 곡식을 담아 주었다. 자루가 여러 개 모이면 마을에서 논의해 상황이 어려운 집들을 골라 나눠 주었다. 사람들은 어느 집이 자루를 받았는지 서로 모른 척했다. 힘든 이웃이 체면이 상하지 않고 따뜻하게 연말을 보내게 하려는 배려였다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다."
+      },
+      {
+        "number": 2,
+        "text": "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다."
+      },
+      {
+        "number": 3,
+        "text": "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다."
+      },
+      {
+        "number": 4,
+        "text": "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다."
+      },
+      {
+        "number": 2,
+        "text": "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다."
+      },
+      {
+        "number": 3,
+        "text": "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다."
+      },
+      {
+        "number": 4,
+        "text": "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+      }
+    ],
+    "options_text": [
+      "설달 그믐날에는 마을 어른들이 모여 풍물을 쳤다.",
+      "집집마다 자기 집 사정에 맞게 자루에 곡식을 넣었다.",
+      "아이들이 어른들의 뒤를 따라다니며 복을 빌어 주었다.",
+      "마을 사람들은 어느 집이 자루를 받았는지 알 수 없었다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 32,
+    "target_slot": 32,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 15,
+    "source_bank_id": "T2-93-R032",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 15,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q016-FROM-R035",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "설명문 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[16] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "예전에는 큰 규격의 종이를 절반으로 자르는 과정을 반복해 업무에 필요한 다양한 크기의 종이를 만들었다. 그런데 종이를 자르는 과정에서 비율이 달라져서 버려야 하는 부분이 매번 발생하였다. 이에 한 물리학자는 가로세로 비율이 1:1.414인 종이를 만들었다. 이 비율로 만들어진 종이는 인쇄에서 축소나 확대를 해도 문서 내용의 비율이 일관되게 유지되어 종이의 낭비되는 것을 줄일 수 있었다. 이러한 과정에서 만들어진 것이 A4 용지이다.",
+    "passage_template": "예전에는 큰 규격의 종이를 절반으로 자르는 과정을 반복해 업무에 필요한 다양한 크기의 종이를 만들었다. 그런데 종이를 자르는 과정에서 비율이 달라져서 버려야 하는 부분이 매번 발생하였다. 이에 한 물리학자는 가로세로 비율이 1:1.414인 종이를 만들었다. 이 비율로 만들어진 종이는 인쇄에서 축소나 확대를 해도 문서 내용의 비율이 일관되게 유지되어 종이의 낭비되는 것을 줄일 수 있었다. 이러한 과정에서 만들어진 것이 A4 용지이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다."
+      },
+      {
+        "number": 2,
+        "text": "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다."
+      },
+      {
+        "number": 3,
+        "text": "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다."
+      },
+      {
+        "number": 4,
+        "text": "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다."
+      },
+      {
+        "number": 2,
+        "text": "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다."
+      },
+      {
+        "number": 3,
+        "text": "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다."
+      },
+      {
+        "number": 4,
+        "text": "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+      }
+    ],
+    "options_text": [
+      "A4 용지는 인쇄 기술이 발달하면서 널리 사용되었다.",
+      "A4 용지의 규격은 다양한 용도로 활용하기에 적합했다.",
+      "A4 용지의 개발은 물리학자들의 연구 대상이 되어 왔다.",
+      "A4 용지는 종이의 낭비를 줄이려는 노력에서 만들어졌다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 35,
+    "target_slot": 35,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 16,
+    "source_bank_id": "T2-93-R035",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 16,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q017-FROM-R039",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 17,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문장 간 연결 관계와 지시어 이해",
+    "original_question_number": 39,
+    "question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[17] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "농구는 공을 차지하기 위한 경쟁이 치열하다. ( ㉠ ) 수비수들은 공을 가지고 있는 선수의 시선을 살펴 공의 이동 방향을 예측한다. ( ㉡ ) 그러다 보니 공격수 중에는 공을 보내려는 방향으로 시선을 주지 않고 전혀 엉뚱한 방향을 보면서 패스를 하는 선수도 있다. ( ㉢ ) 이는 동료 선수와의 호흡이 잘 맞아야 함은 물론 정확성이 요구되는 기술로 여러 구기 종목에서 사용되고 있다. ( ㉣ )",
+    "passage_template": "농구는 공을 차지하기 위한 경쟁이 치열하다. ( ㉠ ) 수비수들은 공을 가지고 있는 선수의 시선을 살펴 공의 이동 방향을 예측한다. ( ㉡ ) 그러다 보니 공격수 중에는 공을 보내려는 방향으로 시선을 주지 않고 전혀 엉뚱한 방향을 보면서 패스를 하는 선수도 있다. ( ㉢ ) 이는 동료 선수와의 호흡이 잘 맞아야 함은 물론 정확성이 요구되는 기술로 여러 구기 종목에서 사용되고 있다. ( ㉣ )",
+    "options": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 39,
+    "target_slot": 39,
+    "insert_sentence": "상대 수비수들을 속이는 눈속임 기술을 쓰는 것이다.",
+    "sentence_to_insert": "상대 수비수들을 속이는 눈속임 기술을 쓰는 것이다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢",
+    "correct_insert_position": "㉢",
+    "interaction_mode": "sentence_insert",
+    "template_required_type": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "sentence_insert_source_round": "93",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 17,
+    "source_bank_id": "T2-93-R039",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 17,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q018-FROM-R042",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 19,
+    "source_printed_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "original_question_number": 42,
+    "question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[18] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘영화’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+    "passage_template": "영화와 기한은 펜팔로 만났다. 당시만 해도 손으로 편지를 쓰는 게 유행이었고 돈을 몇여 준 건 월간으로 나오던 한 잡지의 독자 게시판이었다. (중략) 둘은 처음으로 통화를 했고 시청역에서 만났는데 하마터면 그러지 못할 뻔했다. 대전에서 기차를 놓친 기한이 두 시간이나 늦었기 때문이다. 한편 약속대로 남색 스카프가 달린 노란 가방을 멘 영화는 낭패감과 모멸감에 휩싸여 눈물이 날 지경이었다. 삼십 분만 더 기다리자던 생각은 세 차례 연장돼 어느새 두 시간이 흘렀다. 다부지게 막 걸음을 옮기려 할 때 숨을 헐떡이며 저 혹시,라고 말을 걸던 기한의 모습을 떠올릴 때마다 영화의 가슴에 서늘하고도 뜨거운 기운이 솟구쳤다. 아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만! 영화는 매번 덧없이 과거의 자신을 질책한다.\n\n(중략) 기한은 영화에게 꽉 짜인 울타리와 지붕을 제공했다. 견고하되 구멍이 많고 드나들 수 있지만 도망칠 수 없는 울타리와 지붕이었다. (중략) 기한은 잊을 만하면 자잘한 여자 문제로 영화의 골머리를 썩였고 몇 년에 한 번씩은 미래의 보물이 될 거라며 해괴한 잡동사니를 수집하느라 목돈을 탕진했으며 그럼에도 불구하고 영화가 겪는 고초에 전혀 동감하지 못한 채 늘 당당하고 뻔뻔스럽기만 한 태도를 고집했다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "후회스럽다"
+      },
+      {
+        "number": 2,
+        "text": "의심스럽다"
+      },
+      {
+        "number": 3,
+        "text": "갑작스럽다"
+      },
+      {
+        "number": 4,
+        "text": "다행스럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "후회스럽다"
+      },
+      {
+        "number": 2,
+        "text": "의심스럽다"
+      },
+      {
+        "number": 3,
+        "text": "갑작스럽다"
+      },
+      {
+        "number": 4,
+        "text": "다행스럽다"
+      }
+    ],
+    "options_text": [
+      "후회스럽다",
+      "의심스럽다",
+      "갑작스럽다",
+      "다행스럽다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 42,
+    "target_slot": 42,
+    "underline_targets": [
+      "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+    ],
+    "underlined_parts": [
+      "아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!"
+    ],
+    "underline_review_note": "사용자 첨부 원본 화면 기준: 42~43번 공통 지문의 밑줄은 ‘아휴 인간아, 일 분만 일찍 자리를 뜨지 그랬니, 일 분만!’ 부분입니다. 공통 지문이므로 42번과 43번 모두 같은 밑줄 표시를 유지합니다.",
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 18,
+    "source_bank_id": "T2-93-R042",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 18,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q019-FROM-R046",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "필자의 태도",
+    "diagnostic_area": "글쓴이의 태도와 주장 파악",
+    "original_question_number": 46,
+    "question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+    "passage_template": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+      }
+    ],
+    "options_text": [
+      "행복이 과학적인 연구의 주제가 된 것을 환영하고 있다.",
+      "행복 측정 도구를 구성하는 어휘의 참신성에 대해 감탄하고 있다.",
+      "문화적 특성이 행복 측정 도구 개발에 미치는 영향을 부정하고 있다.",
+      "다양한 문화권의 특성이 반영된 행복 측정 도구의 개발을 주장하고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 46,
+    "target_slot": 46,
+    "shared_passage_index": 1,
+    "passage_group_id": "SET-LT-93-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 19,
+    "source_bank_id": "T2-93-R046",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 19,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  },
+  {
+    "id": "LT-93-Q020-FROM-R047",
+    "source_round": "93",
+    "source_file": "93회 읽기.pdf",
+    "source_pdf_page": 21,
+    "source_printed_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "세부 내용 일치 여부 파악",
+    "original_question_number": 47,
+    "question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+    "passage_template": "행복이 과학적 탐구의 대상이 되면서 연구자들은 행복을 측정하는 도구를 개발해 왔다. 현재 널리 사용되는 도구들은 타당성이 검증되었다고 하지만 문화 보편적으로 사용이 가능한가에 대해서는 확신하기 어렵다. 삶에서 개인, 관계, 집단적 측면은 행복을 측정하는 중요한 요인인데 이 세 측면의 중요성은 문화권마다 차이가 있다. 개인의 만족이 강조되는 문화권이 있는 반면, 대인 간의 조화가 강조되는 문화권이 있다. 그런데 기존 문항들은 개인적으로 느끼는 자신의 상태를 표현하는 ‘활기찬’, ‘흥분된’과 같은 어휘로 구성되어 있고 ‘창피한’, ‘외로운’과 같이 사람 간 관계에서 유발되는 정서들은 배제되어 있다. 이러한 것들은 집단을 중시하는 문화권에서는 중요하게 여기는 감정들이다. 따라서 문화권이 가진 정서가 고루 반영된 도구를 개발할 필요가 있다. 특정 문화권에 편파적이지 않은 행복 측정 도구를 개발해야 할 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다."
+      },
+      {
+        "number": 2,
+        "text": "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다."
+      },
+      {
+        "number": 2,
+        "text": "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다."
+      },
+      {
+        "number": 3,
+        "text": "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+      }
+    ],
+    "options_text": [
+      "개발된 문항에는 개인적 만족에 대한 내용이 빠져 있다.",
+      "검사를 통해 증명되지 않은 행복 측정 도구들이 많이 사용되고 있다.",
+      "‘활기찬’, ‘흥분된’과 같은 감정은 타인과의 관계 속에서 느낄 수 있다.",
+      "집단주의 특성이 있는 문화권에서는 관계에서 발생하는 감정을 중시한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-93.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "draft",
+    "template_slot": 47,
+    "target_slot": 47,
+    "shared_passage_index": 2,
+    "passage_group_id": "SET-LT-93-Q019-020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_total": 2,
+    "data_status": "level_test_20_from_93_full",
+    "level_test_question_number": 20,
+    "source_bank_id": "T2-93-R047",
+    "source_exam_id": "reading-93",
+    "generated_exam_id": "LEVEL-TEST-93-FIXED-20",
+    "level_test_blueprint_slot": 20,
+    "exam_type": "level-test",
+    "selection_type": "round",
+    "round": "93",
+    "generated_exam_mode": "round_fixed_level_test",
+    "generated_exam_round": "93",
+    "generated_exam_label": "93회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30
+  }
+]
