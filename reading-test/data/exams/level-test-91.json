@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "T2-91-LT001-SRC001",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 오래전에 설악산을 (     ).",
+    "passage_template": "나는 오래전에 설악산을 (     ).",
+    "options": [
+      {
+        "number": 1,
+        "text": "등산하고 싶다"
+      },
+      {
+        "number": 2,
+        "text": "등산해도 된다"
+      },
+      {
+        "number": 3,
+        "text": "등산할 것 같다"
+      },
+      {
+        "number": 4,
+        "text": "등산한 적이 있다"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "등산하고 싶다"
+      },
+      {
+        "number": 2,
+        "text": "등산해도 된다"
+      },
+      {
+        "number": 3,
+        "text": "등산할 것 같다"
+      },
+      {
+        "number": 4,
+        "text": "등산한 적이 있다"
+      }
+    ],
+    "options_text": [
+      "등산하고 싶다",
+      "등산해도 된다",
+      "등산할 것 같다",
+      "등산한 적이 있다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 1,
+    "target_slot": 1,
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 1,
+    "source_full_question_number": 1,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 1,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT002-SRC003",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "underlined_meaning",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "어려운 이웃을 돕고자 매년 봉사 활동에 참여하고 있다.",
+    "passage_template": "어려운 이웃을 돕고자 매년 봉사 활동에 참여하고 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "돕기 위해서"
+      },
+      {
+        "number": 2,
+        "text": "돕는 대신에"
+      },
+      {
+        "number": 3,
+        "text": "돕기 무섭게"
+      },
+      {
+        "number": 4,
+        "text": "돕는 바람에"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "돕기 위해서"
+      },
+      {
+        "number": 2,
+        "text": "돕는 대신에"
+      },
+      {
+        "number": 3,
+        "text": "돕기 무섭게"
+      },
+      {
+        "number": 4,
+        "text": "돕는 바람에"
+      }
+    ],
+    "options_text": [
+      "돕기 위해서",
+      "돕는 대신에",
+      "돕기 무섭게",
+      "돕는 바람에"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 2,
+    "target_slot": 2,
+    "underline_targets": [
+      "돕고자"
+    ],
+    "underlined_parts": [
+      "돕고자"
+    ],
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 3,
+    "source_full_question_number": 3,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 2,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT003-SRC005",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "image_notice_purpose",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "다음은 무엇에 대한 글인지 고르십시오. (2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "칫솔"
+      },
+      {
+        "number": 3,
+        "text": "안경"
+      },
+      {
+        "number": 4,
+        "text": "수건"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "비누"
+      },
+      {
+        "number": 2,
+        "text": "칫솔"
+      },
+      {
+        "number": 3,
+        "text": "안경"
+      },
+      {
+        "number": 4,
+        "text": "수건"
+      }
+    ],
+    "options_text": [
+      "비누",
+      "칫솔",
+      "안경",
+      "수건"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/91_R005.png",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 3,
+    "target_slot": 3,
+    "image_only": true,
+    "image_max_height": 310,
+    "image_max_width": "100%",
+    "image_display_width": "94%",
+    "image_alt_text": "입속 치아 사이사이를 깨끗이! 부드럽게 잘 닦아요~",
+    "visual_text_for_review": "입속 치아 사이사이를 깨끗이! 부드럽게 잘 닦아요~",
+    "image_layout_note": "이미지 문항은 이미지 자체에 지문이 포함되어 있으므로 반복 텍스트를 표시하지 않고, 91회 5~8번은 화면의 이미지 영역에 더 크게 보이도록 조정했습니다.",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 5,
+    "source_full_question_number": 5,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 3,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT004-SRC010",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "다음을 보고 내용과 같은 것을 고르십시오. (2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "자가용으로 출퇴근한다고 응답한 직장인들의 비율이 줄었다."
+      },
+      {
+        "number": 2,
+        "text": "걸어서 출퇴근하는 직장인은 2012년보다 2022년이 더 적었다."
+      },
+      {
+        "number": 3,
+        "text": "2022년에는 지하철을 타고 출퇴근하는 직장인이 가장 많았다."
+      },
+      {
+        "number": 4,
+        "text": "2012년에 직장인들은 출퇴근할 때 버스를 제일 많이 이용했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "자가용으로 출퇴근한다고 응답한 직장인들의 비율이 줄었다."
+      },
+      {
+        "number": 2,
+        "text": "걸어서 출퇴근하는 직장인은 2012년보다 2022년이 더 적었다."
+      },
+      {
+        "number": 3,
+        "text": "2022년에는 지하철을 타고 출퇴근하는 직장인이 가장 많았다."
+      },
+      {
+        "number": 4,
+        "text": "2012년에 직장인들은 출퇴근할 때 버스를 제일 많이 이용했다."
+      }
+    ],
+    "options_text": [
+      "자가용으로 출퇴근한다고 응답한 직장인들의 비율이 줄었다.",
+      "걸어서 출퇴근하는 직장인은 2012년보다 2022년이 더 적었다.",
+      "2022년에는 지하철을 타고 출퇴근하는 직장인이 가장 많았다.",
+      "2012년에 직장인들은 출퇴근할 때 버스를 제일 많이 이용했다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/91_R010.png",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 4,
+    "target_slot": 4,
+    "image_only": true,
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_display_width": "82%",
+    "image_alt_text": "인주시 직장인, 출퇴근 시 이동 수단은?",
+    "visual_text_for_review": "인주시 직장인, 출퇴근 시 이동 수단은?",
+    "image_layout_note": "이미지 문항은 이미지 자체에 지문이 포함되어 있으므로 화면에서 이미지 아래 반복 텍스트를 표시하지 않습니다.",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 10,
+    "source_full_question_number": 10,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 4,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT005-SRC013",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "다음을 순서에 맞게 배열한 것을 고르십시오. (2점)",
+    "question": "다음을 순서에 맞게 배열하십시오.",
+    "passage": "(가) 짧게는 하루, 길게는 한 달 정도 반짝 운영하는 임시 매장이다.\n(나) 사람이 붐비는 장소에서 짧은 기간 동안 운영하는 매장이 유행이다.\n(다) 기업은 이 임시 매장을 이용해 주로 특정 제품을 팔거나 홍보를 한다.\n(라) 또 기업 이미지를 친숙하게 만들기 위해 재미있는 행사를 열기도 한다.",
+    "passage_template": "(가) 짧게는 하루, 길게는 한 달 정도 반짝 운영하는 임시 매장이다.\n(나) 사람이 붐비는 장소에서 짧은 기간 동안 운영하는 매장이 유행이다.\n(다) 기업은 이 임시 매장을 이용해 주로 특정 제품을 팔거나 홍보를 한다.\n(라) 또 기업 이미지를 친숙하게 만들기 위해 재미있는 행사를 열기도 한다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(나)-(라)-(다)-(가)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "number": 4,
+        "text": "(나)-(라)-(다)-(가)"
+      }
+    ],
+    "options_text": [
+      "(가)-(다)-(라)-(나)",
+      "(나)-(가)-(다)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(나)-(라)-(다)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 5,
+    "target_slot": 5,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "짧게는 하루, 길게는 한 달 정도 반짝 운영하는 임시 매장이다."
+      },
+      {
+        "label": "(나)",
+        "text": "사람이 붐비는 장소에서 짧은 기간 동안 운영하는 매장이 유행이다."
+      },
+      {
+        "label": "(다)",
+        "text": "기업은 이 임시 매장을 이용해 주로 특정 제품을 팔거나 홍보를 한다."
+      },
+      {
+        "label": "(라)",
+        "text": "또 기업 이미지를 친숙하게 만들기 위해 재미있는 행사를 열기도 한다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "짧게는 하루, 길게는 한 달 정도 반짝 운영하는 임시 매장이다."
+      },
+      {
+        "label": "(나)",
+        "text": "사람이 붐비는 장소에서 짧은 기간 동안 운영하는 매장이 유행이다."
+      },
+      {
+        "label": "(다)",
+        "text": "기업은 이 임시 매장을 이용해 주로 특정 제품을 팔거나 홍보를 한다."
+      },
+      {
+        "label": "(라)",
+        "text": "또 기업 이미지를 친숙하게 만들기 위해 재미있는 행사를 열기도 한다."
+      }
+    ],
+    "interaction_mode": "sentence_order",
+    "template_required_type": "sentence_order",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 13,
+    "source_full_question_number": 13,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 5,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT006-SRC016",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "타조는 멀리서 적이 다가와도 머리를 모래에 파묻고 있다. 그래서 위험이나 위기를 모르는 척 피하는 사람을 타조에 비유하곤 한다. 그런데 사실 타조는 (     ) 위해 이런 행동을 한다. 시각보다 청각이 발달한 타조는 땅에서 울리는 발소리를 듣고 적이 오는지를 파악하려는 것이다.",
+    "passage_template": "타조는 멀리서 적이 다가와도 머리를 모래에 파묻고 있다. 그래서 위험이나 위기를 모르는 척 피하는 사람을 타조에 비유하곤 한다. 그런데 사실 타조는 (     ) 위해 이런 행동을 한다. 시각보다 청각이 발달한 타조는 땅에서 울리는 발소리를 듣고 적이 오는지를 파악하려는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "적의 움직임을 알기"
+      },
+      {
+        "number": 2,
+        "text": "먹이를 빨리 구하기"
+      },
+      {
+        "number": 3,
+        "text": "머리를 깨끗이 씻기"
+      },
+      {
+        "number": 4,
+        "text": "다른 타조를 공격하기"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "적의 움직임을 알기"
+      },
+      {
+        "number": 2,
+        "text": "먹이를 빨리 구하기"
+      },
+      {
+        "number": 3,
+        "text": "머리를 깨끗이 씻기"
+      },
+      {
+        "number": 4,
+        "text": "다른 타조를 공격하기"
+      }
+    ],
+    "options_text": [
+      "적의 움직임을 알기",
+      "먹이를 빨리 구하기",
+      "머리를 깨끗이 씻기",
+      "다른 타조를 공격하기"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 6,
+    "target_slot": 6,
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 16,
+    "source_full_question_number": 16,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 6,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-91-LT007-SRC019",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 선택",
+    "original_question_number": 19,
+    "question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[7~8] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. 안에서 몸을 데운 펭귄은 밖으로 나가고 밖에서 추위에 떨던 펭귄은 안으로 들어오는 것이다. (     ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
+    "passage_template": "매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. 안에서 몸을 데운 펭귄은 밖으로 나가고 밖에서 추위에 떨던 펭귄은 안으로 들어오는 것이다. (     ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "혹시"
+      },
+      {
+        "number": 2,
+        "text": "또는"
+      },
+      {
+        "number": 3,
+        "text": "비록"
+      },
+      {
+        "number": 4,
+        "text": "만약"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "혹시"
+      },
+      {
+        "number": 2,
+        "text": "또는"
+      },
+      {
+        "number": 3,
+        "text": "비록"
+      },
+      {
+        "number": 4,
+        "text": "만약"
+      }
+    ],
+    "options_text": [
+      "혹시",
+      "또는",
+      "비록",
+      "만약"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 7,
+    "target_slot": 7,
+    "shared_passage_index": 1,
+    "passage_group_id": "R091-LT-G019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 19,
+    "source_full_question_number": 19,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 7,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "source_passage_group_title": "[19~20] 공통 지문"
+  },
+  {
+    "id": "T2-91-LT008-SRC020",
+    "source_round": "91",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[7~8] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. 안에서 몸을 데운 펭귄은 밖으로 나가고 밖에서 추위에 떨던 펭귄은 안으로 들어오는 것이다. (     ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
+    "passage_template": "매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. 안에서 몸을 데운 펭귄은 밖으로 나가고 밖에서 추위에 떨던 펭귄은 안으로 들어오는 것이다. (     ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다."
+      },
+      {
+        "number": 2,
+        "text": "황제펭귄은 둥글게 돌면서 날씨에 대한 정보를 알린다."
+      },
+      {
+        "number": 3,
+        "text": "황제펭귄은 추위에서 살아남기 위해 움직임이 느려졌다."
+      },
+      {
+        "number": 4,
+        "text": "황제펭귄은 무리 생활을 통해 경쟁에서 이기는 법을 배운다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다."
+      },
+      {
+        "number": 2,
+        "text": "황제펭귄은 둥글게 돌면서 날씨에 대한 정보를 알린다."
+      },
+      {
+        "number": 3,
+        "text": "황제펭귄은 추위에서 살아남기 위해 움직임이 느려졌다."
+      },
+      {
+        "number": 4,
+        "text": "황제펭귄은 무리 생활을 통해 경쟁에서 이기는 법을 배운다."
+      }
+    ],
+    "options_text": [
+      "황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다.",
+      "황제펭귄은 둥글게 돌면서 날씨에 대한 정보를 알린다.",
+      "황제펭귄은 추위에서 살아남기 위해 움직임이 느려졌다.",
+      "황제펭귄은 무리 생활을 통해 경쟁에서 이기는 법을 배운다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "template_slot": 8,
+    "target_slot": 8,
+    "shared_passage_index": 2,
+    "passage_group_id": "R091-LT-G019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_insert_enabled": true,
+    "shared_insert_keys": [
+      "blank_1"
+    ],
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 20,
+    "source_full_question_number": 20,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 8,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "source_instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "source_passage_group_title": "[19~20] 공통 지문"
+  },
+  {
+    "id": "T2-91-LT009-SRC023",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "underlined_feeling",
+    "category": "밑줄 심정 파악",
+    "diagnostic_area": "밑줄 표현에 드러난 화자의 심정 파악",
+    "difficulty_band": "middle",
+    "question_zone": "21~30번 중반부",
+    "original_question_number": 23,
+    "question_number": 9,
+    "source_question_number": 23,
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "꽃집을 지나다가 꽃말에 이끌려 금잔화 꽃씨를 샀다. 화분에 심어 사무실의 내 책상 위에 두었더니 어느 날 싹이 텄다. 때맞춰 물도 주며 나는 수시로 들여다보았다. 신기했다. 작고 여린 싹은 눈에 띄게 쑥쑥 자랐다. 그런데 내가 상상한 모습이 아니었다. 도대체 여기서 어떻게 꽃이 핀다는 건지. 무순처럼 길쭉하게 위로만 자라는 것이었다. 하루는 출근해 보니 금잔화가 쓰러져 있었다. 그럼 그렇지. 내가 무슨 식물을 키우나. 그날 나는 화분을 창가로 옮겨 놓았다. 죽을 것 같은 모습을 눈앞에서 보고 싶지 않았다. 그런데 어느 날부터 점점 줄기가 굵어지더니 잎도 제법 풍성해지기 시작했다. 어느 날에는 꽃망울도 올라와 있었다. 금잔화는 창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다. 금잔화에게는 햇빛이 더 많이 필요했었나 보다. 사람도 식물도 사랑하려면 그 대상을 제대로 알아야 하는 건 똑같구나 싶었다. 씩씩하게 꽃피운 금잔화의 꽃말은 '반드시 올 행복'이다.",
+    "question": "밑줄 친 부분에 나타난 '나'의 심정으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "의심스럽다",
+      "고통스럽다",
+      "조심스럽다",
+      "부담스럽다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "싹이 자라는 모습을 보고 여기서 어떻게 꽃이 필지 의심하는 마음이 드러납니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": "R091-LT-G023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "도대체 여기서 어떻게 꽃이 핀다는 건지."
+    ],
+    "underlined_parts": [
+      "도대체 여기서 어떻게 꽃이 핀다는 건지."
+    ],
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 23,
+    "source_full_question_number": 23,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 9,
+    "target_slots": [
+      9
+    ],
+    "template_slot": 9,
+    "target_slot": 9,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "source_passage_group_title": "[23~24] 공통 지문"
+  },
+  {
+    "id": "T2-91-LT010-SRC024",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "difficulty_band": "middle",
+    "question_zone": "21~30번 중반부",
+    "original_question_number": 24,
+    "question_number": 10,
+    "source_question_number": 24,
+    "instruction": "[9~10] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "꽃집을 지나다가 꽃말에 이끌려 금잔화 꽃씨를 샀다. 화분에 심어 사무실의 내 책상 위에 두었더니 어느 날 싹이 텄다. 때맞춰 물도 주며 나는 수시로 들여다보았다. 신기했다. 작고 여린 싹은 눈에 띄게 쑥쑥 자랐다. 그런데 내가 상상한 모습이 아니었다. 도대체 여기서 어떻게 꽃이 핀다는 건지. 무순처럼 길쭉하게 위로만 자라는 것이었다. 하루는 출근해 보니 금잔화가 쓰러져 있었다. 그럼 그렇지. 내가 무슨 식물을 키우나. 그날 나는 화분을 창가로 옮겨 놓았다. 죽을 것 같은 모습을 눈앞에서 보고 싶지 않았다. 그런데 어느 날부터 점점 줄기가 굵어지더니 잎도 제법 풍성해지기 시작했다. 어느 날에는 꽃망울도 올라와 있었다. 금잔화는 창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다. 금잔화에게는 햇빛이 더 많이 필요했었나 보다. 사람도 식물도 사랑하려면 그 대상을 제대로 알아야 하는 건 똑같구나 싶었다. 씩씩하게 꽃피운 금잔화의 꽃말은 '반드시 올 행복'이다.",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "내 책상 위에 둔 금잔화는 금방 말라 죽었다.",
+      "나는 금잔화 화분에 물을 제대로 주지 못했다.",
+      "나는 꽃집에서 금잔화가 피어 있는 화분을 샀다.",
+      "내가 금잔화 화분을 옮긴 곳은 햇볕이 잘 들었다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "창가로 옮긴 뒤 금잔화가 창문으로 들어오는 풍성한 햇볕 속에서 튼튼해졌다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": "R091-LT-G023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "도대체 여기서 어떻게 꽃이 핀다는 건지."
+    ],
+    "underlined_parts": [
+      "도대체 여기서 어떻게 꽃이 핀다는 건지."
+    ],
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 24,
+    "source_full_question_number": 24,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 10,
+    "target_slots": [
+      10
+    ],
+    "template_slot": 10,
+    "target_slot": 10,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "source_passage_group_title": "[23~24] 공통 지문"
+  },
+  {
+    "id": "T2-91-LT011-SRC025",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "news_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "difficulty_band": "middle",
+    "question_zone": "21~30번 중반부",
+    "original_question_number": 25,
+    "question_number": 11,
+    "source_question_number": 25,
+    "instruction": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (2점)",
+    "passage": "가수 진영, 3년 만의 콘서트에 구름 관중",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "options": [
+      "가수 진영이 3년 만에 콘서트를 열자 수많은 관중이 몰렸다.",
+      "가수 진영이 3년 내에 다시 콘서트를 열기로 관중에게 약속했다.",
+      "가수 진영이 3년간 준비한 콘서트를 열었으나 관중의 호응이 적었다.",
+      "가수 진영이 3년 만에 하는 콘서트에 많은 관중을 모으려고 홍보했다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "'구름 관중'은 많은 사람이 몰렸다는 뜻이므로, 3년 만의 콘서트에 수많은 관중이 온 것이 핵심입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "headline": "가수 진영, 3년 만의 콘서트에 구름 관중",
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 25,
+    "source_full_question_number": 25,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 11,
+    "target_slots": [
+      11
+    ],
+    "template_slot": 11,
+    "target_slot": 11,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)"
+  },
+  {
+    "id": "T2-91-LT012-SRC028",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 15,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 후속 행동 선택",
+    "difficulty_band": "middle",
+    "question_zone": "21~30번 중반부",
+    "original_question_number": 28,
+    "question_number": 12,
+    "source_question_number": 28,
+    "instruction": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)",
+    "passage": "선글라스는 보통 햇빛이 강할 때 눈 건강을 위해 쓴다. 그런데 선글라스의 렌즈는 사용 기한이 있다. 선글라스의 렌즈에는 자외선 차단을 위한 얇은 막이 입혀져 있는데 열에 계속 노출되면 자외선 차단 기능이 점점 떨어지게 된다. 자외선 차단 기능이 약해진 선글라스로는 눈을 보호하기 어려우므로 5년 정도 쓰고 나면 (          ) 것이 좋다.",
+    "question": "(          )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "렌즈를 바꿔 주는",
+      "렌즈를 꼼꼼히 잘 닦는",
+      "렌즈의 색을 어둡게 하는",
+      "렌즈의 얇은 막을 벗겨 내는"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "자외선 차단 기능이 약해진 렌즈는 교체하는 것이 좋다는 흐름입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 28,
+    "source_full_question_number": 28,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 12,
+    "target_slots": [
+      12
+    ],
+    "template_slot": 12,
+    "target_slot": 12,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[28~31] (          )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)"
+  },
+  {
+    "id": "T2-91-LT013-SRC032",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 17,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치 파악",
+    "diagnostic_area": "정보성 글의 세부 내용 이해",
+    "difficulty_band": "upper_middle",
+    "question_zone": "31~40번 후반부",
+    "original_question_number": 32,
+    "question_number": 13,
+    "source_question_number": 32,
+    "instruction": "다음을 읽고 내용과 같은 것을 고르십시오. (2점)",
+    "passage": "당뇨 환자들을 위해 고추 품종인 ‘살리초’가 개발되었다. 고추는 보통 열매를 얻기 위해 재배하지만 살리초는 열매가 없고 잎을 먹는 품종이다. 일반 고추에 비해 혈당을 낮추는 성분이 10배 이상 많이 함유돼 있어 당뇨병, 비만증 등 성인병의 예방과 치료에 이용될 수 있다. 또한 살리초에는 칼슘, 비타민 등 각종 영양 성분이 풍부하다. 병해충에도 강하고 생육 기간도 짧아서 농가의 고소득 작물로 주목받고 있다.",
+    "question": "글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "살리초는 해충에 취약하다는 단점이 있다.",
+      "살리초의 열매는 크고 영양 성분이 풍부하다.",
+      "살리초는 생육 기간이 길어 관심을 받지 못하고 있다.",
+      "살리초의 잎에는 혈당을 떨어뜨리는 성분이 들어 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "살리초는 열매가 없고 잎을 먹는 품종이며, 혈당을 낮추는 성분이 일반 고추보다 많이 들어 있다는 내용과 일치합니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 32,
+    "source_full_question_number": 32,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 13,
+    "target_slots": [
+      13
+    ],
+    "template_slot": 13,
+    "target_slot": 13,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)"
+  },
+  {
+    "id": "T2-91-LT014-SRC035",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 18,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "미래 자원 관련 주장 파악",
+    "difficulty_band": "upper_middle",
+    "question_zone": "31~40번 후반부",
+    "original_question_number": 35,
+    "question_number": 14,
+    "source_question_number": 35,
+    "instruction": "다음을 읽고 중심 내용을 고르십시오. (2점)",
+    "passage": "태양계에 존재하는 수많은 소행성에는 천문학적인 가치를 지닌 광물이 있는 것으로 예상된다. 그래서 많은 나라들이 이에 관심을 가지고 있다. 실제로 최근 몇몇 국가에서는 소행성에 있는 광물 시료를 채취하는 데 성공하기도 했다. 하지만 대부분의 나라들에서는 소행성 탐사가 아직 논의 단계에 머무르고 있다. 미래 자원을 확보하기 위해서 적극적으로 소행성 탐사에 대한 투자와 기술 개발에 나설 필요가 있다.",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "태양계에는 아직 발견되지 않은 소행성이 많이 존재한다.",
+      "소행성에서 자원을 가져오는 것은 실현 가능성이 희박하다.",
+      "소행성 탐사를 성공시키기 위해 국제 협력을 확대해야 한다.",
+      "미래 자원 확보를 위해 소행성 탐사에 대한 노력을 기울여야 한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "미래 자원을 확보하기 위해 소행성 탐사 투자와 기술 개발이 필요하다는 주장이 중심입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 35,
+    "source_full_question_number": 35,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 14,
+    "target_slots": [
+      14
+    ],
+    "template_slot": 14,
+    "target_slot": 14,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)"
+  },
+  {
+    "id": "T2-91-LT015-SRC039",
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_pdf_page": 20,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "지시 표현과 문맥 흐름을 통한 삽입 위치 파악",
+    "difficulty_band": "upper_middle",
+    "question_zone": "31~40번 후반부",
+    "original_question_number": 39,
+    "question_number": 15,
+    "source_question_number": 39,
+    "instruction": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (2점)",
+    "passage": "스포츠 경기를 진행할 때 득점이나 반칙 등의 판정은 심판에 의해서 이루어진다. (㉠) 이렇게 눈에 보이지 않는 곳에서 벌어진 상황에 대해서는 심판도 정확한 판단을 하기 어렵다. (㉡) 비디오 판독은 이런 스포츠 경기에서 초고속 카메라를 판정의 근거로 사용하는 기술이다. (㉢) 이처럼 비디오 판독을 활용하면 심판이 판단하기 어려운 부분을 객관적으로 확인할 수 있어 판정에 대한 신뢰도를 높일 수 있다. (㉣)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "'이렇게 눈에 보이지 않는 곳'이 앞 문장의 '선수의 몸에 가려서 볼 수 없는 사각지대'를 가리키므로 ㉠에 들어가는 것이 자연스럽습니다.",
+    "image_url": "",
+    "interaction_mode": "insert_position_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "insert_sentence": "그런데 심판이 아무리 위치 선정을 잘해도 필연적으로 선수의 몸에 가려서 볼 수 없는 사각지대가 생긴다.",
+    "sentence_to_insert": "그런데 심판이 아무리 위치 선정을 잘해도 필연적으로 선수의 몸에 가려서 볼 수 없는 사각지대가 생긴다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉠",
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 39,
+    "source_full_question_number": 39,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 15,
+    "target_slots": [
+      15
+    ],
+    "template_slot": 15,
+    "target_slot": 15,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)"
+  },
+  {
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "id": "T2-91-LT016-SRC042",
+    "source_pdf_page": 22,
+    "original_question_number": 42,
+    "question_number": 16,
+    "source_question_number": 42,
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "type": "underlined_feeling",
+    "category": "밑줄 심정 파악",
+    "diagnostic_area": "밑줄 표현에 드러난 인물의 심정 파악",
+    "instruction": "[16~17] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "민욱이 주말에 친구 부부를 초대해도 되느냐고 물었을 때, 미연은 말없이 한참 뜸을 들였다. 그녀는 그날 민욱과 함께 아파트의 발코니 벽을 페인트칠할 계획이었다. (중략) 그들은 육 개월 전에 E시의 아파트를 사서 이사했다. 지은 지 이십 년도 더 된 낡은 아파트였지만, 누구의 도움도 받지 않고 그들 스스로 이룬 일이었다. 미연은 직접 발품을 팔아 수도부터 새시까지 새로 손을 보았다. 하지만 집수리는 대강 되었다고 해도, 미연이 생각해 둔 대로 인테리어가 완성되려면 아직 부족했다.\n\n“손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……”\n“성재가 한국에 왔대.”\n민욱이 무거운 목소리로 말했다. (중략)\n\n민욱과 성재는 고등학교 동창이고, 그들을 통해 만난 미연과 연주도 십여 년이 넘는 인연이었다. 꽤나 가까운 사이였지만 성재가 사업 실패로 한국을 떠나면서 연락이 끊겼다. 미연은 자신이 연주의 이름을 오랫동안 잊고 있었다는 사실을 깨달았다. 더 이상 뭐라고 할 말이 없었다. (중략)\n\n토요일 오전에 미연은 두 딸아이를 데리고 마트에 가서 고기와 채소를 샀다. 누군가를 초대해 음식을 대접하는 것이 정말로 오랜만이었다.",
+    "question": "밑줄 친 부분에 나타난 ‘미연’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "후련하다",
+      "불만스럽다",
+      "허전하다",
+      "자랑스럽다"
+    ],
+    "description": "미연은 집 단장이 아직 덜 되었다고 생각해 손님 초대가 이르다고 말하므로 불만스러운 심정이 드러납니다.",
+    "passage_group_id": "R091-LT-G042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……"
+    ],
+    "underlined_parts": [
+      "손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……"
+    ],
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 42,
+    "source_full_question_number": 42,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 16,
+    "target_slots": [
+      16
+    ],
+    "template_slot": 16,
+    "target_slot": 16,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "source_passage_group_title": "[42~43] 공통 지문"
+  },
+  {
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "id": "T2-91-LT017-SRC043",
+    "source_pdf_page": 22,
+    "original_question_number": 43,
+    "question_number": 17,
+    "source_question_number": 43,
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "소설 지문의 세부 내용 이해",
+    "instruction": "[16~17] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "민욱이 주말에 친구 부부를 초대해도 되느냐고 물었을 때, 미연은 말없이 한참 뜸을 들였다. 그녀는 그날 민욱과 함께 아파트의 발코니 벽을 페인트칠할 계획이었다. (중략) 그들은 육 개월 전에 E시의 아파트를 사서 이사했다. 지은 지 이십 년도 더 된 낡은 아파트였지만, 누구의 도움도 받지 않고 그들 스스로 이룬 일이었다. 미연은 직접 발품을 팔아 수도부터 새시까지 새로 손을 보았다. 하지만 집수리는 대강 되었다고 해도, 미연이 생각해 둔 대로 인테리어가 완성되려면 아직 부족했다.\n\n“손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……”\n“성재가 한국에 왔대.”\n민욱이 무거운 목소리로 말했다. (중략)\n\n민욱과 성재는 고등학교 동창이고, 그들을 통해 만난 미연과 연주도 십여 년이 넘는 인연이었다. 꽤나 가까운 사이였지만 성재가 사업 실패로 한국을 떠나면서 연락이 끊겼다. 미연은 자신이 연주의 이름을 오랫동안 잊고 있었다는 사실을 깨달았다. 더 이상 뭐라고 할 말이 없었다. (중략)\n\n토요일 오전에 미연은 두 딸아이를 데리고 마트에 가서 고기와 채소를 샀다. 누군가를 초대해 음식을 대접하는 것이 정말로 오랜만이었다.",
+    "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+    "options": [
+      "미연은 민욱과 성재를 통해 연주를 알게 되었다.",
+      "민욱은 주변 도움을 받아 E시의 새 아파트를 샀다.",
+      "미연은 육 개월 전에 산 아파트로 이사 갈 계획이다.",
+      "민욱은 인테리어를 완성한 후에 마트에 장을 보러 갔다."
+    ],
+    "description": "민욱과 성재가 고등학교 동창이고, 그들을 통해 미연과 연주도 인연이 되었다고 했으므로 1번이 내용과 같습니다.",
+    "passage_group_id": "R091-LT-G042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……"
+    ],
+    "underlined_parts": [
+      "손님 초대는 좀 이르지 않아? 집 단장도 덜 되었는데……"
+    ],
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 43,
+    "source_full_question_number": 43,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 17,
+    "target_slots": [
+      17
+    ],
+    "template_slot": 17,
+    "target_slot": 17,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "source_passage_group_title": "[42~43] 공통 지문"
+  },
+  {
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "id": "T2-91-LT018-SRC048",
+    "source_pdf_page": 25,
+    "original_question_number": 48,
+    "question_number": 18,
+    "source_question_number": 48,
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "type": "common_passage_purpose",
+    "category": "글쓴 목적 파악",
+    "diagnostic_area": "사회 제도 개선 글의 목적 파악",
+    "instruction": "[18~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "예술인은 독창적인 문화를 창조하고 고유한 문화를 보존하는 동시에 예술 활동을 업으로 삼아 수익을 내서 생활하는 사람이다. 그런데 많은 예술인이 기본 생활이 불가능한 적은 수입 탓에 예술 활동을 포기한다. 그 결과 예술인이 감소하며 고령화되는 현상이 나타나고 있다. 2011년에는 생활고로 한 작가가 사망하는 사건까지 일어났다. 이 사건이 계기가 되어 2012년부터 예술인의 권리 보호를 위해 ‘예술인 복지법’이 시행되었다. 그러나 이는 예술 현장의 실상에 맞지 않아 많은 예술인이 여전히 (          ). 이런 상황에서 올해 예술 활동을 증명하지 못해 지원을 못 받았던 예술인을 위해 예술인 복지법이 개정되었다. 개정안은 이런 예술인도 일반 직업인과 같이 권리를 보호받을 수 있는 대상임을 명확히 하고 있다. 또 예술인이 불리한 처우를 받지 않도록 세부 조치를 마련하는 등 예술인의 고용 안정을 위한 여러 내용을 담고 있다. 앞으로는 이를 바탕으로 유능한 예술인이 활동을 포기하지 않도록 해야 할 것이다.",
+    "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예술인의 자질에 대해 분석하려고",
+      "예술 발전의 어려움을 토로하려고",
+      "예술 작품의 창작 활동을 설명하려고",
+      "예술인 생활 보장의 필요성을 강조하려고"
+    ],
+    "description": "글은 예술인의 생활고와 복지법 개정 내용을 설명하며 유능한 예술인이 활동을 포기하지 않도록 해야 한다고 강조합니다.",
+    "passage_group_id": "R091-LT-G048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 48,
+    "source_full_question_number": 48,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 18,
+    "target_slots": [
+      18
+    ],
+    "template_slot": 18,
+    "target_slot": 18,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_title": "[48~50] 공통 지문"
+  },
+  {
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "id": "T2-91-LT019-SRC049",
+    "source_pdf_page": 25,
+    "original_question_number": 49,
+    "question_number": 19,
+    "source_question_number": 49,
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "사회 제도 설명문의 빈칸 문맥 파악",
+    "instruction": "[18~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "예술인은 독창적인 문화를 창조하고 고유한 문화를 보존하는 동시에 예술 활동을 업으로 삼아 수익을 내서 생활하는 사람이다. 그런데 많은 예술인이 기본 생활이 불가능한 적은 수입 탓에 예술 활동을 포기한다. 그 결과 예술인이 감소하며 고령화되는 현상이 나타나고 있다. 2011년에는 생활고로 한 작가가 사망하는 사건까지 일어났다. 이 사건이 계기가 되어 2012년부터 예술인의 권리 보호를 위해 ‘예술인 복지법’이 시행되었다. 그러나 이는 예술 현장의 실상에 맞지 않아 많은 예술인이 여전히 (          ). 이런 상황에서 올해 예술 활동을 증명하지 못해 지원을 못 받았던 예술인을 위해 예술인 복지법이 개정되었다. 개정안은 이런 예술인도 일반 직업인과 같이 권리를 보호받을 수 있는 대상임을 명확히 하고 있다. 또 예술인이 불리한 처우를 받지 않도록 세부 조치를 마련하는 등 예술인의 고용 안정을 위한 여러 내용을 담고 있다. 앞으로는 이를 바탕으로 유능한 예술인이 활동을 포기하지 않도록 해야 할 것이다.",
+    "question": "(          )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "안전을 중요시해야 한다",
+      "생계의 어려움을 겪고 있다",
+      "한 번에 큰돈을 모을 수 있다",
+      "창작에 관한 기밀을 지켜야 한다"
+    ],
+    "description": "예술인 복지법이 현장의 실상에 맞지 않아 많은 예술인이 여전히 경제적 어려움을 겪는 상황이라는 문맥이므로 2번이 알맞습니다.",
+    "passage_group_id": "R091-LT-G048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 49,
+    "source_full_question_number": 49,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 19,
+    "target_slots": [
+      19
+    ],
+    "template_slot": 19,
+    "target_slot": 19,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_title": "[48~50] 공통 지문"
+  },
+  {
+    "source_round": "91",
+    "source_pdf": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "answer_key_status": "official_answer_table_pdf_remapped_for_level_test",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft_from_pdf_visual_review",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "91",
+    "generated_exam_label": "91회 레벨테스트 20문항",
+    "id": "T2-91-LT020-SRC050",
+    "source_pdf_page": 25,
+    "original_question_number": 50,
+    "question_number": 20,
+    "source_question_number": 50,
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "제도 설명문 세부 내용 이해",
+    "instruction": "[18~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "passage": "예술인은 독창적인 문화를 창조하고 고유한 문화를 보존하는 동시에 예술 활동을 업으로 삼아 수익을 내서 생활하는 사람이다. 그런데 많은 예술인이 기본 생활이 불가능한 적은 수입 탓에 예술 활동을 포기한다. 그 결과 예술인이 감소하며 고령화되는 현상이 나타나고 있다. 2011년에는 생활고로 한 작가가 사망하는 사건까지 일어났다. 이 사건이 계기가 되어 2012년부터 예술인의 권리 보호를 위해 ‘예술인 복지법’이 시행되었다. 그러나 이는 예술 현장의 실상에 맞지 않아 많은 예술인이 여전히 (          ). 이런 상황에서 올해 예술 활동을 증명하지 못해 지원을 못 받았던 예술인을 위해 예술인 복지법이 개정되었다. 개정안은 이런 예술인도 일반 직업인과 같이 권리를 보호받을 수 있는 대상임을 명확히 하고 있다. 또 예술인이 불리한 처우를 받지 않도록 세부 조치를 마련하는 등 예술인의 고용 안정을 위한 여러 내용을 담고 있다. 앞으로는 이를 바탕으로 유능한 예술인이 활동을 포기하지 않도록 해야 할 것이다.",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "예술인 복지법은 한 번 신설된 후 개정된 적이 없다.",
+      "전국에서 예술 분야에 종사하는 사람들 수가 늘고 있다.",
+      "올해부터 예술인은 활동을 반드시 증명해야 지원을 받을 수 있다.",
+      "2012년의 예술인 복지법은 현장의 실상을 반영하는 데 한계가 있었다."
+    ],
+    "description": "2012년부터 시행된 예술인 복지법은 예술 현장의 실상에 맞지 않아 많은 예술인이 여전히 어려움을 겪었다고 했습니다.",
+    "passage_group_id": "R091-LT-G048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "source_file": "제91회_문제지 TOPIK2_2교시_읽기_탑재용.pdf",
+    "source_original_question_number": 50,
+    "source_full_question_number": 50,
+    "source_full_exam_id": "reading-91",
+    "source_exam_id": "reading-91",
+    "source_exam_label": "91회 50문항 실전시험",
+    "source_exam_file": "./data/exams/reading-91.json",
+    "level_test_display_number": 20,
+    "target_slots": [
+      20
+    ],
+    "template_slot": 20,
+    "target_slot": 20,
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 유형 균형 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_version": "91-balanced-v2",
+    "answer_source": "answer-key-91.json remapped by original_question_number",
+    "source_instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_title": "[48~50] 공통 지문"
+  }
+]
