@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "T2-89-LT001",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 1,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "source_question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "해외여행을 (     ) 여권이 필요하다.",
+    "passage_template": "해외여행을 (     ) 여권이 필요하다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "하거나"
+      },
+      {
+        "number": 2,
+        "text": "하려면"
+      },
+      {
+        "number": 3,
+        "text": "하든지"
+      },
+      {
+        "number": 4,
+        "text": "하더니"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "하거나"
+      },
+      {
+        "number": 2,
+        "text": "하려면"
+      },
+      {
+        "number": 3,
+        "text": "하든지"
+      },
+      {
+        "number": 4,
+        "text": "하더니"
+      }
+    ],
+    "options_text": [
+      "하거나",
+      "하려면",
+      "하든지",
+      "하더니"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 1,
+    "target_slot": 1,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "time_limit_minutes": 30,
+    "level_test_slot": 1,
+    "source_original_question_number": 1,
+    "source_full_exam_question_number": 1,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R001",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT002",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 1,
+    "source_printed_page": 1,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "source_question_number": 3,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "친구들과 떠들며 놀다 보니 밤 12시가 되었다.",
+    "passage_template": "친구들과 떠들며 놀다 보니 밤 12시가 되었다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "놀거든"
+      },
+      {
+        "number": 2,
+        "text": "놀더라도"
+      },
+      {
+        "number": 3,
+        "text": "노는 데다가"
+      },
+      {
+        "number": 4,
+        "text": "노는 사이에"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "놀거든"
+      },
+      {
+        "number": 2,
+        "text": "놀더라도"
+      },
+      {
+        "number": 3,
+        "text": "노는 데다가"
+      },
+      {
+        "number": 4,
+        "text": "노는 사이에"
+      }
+    ],
+    "options_text": [
+      "놀거든",
+      "놀더라도",
+      "노는 데다가",
+      "노는 사이에"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 2,
+    "target_slot": 2,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "underline_targets": [
+      "놀다 보니"
+    ],
+    "underlined_parts": [
+      "놀다 보니"
+    ],
+    "time_limit_minutes": 30,
+    "level_test_slot": 2,
+    "source_original_question_number": 3,
+    "source_full_exam_question_number": 3,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R003",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT003",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 2,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "source_question_number": 5,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "책상"
+      },
+      {
+        "number": 2,
+        "text": "필통"
+      },
+      {
+        "number": 3,
+        "text": "시계"
+      },
+      {
+        "number": 4,
+        "text": "공책"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "책상"
+      },
+      {
+        "number": 2,
+        "text": "필통"
+      },
+      {
+        "number": 3,
+        "text": "시계"
+      },
+      {
+        "number": 4,
+        "text": "공책"
+      }
+    ],
+    "options_text": [
+      "책상",
+      "필통",
+      "시계",
+      "공책"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/89_R005.png",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 3,
+    "target_slot": 3,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "image_only": true,
+    "time_limit_minutes": 30,
+    "level_test_slot": 3,
+    "source_original_question_number": 5,
+    "source_full_exam_question_number": 5,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R005",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT004",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 4,
+    "source_question_number": 10,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "마음의 여유를 찾고 싶어서라는 응답이 가장 많았다."
+      },
+      {
+        "number": 2,
+        "text": "직장 때문이라고 응답한 사람이 전체의 절반 이상이다."
+      },
+      {
+        "number": 3,
+        "text": "가족과 함께 살고 싶어서라고 응답한 비율은 10%를 넘는다."
+      },
+      {
+        "number": 4,
+        "text": "자연환경이 좋아서와 싼 집값 때문이라는 응답의 비율은 같다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "마음의 여유를 찾고 싶어서라는 응답이 가장 많았다."
+      },
+      {
+        "number": 2,
+        "text": "직장 때문이라고 응답한 사람이 전체의 절반 이상이다."
+      },
+      {
+        "number": 3,
+        "text": "가족과 함께 살고 싶어서라고 응답한 비율은 10%를 넘는다."
+      },
+      {
+        "number": 4,
+        "text": "자연환경이 좋아서와 싼 집값 때문이라는 응답의 비율은 같다."
+      }
+    ],
+    "options_text": [
+      "마음의 여유를 찾고 싶어서라는 응답이 가장 많았다.",
+      "직장 때문이라고 응답한 사람이 전체의 절반 이상이다.",
+      "가족과 함께 살고 싶어서라고 응답한 비율은 10%를 넘는다.",
+      "자연환경이 좋아서와 싼 집값 때문이라는 응답의 비율은 같다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/89_R010.png",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 4,
+    "target_slot": 4,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "image_only": true,
+    "image_display_width": "100%",
+    "image_max_width": "100%",
+    "image_display": {
+      "width": "100%",
+      "max_width": "680px",
+      "object_fit": "contain",
+      "scale_note": "q9_q10_enlarged_only"
+    },
+    "image_max_height": 460,
+    "imageDisplayWidth": "100%",
+    "imageMaxHeight": 460,
+    "visual_image_width": "100%",
+    "visual_image_max_height": 460,
+    "image_scale_note": "q9_q10_larger_v3_renderImageHtml_fields",
+    "time_limit_minutes": 30,
+    "level_test_slot": 4,
+    "source_original_question_number": 10,
+    "source_full_exam_question_number": 10,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R010",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT005",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 5,
+    "source_question_number": 13,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 내가 어릴 적 아플 때마다 엄마는 흰죽을 끓여 주셨다.\n(나) 죽이 타지 않도록 계속 저으면서 엄마의 정성을 깨닫는 것이다.\n(다) 그 생각이 잘못됐다는 것을 내가 직접 끓여 보면서 알게 되었다.\n(라) 흰죽은 쌀에 물만 부어 끓이면 되는 간단한 음식이라고 생각했다.",
+    "passage_template": "(가) 내가 어릴 적 아플 때마다 엄마는 흰죽을 끓여 주셨다.\n(나) 죽이 타지 않도록 계속 저으면서 엄마의 정성을 깨닫는 것이다.\n(다) 그 생각이 잘못됐다는 것을 내가 직접 끓여 보면서 알게 되었다.\n(라) 흰죽은 쌀에 물만 부어 끓이면 되는 간단한 음식이라고 생각했다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "number": 2,
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "options_text": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(라)-(다)-(나)",
+      "(라)-(가)-(다)-(나)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 5,
+    "target_slot": 5,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "내가 어릴 적 아플 때마다 엄마는 흰죽을 끓여 주셨다."
+      },
+      {
+        "label": "(나)",
+        "text": "죽이 타지 않도록 계속 저으면서 엄마의 정성을 깨닫는 것이다."
+      },
+      {
+        "label": "(다)",
+        "text": "그 생각이 잘못됐다는 것을 내가 직접 끓여 보면서 알게 되었다."
+      },
+      {
+        "label": "(라)",
+        "text": "흰죽은 쌀에 물만 부어 끓이면 되는 간단한 음식이라고 생각했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "내가 어릴 적 아플 때마다 엄마는 흰죽을 끓여 주셨다."
+      },
+      {
+        "label": "(나)",
+        "text": "죽이 타지 않도록 계속 저으면서 엄마의 정성을 깨닫는 것이다."
+      },
+      {
+        "label": "(다)",
+        "text": "그 생각이 잘못됐다는 것을 내가 직접 끓여 보면서 알게 되었다."
+      },
+      {
+        "label": "(라)",
+        "text": "흰죽은 쌀에 물만 부어 끓이면 되는 간단한 음식이라고 생각했다."
+      }
+    ],
+    "time_limit_minutes": 30,
+    "level_test_slot": 5,
+    "source_original_question_number": 13,
+    "source_full_exam_question_number": 13,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R013",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT006",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 6,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 6,
+    "source_question_number": 16,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "새들이 날아가다가 떨어지는가 하면 길 위에 아무렇게나 잠들어 있는 경우가 있다. 이런 새들의 몸속을 살펴보면 종종 알코올 성분이 발견된다. 연구자들은 (     ) 원인으로 꼽는다. 기온이 올라가면 과일 속의 달콤한 물질이 술처럼 변하기도 하는데 바로 이것을 먹고 새들이 취한 것 같은 상태를 보인다는 것이다.",
+    "passage_template": "새들이 날아가다가 떨어지는가 하면 길 위에 아무렇게나 잠들어 있는 경우가 있다. 이런 새들의 몸속을 살펴보면 종종 알코올 성분이 발견된다. 연구자들은 (     ) 원인으로 꼽는다. 기온이 올라가면 과일 속의 달콤한 물질이 술처럼 변하기도 하는데 바로 이것을 먹고 새들이 취한 것 같은 상태를 보인다는 것이다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "새들이 자는 시간을"
+      },
+      {
+        "number": 2,
+        "text": "새들의 비행 습관을"
+      },
+      {
+        "number": 3,
+        "text": "새들이 섭취한 먹이를"
+      },
+      {
+        "number": 4,
+        "text": "새들의 신체 구조 변화를"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "새들이 자는 시간을"
+      },
+      {
+        "number": 2,
+        "text": "새들의 비행 습관을"
+      },
+      {
+        "number": 3,
+        "text": "새들이 섭취한 먹이를"
+      },
+      {
+        "number": 4,
+        "text": "새들의 신체 구조 변화를"
+      }
+    ],
+    "options_text": [
+      "새들이 자는 시간을",
+      "새들의 비행 습관을",
+      "새들이 섭취한 먹이를",
+      "새들의 신체 구조 변화를"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 6,
+    "target_slot": 6,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "time_limit_minutes": 30,
+    "level_test_slot": 6,
+    "source_original_question_number": 16,
+    "source_full_exam_question_number": 16,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R016",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT007",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "짧은 공통 지문의 연결어 선택",
+    "original_question_number": 19,
+    "question_number": 7,
+    "source_question_number": 19,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "벌집에는 알을 낳는 여왕벌 한 마리와 수많은 일벌들이 산다. 언뜻 보면 일벌은 별 힘도 없이 여왕벌을 위해 사는 존재인 것처럼 보인다. 알과 여왕벌 돌보기, 집 짓기 등 모든 일은 일벌이 하기 때문이다. 하지만 그것은 한 가지 면만 본 것이다. (     ) 여왕벌이 알을 낳지 못하면 일벌들은 새 여왕벌을 길러 여왕을 바꿔 버린다. 여왕벌을 길러 내고 교체하기도 하는 일벌이야말로 벌집 사회를 유지하는 중심이라고 할 수 있지 않을까.",
+    "passage_template": "벌집에는 알을 낳는 여왕벌 한 마리와 수많은 일벌들이 산다. 언뜻 보면 일벌은 별 힘도 없이 여왕벌을 위해 사는 존재인 것처럼 보인다. 알과 여왕벌 돌보기, 집 짓기 등 모든 일은 일벌이 하기 때문이다. 하지만 그것은 한 가지 면만 본 것이다. (     ) 여왕벌이 알을 낳지 못하면 일벌들은 새 여왕벌을 길러 여왕을 바꿔 버린다. 여왕벌을 길러 내고 교체하기도 하는 일벌이야말로 벌집 사회를 유지하는 중심이라고 할 수 있지 않을까.",
+    "options": [
+      {
+        "number": 1,
+        "text": "다만"
+      },
+      {
+        "number": 2,
+        "text": "만약"
+      },
+      {
+        "number": 3,
+        "text": "또는"
+      },
+      {
+        "number": 4,
+        "text": "비록"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "다만"
+      },
+      {
+        "number": 2,
+        "text": "만약"
+      },
+      {
+        "number": 3,
+        "text": "또는"
+      },
+      {
+        "number": 4,
+        "text": "비록"
+      }
+    ],
+    "options_text": [
+      "다만",
+      "만약",
+      "또는",
+      "비록"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 7,
+    "target_slot": 7,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": "SET-T2-89-LT-R019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "time_limit_minutes": 30,
+    "level_test_slot": 7,
+    "source_original_question_number": 19,
+    "source_full_exam_question_number": 19,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R019",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "R089-G019-020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "id": "T2-89-LT008",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 7,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_topic",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 8,
+    "source_question_number": 20,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "벌집에는 알을 낳는 여왕벌 한 마리와 수많은 일벌들이 산다. 언뜻 보면 일벌은 별 힘도 없이 여왕벌을 위해 사는 존재인 것처럼 보인다. 알과 여왕벌 돌보기, 집 짓기 등 모든 일은 일벌이 하기 때문이다. 하지만 그것은 한 가지 면만 본 것이다. (     ) 여왕벌이 알을 낳지 못하면 일벌들은 새 여왕벌을 길러 여왕을 바꿔 버린다. 여왕벌을 길러 내고 교체하기도 하는 일벌이야말로 벌집 사회를 유지하는 중심이라고 할 수 있지 않을까.",
+    "passage_template": "벌집에는 알을 낳는 여왕벌 한 마리와 수많은 일벌들이 산다. 언뜻 보면 일벌은 별 힘도 없이 여왕벌을 위해 사는 존재인 것처럼 보인다. 알과 여왕벌 돌보기, 집 짓기 등 모든 일은 일벌이 하기 때문이다. 하지만 그것은 한 가지 면만 본 것이다. (     ) 여왕벌이 알을 낳지 못하면 일벌들은 새 여왕벌을 길러 여왕을 바꿔 버린다. 여왕벌을 길러 내고 교체하기도 하는 일벌이야말로 벌집 사회를 유지하는 중심이라고 할 수 있지 않을까.",
+    "options": [
+      {
+        "number": 1,
+        "text": "일벌은 벌집 사회를 이끌어 가는 역할을 한다."
+      },
+      {
+        "number": 2,
+        "text": "여왕벌이 일을 하지 않아야 벌집 사회가 잘 유지된다."
+      },
+      {
+        "number": 3,
+        "text": "벌집 관리를 위해서는 일벌의 수를 줄이는 것이 효과적이다."
+      },
+      {
+        "number": 4,
+        "text": "여왕벌은 편안한 삶을 위해 수많은 일벌과 함께 사는 것이다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "일벌은 벌집 사회를 이끌어 가는 역할을 한다."
+      },
+      {
+        "number": 2,
+        "text": "여왕벌이 일을 하지 않아야 벌집 사회가 잘 유지된다."
+      },
+      {
+        "number": 3,
+        "text": "벌집 관리를 위해서는 일벌의 수를 줄이는 것이 효과적이다."
+      },
+      {
+        "number": 4,
+        "text": "여왕벌은 편안한 삶을 위해 수많은 일벌과 함께 사는 것이다."
+      }
+    ],
+    "options_text": [
+      "일벌은 벌집 사회를 이끌어 가는 역할을 한다.",
+      "여왕벌이 일을 하지 않아야 벌집 사회가 잘 유지된다.",
+      "벌집 관리를 위해서는 일벌의 수를 줄이는 것이 효과적이다.",
+      "여왕벌은 편안한 삶을 위해 수많은 일벌과 함께 사는 것이다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 8,
+    "target_slot": 8,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": "SET-T2-89-LT-R019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "time_limit_minutes": 30,
+    "level_test_slot": 8,
+    "source_original_question_number": 20,
+    "source_full_exam_question_number": 20,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R020",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "R089-G019-020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "id": "T2-89-LT009",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_emotion",
+    "category": "공통 지문 심정",
+    "diagnostic_area": "밑줄 친 표현을 통한 인물 심정 파악",
+    "original_question_number": 23,
+    "question_number": 9,
+    "source_question_number": 23,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "“승리야, 힘내!”\n6개월 전만 해도 누워 있던 승리가 경기장 한 바퀴를 끝까지 돌고 들어오는 모습을 보니 코끝이 뜨거워진다.\n승리는 경주마였다. 넘어져서 더 이상 달릴 수 없다는 진단을 받기 전까지만 해도 1등은 늘 승리 차지였다. 사랑받던 승리였지만 막상 다치고 나니 데려가 보살피겠다는 곳이 아무 데도 없었다. 다시 경주를 할 수도 없는 아픈 말을 돌보는 데 너무 많은 비용이 든다는 게 이유였다. 나는 승리를 농장으로 데려왔다. 형편이 넉넉하지 않아 결정이 쉽지는 않았다. 하지만 나는 1등을 하지 않아도 사랑받을 수 있다는 것을 승리가 느끼도록 해 주고 싶었다. 그 마음을 아는 듯 승리는 열심히 재활 치료를 받았다. 승리가 걷게 되었다는 소식에 경기장 담당자는 경기장에서 잠깐 걸어 봐도 좋다고 허락해 주었다. 그리고 오늘 승리가 포기하지 않고 한 바퀴를 돈 것이다.",
+    "passage_template": "“승리야, 힘내!”\n6개월 전만 해도 누워 있던 승리가 경기장 한 바퀴를 끝까지 돌고 들어오는 모습을 보니 코끝이 뜨거워진다.\n승리는 경주마였다. 넘어져서 더 이상 달릴 수 없다는 진단을 받기 전까지만 해도 1등은 늘 승리 차지였다. 사랑받던 승리였지만 막상 다치고 나니 데려가 보살피겠다는 곳이 아무 데도 없었다. 다시 경주를 할 수도 없는 아픈 말을 돌보는 데 너무 많은 비용이 든다는 게 이유였다. 나는 승리를 농장으로 데려왔다. 형편이 넉넉하지 않아 결정이 쉽지는 않았다. 하지만 나는 1등을 하지 않아도 사랑받을 수 있다는 것을 승리가 느끼도록 해 주고 싶었다. 그 마음을 아는 듯 승리는 열심히 재활 치료를 받았다. 승리가 걷게 되었다는 소식에 경기장 담당자는 경기장에서 잠깐 걸어 봐도 좋다고 허락해 주었다. 그리고 오늘 승리가 포기하지 않고 한 바퀴를 돈 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "놀랍고 부럽다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "기쁘고 자랑스럽다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "아쉽고 걱정스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "어색하고 부끄럽다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "놀랍고 부럽다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "기쁘고 자랑스럽다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "아쉽고 걱정스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "어색하고 부끄럽다"
+      }
+    ],
+    "options_text": [
+      "놀랍고 부럽다",
+      "기쁘고 자랑스럽다",
+      "아쉽고 걱정스럽다",
+      "어색하고 부끄럽다"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 9,
+    "target_slot": 9,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": "SET-T2-89-LT-R023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "코끝이 뜨거워진다."
+    ],
+    "revision_note": "q23_q24_removed_blank_line_after_underlined_sentence",
+    "time_limit_minutes": 30,
+    "level_test_slot": 9,
+    "source_original_question_number": 23,
+    "source_full_exam_question_number": 23,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R023",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "R089-G023-024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "T2-89-LT010",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_content",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 10,
+    "source_question_number": 24,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "“승리야, 힘내!”\n6개월 전만 해도 누워 있던 승리가 경기장 한 바퀴를 끝까지 돌고 들어오는 모습을 보니 코끝이 뜨거워진다.\n승리는 경주마였다. 넘어져서 더 이상 달릴 수 없다는 진단을 받기 전까지만 해도 1등은 늘 승리 차지였다. 사랑받던 승리였지만 막상 다치고 나니 데려가 보살피겠다는 곳이 아무 데도 없었다. 다시 경주를 할 수도 없는 아픈 말을 돌보는 데 너무 많은 비용이 든다는 게 이유였다. 나는 승리를 농장으로 데려왔다. 형편이 넉넉하지 않아 결정이 쉽지는 않았다. 하지만 나는 1등을 하지 않아도 사랑받을 수 있다는 것을 승리가 느끼도록 해 주고 싶었다. 그 마음을 아는 듯 승리는 열심히 재활 치료를 받았다. 승리가 걷게 되었다는 소식에 경기장 담당자는 경기장에서 잠깐 걸어 봐도 좋다고 허락해 주었다. 그리고 오늘 승리가 포기하지 않고 한 바퀴를 돈 것이다.",
+    "passage_template": "“승리야, 힘내!”\n6개월 전만 해도 누워 있던 승리가 경기장 한 바퀴를 끝까지 돌고 들어오는 모습을 보니 코끝이 뜨거워진다.\n승리는 경주마였다. 넘어져서 더 이상 달릴 수 없다는 진단을 받기 전까지만 해도 1등은 늘 승리 차지였다. 사랑받던 승리였지만 막상 다치고 나니 데려가 보살피겠다는 곳이 아무 데도 없었다. 다시 경주를 할 수도 없는 아픈 말을 돌보는 데 너무 많은 비용이 든다는 게 이유였다. 나는 승리를 농장으로 데려왔다. 형편이 넉넉하지 않아 결정이 쉽지는 않았다. 하지만 나는 1등을 하지 않아도 사랑받을 수 있다는 것을 승리가 느끼도록 해 주고 싶었다. 그 마음을 아는 듯 승리는 열심히 재활 치료를 받았다. 승리가 걷게 되었다는 소식에 경기장 담당자는 경기장에서 잠깐 걸어 봐도 좋다고 허락해 주었다. 그리고 오늘 승리가 포기하지 않고 한 바퀴를 돈 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "승리는 경주 실력이 좋지 않아 경기장에서 쫓겨났다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "승리가 다치자 많은 사람들이 보살펴 주겠다고 나섰다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 경제적으로 여유롭지 않았지만 승리를 돌보기로 했다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 승리를 1등 경주마로 만들기 위해 농장으로 데려왔다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "승리는 경주 실력이 좋지 않아 경기장에서 쫓겨났다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "승리가 다치자 많은 사람들이 보살펴 주겠다고 나섰다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 경제적으로 여유롭지 않았지만 승리를 돌보기로 했다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 승리를 1등 경주마로 만들기 위해 농장으로 데려왔다."
+      }
+    ],
+    "options_text": [
+      "승리는 경주 실력이 좋지 않아 경기장에서 쫓겨났다.",
+      "승리가 다치자 많은 사람들이 보살펴 주겠다고 나섰다.",
+      "나는 경제적으로 여유롭지 않았지만 승리를 돌보기로 했다.",
+      "나는 승리를 1등 경주마로 만들기 위해 농장으로 데려왔다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 10,
+    "target_slot": 10,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": "SET-T2-89-LT-R023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "코끝이 뜨거워진다."
+    ],
+    "revision_note": "q23_q24_removed_blank_line_after_underlined_sentence",
+    "time_limit_minutes": 30,
+    "level_test_slot": 10,
+    "source_original_question_number": 24,
+    "source_full_exam_question_number": 24,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R024",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "R089-G023-024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "T2-89-LT011",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 10,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "신문 기사의 제목 의미 파악",
+    "original_question_number": 25,
+    "question_number": 11,
+    "source_question_number": 25,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "한국 라면 수출량, 매 분기 기록 깨",
+    "passage_template": "한국 라면 수출량, 매 분기 기록 깨",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "한국 라면의 수출량에 대한 기록을 분기마다 분석했다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "한국 라면이 분기별 수출품 다양화에 한몫을 하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "한국 라면이 분기마다 계속 최대의 수출량을 기록하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "한국 라면을 수출하는 회사들이 분기별로 신제품을 출시했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "한국 라면의 수출량에 대한 기록을 분기마다 분석했다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "한국 라면이 분기별 수출품 다양화에 한몫을 하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "한국 라면이 분기마다 계속 최대의 수출량을 기록하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "한국 라면을 수출하는 회사들이 분기별로 신제품을 출시했다."
+      }
+    ],
+    "options_text": [
+      "한국 라면의 수출량에 대한 기록을 분기마다 분석했다.",
+      "한국 라면이 분기별 수출품 다양화에 한몫을 하고 있다.",
+      "한국 라면이 분기마다 계속 최대의 수출량을 기록하고 있다.",
+      "한국 라면을 수출하는 회사들이 분기별로 신제품을 출시했다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 11,
+    "target_slot": 11,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "time_limit_minutes": 30,
+    "level_test_slot": 11,
+    "source_original_question_number": 25,
+    "source_full_exam_question_number": 25,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R025",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT012",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 11,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "long_passage_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 목적 표현 선택",
+    "original_question_number": 28,
+    "question_number": 12,
+    "source_question_number": 28,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "피자를 배달시키면 피자의 가운데에 작은 플라스틱 조각이 꽂혀서 온다. 이것은 피자 조각들을 고정하는 용도라고 생각하기 쉽지만 (          ) 위한 것이다. 피자를 바로 상자에 담으면 뜨거운 김으로 인해 습기가 생기면서 상자의 윗부분이 늘어지게 된다. 이렇게 되면 상자가 피자에 들러붙기 때문에 이를 방지하려는 것이다.",
+    "passage_template": "피자를 배달시키면 피자의 가운데에 작은 플라스틱 조각이 꽂혀서 온다. 이것은 피자 조각들을 고정하는 용도라고 생각하기 쉽지만 (          ) 위한 것이다. 피자를 바로 상자에 담으면 뜨거운 김으로 인해 습기가 생기면서 상자의 윗부분이 늘어지게 된다. 이렇게 되면 상자가 피자에 들러붙기 때문에 이를 방지하려는 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "피자를 더 커 보이게 하기"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "피자 조각을 쉽게 분리하기"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "피자 배달을 간편하게 하기"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "피자와 상자 뚜껑 사이를 띄우기"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "피자를 더 커 보이게 하기"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "피자 조각을 쉽게 분리하기"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "피자 배달을 간편하게 하기"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "피자와 상자 뚜껑 사이를 띄우기"
+      }
+    ],
+    "options_text": [
+      "피자를 더 커 보이게 하기",
+      "피자 조각을 쉽게 분리하기",
+      "피자 배달을 간편하게 하기",
+      "피자와 상자 뚜껑 사이를 띄우기"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 12,
+    "target_slot": 12,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "time_limit_minutes": 30,
+    "level_test_slot": 12,
+    "source_original_question_number": 28,
+    "source_full_exam_question_number": 28,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R028",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT013",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 13,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치 파악",
+    "diagnostic_area": "과학 설명문 세부 내용 이해",
+    "original_question_number": 32,
+    "question_number": 13,
+    "source_question_number": 32,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "글의 내용과 같은 것을 고르십시오.",
+    "passage": "개나리나 민들레처럼 이른 봄에 피는 꽃은 왜 노란색이 많을까? 겨울을 나고 일찍 꽃을 피우는 식물들은 아직 광합성을 시작하기 전이라 영양분이 부족한 상태이다. 그래서 한 번 더 화학 반응을 거쳐야 하는 빨간색보다 적은 에너지로도 낼 수 있는 노란색으로 꽃을 피우는 것이다. 또한 초봄에 활동하는 곤충들의 눈에는 노란색이 잘 띄어서 꽃가루를 옮기는 데에도 유리하다.",
+    "passage_template": "개나리나 민들레처럼 이른 봄에 피는 꽃은 왜 노란색이 많을까? 겨울을 나고 일찍 꽃을 피우는 식물들은 아직 광합성을 시작하기 전이라 영양분이 부족한 상태이다. 그래서 한 번 더 화학 반응을 거쳐야 하는 빨간색보다 적은 에너지로도 낼 수 있는 노란색으로 꽃을 피우는 것이다. 또한 초봄에 활동하는 곤충들의 눈에는 노란색이 잘 띄어서 꽃가루를 옮기는 데에도 유리하다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "식물의 빨간색은 노란색보다 쉽게 만들어진다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "노란색 꽃을 피우려면 에너지가 많이 필요하다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "식물은 초봄에 영양분이 충분한 상태에서 꽃을 피운다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "노란 꽃은 이른 봄에 활동하는 곤충의 눈에 잘 보인다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "식물의 빨간색은 노란색보다 쉽게 만들어진다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "노란색 꽃을 피우려면 에너지가 많이 필요하다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "식물은 초봄에 영양분이 충분한 상태에서 꽃을 피운다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "노란 꽃은 이른 봄에 활동하는 곤충의 눈에 잘 보인다."
+      }
+    ],
+    "options_text": [
+      "식물의 빨간색은 노란색보다 쉽게 만들어진다.",
+      "노란색 꽃을 피우려면 에너지가 많이 필요하다.",
+      "식물은 초봄에 영양분이 충분한 상태에서 꽃을 피운다.",
+      "노란 꽃은 이른 봄에 활동하는 곤충의 눈에 잘 보인다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 13,
+    "target_slot": 13,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "time_limit_minutes": 30,
+    "level_test_slot": 13,
+    "source_original_question_number": 32,
+    "source_full_exam_question_number": 32,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R032",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT014",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 14,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "과학 설명문 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 14,
+    "source_question_number": 35,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "같은 종에 속한 동물의 경우 일반적으로 추운 지역에 서식하는 개체의 몸집이 더 크다. 큰 몸집이 체온 유지에 유리하기 때문이다. 체온 손실은 대체로 몸의 표면에서 이루어져 큰 몸집이 체온 유지에 불리할 것 같지만 그렇지 않다. 몸이 커지면 몸의 부피 대비 표면의 비율은 오히려 줄어들게 된다. 따라서 몸집을 키울수록 열을 덜 빼앗겨 생존에 유리한 것이다. 실제로 북극곰은 열대 지역의 곰보다 3배 이상 큰 것으로 관찰된다.",
+    "passage_template": "같은 종에 속한 동물의 경우 일반적으로 추운 지역에 서식하는 개체의 몸집이 더 크다. 큰 몸집이 체온 유지에 유리하기 때문이다. 체온 손실은 대체로 몸의 표면에서 이루어져 큰 몸집이 체온 유지에 불리할 것 같지만 그렇지 않다. 몸이 커지면 몸의 부피 대비 표면의 비율은 오히려 줄어들게 된다. 따라서 몸집을 키울수록 열을 덜 빼앗겨 생존에 유리한 것이다. 실제로 북극곰은 열대 지역의 곰보다 3배 이상 큰 것으로 관찰된다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "추운 지역에서는 몸집이 큰 동물이 생존에 유리하다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "동물의 신체적 특징에 대한 연구가 활발해지고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "서식지에 따라 동물들이 추위를 견디는 방식이 다르다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "서식지와 관계없이 신체 능력이 뛰어난 동물이 살아남는다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "추운 지역에서는 몸집이 큰 동물이 생존에 유리하다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "동물의 신체적 특징에 대한 연구가 활발해지고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "서식지에 따라 동물들이 추위를 견디는 방식이 다르다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "서식지와 관계없이 신체 능력이 뛰어난 동물이 살아남는다."
+      }
+    ],
+    "options_text": [
+      "추운 지역에서는 몸집이 큰 동물이 생존에 유리하다.",
+      "동물의 신체적 특징에 대한 연구가 활발해지고 있다.",
+      "서식지에 따라 동물들이 추위를 견디는 방식이 다르다.",
+      "서식지와 관계없이 신체 능력이 뛰어난 동물이 살아남는다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 14,
+    "target_slot": 14,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "time_limit_minutes": 30,
+    "level_test_slot": 14,
+    "source_original_question_number": 35,
+    "source_full_exam_question_number": 35,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R035",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-89-LT015",
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf_page": 16,
+    "source_printed_page": 16,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문맥 흐름과 지시 표현을 통한 삽입 위치 파악",
+    "original_question_number": 39,
+    "question_number": 15,
+    "source_question_number": 39,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "시험을 볼 때 처음 고른 답을 다른 것으로 바꿨다가 틀린 경험이 누구나 있을 것이다. (㉠) 이 때문에 사람들은 답을 고치면 틀릴 확률이 높다고 생각하는 경향이 있다. (㉡) 그런데 한 대학에서 학생들을 대상으로 실험한 결과 실제로는 답을 고쳐서 정답이 된 사례가 훨씬 많았다. (㉢) 우리의 뇌는 답을 고쳐서 얻은 이익보다 답을 바꿔서 생긴 손실을 더 오래 기억하기 때문에 이런 경향이 나타나는 것이다. (㉣)",
+    "passage_template": "시험을 볼 때 처음 고른 답을 다른 것으로 바꿨다가 틀린 경험이 누구나 있을 것이다. (㉠) 이 때문에 사람들은 답을 고치면 틀릴 확률이 높다고 생각하는 경향이 있다. (㉡) 그런데 한 대학에서 학생들을 대상으로 실험한 결과 실제로는 답을 고쳐서 정답이 된 사례가 훨씬 많았다. (㉢) 우리의 뇌는 답을 고쳐서 얻은 이익보다 답을 바꿔서 생긴 손실을 더 오래 기억하기 때문에 이런 경향이 나타나는 것이다. (㉣)",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "template_slot": 15,
+    "target_slot": 15,
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "source_pdf": "89회 읽기.pdf",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "처음 선택한 것이 정답일 확률이 높다고 생각하는 것과는 다른 결과였다.",
+    "sentence_to_insert": "처음 선택한 것이 정답일 확률이 높다고 생각하는 것과는 다른 결과였다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢",
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "time_limit_minutes": 30,
+    "level_test_slot": 15,
+    "source_original_question_number": 39,
+    "source_full_exam_question_number": 39,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R039",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf": "89회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "id": "T2-89-LT016",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "original_question_number": 42,
+    "question_number": 16,
+    "source_question_number": 42,
+    "target_slots": [
+      16
+    ],
+    "type": "underlined_feeling",
+    "category": "밑줄 심정 파악",
+    "diagnostic_area": "밑줄 표현에 드러난 인물의 심정 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘선숙’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "다음 날 선숙은 근무 중 짬을 내 가게 유선 전화기를 사용했다. 편의점을 거쳐 간 알바들에게 전화를 걸어 야간 알바 자원을 알아봐 달라고 부탁했다. 하지만 젊은 사람들은 야간 알바 싫어한다는 답만 돌아왔다. 주변에 노는 형이나 삼촌 혹은 멀쩡한 아버지도 좋으니 소개해 달라고 하고 싶었지만, 거기까지는 말이 안 나왔다. (중략)\n\n선숙이 카드를 돌려주며 이력서를 요구했다. 사내가 다시 분주히 백을 수색하기 시작했다. 정말이지 어수선의 극치였다. 마침내 사내가 봉투를 찾아 건넸다. 누렇게 뜬 편지 봉투 안에 두툼한 이력서가 들어 있었다. 뭐가 이렇게 두꺼워? 다시금 머리가 지끈거렸다. 마침 젊은 여자 둘이 들어왔고 가뜩이나 좁은 편의점의 인구 밀도를 낮출 시간이었다.\n\n“됐어요. 가 봐요.” “왜? 이력서 안 보시고요?”\n“이따가 볼게요. 손님도 왔고.” “면접은요? 뭐 안 물어보세요?”\n“아, 지금 삼성 현대 면접 봐요? 알았으니까 집에 가 계세요. 이력서 보고 필요한 인력이면 연락드릴게!” (중략)\n\n아웃! 아무리 야간 알바 자리가 급해도 저런 얼치기를 들일 순 없다. 사람은 좋아 보이지만 저런 스타일이 의도치 않게 사고 치기 딱 좋은 유형이란 걸 선숙은 경험상 알 수 있었다.",
+    "passage_template": "다음 날 선숙은 근무 중 짬을 내 가게 유선 전화기를 사용했다. 편의점을 거쳐 간 알바들에게 전화를 걸어 야간 알바 자원을 알아봐 달라고 부탁했다. 하지만 젊은 사람들은 야간 알바 싫어한다는 답만 돌아왔다. 주변에 노는 형이나 삼촌 혹은 멀쩡한 아버지도 좋으니 소개해 달라고 하고 싶었지만, 거기까지는 말이 안 나왔다. (중략)\n\n선숙이 카드를 돌려주며 이력서를 요구했다. 사내가 다시 분주히 백을 수색하기 시작했다. 정말이지 어수선의 극치였다. 마침내 사내가 봉투를 찾아 건넸다. 누렇게 뜬 편지 봉투 안에 두툼한 이력서가 들어 있었다. 뭐가 이렇게 두꺼워? 다시금 머리가 지끈거렸다. 마침 젊은 여자 둘이 들어왔고 가뜩이나 좁은 편의점의 인구 밀도를 낮출 시간이었다.\n\n“됐어요. 가 봐요.” “왜? 이력서 안 보시고요?”\n“이따가 볼게요. 손님도 왔고.” “면접은요? 뭐 안 물어보세요?”\n“아, 지금 삼성 현대 면접 봐요? 알았으니까 집에 가 계세요. 이력서 보고 필요한 인력이면 연락드릴게!” (중략)\n\n아웃! 아무리 야간 알바 자리가 급해도 저런 얼치기를 들일 순 없다. 사람은 좋아 보이지만 저런 스타일이 의도치 않게 사고 치기 딱 좋은 유형이란 걸 선숙은 경험상 알 수 있었다.",
+    "options": [
+      "창피스럽다",
+      "짜증스럽다",
+      "다행스럽다",
+      "감격스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "창피스럽다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "짜증스럽다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "다행스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "감격스럽다"
+      }
+    ],
+    "options_text": [
+      "창피스럽다",
+      "짜증스럽다",
+      "다행스럽다",
+      "감격스럽다"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "template_slot": 16,
+    "target_slot": 16,
+    "passage_group_id": "SET-T2-89-LT-R042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "interaction_mode": "single_choice",
+    "underline_targets": [
+      "뭐가 이렇게 두꺼워?"
+    ],
+    "underlined_parts": [
+      "뭐가 이렇게 두꺼워?"
+    ],
+    "revision_note": "89회 42~43번 공통 지문 밑줄 위치 수정: '뭐가 이렇게 두꺼워?'",
+    "time_limit_minutes": 30,
+    "level_test_slot": 16,
+    "source_original_question_number": 42,
+    "source_full_exam_question_number": 42,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R042",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "SET-T2-89-R042-043",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ]
+  },
+  {
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf": "89회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "id": "T2-89-LT017",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "original_question_number": 43,
+    "question_number": 17,
+    "source_question_number": 43,
+    "target_slots": [
+      17
+    ],
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "소설 지문의 세부 내용 이해",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+    "passage": "다음 날 선숙은 근무 중 짬을 내 가게 유선 전화기를 사용했다. 편의점을 거쳐 간 알바들에게 전화를 걸어 야간 알바 자원을 알아봐 달라고 부탁했다. 하지만 젊은 사람들은 야간 알바 싫어한다는 답만 돌아왔다. 주변에 노는 형이나 삼촌 혹은 멀쩡한 아버지도 좋으니 소개해 달라고 하고 싶었지만, 거기까지는 말이 안 나왔다. (중략)\n\n선숙이 카드를 돌려주며 이력서를 요구했다. 사내가 다시 분주히 백을 수색하기 시작했다. 정말이지 어수선의 극치였다. 마침내 사내가 봉투를 찾아 건넸다. 누렇게 뜬 편지 봉투 안에 두툼한 이력서가 들어 있었다. 뭐가 이렇게 두꺼워? 다시금 머리가 지끈거렸다. 마침 젊은 여자 둘이 들어왔고 가뜩이나 좁은 편의점의 인구 밀도를 낮출 시간이었다.\n\n“됐어요. 가 봐요.” “왜? 이력서 안 보시고요?”\n“이따가 볼게요. 손님도 왔고.” “면접은요? 뭐 안 물어보세요?”\n“아, 지금 삼성 현대 면접 봐요? 알았으니까 집에 가 계세요. 이력서 보고 필요한 인력이면 연락드릴게!” (중략)\n\n아웃! 아무리 야간 알바 자리가 급해도 저런 얼치기를 들일 순 없다. 사람은 좋아 보이지만 저런 스타일이 의도치 않게 사고 치기 딱 좋은 유형이란 걸 선숙은 경험상 알 수 있었다.",
+    "passage_template": "다음 날 선숙은 근무 중 짬을 내 가게 유선 전화기를 사용했다. 편의점을 거쳐 간 알바들에게 전화를 걸어 야간 알바 자원을 알아봐 달라고 부탁했다. 하지만 젊은 사람들은 야간 알바 싫어한다는 답만 돌아왔다. 주변에 노는 형이나 삼촌 혹은 멀쩡한 아버지도 좋으니 소개해 달라고 하고 싶었지만, 거기까지는 말이 안 나왔다. (중략)\n\n선숙이 카드를 돌려주며 이력서를 요구했다. 사내가 다시 분주히 백을 수색하기 시작했다. 정말이지 어수선의 극치였다. 마침내 사내가 봉투를 찾아 건넸다. 누렇게 뜬 편지 봉투 안에 두툼한 이력서가 들어 있었다. 뭐가 이렇게 두꺼워? 다시금 머리가 지끈거렸다. 마침 젊은 여자 둘이 들어왔고 가뜩이나 좁은 편의점의 인구 밀도를 낮출 시간이었다.\n\n“됐어요. 가 봐요.” “왜? 이력서 안 보시고요?”\n“이따가 볼게요. 손님도 왔고.” “면접은요? 뭐 안 물어보세요?”\n“아, 지금 삼성 현대 면접 봐요? 알았으니까 집에 가 계세요. 이력서 보고 필요한 인력이면 연락드릴게!” (중략)\n\n아웃! 아무리 야간 알바 자리가 급해도 저런 얼치기를 들일 순 없다. 사람은 좋아 보이지만 저런 스타일이 의도치 않게 사고 치기 딱 좋은 유형이란 걸 선숙은 경험상 알 수 있었다.",
+    "options": [
+      "이력서를 살펴본 선숙은 사내에 대한 태도를 바꾸었다.",
+      "선숙은 야간에 일할 사람을 구하기 위해 노력하고 있다.",
+      "가게에 들어온 여자 손님들은 사내 때문에 나가 버렸다.",
+      "사내는 면접에 필요한 물건을 구입하려고 이곳에 방문했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "이력서를 살펴본 선숙은 사내에 대한 태도를 바꾸었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "선숙은 야간에 일할 사람을 구하기 위해 노력하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "가게에 들어온 여자 손님들은 사내 때문에 나가 버렸다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "사내는 면접에 필요한 물건을 구입하려고 이곳에 방문했다."
+      }
+    ],
+    "options_text": [
+      "이력서를 살펴본 선숙은 사내에 대한 태도를 바꾸었다.",
+      "선숙은 야간에 일할 사람을 구하기 위해 노력하고 있다.",
+      "가게에 들어온 여자 손님들은 사내 때문에 나가 버렸다.",
+      "사내는 면접에 필요한 물건을 구입하려고 이곳에 방문했다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "template_slot": 17,
+    "target_slot": 17,
+    "passage_group_id": "SET-T2-89-LT-R042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "interaction_mode": "single_choice",
+    "underline_targets": [
+      "뭐가 이렇게 두꺼워?"
+    ],
+    "underlined_parts": [
+      "뭐가 이렇게 두꺼워?"
+    ],
+    "revision_note": "89회 42~43번 공통 지문 밑줄 위치 수정: '뭐가 이렇게 두꺼워?'",
+    "time_limit_minutes": 30,
+    "level_test_slot": 17,
+    "source_original_question_number": 43,
+    "source_full_exam_question_number": 43,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R043",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "SET-T2-89-R042-043",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ]
+  },
+  {
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf": "89회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "id": "T2-89-LT018",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "original_question_number": 48,
+    "question_number": 18,
+    "source_question_number": 48,
+    "target_slots": [
+      18
+    ],
+    "type": "common_passage_purpose",
+    "category": "글쓴 목적 파악",
+    "diagnostic_area": "사회 제도 개선 글의 목적 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+    "passage": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "passage_template": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "options": [
+      "국회에 대한 우리 사회의 잘못된 의식을 비판하려고",
+      "국회 의원 규모 확대와 구성의 다양화가 필요함을 주장하려고",
+      "국회 의원의 지지율을 끌어올릴 수 있는 여러 방안을 제안하려고",
+      "국회 의원의 특권 확대가 초래하는 여러 가지 문제점을 지적하려고"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "국회에 대한 우리 사회의 잘못된 의식을 비판하려고"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "국회 의원 규모 확대와 구성의 다양화가 필요함을 주장하려고"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "국회 의원의 지지율을 끌어올릴 수 있는 여러 방안을 제안하려고"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "국회 의원의 특권 확대가 초래하는 여러 가지 문제점을 지적하려고"
+      }
+    ],
+    "options_text": [
+      "국회에 대한 우리 사회의 잘못된 의식을 비판하려고",
+      "국회 의원 규모 확대와 구성의 다양화가 필요함을 주장하려고",
+      "국회 의원의 지지율을 끌어올릴 수 있는 여러 방안을 제안하려고",
+      "국회 의원의 특권 확대가 초래하는 여러 가지 문제점을 지적하려고"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "template_slot": 18,
+    "target_slot": 18,
+    "passage_group_id": "SET-T2-89-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "interaction_mode": "single_choice",
+    "time_limit_minutes": 30,
+    "level_test_slot": 18,
+    "source_original_question_number": 48,
+    "source_full_exam_question_number": 48,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R048",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "SET-T2-89-R048-050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf": "89회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "id": "T2-89-LT019",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "original_question_number": 49,
+    "question_number": 19,
+    "source_question_number": 49,
+    "target_slots": [
+      19
+    ],
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "사회 제도 설명문의 빈칸 문맥 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "passage_template": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "options": [
+      "지금처럼 편중된 구성으로는",
+      "비판적인 국회 의원이 많으면",
+      "국민 위에 군림하려는 자세로는",
+      "여론 조사 결과를 도외시하게 되면"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "지금처럼 편중된 구성으로는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "비판적인 국회 의원이 많으면"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "국민 위에 군림하려는 자세로는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "여론 조사 결과를 도외시하게 되면"
+      }
+    ],
+    "options_text": [
+      "지금처럼 편중된 구성으로는",
+      "비판적인 국회 의원이 많으면",
+      "국민 위에 군림하려는 자세로는",
+      "여론 조사 결과를 도외시하게 되면"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "template_slot": 19,
+    "target_slot": 19,
+    "passage_group_id": "SET-T2-89-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "interaction_mode": "single_choice",
+    "time_limit_minutes": 30,
+    "level_test_slot": 19,
+    "source_original_question_number": 49,
+    "source_full_exam_question_number": 49,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R049",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "SET-T2-89-R048-050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "89",
+    "source_file": "89회 읽기.pdf",
+    "source_pdf": "89회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "difficulty_band": "advanced",
+    "question_zone": "41~50번 고난도 공통 지문",
+    "image_url": "",
+    "answer_source": "answer-key-89-level-test.json",
+    "answer_key_status": "user_provided_answer_table_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "89",
+    "generated_exam_label": "89회 레벨테스트 20문항",
+    "id": "T2-89-LT020",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "original_question_number": 50,
+    "question_number": 20,
+    "source_question_number": 50,
+    "target_slots": [
+      20
+    ],
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "사회 제도 설명문 세부 내용 이해",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "passage_template": "국회 의원 수를 늘리자는 일부 논의에 대해 비판의 목소리가 크다. 조사에 따르면 의원 수 확대에 찬성하는 사람은 10%뿐이었고 오히려 지금보다 줄여야 한다는 의견이 절반을 넘었다. 자기 당의 입장에 따라 정쟁을 일삼는 일부 의원의 행태에 실망감이 커지면서 이 사안에도 부정적인 여론이 형성된 것이다. 그러나 의원 수가 양적으로 부족한 것은 사실이다. 우리나라 의원 1인당 국민 수는 OECD 국가 평균의 1.8배를 웃돌아 인구수 대비 의원 수가 적은 편이다. 국회 의원의 구성도 문제다. 현재는 의원 상당수가 몇몇 분야에 몰려 있다. 다변화된 현대 사회에서 (               ) 사회 전반의 요구에 적절히 대처하기 어렵다. 각계각층의 사정을 잘 이해하는 각 분야 출신 인사들이 국회에 필요한 것이다. 그렇기에 의석수가 더 늘어나야 함은 물론이고 그 구성도 다양해져야 한다. 이것이 국회 의원이 국민의 대표로서 본연의 임무를 다하도록 하는 출발점이 될 것이다.",
+    "options": [
+      "각 분야의 인사들이 국회에 고르게 진출해 있다.",
+      "국내의 국회 의원 수는 OECD 국가 평균에 비해서 부족하다.",
+      "국회 의원 수를 확대하는 것은 국민 의견을 수렴한 결과이다.",
+      "당의 입장에 반대하는 국회 의원들의 모습에 국민들은 실망했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "각 분야의 인사들이 국회에 고르게 진출해 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "국내의 국회 의원 수는 OECD 국가 평균에 비해서 부족하다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "국회 의원 수를 확대하는 것은 국민 의견을 수렴한 결과이다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "당의 입장에 반대하는 국회 의원들의 모습에 국민들은 실망했다."
+      }
+    ],
+    "options_text": [
+      "각 분야의 인사들이 국회에 고르게 진출해 있다.",
+      "국내의 국회 의원 수는 OECD 국가 평균에 비해서 부족하다.",
+      "국회 의원 수를 확대하는 것은 국민 의견을 수렴한 결과이다.",
+      "당의 입장에 반대하는 국회 의원들의 모습에 국민들은 실망했다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "template_slot": 20,
+    "target_slot": 20,
+    "passage_group_id": "SET-T2-89-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "interaction_mode": "single_choice",
+    "time_limit_minutes": 30,
+    "level_test_slot": 20,
+    "source_original_question_number": 50,
+    "source_full_exam_question_number": 50,
+    "source_full_exam_id": "reading-89",
+    "source_full_exam_file": "./data/exams/reading-89.json",
+    "source_full_exam_label": "89회 50문항 실전시험",
+    "source_original_id": "T2-89-R050",
+    "source_exam_id": "level-test-89",
+    "source_exam_label": "89회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-89.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_passage_group_id": "SET-T2-89-R048-050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ]
+  }
+]
