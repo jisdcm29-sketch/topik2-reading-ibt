@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "T2-87-LT001",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 1,
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "source_question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "주말에 시간이 있으면 축구를 (     ) 영화를 본다.",
+    "passage_template": "주말에 시간이 있으면 축구를 (     ) 영화를 본다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "하지만"
+      },
+      {
+        "number": 2,
+        "text": "하거나"
+      },
+      {
+        "number": 3,
+        "text": "하니까"
+      },
+      {
+        "number": 4,
+        "text": "하려고"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "하지만"
+      },
+      {
+        "number": 2,
+        "text": "하거나"
+      },
+      {
+        "number": 3,
+        "text": "하니까"
+      },
+      {
+        "number": 4,
+        "text": "하려고"
+      }
+    ],
+    "options_text": [
+      "하지만",
+      "하거나",
+      "하니까",
+      "하려고"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 1,
+    "target_slot": 1,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 1,
+    "source_full_exam_question_number": 1,
+    "level_test_slot": 1,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R001",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT002",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 1,
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "source_question_number": 3,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "학생들은 수업이 끝나기가 무섭게 자리에서 일어났다.",
+    "passage_template": "학생들은 수업이 끝나기가 무섭게 자리에서 일어났다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "끝나려면"
+      },
+      {
+        "number": 2,
+        "text": "끝나는지"
+      },
+      {
+        "number": 3,
+        "text": "끝나자마자"
+      },
+      {
+        "number": 4,
+        "text": "끝나더라도"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "끝나려면"
+      },
+      {
+        "number": 2,
+        "text": "끝나는지"
+      },
+      {
+        "number": 3,
+        "text": "끝나자마자"
+      },
+      {
+        "number": 4,
+        "text": "끝나더라도"
+      }
+    ],
+    "options_text": [
+      "끝나려면",
+      "끝나는지",
+      "끝나자마자",
+      "끝나더라도"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 2,
+    "target_slot": 2,
+    "underline_targets": [
+      "끝나기가 무섭게"
+    ],
+    "underlined_parts": [
+      "끝나기가 무섭게"
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 3,
+    "source_full_exam_question_number": 3,
+    "level_test_slot": 2,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R003",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT003",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 4,
+    "source_printed_page": 2,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "source_question_number": 5,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "신발"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "장갑"
+      },
+      {
+        "number": 4,
+        "text": "침대"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "신발"
+      },
+      {
+        "number": 2,
+        "text": "안경"
+      },
+      {
+        "number": 3,
+        "text": "장갑"
+      },
+      {
+        "number": 4,
+        "text": "침대"
+      }
+    ],
+    "options_text": [
+      "신발",
+      "안경",
+      "장갑",
+      "침대"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "image_url": "./images/87_R005.png",
+    "template_slot": 3,
+    "target_slot": 3,
+    "image_only": true,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 5,
+    "source_full_exam_question_number": 5,
+    "level_test_slot": 3,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R005",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT004",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 3,
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "original_question_number": 10,
+    "question_number": 4,
+    "source_question_number": 10,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "number": 1,
+        "text": "여성은 도서를 사고판다는 응답이 가장 적다."
+      },
+      {
+        "number": 2,
+        "text": "의류라고 답한 사람은 남성에 비해 여성이 많다."
+      },
+      {
+        "number": 3,
+        "text": "남성은 운동 용품보다 도서를 더 많이 거래한다."
+      },
+      {
+        "number": 4,
+        "text": "전자 제품이라고 응답한 비율은 남녀 모두 절반을 넘는다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "여성은 도서를 사고판다는 응답이 가장 적다."
+      },
+      {
+        "number": 2,
+        "text": "의류라고 답한 사람은 남성에 비해 여성이 많다."
+      },
+      {
+        "number": 3,
+        "text": "남성은 운동 용품보다 도서를 더 많이 거래한다."
+      },
+      {
+        "number": 4,
+        "text": "전자 제품이라고 응답한 비율은 남녀 모두 절반을 넘는다."
+      }
+    ],
+    "options_text": [
+      "여성은 도서를 사고판다는 응답이 가장 적다.",
+      "의류라고 답한 사람은 남성에 비해 여성이 많다.",
+      "남성은 운동 용품보다 도서를 더 많이 거래한다.",
+      "전자 제품이라고 응답한 비율은 남녀 모두 절반을 넘는다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "./images/87_R010.png",
+    "template_slot": 4,
+    "target_slot": 4,
+    "image_only": true,
+    "image_display_width": "100%",
+    "imageDisplayWidth": "100%",
+    "visual_image_width": "100%",
+    "image_max_height": 460,
+    "imageMaxHeight": 460,
+    "visual_image_max_height": 460,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 10,
+    "source_full_exam_question_number": 10,
+    "level_test_slot": 4,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R010",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT005",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 5,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "original_question_number": 13,
+    "question_number": 5,
+    "source_question_number": 13,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[13~15] 다음을 순서에 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 바퀴가 빗물에 미끄러져 기찻길을 벗어날 수 있기 때문이다.\n(나) 모래 때문에 기차는 미끄러지지 않고 안전하게 다닐 수 있다.\n(다) 이를 대비해 기차 바퀴에는 모래 뿌리는 장치가 설치되어 있다.\n(라) 비가 많이 오는 날에는 기찻길이 비에 젖어 사고가 날 수 있다.",
+    "passage_template": "(가) 바퀴가 빗물에 미끄러져 기찻길을 벗어날 수 있기 때문이다.\n(나) 모래 때문에 기차는 미끄러지지 않고 안전하게 다닐 수 있다.\n(다) 이를 대비해 기차 바퀴에는 모래 뿌리는 장치가 설치되어 있다.\n(라) 비가 많이 오는 날에는 기찻길이 비에 젖어 사고가 날 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "(나)-(라)-(다)-(가)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(다)-(가)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "(나)-(라)-(다)-(가)"
+      },
+      {
+        "number": 2,
+        "text": "(나)-(다)-(가)-(라)"
+      },
+      {
+        "number": 3,
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "number": 4,
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "options_text": [
+      "(나)-(라)-(다)-(가)",
+      "(나)-(다)-(가)-(라)",
+      "(라)-(가)-(다)-(나)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 5,
+    "target_slot": 5,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "바퀴가 빗물에 미끄러져 기찻길을 벗어날 수 있기 때문이다."
+      },
+      {
+        "label": "(나)",
+        "text": "모래 때문에 기차는 미끄러지지 않고 안전하게 다닐 수 있다."
+      },
+      {
+        "label": "(다)",
+        "text": "이를 대비해 기차 바퀴에는 모래 뿌리는 장치가 설치되어 있다."
+      },
+      {
+        "label": "(라)",
+        "text": "비가 많이 오는 날에는 기찻길이 비에 젖어 사고가 날 수 있다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "바퀴가 빗물에 미끄러져 기찻길을 벗어날 수 있기 때문이다."
+      },
+      {
+        "label": "(나)",
+        "text": "모래 때문에 기차는 미끄러지지 않고 안전하게 다닐 수 있다."
+      },
+      {
+        "label": "(다)",
+        "text": "이를 대비해 기차 바퀴에는 모래 뿌리는 장치가 설치되어 있다."
+      },
+      {
+        "label": "(라)",
+        "text": "비가 많이 오는 날에는 기찻길이 비에 젖어 사고가 날 수 있다."
+      }
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 13,
+    "source_full_exam_question_number": 13,
+    "level_test_slot": 5,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R013",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT006",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 8,
+    "source_printed_page": 6,
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 6,
+    "source_question_number": 16,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[16~18] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "참치는 일반 어류와 달리 아가미를 움직여서 호흡하지 않는다. 그 대신에 헤엄쳐 나아갈 때 입으로 들어오는 물에서 산소를 얻는다. 그래서 헤엄을 멈추는 순간 (     ) 된다. 이 때문에 참치는 태어나서 죽을 때까지, 심지어 잠을 자면서도 헤엄을 멈추지 않는다.",
+    "passage_template": "참치는 일반 어류와 달리 아가미를 움직여서 호흡하지 않는다. 그 대신에 헤엄쳐 나아갈 때 입으로 들어오는 물에서 산소를 얻는다. 그래서 헤엄을 멈추는 순간 (     ) 된다. 이 때문에 참치는 태어나서 죽을 때까지, 심지어 잠을 자면서도 헤엄을 멈추지 않는다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "잠을 잘 수 없게"
+      },
+      {
+        "number": 2,
+        "text": "숨을 쉴 수 없게"
+      },
+      {
+        "number": 3,
+        "text": "바닷물을 많이 마시게"
+      },
+      {
+        "number": 4,
+        "text": "아가미 주변이 커지게"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "잠을 잘 수 없게"
+      },
+      {
+        "number": 2,
+        "text": "숨을 쉴 수 없게"
+      },
+      {
+        "number": 3,
+        "text": "바닷물을 많이 마시게"
+      },
+      {
+        "number": 4,
+        "text": "아가미 주변이 커지게"
+      }
+    ],
+    "options_text": [
+      "잠을 잘 수 없게",
+      "숨을 쉴 수 없게",
+      "바닷물을 많이 마시게",
+      "아가미 주변이 커지게"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 6,
+    "target_slot": 6,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 16,
+    "source_full_exam_question_number": 16,
+    "level_test_slot": 6,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R016",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "T2-87-LT007",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 7,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "짧은 공통 지문의 연결어 선택",
+    "original_question_number": 19,
+    "question_number": 7,
+    "source_question_number": 19,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "가전제품 기업들은 소비자의 마음을 사로잡기 위해 다양한 전략을 쓴다. 그중 하나가 체험형 매장을 운영하는 것이다. 방문객들에게 자유롭게 신제품을 만지고 작동시켜 보게 함으로써 첨단 기술이 적용된 자사 제품의 우수성을 알리려는 것이다. (     ) 가전제품의 특성상 이러한 체험이 바로 구매로 이어지지는 않는다. 그러나 미래에 자사 제품을 구매할 가능성이 높아지는 것만큼은 기대할 수 있다.",
+    "passage_template": "가전제품 기업들은 소비자의 마음을 사로잡기 위해 다양한 전략을 쓴다. 그중 하나가 체험형 매장을 운영하는 것이다. 방문객들에게 자유롭게 신제품을 만지고 작동시켜 보게 함으로써 첨단 기술이 적용된 자사 제품의 우수성을 알리려는 것이다. (     ) 가전제품의 특성상 이러한 체험이 바로 구매로 이어지지는 않는다. 그러나 미래에 자사 제품을 구매할 가능성이 높아지는 것만큼은 기대할 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "다만"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "만약"
+      },
+      {
+        "number": 4,
+        "text": "혹시"
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "다만"
+      },
+      {
+        "number": 2,
+        "text": "과연"
+      },
+      {
+        "number": 3,
+        "text": "만약"
+      },
+      {
+        "number": 4,
+        "text": "혹시"
+      }
+    ],
+    "options_text": [
+      "다만",
+      "과연",
+      "만약",
+      "혹시"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "image_url": "",
+    "template_slot": 7,
+    "target_slot": 7,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 19,
+    "source_full_exam_question_number": 19,
+    "level_test_slot": 7,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R019",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "id": "T2-87-LT008",
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 7,
+    "type": "common_passage_topic",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "짧은 공통 지문의 주제 파악",
+    "original_question_number": 20,
+    "question_number": 8,
+    "source_question_number": 20,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "가전제품 기업들은 소비자의 마음을 사로잡기 위해 다양한 전략을 쓴다. 그중 하나가 체험형 매장을 운영하는 것이다. 방문객들에게 자유롭게 신제품을 만지고 작동시켜 보게 함으로써 첨단 기술이 적용된 자사 제품의 우수성을 알리려는 것이다. (     ) 가전제품의 특성상 이러한 체험이 바로 구매로 이어지지는 않는다. 그러나 미래에 자사 제품을 구매할 가능성이 높아지는 것만큼은 기대할 수 있다.",
+    "passage_template": "가전제품 기업들은 소비자의 마음을 사로잡기 위해 다양한 전략을 쓴다. 그중 하나가 체험형 매장을 운영하는 것이다. 방문객들에게 자유롭게 신제품을 만지고 작동시켜 보게 함으로써 첨단 기술이 적용된 자사 제품의 우수성을 알리려는 것이다. (     ) 가전제품의 특성상 이러한 체험이 바로 구매로 이어지지는 않는다. 그러나 미래에 자사 제품을 구매할 가능성이 높아지는 것만큼은 기대할 수 있다.",
+    "options": [
+      {
+        "number": 1,
+        "text": "제품의 판매 증가는 기업에 대한 호감도 상승으로 이어진다."
+      },
+      {
+        "number": 2,
+        "text": "기업은 고객 체험을 확대하여 판매 가능성을 높이고자 한다."
+      },
+      {
+        "number": 3,
+        "text": "기업은 첨단 기술을 적용하여 신제품을 개발할 필요가 있다."
+      },
+      {
+        "number": 4,
+        "text": "매장 방문객이 늘어나면 기업의 매출이 오르는 효과가 난다."
+      }
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "text": "제품의 판매 증가는 기업에 대한 호감도 상승으로 이어진다."
+      },
+      {
+        "number": 2,
+        "text": "기업은 고객 체험을 확대하여 판매 가능성을 높이고자 한다."
+      },
+      {
+        "number": 3,
+        "text": "기업은 첨단 기술을 적용하여 신제품을 개발할 필요가 있다."
+      },
+      {
+        "number": 4,
+        "text": "매장 방문객이 늘어나면 기업의 매출이 오르는 효과가 난다."
+      }
+    ],
+    "options_text": [
+      "제품의 판매 증가는 기업에 대한 호감도 상승으로 이어진다.",
+      "기업은 고객 체험을 확대하여 판매 가능성을 높이고자 한다.",
+      "기업은 첨단 기술을 적용하여 신제품을 개발할 필요가 있다.",
+      "매장 방문객이 늘어나면 기업의 매출이 오르는 효과가 난다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 8,
+    "target_slot": 8,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 20,
+    "source_full_exam_question_number": 20,
+    "level_test_slot": 8,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "T2-87-D1-20-R020",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R019-020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT009",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "type": "common_passage_emotion",
+    "category": "공통 지문 심정",
+    "diagnostic_area": "밑줄 친 표현을 통한 인물 심정 파악",
+    "original_question_number": 23,
+    "question_number": 9,
+    "source_question_number": 23,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "아이가 유치원에 다닌 지 한 달이 지났을 무렵, 아이를 데리러 처음 유치원에 갔다. 아이의 선생님은 아이가 밥도 잘 먹고 유치원 생활도 잘한다는 칭찬과 함께 그동안 몰랐던 아이의 행동과 성격까지 자세히 설명해 주었다. 아빠인 내가 모르고 지냈던 부분이 그렇게 많다고 생각하니 아이에게 너무 미안한 마음이 들었다. 사실, 퇴근 후 집에 와서도 밀린 일을 하느라 아이와 놀아 준 적이 별로 없었다. 주말에도 약속으로 집을 비울 때가 많았다. 나를 잘 따르지 않는 아이를 보며 “태윤이는 내가 아빠인 줄 모르나 봐.” 하고 되레 아내에게 투정을 부리기도 했다. 이런저런 핑계로 아이와 함께하지 못한 시간이 후회되었다. 집으로 가는 길에 “우리 놀이터에서 놀다 갈까?” 하고 아이에게 말했다. 그러자 아이는 “와, 신난다!” 하고 웃으며 소리쳤다.",
+    "passage_template": "아이가 유치원에 다닌 지 한 달이 지났을 무렵, 아이를 데리러 처음 유치원에 갔다. 아이의 선생님은 아이가 밥도 잘 먹고 유치원 생활도 잘한다는 칭찬과 함께 그동안 몰랐던 아이의 행동과 성격까지 자세히 설명해 주었다. 아빠인 내가 모르고 지냈던 부분이 그렇게 많다고 생각하니 아이에게 너무 미안한 마음이 들었다. 사실, 퇴근 후 집에 와서도 밀린 일을 하느라 아이와 놀아 준 적이 별로 없었다. 주말에도 약속으로 집을 비울 때가 많았다. 나를 잘 따르지 않는 아이를 보며 “태윤이는 내가 아빠인 줄 모르나 봐.” 하고 되레 아내에게 투정을 부리기도 했다. 이런저런 핑계로 아이와 함께하지 못한 시간이 후회되었다. 집으로 가는 길에 “우리 놀이터에서 놀다 갈까?” 하고 아이에게 말했다. 그러자 아이는 “와, 신난다!” 하고 웃으며 소리쳤다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "그립다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "놀랍다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "불안하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "서운하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "그립다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "놀랍다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "불안하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "서운하다"
+      }
+    ],
+    "options_text": [
+      "그립다",
+      "놀랍다",
+      "불안하다",
+      "서운하다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "image_url": "",
+    "template_slot": 9,
+    "target_slot": 9,
+    "underline_targets": [
+      "태윤이는 내가 아빠인 줄 모르나 봐."
+    ],
+    "underlined_parts": [
+      "태윤이는 내가 아빠인 줄 모르나 봐."
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 23,
+    "source_full_exam_question_number": 23,
+    "level_test_slot": 9,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q023",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT010",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "type": "common_passage_content",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 10,
+    "source_question_number": 24,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "아이가 유치원에 다닌 지 한 달이 지났을 무렵, 아이를 데리러 처음 유치원에 갔다. 아이의 선생님은 아이가 밥도 잘 먹고 유치원 생활도 잘한다는 칭찬과 함께 그동안 몰랐던 아이의 행동과 성격까지 자세히 설명해 주었다. 아빠인 내가 모르고 지냈던 부분이 그렇게 많다고 생각하니 아이에게 너무 미안한 마음이 들었다. 사실, 퇴근 후 집에 와서도 밀린 일을 하느라 아이와 놀아 준 적이 별로 없었다. 주말에도 약속으로 집을 비울 때가 많았다. 나를 잘 따르지 않는 아이를 보며 “태윤이는 내가 아빠인 줄 모르나 봐.” 하고 되레 아내에게 투정을 부리기도 했다. 이런저런 핑계로 아이와 함께하지 못한 시간이 후회되었다. 집으로 가는 길에 “우리 놀이터에서 놀다 갈까?” 하고 아이에게 말했다. 그러자 아이는 “와, 신난다!” 하고 웃으며 소리쳤다.",
+    "passage_template": "아이가 유치원에 다닌 지 한 달이 지났을 무렵, 아이를 데리러 처음 유치원에 갔다. 아이의 선생님은 아이가 밥도 잘 먹고 유치원 생활도 잘한다는 칭찬과 함께 그동안 몰랐던 아이의 행동과 성격까지 자세히 설명해 주었다. 아빠인 내가 모르고 지냈던 부분이 그렇게 많다고 생각하니 아이에게 너무 미안한 마음이 들었다. 사실, 퇴근 후 집에 와서도 밀린 일을 하느라 아이와 놀아 준 적이 별로 없었다. 주말에도 약속으로 집을 비울 때가 많았다. 나를 잘 따르지 않는 아이를 보며 “태윤이는 내가 아빠인 줄 모르나 봐.” 하고 되레 아내에게 투정을 부리기도 했다. 이런저런 핑계로 아이와 함께하지 못한 시간이 후회되었다. 집으로 가는 길에 “우리 놀이터에서 놀다 갈까?” 하고 아이에게 말했다. 그러자 아이는 “와, 신난다!” 하고 웃으며 소리쳤다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "아이를 위해서 나는 주말에 약속을 잡지 않았다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "아이는 한 달 동안 유치원에 적응하지 못하였다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 아이에 대해 모르는 것이 많다는 것을 깨달았다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "퇴근 후에 나는 대부분의 시간을 아이와 함께 보냈다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "아이를 위해서 나는 주말에 약속을 잡지 않았다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "아이는 한 달 동안 유치원에 적응하지 못하였다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 아이에 대해 모르는 것이 많다는 것을 깨달았다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "퇴근 후에 나는 대부분의 시간을 아이와 함께 보냈다."
+      }
+    ],
+    "options_text": [
+      "아이를 위해서 나는 주말에 약속을 잡지 않았다.",
+      "아이는 한 달 동안 유치원에 적응하지 못하였다.",
+      "나는 아이에 대해 모르는 것이 많다는 것을 깨달았다.",
+      "퇴근 후에 나는 대부분의 시간을 아이와 함께 보냈다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 10,
+    "target_slot": 10,
+    "underline_targets": [
+      "태윤이는 내가 아빠인 줄 모르나 봐."
+    ],
+    "underlined_parts": [
+      "태윤이는 내가 아빠인 줄 모르나 봐."
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 24,
+    "source_full_exam_question_number": 24,
+    "level_test_slot": 10,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q024",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R023-024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT011",
+    "source_pdf_page": 10,
+    "source_printed_page": 10,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 11,
+    "source_question_number": 25,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "김민수 선수 부상, 올림픽 금메달 적신호",
+    "passage_template": "김민수 선수 부상, 올림픽 금메달 적신호",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "김민수 선수가 부상을 극복하고 올림픽에서 금메달을 받았다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "김민수 선수가 부상에서 회복했지만 올림픽 금메달 도전에 실패했다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "김민수 선수가 부상을 입어 올림픽 금메달 획득에 어려움이 예상된다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "김민수 선수는 부상을 당해도 올림픽에서 금메달을 딸 수 있을 것이다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "김민수 선수가 부상을 극복하고 올림픽에서 금메달을 받았다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "김민수 선수가 부상에서 회복했지만 올림픽 금메달 도전에 실패했다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "김민수 선수가 부상을 입어 올림픽 금메달 획득에 어려움이 예상된다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "김민수 선수는 부상을 당해도 올림픽에서 금메달을 딸 수 있을 것이다."
+      }
+    ],
+    "options_text": [
+      "김민수 선수가 부상을 극복하고 올림픽에서 금메달을 받았다.",
+      "김민수 선수가 부상에서 회복했지만 올림픽 금메달 도전에 실패했다.",
+      "김민수 선수가 부상을 입어 올림픽 금메달 획득에 어려움이 예상된다.",
+      "김민수 선수는 부상을 당해도 올림픽에서 금메달을 딸 수 있을 것이다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 11,
+    "target_slot": 11,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 25,
+    "source_full_exam_question_number": 25,
+    "level_test_slot": 11,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q025",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT012",
+    "source_pdf_page": 11,
+    "source_printed_page": 11,
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "original_question_number": 28,
+    "question_number": 12,
+    "source_question_number": 28,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[28~31] (     )에 들어갈 말로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "식물이 성장하려면 질소가 꼭 필요하다. 그런데 콩은 뿌리에 질소를 합성하는 미생물이 있어서 따로 질소 비료를 주지 않아도 잘 자란다. 그래서 다른 작물을 재배할 때 콩을 같이 심어 주면 질소 비료를 공급하는 효과를 볼 수 있다. 콩 뿌리에 있는 미생물이 (          ) 역할을 하는 것이다. 예로부터 옥수수 같은 작물에 콩을 섞어서 심어 온 이유가 여기에 있다.",
+    "passage_template": "식물이 성장하려면 질소가 꼭 필요하다. 그런데 콩은 뿌리에 질소를 합성하는 미생물이 있어서 따로 질소 비료를 주지 않아도 잘 자란다. 그래서 다른 작물을 재배할 때 콩을 같이 심어 주면 질소 비료를 공급하는 효과를 볼 수 있다. 콩 뿌리에 있는 미생물이 (          ) 역할을 하는 것이다. 예로부터 옥수수 같은 작물에 콩을 섞어서 심어 온 이유가 여기에 있다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "질소의 생성을 막는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "다른 작물의 성장을 돕는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "주변의 미생물을 제거하는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "식물의 영양분을 흡수하는"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "질소의 생성을 막는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "다른 작물의 성장을 돕는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "주변의 미생물을 제거하는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "식물의 영양분을 흡수하는"
+      }
+    ],
+    "options_text": [
+      "질소의 생성을 막는",
+      "다른 작물의 성장을 돕는",
+      "주변의 미생물을 제거하는",
+      "식물의 영양분을 흡수하는"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 12,
+    "target_slot": 12,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 28,
+    "source_full_exam_question_number": 28,
+    "level_test_slot": 12,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q028",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT013",
+    "source_pdf_page": 13,
+    "source_printed_page": 13,
+    "type": "same_content",
+    "category": "내용 일치 파악",
+    "diagnostic_area": "세부 내용 일치 여부 파악",
+    "original_question_number": 32,
+    "question_number": 13,
+    "source_question_number": 32,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[32~34] 다음을 읽고 글의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "글의 내용과 같은 것을 고르십시오.",
+    "passage": "행궁은 왕이 머물던 도성 밖의 궁으로, 떨어져 있는 궁이라는 의미로 이궁으로도 불린다. 행궁은 피난이나 휴양 등의 다양한 목적으로 건축되었다. 현재까지 남아 있는 행궁은 주로 고려 시대 이후에 지어진 것이다. 그러나 여러 문헌에 삼국 시대에 행궁을 지었다는 등의 기록이 남아 있다. 행궁의 자세한 목록이나 형태까지는 알 수 없지만 그 존재만은 확인할 수 있다.",
+    "passage_template": "행궁은 왕이 머물던 도성 밖의 궁으로, 떨어져 있는 궁이라는 의미로 이궁으로도 불린다. 행궁은 피난이나 휴양 등의 다양한 목적으로 건축되었다. 현재까지 남아 있는 행궁은 주로 고려 시대 이후에 지어진 것이다. 그러나 여러 문헌에 삼국 시대에 행궁을 지었다는 등의 기록이 남아 있다. 행궁의 자세한 목록이나 형태까지는 알 수 없지만 그 존재만은 확인할 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "휴양을 위한 행궁은 도성 안에 지어졌다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "행궁은 이궁이라는 다른 명칭을 가지고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "삼국 시대에 지어진 행궁의 목록이 남아 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "고려 시대의 행궁은 현재 그 모습을 볼 수 없다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "휴양을 위한 행궁은 도성 안에 지어졌다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "행궁은 이궁이라는 다른 명칭을 가지고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "삼국 시대에 지어진 행궁의 목록이 남아 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "고려 시대의 행궁은 현재 그 모습을 볼 수 없다."
+      }
+    ],
+    "options_text": [
+      "휴양을 위한 행궁은 도성 안에 지어졌다.",
+      "행궁은 이궁이라는 다른 명칭을 가지고 있다.",
+      "삼국 시대에 지어진 행궁의 목록이 남아 있다.",
+      "고려 시대의 행궁은 현재 그 모습을 볼 수 없다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 13,
+    "target_slot": 13,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 32,
+    "source_full_exam_question_number": 32,
+    "level_test_slot": 13,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q032",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT014",
+    "source_pdf_page": 14,
+    "source_printed_page": 14,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "설명문 중심 내용 파악",
+    "original_question_number": 35,
+    "question_number": 14,
+    "source_question_number": 35,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[35~38] 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "사람들은 다른 사람을 일부분의 정보만 가지고 판단하기도 한다. 심리학자들은 이를 ‘인지적 구두쇠’라는 개념으로 설명한다. 마치 구두쇠가 돈을 아끼듯이 정신적 에너지를 절약하려는 심리에서 이런 판단을 한다는 것이다. 사람들은 수시로 판단을 해야 할 때가 많은데 그때마다 모든 정보를 수집하고 처리하는 것은 인지적으로 큰 부담이 된다. 이런 부담을 줄이기 위해 특정한 속성에만 주목하여 사람들을 일반화하고 쉽게 판단해 버린다.",
+    "passage_template": "사람들은 다른 사람을 일부분의 정보만 가지고 판단하기도 한다. 심리학자들은 이를 ‘인지적 구두쇠’라는 개념으로 설명한다. 마치 구두쇠가 돈을 아끼듯이 정신적 에너지를 절약하려는 심리에서 이런 판단을 한다는 것이다. 사람들은 수시로 판단을 해야 할 때가 많은데 그때마다 모든 정보를 수집하고 처리하는 것은 인지적으로 큰 부담이 된다. 이런 부담을 줄이기 위해 특정한 속성에만 주목하여 사람들을 일반화하고 쉽게 판단해 버린다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "타인에 대한 평가는 분석적으로 이루어져야 한다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "정보가 많이 수집될수록 합리적 판단이 어려워진다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "사람들은 돈보다 정신적 에너지를 더 절약하려는 경향이 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "사람들은 인지적 부담을 줄이려고 일부 정보로 타인을 평가한다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "타인에 대한 평가는 분석적으로 이루어져야 한다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "정보가 많이 수집될수록 합리적 판단이 어려워진다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "사람들은 돈보다 정신적 에너지를 더 절약하려는 경향이 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "사람들은 인지적 부담을 줄이려고 일부 정보로 타인을 평가한다."
+      }
+    ],
+    "options_text": [
+      "타인에 대한 평가는 분석적으로 이루어져야 한다.",
+      "정보가 많이 수집될수록 합리적 판단이 어려워진다.",
+      "사람들은 돈보다 정신적 에너지를 더 절약하려는 경향이 있다.",
+      "사람들은 인지적 부담을 줄이려고 일부 정보로 타인을 평가한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "image_url": "",
+    "template_slot": 14,
+    "target_slot": 14,
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 35,
+    "source_full_exam_question_number": 35,
+    "level_test_slot": 14,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q035",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT015",
+    "source_pdf_page": 16,
+    "source_printed_page": 16,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "문맥 흐름과 지시 표현을 통한 삽입 위치 파악",
+    "original_question_number": 39,
+    "question_number": 15,
+    "source_question_number": 39,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[39~41] 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "최근 이집트에서 5,000년 전 것으로 추정되는 대형 맥주 양조장 터가 발굴되었다. (㉠) 당시 이집트인에게는 맥주가 빵과 더불어 주식이었다. 고대 물물 교환 시대에는 생필품이 화폐를 대신했으므로 맥주가 화폐의 역할을 했을 것으로 추정된다. (㉡) 병원 노동자에게는 하루 1리터의 맥주를, 고위 관리에게는 5리터의 맥주를 지급했다는 내용이다. (㉢) 고대 이집트의 맥주 양조장은 화폐를 찍어 내는 공장이었던 셈이다. (㉣)",
+    "passage_template": "최근 이집트에서 5,000년 전 것으로 추정되는 대형 맥주 양조장 터가 발굴되었다. (㉠) 당시 이집트인에게는 맥주가 빵과 더불어 주식이었다. 고대 물물 교환 시대에는 생필품이 화폐를 대신했으므로 맥주가 화폐의 역할을 했을 것으로 추정된다. (㉡) 병원 노동자에게는 하루 1리터의 맥주를, 고위 관리에게는 5리터의 맥주를 지급했다는 내용이다. (㉢) 고대 이집트의 맥주 양조장은 화폐를 찍어 내는 공장이었던 셈이다. (㉣)",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 15,
+    "target_slot": 15,
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "실제로 맥주를 급여로 지급했다는 기록들도 출토되었다.",
+    "sentence_to_insert": "실제로 맥주를 급여로 지급했다는 기록들도 출토되었다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉡",
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 39,
+    "source_full_exam_question_number": 39,
+    "level_test_slot": 15,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q039",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT016",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "type": "emotion_underlined",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 친 표현을 통한 인물 심정 파악",
+    "original_question_number": 42,
+    "question_number": 16,
+    "source_question_number": 42,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘인표’의 심정으로 가장 알맞은 것을 고르십시오.",
+    "passage": "“씨름 가르쳐 주세요.” (중략)\n“그걸 왜 저한테? 체육 선생님들한테 부탁하시지요.”\n“제일 친절히 가르쳐 주실 거 같아서요.”\n매켄지가 인표가 가장 좋아하는 단어 중 하나를 정확히 발음했다. 친절. 인표의 마음이 살짝 흔들렸다. 교양, 매너, 우아 등과 함께 인표에게 효과가 있는 말이었다.\n“체육 선생님들은 저 퍽퍽 던져요. 무서워요.” (중략)\n인표는 여전히 내키지가 않았다.\n“아니면 전통 쌀바 잡는 방법만?”\n전통, 그게 결정타였다. 평소 매켄지가 구사하는 단어들은 그다지 인표 취향이 아니었는데 이날따라 표적 가까이 꽂혔다.\n“알았어요. 이따 저녁에 봅시다.” (중략)\n걸어오는 매켄지를 먼저 척 본 안에 모래판에 와 있던 인표가 지켜보았다. 약속에 늦은 주제에 한가로이 화단의 풀들을 톡톡 잡아 뜯으며 오고 있었다. 성격이 느긋한 사람들은 가끔 인표의 성격을 건드리곤 했다. 창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가, 인표가 뾰족한 시선을 보내자 매켄지가 뛰기 시작했다.\n“이제 뛰네, 이제 뛰어.”",
+    "passage_template": "“씨름 가르쳐 주세요.” (중략)\n“그걸 왜 저한테? 체육 선생님들한테 부탁하시지요.”\n“제일 친절히 가르쳐 주실 거 같아서요.”\n매켄지가 인표가 가장 좋아하는 단어 중 하나를 정확히 발음했다. 친절. 인표의 마음이 살짝 흔들렸다. 교양, 매너, 우아 등과 함께 인표에게 효과가 있는 말이었다.\n“체육 선생님들은 저 퍽퍽 던져요. 무서워요.” (중략)\n인표는 여전히 내키지가 않았다.\n“아니면 전통 쌀바 잡는 방법만?”\n전통, 그게 결정타였다. 평소 매켄지가 구사하는 단어들은 그다지 인표 취향이 아니었는데 이날따라 표적 가까이 꽂혔다.\n“알았어요. 이따 저녁에 봅시다.” (중략)\n걸어오는 매켄지를 먼저 척 본 안에 모래판에 와 있던 인표가 지켜보았다. 약속에 늦은 주제에 한가로이 화단의 풀들을 톡톡 잡아 뜯으며 오고 있었다. 성격이 느긋한 사람들은 가끔 인표의 성격을 건드리곤 했다. 창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가, 인표가 뾰족한 시선을 보내자 매켄지가 뛰기 시작했다.\n“이제 뛰네, 이제 뛰어.”",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "대견하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "미안하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "못마땅하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "믿음직하다"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "대견하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "미안하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "못마땅하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "믿음직하다"
+      }
+    ],
+    "options_text": [
+      "대견하다",
+      "미안하다",
+      "못마땅하다",
+      "믿음직하다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 16,
+    "target_slot": 16,
+    "set_id": "SET-R087-42-43",
+    "passage_set_id": "SET-R087-42-43",
+    "set_type": "common_passage_pair",
+    "passage_label": "[42~43] 공통 지문",
+    "underline_targets": [
+      "창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가"
+    ],
+    "underlined_parts": [
+      "창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가"
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 42,
+    "source_full_exam_question_number": 42,
+    "level_test_slot": 16,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q042",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT017",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "소설 지문의 세부 내용 이해",
+    "original_question_number": 43,
+    "question_number": 17,
+    "source_question_number": 43,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+    "passage": "“씨름 가르쳐 주세요.” (중략)\n“그걸 왜 저한테? 체육 선생님들한테 부탁하시지요.”\n“제일 친절히 가르쳐 주실 거 같아서요.”\n매켄지가 인표가 가장 좋아하는 단어 중 하나를 정확히 발음했다. 친절. 인표의 마음이 살짝 흔들렸다. 교양, 매너, 우아 등과 함께 인표에게 효과가 있는 말이었다.\n“체육 선생님들은 저 퍽퍽 던져요. 무서워요.” (중략)\n인표는 여전히 내키지가 않았다.\n“아니면 전통 쌀바 잡는 방법만?”\n전통, 그게 결정타였다. 평소 매켄지가 구사하는 단어들은 그다지 인표 취향이 아니었는데 이날따라 표적 가까이 꽂혔다.\n“알았어요. 이따 저녁에 봅시다.” (중략)\n걸어오는 매켄지를 먼저 척 본 안에 모래판에 와 있던 인표가 지켜보았다. 약속에 늦은 주제에 한가로이 화단의 풀들을 톡톡 잡아 뜯으며 오고 있었다. 성격이 느긋한 사람들은 가끔 인표의 성격을 건드리곤 했다. 창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가, 인표가 뾰족한 시선을 보내자 매켄지가 뛰기 시작했다.\n“이제 뛰네, 이제 뛰어.”",
+    "passage_template": "“씨름 가르쳐 주세요.” (중략)\n“그걸 왜 저한테? 체육 선생님들한테 부탁하시지요.”\n“제일 친절히 가르쳐 주실 거 같아서요.”\n매켄지가 인표가 가장 좋아하는 단어 중 하나를 정확히 발음했다. 친절. 인표의 마음이 살짝 흔들렸다. 교양, 매너, 우아 등과 함께 인표에게 효과가 있는 말이었다.\n“체육 선생님들은 저 퍽퍽 던져요. 무서워요.” (중략)\n인표는 여전히 내키지가 않았다.\n“아니면 전통 쌀바 잡는 방법만?”\n전통, 그게 결정타였다. 평소 매켄지가 구사하는 단어들은 그다지 인표 취향이 아니었는데 이날따라 표적 가까이 꽂혔다.\n“알았어요. 이따 저녁에 봅시다.” (중략)\n걸어오는 매켄지를 먼저 척 본 안에 모래판에 와 있던 인표가 지켜보았다. 약속에 늦은 주제에 한가로이 화단의 풀들을 톡톡 잡아 뜯으며 오고 있었다. 성격이 느긋한 사람들은 가끔 인표의 성격을 건드리곤 했다. 창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가, 인표가 뾰족한 시선을 보내자 매켄지가 뛰기 시작했다.\n“이제 뛰네, 이제 뛰어.”",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "매켄지는 운동장의 철봉 아래에서 인표를 기다렸다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "매켄지는 요즘 체육 선생님한테서 씨름을 배우고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "매켄지는 전통 쌀바를 잡는 방법을 이미 잘 알고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "매켄지는 인표가 평소에 좋아하는 단어들을 사용해 말했다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "매켄지는 운동장의 철봉 아래에서 인표를 기다렸다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "매켄지는 요즘 체육 선생님한테서 씨름을 배우고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "매켄지는 전통 쌀바를 잡는 방법을 이미 잘 알고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "매켄지는 인표가 평소에 좋아하는 단어들을 사용해 말했다."
+      }
+    ],
+    "options_text": [
+      "매켄지는 운동장의 철봉 아래에서 인표를 기다렸다.",
+      "매켄지는 요즘 체육 선생님한테서 씨름을 배우고 있다.",
+      "매켄지는 전통 쌀바를 잡는 방법을 이미 잘 알고 있다.",
+      "매켄지는 인표가 평소에 좋아하는 단어들을 사용해 말했다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "image_url": "",
+    "template_slot": 17,
+    "target_slot": 17,
+    "set_id": "SET-R087-42-43",
+    "passage_set_id": "SET-R087-42-43",
+    "set_type": "common_passage_pair",
+    "passage_label": "[42~43] 공통 지문",
+    "underline_targets": [
+      "창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가"
+    ],
+    "underlined_parts": [
+      "창고에서 삽자루도 미리 꺼내 왔구먼, 부탁하는 사람 태도가 저게 뭔가"
+    ],
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "source_original_question_number": 43,
+    "source_full_exam_question_number": 43,
+    "level_test_slot": 17,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q043",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R042-043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "interaction_mode": "single_choice"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT018",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "author_purpose",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "글을 쓴 목적 파악",
+    "original_question_number": 48,
+    "question_number": 18,
+    "source_question_number": 48,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+    "passage": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "passage_template": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "법 감정의 장단점을 비교해 설명하고자"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "법 감정이 양형에 반영되는 것을 비판하고자"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "법 감정과 사회 변화의 관련성을 분석하고자"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "법 감정에 맞는 양형 기준 개선을 촉구하고자"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "법 감정의 장단점을 비교해 설명하고자"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "법 감정이 양형에 반영되는 것을 비판하고자"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "법 감정과 사회 변화의 관련성을 분석하고자"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "법 감정에 맞는 양형 기준 개선을 촉구하고자"
+      }
+    ],
+    "options_text": [
+      "법 감정의 장단점을 비교해 설명하고자",
+      "법 감정이 양형에 반영되는 것을 비판하고자",
+      "법 감정과 사회 변화의 관련성을 분석하고자",
+      "법 감정에 맞는 양형 기준 개선을 촉구하고자"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "image_url": "",
+    "template_slot": 18,
+    "target_slot": 18,
+    "set_id": "SET-R087-48-50",
+    "passage_set_id": "SET-R087-48-50",
+    "set_type": "common_passage_triple",
+    "passage_label": "[48~50] 공통 지문",
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "shared_blank_group_id": "SET-R087-48-50",
+    "shared_blank_controller": false,
+    "revision_note": "87회 48~50번 공통 지문: 49번 선택 답안을 같은 지문의 48/50번에도 반영하도록 passage_group_id 추가 / 87회 레벨테스트 48~50 원문 세트의 49번 빈칸을 19~20번 화면에 공유",
+    "source_original_question_number": 48,
+    "source_full_exam_question_number": 48,
+    "level_test_slot": 18,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q048",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "interaction_mode": "single_choice",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_key": "BLANK-R087-LT-Q019",
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT019",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "common_passage_blank",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "사회 제도 설명문의 빈칸 문맥 파악",
+    "original_question_number": 49,
+    "question_number": 19,
+    "source_question_number": 49,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+    "passage": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "passage_template": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "문제를 심각하게만 여기는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "법 감정을 긍정적으로만 보는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "이런 상황을 외면하고만 있는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "그 원인을 내부의 탓으로만 돌리는"
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "문제를 심각하게만 여기는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "법 감정을 긍정적으로만 보는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "이런 상황을 외면하고만 있는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "그 원인을 내부의 탓으로만 돌리는"
+      }
+    ],
+    "options_text": [
+      "문제를 심각하게만 여기는",
+      "법 감정을 긍정적으로만 보는",
+      "이런 상황을 외면하고만 있는",
+      "그 원인을 내부의 탓으로만 돌리는"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "image_url": "",
+    "template_slot": 19,
+    "target_slot": 19,
+    "set_id": "SET-R087-48-50",
+    "passage_set_id": "SET-R087-48-50",
+    "set_type": "common_passage_triple",
+    "passage_label": "[48~50] 공통 지문",
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "shared_blank_group_id": "SET-R087-48-50",
+    "shared_blank_controller": true,
+    "revision_note": "87회 48~50번 공통 지문: 49번 선택 답안을 같은 지문의 48/50번에도 반영하도록 passage_group_id 추가 / 87회 레벨테스트 48~50 원문 세트의 49번 빈칸을 19~20번 화면에 공유",
+    "source_original_question_number": 49,
+    "source_full_exam_question_number": 49,
+    "level_test_slot": 19,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q049",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "interaction_mode": "single_choice",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_key": "BLANK-R087-LT-Q019",
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "blank_key": "BLANK-R087-LT-Q019"
+  },
+  {
+    "source_round": "87",
+    "source_file": "제87회 읽기.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "points": 2,
+    "description": "",
+    "answer_source": "answer-key-87-level-test.json",
+    "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_source_segments_remapped_for_level_test",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "87",
+    "generated_exam_label": "87회 레벨테스트 20문항",
+    "source_pdf": "제87회 읽기.pdf",
+    "id": "T2-87-LT020",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "사회 제도 설명문 세부 내용 이해",
+    "original_question_number": 50,
+    "question_number": 20,
+    "source_question_number": 50,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "윗글의 내용과 같은 것을 고르십시오.",
+    "passage": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "passage_template": "어떠한 범죄 행위에 대해 국민이 공감할 수 있는 상식선에서 합당한 판결이 내려지기를 바라는 마음을 ‘법 감정’이라고 한다. 최근 국민의 법 감정과 괴리된 판결이 끊이지 않아 법원에 대한 불신이 쌓여 가고 있다. 악랄한 범죄를 저지른 범죄자에게도 ‘만취 상태였다’, ‘반성문을 제출했다’, 심지어 ‘경제적 책임을 지고 있는 가장이다’ 등의 다양한 사유로 법원이 솜방망이 처벌을 내리고 있는 것이다. 국민의 법 감정으로 도저히 납득할 수 없는 이러한 판결에 국민은 분노할 수밖에 없다. 사실 법원도 (     ) 것은 아니다. 2007년부터 양형위원회를 두어 국민의 법 감정을 반영해 공정하고 객관적인 양형 기준을 마련하기 위해 애를 쓰고 있다. 그러나 범죄 수법이 날로 악랄해지고 있는데도 국민의 법 감정에 맞는 양형 기준의 변화 속도는 너무 꿈뜨다. 사회 변화 속도에 맞게 양형 기준을 신속히 개선해 국민 법 감정과 양형의 간극을 줄여야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "지금까지 범죄자가 반성문을 내서 감형된 판례는 없었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "범죄자가 가장이라는 이유로 양형이 낮아진 사례가 있었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "국민은 최근 여러 판결의 감형 요인에 대해 깊이 공감한다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "양형위원회가 없어진 이후 법원에 대한 불신이 커지고 있다."
+      }
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "지금까지 범죄자가 반성문을 내서 감형된 판례는 없었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "범죄자가 가장이라는 이유로 양형이 낮아진 사례가 있었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "국민은 최근 여러 판결의 감형 요인에 대해 깊이 공감한다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "양형위원회가 없어진 이후 법원에 대한 불신이 커지고 있다."
+      }
+    ],
+    "options_text": [
+      "지금까지 범죄자가 반성문을 내서 감형된 판례는 없었다.",
+      "범죄자가 가장이라는 이유로 양형이 낮아진 사례가 있었다.",
+      "국민은 최근 여러 판결의 감형 요인에 대해 깊이 공감한다.",
+      "양형위원회가 없어진 이후 법원에 대한 불신이 커지고 있다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "image_url": "",
+    "template_slot": 20,
+    "target_slot": 20,
+    "set_id": "SET-R087-48-50",
+    "passage_set_id": "SET-R087-48-50",
+    "set_type": "common_passage_triple",
+    "passage_label": "[48~50] 공통 지문",
+    "data_status": "full_50_integrated_from_reviewed_segments",
+    "full_exam_id": "reading-87",
+    "shared_blank_group_id": "SET-R087-48-50",
+    "shared_blank_controller": false,
+    "revision_note": "87회 48~50번 공통 지문: 49번 선택 답안을 같은 지문의 48/50번에도 반영하도록 passage_group_id 추가 / 87회 레벨테스트 48~50 원문 세트의 49번 빈칸을 19~20번 화면에 공유",
+    "source_original_question_number": 50,
+    "source_full_exam_question_number": 50,
+    "level_test_slot": 20,
+    "time_limit_minutes": 30,
+    "source_full_exam_id": "reading-87",
+    "source_full_exam_file": "./data/exams/reading-87.json",
+    "source_full_exam_label": "87회 50문항 실전시험",
+    "source_original_id": "R087-Q050",
+    "source_exam_id": "level-test-87",
+    "source_exam_label": "87회 레벨테스트 20문항",
+    "source_exam_file": "./data/exams/level-test-87.json",
+    "exam_type": "level-test",
+    "test_name": "TOPIK II 읽기 레벨테스트",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "passage_group_id": "SET-T2-87-LT-R048-050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "interaction_mode": "single_choice",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_key": "BLANK-R087-LT-Q019",
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ]
+  }
+]
