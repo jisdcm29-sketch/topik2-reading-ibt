@@ -1,0 +1,178 @@
+{
+  "source_round": "87",
+  "level": "TOPIK II",
+  "section": "reading",
+  "test_name": "제87회 TOPIK II 읽기 레벨테스트 20문항",
+  "source_test_name": "제87회 TOPIK II 읽기 짝수형 B",
+  "answer_key_status": "user_provided_answer_table_even_number_type_B_remapped_for_level_test",
+  "is_official_answer_key": false,
+  "needs_answer_review": true,
+  "source_file": "사용자 제공 제87회 TOPIK II 읽기 짝수형 B 정답표",
+  "source_answer_key_file": "./data/answer-keys/answer-key-87.json",
+  "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+  "level_test_version": "87-balanced-v1",
+  "total_questions": 20,
+  "total_possible_points": 40,
+  "answers": [
+    {
+      "question_number": 1,
+      "source_original_question_number": 1,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "문법·표현",
+      "type": "blank_choice"
+    },
+    {
+      "question_number": 2,
+      "source_original_question_number": 3,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "유사 표현",
+      "type": "similar_expression"
+    },
+    {
+      "question_number": 3,
+      "source_original_question_number": 5,
+      "correct_answer": 1,
+      "points": 2,
+      "category": "이미지·안내문 이해",
+      "type": "visual_topic"
+    },
+    {
+      "question_number": 4,
+      "source_original_question_number": 10,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "자료·그래프 이해",
+      "type": "same_content_visual"
+    },
+    {
+      "question_number": 5,
+      "source_original_question_number": 13,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "문장 순서",
+      "type": "sentence_order"
+    },
+    {
+      "question_number": 6,
+      "source_original_question_number": 16,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "빈칸 표현",
+      "type": "blank_choice"
+    },
+    {
+      "question_number": 7,
+      "source_original_question_number": 19,
+      "correct_answer": 1,
+      "points": 2,
+      "category": "공통 지문 빈칸",
+      "type": "common_passage_blank_choice"
+    },
+    {
+      "question_number": 8,
+      "source_original_question_number": 20,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "공통 지문 주제",
+      "type": "common_passage_topic"
+    },
+    {
+      "question_number": 9,
+      "source_original_question_number": 23,
+      "correct_answer": 4,
+      "points": 2,
+      "category": "공통 지문 심정",
+      "type": "common_passage_emotion"
+    },
+    {
+      "question_number": 10,
+      "source_original_question_number": 24,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "공통 지문 내용 일치",
+      "type": "common_passage_content"
+    },
+    {
+      "question_number": 11,
+      "source_original_question_number": 25,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "신문 제목 이해",
+      "type": "newspaper_headline"
+    },
+    {
+      "question_number": 12,
+      "source_original_question_number": 28,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "긴 지문 빈칸",
+      "type": "long_blank_choice"
+    },
+    {
+      "question_number": 13,
+      "source_original_question_number": 32,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "내용 일치 파악",
+      "type": "same_content"
+    },
+    {
+      "question_number": 14,
+      "source_original_question_number": 35,
+      "correct_answer": 4,
+      "points": 2,
+      "category": "주제 파악",
+      "type": "main_idea"
+    },
+    {
+      "question_number": 15,
+      "source_original_question_number": 39,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "문장 삽입",
+      "type": "sentence_insert"
+    },
+    {
+      "question_number": 16,
+      "source_original_question_number": 42,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "심정 파악",
+      "type": "emotion_underlined"
+    },
+    {
+      "question_number": 17,
+      "source_original_question_number": 43,
+      "correct_answer": 4,
+      "points": 2,
+      "category": "내용 일치",
+      "type": "same_content_passage"
+    },
+    {
+      "question_number": 18,
+      "source_original_question_number": 48,
+      "correct_answer": 4,
+      "points": 2,
+      "category": "필자 의도·주장",
+      "type": "author_purpose"
+    },
+    {
+      "question_number": 19,
+      "source_original_question_number": 49,
+      "correct_answer": 3,
+      "points": 2,
+      "category": "공통 지문 빈칸",
+      "type": "common_passage_blank"
+    },
+    {
+      "question_number": 20,
+      "source_original_question_number": 50,
+      "correct_answer": 2,
+      "points": 2,
+      "category": "내용 일치",
+      "type": "same_content_passage"
+    }
+  ]
+}
