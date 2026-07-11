@@ -3460,6 +3460,140 @@ function renderSentenceInsertQuestion(question) {
   });
 }
 
+
+function isManualSentenceOrderMode(question) {
+  const mode = String(
+    question && (
+      question.sentence_order_input_mode ||
+      question.order_input_mode ||
+      question.sentence_order_mode ||
+      ""
+    )
+  ).trim();
+
+  return (
+    mode === "manual" ||
+    mode === "manual_full_order" ||
+    mode === "full_manual" ||
+    mode === "manual-order"
+  );
+}
+
+function isAutoSecondSentenceOrderMode(question) {
+  const config = question && (
+    question.sentence_order_auto_second_after_first ||
+    question.sentence_order_auto_after_first
+  );
+
+  return Boolean(
+    config &&
+    typeof config === "object" &&
+    !Array.isArray(config)
+  );
+}
+
+function getAutoSecondSentenceLabel(question, firstLabel) {
+  const cleanFirst = normalizeSentenceBlockLabel(firstLabel);
+
+  if (!cleanFirst) {
+    return "";
+  }
+
+  const config = question && (
+    question.sentence_order_auto_second_after_first ||
+    question.sentence_order_auto_after_first
+  );
+
+  if (!config || typeof config !== "object") {
+    return "";
+  }
+
+  const candidates = [
+    config[cleanFirst],
+    config[`(${cleanFirst})`]
+  ];
+
+  for (const value of candidates) {
+    const cleanValue = normalizeSentenceBlockLabel(value);
+
+    if (cleanValue && findSentenceBlock(question, cleanValue)) {
+      return cleanValue;
+    }
+  }
+
+  return "";
+}
+
+function getOrderCandidatesForSlot(question, currentOrder, targetIndex) {
+  const cleanCurrentOrder = Array.isArray(currentOrder)
+    ? currentOrder.map(function (label) {
+        return label ? normalizeSentenceBlockLabel(label) : "";
+      })
+    : [];
+
+  const candidates = [];
+
+  getSentenceOrderOptionOrders(question).forEach(function (order) {
+    for (let index = 0; index < targetIndex; index += 1) {
+      const expectedLabel = cleanCurrentOrder[index];
+
+      if (!expectedLabel || normalizeSentenceBlockLabel(order[index]) !== expectedLabel) {
+        return;
+      }
+    }
+
+    const candidate = normalizeSentenceBlockLabel(order[targetIndex]);
+
+    if (candidate && !candidates.includes(candidate)) {
+      candidates.push(candidate);
+    }
+  });
+
+  return candidates;
+}
+
+function getAutoCompletedOrderFromPrefixAndCandidate(question, currentOrder, targetIndex, candidateLabel) {
+  const cleanCandidate = normalizeSentenceBlockLabel(candidateLabel);
+  const cleanCurrentOrder = Array.isArray(currentOrder)
+    ? currentOrder.map(function (label) {
+        return label ? normalizeSentenceBlockLabel(label) : "";
+      })
+    : [];
+
+  if (!cleanCandidate) {
+    return cleanCurrentOrder.slice(0, 4);
+  }
+
+  const matchedOrder = getSentenceOrderOptionOrders(question).find(function (order) {
+    for (let index = 0; index < targetIndex; index += 1) {
+      const expectedLabel = cleanCurrentOrder[index];
+
+      if (!expectedLabel || normalizeSentenceBlockLabel(order[index]) !== expectedLabel) {
+        return false;
+      }
+    }
+
+    return normalizeSentenceBlockLabel(order[targetIndex]) === cleanCandidate;
+  });
+
+  if (matchedOrder) {
+    return matchedOrder;
+  }
+
+  const prefix = cleanCurrentOrder.slice(0, targetIndex).filter(Boolean);
+  const used = new Set(prefix.concat([cleanCandidate]));
+
+  const remaining = getSentenceBlocks(question)
+    .map(function (block) {
+      return normalizeSentenceBlockLabel(block.label);
+    })
+    .filter(function (label) {
+      return label && !used.has(label);
+    });
+
+  return prefix.concat([cleanCandidate], remaining).slice(0, 4);
+}
+
 function getSentenceOrderOptionOrders(question) {
   if (!Array.isArray(question.options)) {
     return [];
@@ -3637,11 +3771,99 @@ function renderFirstOrderCandidateButtons(question, currentOrder) {
     </div>
   `;
 }
+
+function renderManualOrderSourceList(question, currentOrder) {
+  const usedLabels = new Set(
+    (Array.isArray(currentOrder) ? currentOrder : [])
+      .map(function (label) {
+        return normalizeSentenceBlockLabel(label);
+      })
+      .filter(Boolean)
+  );
+
+  const remainingBlocks = getSentenceBlocks(question).filter(function (block) {
+    return !usedLabels.has(normalizeSentenceBlockLabel(block.label));
+  });
+
+  const completedCount = (Array.isArray(currentOrder) ? currentOrder : [])
+    .filter(Boolean)
+    .length;
+
+  return `
+    <div style="
+      margin: 0 0 10px;
+      padding: 12px 15px;
+      border: 1px solid #b9d8ff;
+      border-radius: 10px;
+      background: #f8fbff;
+      color: #111827;
+      font-size: 16px;
+      font-weight: 900;
+      line-height: 1.6;
+    ">
+      문장을 순서대로 선택하십시오.
+      현재 선택: ${completedCount} / 4
+    </div>
+
+    <div class="order-card-list" id="orderSourceList" style="padding:0; gap:10px;">
+      ${
+        remainingBlocks.length
+          ? remainingBlocks.map(renderSentenceCard).join("")
+          : `<div style="
+              padding:14px;
+              border:1px solid #e3e6ea;
+              border-radius:9px;
+              background:#f8fafc;
+              color:#555;
+              text-align:center;
+              font-weight:800;
+            ">모든 문장을 왼쪽에 배치했습니다.</div>`
+      }
+    </div>
+
+    <button
+      type="button"
+      id="changeFirstOrderButton"
+      style="
+        width:100%;
+        margin-top:12px;
+        padding:12px 14px;
+        border:2px solid #d93025;
+        border-radius:10px;
+        background:#ffffff;
+        color:#d93025;
+        font-size:17px;
+        font-weight:900;
+        cursor:pointer;
+      "
+    >
+      처음부터 다시 선택
+    </button>
+  `;
+}
+
 function renderSecondOrderCandidateButtons(question, currentOrder) {
   const firstLabel = getValidFirstOrderLabel(question, currentOrder);
   const firstBlock = findSentenceBlock(question, firstLabel);
-  const candidates = getSecondOrderCandidates(question, firstLabel);
+
+  const autoSecondMode = isAutoSecondSentenceOrderMode(question);
+  const autoSecondLabel = autoSecondMode
+    ? (
+        normalizeSentenceBlockLabel(currentOrder && currentOrder[1]) ||
+        getAutoSecondSentenceLabel(question, firstLabel)
+      )
+    : "";
+
+  const targetIndex = autoSecondMode && autoSecondLabel ? 2 : 1;
+  const candidates = targetIndex === 2
+    ? getOrderCandidatesForSlot(question, [firstLabel, autoSecondLabel, null, null], targetIndex)
+    : getSecondOrderCandidates(question, firstLabel);
+
   const columnCount = Math.min(Math.max(candidates.length, 1), 2);
+  const targetOrdinalText = targetIndex === 2 ? "세 번째" : "두 번째";
+  const firstTitleText = targetIndex === 2
+    ? "선택한 첫 번째 문장 / 자동 입력된 두 번째 문장"
+    : "선택한 첫 번째 문장";
 
   if (!candidates.length) {
     return `
@@ -3655,7 +3877,7 @@ function renderSecondOrderCandidateButtons(question, currentOrder) {
         font-weight: 800;
         line-height: 1.6;
       ">
-        두 번째 문장 후보를 찾지 못했습니다. 문항 데이터를 확인하세요.
+        ${targetOrdinalText} 문장 후보를 찾지 못했습니다. 문항 데이터를 확인하세요.
       </div>
 
       <button
@@ -3694,7 +3916,7 @@ function renderSecondOrderCandidateButtons(question, currentOrder) {
         font-size:16px;
         font-weight:900;
       ">
-        선택한 첫 번째 문장
+        ${firstTitleText}
       </div>
       <div style="
         font-size:18px;
@@ -3703,6 +3925,27 @@ function renderSecondOrderCandidateButtons(question, currentOrder) {
       ">
         (${escapeHtml(firstLabel)}) ${firstBlock ? escapeHtml(firstBlock.text) : ""}
       </div>
+
+      ${
+        targetIndex === 2
+          ? `<div style="
+              margin-top:8px;
+              font-size:18px;
+              font-weight:900;
+              line-height:1.55;
+              color:#111827;
+            ">
+              (${escapeHtml(autoSecondLabel)}) ${findSentenceBlock(question, autoSecondLabel) ? escapeHtml(findSentenceBlock(question, autoSecondLabel).text) : ""}
+              <span style="
+                display:inline-block;
+                margin-left:6px;
+                color:#0877f2;
+                font-size:14px;
+                font-weight:900;
+              ">자동 입력</span>
+            </div>`
+          : ""
+      }
     </div>
 
     <div style="
@@ -3713,7 +3956,14 @@ function renderSecondOrderCandidateButtons(question, currentOrder) {
       ${candidates.map(function (label) {
         const cleanLabel = normalizeSentenceBlockLabel(label);
         const block = findSentenceBlock(question, cleanLabel);
-        const autoOrder = getAutoCompletedOrderFromFirstAndSecond(question, firstLabel, cleanLabel);
+        const autoOrder = targetIndex === 2
+          ? getAutoCompletedOrderFromPrefixAndCandidate(
+              question,
+              [firstLabel, autoSecondLabel, null, null],
+              targetIndex,
+              cleanLabel
+            )
+          : getAutoCompletedOrderFromFirstAndSecond(question, firstLabel, cleanLabel);
 
         return `
           <button
@@ -3740,7 +3990,7 @@ function renderSecondOrderCandidateButtons(question, currentOrder) {
               font-size:18px;
               font-weight:900;
             ">
-              (${escapeHtml(cleanLabel)})를 두 번째로 선택
+              (${escapeHtml(cleanLabel)})를 ${targetOrdinalText}로 선택
             </span>
 
             <span style="
@@ -3818,22 +4068,48 @@ function setFirstOrderCandidate(question, label) {
 
   currentOrder[0] = cleanLabel;
 
+  const autoSecondLabel = getAutoSecondSentenceLabel(question, cleanLabel);
+
+  if (autoSecondLabel) {
+    currentOrder[1] = autoSecondLabel;
+  }
+
   updateSentenceOrderAnswerState(question, currentOrder);
   renderCurrentQuestion();
 }
 function setSecondOrderCandidate(question, label) {
   const currentOrder = sentenceOrderAnswers[question.id] || [];
   const firstLabel = getValidFirstOrderLabel(question, currentOrder);
-  const secondLabel = normalizeSentenceBlockLabel(label);
+  const selectedLabel = normalizeSentenceBlockLabel(label);
 
-  if (!firstLabel || !secondLabel) {
+  if (!firstLabel || !selectedLabel) {
+    return;
+  }
+
+  const autoSecondLabel = isAutoSecondSentenceOrderMode(question)
+    ? (
+        normalizeSentenceBlockLabel(currentOrder[1]) ||
+        getAutoSecondSentenceLabel(question, firstLabel)
+      )
+    : "";
+
+  if (autoSecondLabel) {
+    const completedOrder = getAutoCompletedOrderFromPrefixAndCandidate(
+      question,
+      [firstLabel, autoSecondLabel, null, null],
+      2,
+      selectedLabel
+    );
+
+    updateSentenceOrderAnswerState(question, completedOrder);
+    renderCurrentQuestion();
     return;
   }
 
   const completedOrder = getAutoCompletedOrderFromFirstAndSecond(
     question,
     firstLabel,
-    secondLabel
+    selectedLabel
   );
 
   updateSentenceOrderAnswerState(question, completedOrder);
@@ -3855,7 +4131,9 @@ function renderSentenceOrderQuestion(question) {
 
   let rightPanelContent = "";
 
-  if (!hasSelectedFirst) {
+  if (isManualSentenceOrderMode(question)) {
+    rightPanelContent = renderManualOrderSourceList(question, currentOrder);
+  } else if (!hasSelectedFirst) {
     rightPanelContent = renderFirstOrderCandidateButtons(question, currentOrder);
   } else if (!hasCompletedOrder) {
     rightPanelContent = renderSecondOrderCandidateButtons(question, currentOrder);
