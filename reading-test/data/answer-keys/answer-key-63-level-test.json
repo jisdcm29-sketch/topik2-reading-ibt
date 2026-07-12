@@ -1,0 +1,158 @@
+{
+  "answer_key_version": "answer-key-63-level-test-user-provided-table-v1",
+  "test_level": "TOPIK II",
+  "section": "reading",
+  "source_round": "63",
+  "round": "63",
+  "test_name": "63회 TOPIK II 읽기 레벨테스트",
+  "exam_id": "level-test-63",
+  "answer_source": "user_provided_answer_table",
+  "is_official_answer_key": false,
+  "total_questions": 20,
+  "total_possible_points": 40,
+  "score_full_mark": 100,
+  "answers": {
+    "1": 4,
+    "2": 2,
+    "3": 4,
+    "4": 2,
+    "5": 1,
+    "6": 1,
+    "7": 2,
+    "8": 3,
+    "9": 3,
+    "10": 4,
+    "11": 3,
+    "12": 3,
+    "13": 1,
+    "14": 1,
+    "15": 2,
+    "16": 2,
+    "17": 3,
+    "18": 3,
+    "19": 2,
+    "20": 1
+  },
+  "items": [
+    {
+      "question_number": 1,
+      "original_question_number": 1,
+      "correct_answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 2,
+      "original_question_number": 3,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 3,
+      "original_question_number": 5,
+      "correct_answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 4,
+      "original_question_number": 10,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 5,
+      "original_question_number": 13,
+      "correct_answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 6,
+      "original_question_number": 16,
+      "correct_answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 7,
+      "original_question_number": 19,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 8,
+      "original_question_number": 20,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 9,
+      "original_question_number": 23,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 10,
+      "original_question_number": 24,
+      "correct_answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 11,
+      "original_question_number": 25,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 12,
+      "original_question_number": 28,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 13,
+      "original_question_number": 32,
+      "correct_answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 14,
+      "original_question_number": 35,
+      "correct_answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 15,
+      "original_question_number": 39,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 16,
+      "original_question_number": 42,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 17,
+      "original_question_number": 43,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 18,
+      "original_question_number": 48,
+      "correct_answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 19,
+      "original_question_number": 49,
+      "correct_answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 20,
+      "original_question_number": 50,
+      "correct_answer": 1,
+      "points": 2
+    }
+  ]
+}
