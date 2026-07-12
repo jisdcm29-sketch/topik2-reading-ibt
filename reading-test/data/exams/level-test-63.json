@@ -1,0 +1,1572 @@
+[
+  {
+    "id": "T2-63-LT01-R001",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 3,
+    "source_printed_page": 1,
+    "question_number": 1,
+    "original_question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "template_slot": 1,
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "나는 아침에 (     ) 커피를 한 잔 마신다.",
+    "passage_template": "나는 아침에 (     ) 커피를 한 잔 마신다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "일어날지"
+      },
+      {
+        "label": "2",
+        "text": "일어날수록"
+      },
+      {
+        "label": "3",
+        "text": "일어나기에도"
+      },
+      {
+        "label": "4",
+        "text": "일어나자마자"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "아침에 일어난 직후 커피를 마신다는 의미이므로 ‘일어나자마자’가 알맞습니다.",
+    "image_url": "",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 1,
+    "level_test_question_number": 1,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "문법·표현",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT02-R003",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 3,
+    "source_printed_page": 1,
+    "question_number": 2,
+    "original_question_number": 3,
+    "target_slots": [
+      2
+    ],
+    "template_slot": 3,
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "앞이 안 보일 만큼 비가 많이 온다.",
+    "passage_template": "앞이 안 보일 만큼 비가 많이 온다.",
+    "underline_targets": [
+      "보일 만큼"
+    ],
+    "underlined_parts": [
+      "보일 만큼"
+    ],
+    "options": [
+      {
+        "label": "1",
+        "text": "보일까 봐"
+      },
+      {
+        "label": "2",
+        "text": "보일 정도로"
+      },
+      {
+        "label": "3",
+        "text": "보일까 해서"
+      },
+      {
+        "label": "4",
+        "text": "보일 듯하면"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "‘만큼’은 앞의 상태에 이를 정도라는 뜻이므로 ‘정도로’와 의미가 비슷합니다.",
+    "image_url": "",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 3,
+    "level_test_question_number": 2,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "유사 표현",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT03-R005",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 4,
+    "source_printed_page": 2,
+    "question_number": 3,
+    "original_question_number": 5,
+    "target_slots": [
+      3
+    ],
+    "template_slot": 5,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "수건"
+      },
+      {
+        "label": "2",
+        "text": "공책"
+      },
+      {
+        "label": "3",
+        "text": "컴퓨터"
+      },
+      {
+        "label": "4",
+        "text": "복사기"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "여러 장을 빠르고 선명하게 출력하며 종이가 걸리지 않는다는 내용은 복사기에 대한 광고입니다.",
+    "image_url": "./images/63_R005.png",
+    "uses_image": true,
+    "image_status": "provided_by_user_zip",
+    "image_max_height": 260,
+    "image_display_width": "96%",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 5,
+    "level_test_question_number": 3,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "이미지·안내문 이해",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT04-R010",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 5,
+    "source_printed_page": 3,
+    "question_number": 4,
+    "original_question_number": 10,
+    "target_slots": [
+      4
+    ],
+    "template_slot": 10,
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "교육비 지원보다 세금 혜택을 선택한 사람이 적다."
+      },
+      {
+        "label": "2",
+        "text": "세금 혜택보다 의료비 지원을 선택한 사람이 더 많다."
+      },
+      {
+        "label": "3",
+        "text": "주거 비용을 지원해야 한다고 응답한 비율이 가장 낮다."
+      },
+      {
+        "label": "4",
+        "text": "육아 비용 지원이 필요하다고 답한 사람은 전체의 반을 넘는다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "세금 혜택은 10%, 임신·출산 의료비는 18%이므로 의료비 지원을 선택한 사람이 더 많습니다.",
+    "image_url": "./images/63_R010.png",
+    "uses_image": true,
+    "image_status": "provided_by_user_zip",
+    "image_only": true,
+    "image_max_height": 420,
+    "image_display_width": "82%",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 10,
+    "level_test_question_number": 4,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "자료·그래프 이해",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT05-R013",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 7,
+    "source_printed_page": 5,
+    "question_number": 5,
+    "original_question_number": 13,
+    "target_slots": [
+      5
+    ],
+    "template_slot": 13,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 모든 쥐가 좋은 생각이라며 당장 그렇게 하자고 했다.\n(나) 쥐들이 모여 무서운 고양이를 피할 수 있는 방법을 의논했다.\n(다) 누가 고양이 목에 방울을 달겠냐고 했더니 아무도 나서지 않았다.\n(라) 한 쥐가 고양이 목에 방울을 달면 소리가 나서 미리 도망갈 수 있다고 했다.",
+    "passage_template": "(가) 모든 쥐가 좋은 생각이라며 당장 그렇게 하자고 했다.\n(나) 쥐들이 모여 무서운 고양이를 피할 수 있는 방법을 의논했다.\n(다) 누가 고양이 목에 방울을 달겠냐고 했더니 아무도 나서지 않았다.\n(라) 한 쥐가 고양이 목에 방울을 달면 소리가 나서 미리 도망갈 수 있다고 했다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "(나)-(라)-(가)-(다)"
+      },
+      {
+        "label": "2",
+        "text": "(나)-(다)-(가)-(라)"
+      },
+      {
+        "label": "3",
+        "text": "(라)-(나)-(다)-(가)"
+      },
+      {
+        "label": "4",
+        "text": "(라)-(다)-(나)-(가)"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "쥐들이 의논하고, 한 쥐가 방법을 제안하고, 모두 찬성하지만, 실행할 쥐가 없다는 흐름입니다.",
+    "image_url": "",
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "모든 쥐가 좋은 생각이라며 당장 그렇게 하자고 했다."
+      },
+      {
+        "label": "(나)",
+        "text": "쥐들이 모여 무서운 고양이를 피할 수 있는 방법을 의논했다."
+      },
+      {
+        "label": "(다)",
+        "text": "누가 고양이 목에 방울을 달겠냐고 했더니 아무도 나서지 않았다."
+      },
+      {
+        "label": "(라)",
+        "text": "한 쥐가 고양이 목에 방울을 달면 소리가 나서 미리 도망갈 수 있다고 했다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "모든 쥐가 좋은 생각이라며 당장 그렇게 하자고 했다."
+      },
+      {
+        "label": "(나)",
+        "text": "쥐들이 모여 무서운 고양이를 피할 수 있는 방법을 의논했다."
+      },
+      {
+        "label": "(다)",
+        "text": "누가 고양이 목에 방울을 달겠냐고 했더니 아무도 나서지 않았다."
+      },
+      {
+        "label": "(라)",
+        "text": "한 쥐가 고양이 목에 방울을 달면 소리가 나서 미리 도망갈 수 있다고 했다."
+      }
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 13,
+    "level_test_question_number": 5,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "문장 순서",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT06-R016",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 8,
+    "source_printed_page": 6,
+    "question_number": 6,
+    "original_question_number": 16,
+    "target_slots": [
+      6
+    ],
+    "template_slot": 16,
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "최근 어느 나라에서 반려동물 물고기를 보호하기 위한 법이 제정되었다. 그 법에 따르면 어항은 물고기가 살기에 충분한 크기여야 하며 실제 자연 환경과 최대한 비슷해야 한다. 또한 어항에서 물고기 한 마리만 키우는 것을 금지한다는 내용도 포함되어 있다. 물고기는 (     ) 사는 동물이라서 한 마리만 있으면 큰 스트레스를 받기 때문이다.",
+    "passage_template": "최근 어느 나라에서 반려동물 물고기를 보호하기 위한 법이 제정되었다. 그 법에 따르면 어항은 물고기가 살기에 충분한 크기여야 하며 실제 자연 환경과 최대한 비슷해야 한다. 또한 어항에서 물고기 한 마리만 키우는 것을 금지한다는 내용도 포함되어 있다. 물고기는 (     ) 사는 동물이라서 한 마리만 있으면 큰 스트레스를 받기 때문이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "함께 무리를 이루어"
+      },
+      {
+        "label": "2",
+        "text": "물의 온도와 관계없이"
+      },
+      {
+        "label": "3",
+        "text": "각자 장소를 이동하여"
+      },
+      {
+        "label": "4",
+        "text": "어항의 넓이와 상관없이"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "물고기 한 마리만 키우면 스트레스를 받는다는 내용이므로 함께 무리를 이루어 사는 동물이라는 말이 알맞습니다.",
+    "image_url": "",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 16,
+    "level_test_question_number": 6,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "빈칸 표현",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT07-R019",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 9,
+    "source_printed_page": 7,
+    "question_number": 7,
+    "original_question_number": 19,
+    "target_slots": [
+      7
+    ],
+    "template_slot": 19,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 이해",
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "통신 매체가 발달하면서 예전에 비해 라디오를 따로 사 두는 집이 별로 없다. 하지만 지진, 화재 등 긴급 재난 시에는 라디오가 매우 유용할 수 있다. 재난 상황 시 휴대 전화와 인터넷이 끊겨 외부와 단절되는 경우가 종종 발생한다. 반면 라디오는 어떤 상황에서도 수신이 잘 되는 편이기 때문에 외부 상황을 알 수 있고 건전지 하나로도 오래 버틸 수 있다. (     ) 언제 닥칠지 모르는 재난에 대비하여 라디오를 한 대 정도는 준비해 놓는 것이 좋다.",
+    "passage_template": "통신 매체가 발달하면서 예전에 비해 라디오를 따로 사 두는 집이 별로 없다. 하지만 지진, 화재 등 긴급 재난 시에는 라디오가 매우 유용할 수 있다. 재난 상황 시 휴대 전화와 인터넷이 끊겨 외부와 단절되는 경우가 종종 발생한다. 반면 라디오는 어떤 상황에서도 수신이 잘 되는 편이기 때문에 외부 상황을 알 수 있고 건전지 하나로도 오래 버틸 수 있다. (     ) 언제 닥칠지 모르는 재난에 대비하여 라디오를 한 대 정도는 준비해 놓는 것이 좋다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "그래도"
+      },
+      {
+        "label": "2",
+        "text": "따라서"
+      },
+      {
+        "label": "3",
+        "text": "게다가"
+      },
+      {
+        "label": "4",
+        "text": "그런데"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "앞의 내용을 바탕으로 재난에 대비해 라디오를 준비하는 것이 좋다는 결론이 이어지므로 ‘따라서’가 알맞습니다.",
+    "image_url": "",
+    "passage_group_id": "LT-63-T2-63-R019-R020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "LT-63-T2-63-R019-R020",
+    "interaction_mode": "single_choice",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 19,
+    "level_test_question_number": 7,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R019-R020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R019-R020",
+    "level_test_selection_group_id": "LT-63-T2-63-R019-R020",
+    "passage_set_lock_id": "LT-63-T2-63-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 빈칸",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT08-R020",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 9,
+    "source_printed_page": 7,
+    "question_number": 8,
+    "original_question_number": 20,
+    "target_slots": [
+      8
+    ],
+    "template_slot": 20,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 정보 파악",
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "통신 매체가 발달하면서 예전에 비해 라디오를 따로 사 두는 집이 별로 없다. 하지만 지진, 화재 등 긴급 재난 시에는 라디오가 매우 유용할 수 있다. 재난 상황 시 휴대 전화와 인터넷이 끊겨 외부와 단절되는 경우가 종종 발생한다. 반면 라디오는 어떤 상황에서도 수신이 잘 되는 편이기 때문에 외부 상황을 알 수 있고 건전지 하나로도 오래 버틸 수 있다. (     ) 언제 닥칠지 모르는 재난에 대비하여 라디오를 한 대 정도는 준비해 놓는 것이 좋다.",
+    "passage_template": "통신 매체가 발달하면서 예전에 비해 라디오를 따로 사 두는 집이 별로 없다. 하지만 지진, 화재 등 긴급 재난 시에는 라디오가 매우 유용할 수 있다. 재난 상황 시 휴대 전화와 인터넷이 끊겨 외부와 단절되는 경우가 종종 발생한다. 반면 라디오는 어떤 상황에서도 수신이 잘 되는 편이기 때문에 외부 상황을 알 수 있고 건전지 하나로도 오래 버틸 수 있다. (     ) 언제 닥칠지 모르는 재난에 대비하여 라디오를 한 대 정도는 준비해 놓는 것이 좋다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "예전에는 라디오를 구매하는 집이 지금보다 적었다."
+      },
+      {
+        "label": "2",
+        "text": "라디오는 재난 상황에서 수신이 안 되는 경우가 많다."
+      },
+      {
+        "label": "3",
+        "text": "인터넷은 재난 상황 시 외부와의 연결이 안정적이지 않다."
+      },
+      {
+        "label": "4",
+        "text": "건전지를 사용하는 라디오는 재난 시에 도움이 되지 않는다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "재난 상황에서는 휴대 전화와 인터넷이 끊겨 외부와 단절되는 경우가 있다고 했습니다.",
+    "image_url": "",
+    "passage_group_id": "LT-63-T2-63-R019-R020",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "LT-63-T2-63-R019-R020",
+    "interaction_mode": "single_choice",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 20,
+    "level_test_question_number": 8,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R019-R020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R019-R020",
+    "level_test_selection_group_id": "LT-63-T2-63-R019-R020",
+    "passage_set_lock_id": "LT-63-T2-63-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 내용 일치",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT09-R023",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 11,
+    "source_printed_page": 9,
+    "question_number": 9,
+    "original_question_number": 23,
+    "target_slots": [
+      9
+    ],
+    "template_slot": 23,
+    "type": "common_passage_emotion",
+    "category": "공통 지문 심정",
+    "diagnostic_area": "밑줄 부분에 나타난 인물의 심정 파악",
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "어느 날 갑자기 가장이 된 어머니는 이 일 저 일 닥치는 대로 하며 돈을 버느라 몸이 두 개라도 부족했다. 자식을 제대로 돌볼 수 없었던 어머니는 나를 할머니 댁에 맡겼고, 나는 2년 정도 할머니와 생활했다.\n\n추운 겨울날 학교에서 돌아오면 할머니는 “춥지? 아이구, 손이 꽁꽁 다 얼었네.” 하며 내 손을 후후 불어 주시곤 했다. 또 여름날 부채질을 해 주시는 할머니의 무릎을 베고 낮잠을 자면 얼마나 시원하고 달콤하던지…….\n\n어느덧 나는 30대 나이가 되었다. 얼마 전 추석 명절에 할머니가 계신 병원으로 병문안을 갔다.\n\n“아저씨는 누구세요?”\n\n팔순을 넘긴 할머니는 치매로 그토록 애지중지하던 손주조차 알아보지 못했다. 그런 할머니 앞에서 나는 아무 말도 할 수 없었다.",
+    "passage_template": "어느 날 갑자기 가장이 된 어머니는 이 일 저 일 닥치는 대로 하며 돈을 버느라 몸이 두 개라도 부족했다. 자식을 제대로 돌볼 수 없었던 어머니는 나를 할머니 댁에 맡겼고, 나는 2년 정도 할머니와 생활했다.\n\n추운 겨울날 학교에서 돌아오면 할머니는 “춥지? 아이구, 손이 꽁꽁 다 얼었네.” 하며 내 손을 후후 불어 주시곤 했다. 또 여름날 부채질을 해 주시는 할머니의 무릎을 베고 낮잠을 자면 얼마나 시원하고 달콤하던지…….\n\n어느덧 나는 30대 나이가 되었다. 얼마 전 추석 명절에 할머니가 계신 병원으로 병문안을 갔다.\n\n“아저씨는 누구세요?”\n\n팔순을 넘긴 할머니는 치매로 그토록 애지중지하던 손주조차 알아보지 못했다. 그런 할머니 앞에서 나는 아무 말도 할 수 없었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "억울하다"
+      },
+      {
+        "label": "2",
+        "text": "행복하다"
+      },
+      {
+        "label": "3",
+        "text": "가슴이 아프다"
+      },
+      {
+        "label": "4",
+        "text": "마음이 뿌듯하다"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "어릴 때 자신을 돌봐 준 할머니가 자신을 알아보지 못하는 모습을 보고 마음 아파하는 상황입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R023-R024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "그런 할머니 앞에서 나는 아무 말도 할 수 없었다."
+    ],
+    "underlined_parts": [
+      "그런 할머니 앞에서 나는 아무 말도 할 수 없었다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 23,
+    "level_test_question_number": 9,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R023-R024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R023-R024",
+    "level_test_selection_group_id": "LT-63-T2-63-R023-R024",
+    "passage_set_lock_id": "LT-63-T2-63-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 심정",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT10-R024",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 11,
+    "source_printed_page": 9,
+    "question_number": 10,
+    "original_question_number": 24,
+    "target_slots": [
+      10
+    ],
+    "template_slot": 24,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 파악",
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "어느 날 갑자기 가장이 된 어머니는 이 일 저 일 닥치는 대로 하며 돈을 버느라 몸이 두 개라도 부족했다. 자식을 제대로 돌볼 수 없었던 어머니는 나를 할머니 댁에 맡겼고, 나는 2년 정도 할머니와 생활했다.\n\n추운 겨울날 학교에서 돌아오면 할머니는 “춥지? 아이구, 손이 꽁꽁 다 얼었네.” 하며 내 손을 후후 불어 주시곤 했다. 또 여름날 부채질을 해 주시는 할머니의 무릎을 베고 낮잠을 자면 얼마나 시원하고 달콤하던지…….\n\n어느덧 나는 30대 나이가 되었다. 얼마 전 추석 명절에 할머니가 계신 병원으로 병문안을 갔다.\n\n“아저씨는 누구세요?”\n\n팔순을 넘긴 할머니는 치매로 그토록 애지중지하던 손주조차 알아보지 못했다. 그런 할머니 앞에서 나는 아무 말도 할 수 없었다.",
+    "passage_template": "어느 날 갑자기 가장이 된 어머니는 이 일 저 일 닥치는 대로 하며 돈을 버느라 몸이 두 개라도 부족했다. 자식을 제대로 돌볼 수 없었던 어머니는 나를 할머니 댁에 맡겼고, 나는 2년 정도 할머니와 생활했다.\n\n추운 겨울날 학교에서 돌아오면 할머니는 “춥지? 아이구, 손이 꽁꽁 다 얼었네.” 하며 내 손을 후후 불어 주시곤 했다. 또 여름날 부채질을 해 주시는 할머니의 무릎을 베고 낮잠을 자면 얼마나 시원하고 달콤하던지…….\n\n어느덧 나는 30대 나이가 되었다. 얼마 전 추석 명절에 할머니가 계신 병원으로 병문안을 갔다.\n\n“아저씨는 누구세요?”\n\n팔순을 넘긴 할머니는 치매로 그토록 애지중지하던 손주조차 알아보지 못했다. 그런 할머니 앞에서 나는 아무 말도 할 수 없었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "나는 어머니와 한 번도 떨어져 살지 않았다."
+      },
+      {
+        "label": "2",
+        "text": "어머니는 돈을 벌기 위해 일을 해 본 경험이 없다."
+      },
+      {
+        "label": "3",
+        "text": "할머니는 내가 병문안을 갔을 때 나를 알아보셨다."
+      },
+      {
+        "label": "4",
+        "text": "내가 어렸을 때 할머니가 나를 키워 주신 적이 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "어머니가 나를 할머니 댁에 맡겼고, 나는 2년 정도 할머니와 생활했다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R023-R024",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "그런 할머니 앞에서 나는 아무 말도 할 수 없었다."
+    ],
+    "underlined_parts": [
+      "그런 할머니 앞에서 나는 아무 말도 할 수 없었다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 24,
+    "level_test_question_number": 10,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R023-R024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R023-R024",
+    "level_test_selection_group_id": "LT-63-T2-63-R023-R024",
+    "passage_set_lock_id": "LT-63-T2-63-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 내용 일치",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT11-R025",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 12,
+    "source_printed_page": 10,
+    "question_number": 11,
+    "original_question_number": 25,
+    "target_slots": [
+      11
+    ],
+    "template_slot": 25,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "등 돌린 여론 어쩌나, 한숨 쉬는 정치인들",
+    "passage_template": "등 돌린 여론 어쩌나, 한숨 쉬는 정치인들",
+    "options": [
+      {
+        "label": "1",
+        "text": "정치인들을 믿고 신뢰하는 사회적 분위기 조성이 필요하다."
+      },
+      {
+        "label": "2",
+        "text": "정치인들을 비판하는 여론이 조금씩 줄어들고 있는 상황이다."
+      },
+      {
+        "label": "3",
+        "text": "정치인들이 자신들에 대한 부정적인 여론 때문에 걱정하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "정치인들은 걱정하는 국민들을 안심시키기 위해 노력해야 한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "여론이 정치인들에게 등을 돌렸고 정치인들이 한숨을 쉰다는 제목의 의미입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 25,
+    "level_test_question_number": 11,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "신문 제목 이해",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT12-R028",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 13,
+    "source_printed_page": 11,
+    "question_number": 12,
+    "original_question_number": 28,
+    "target_slots": [
+      12
+    ],
+    "template_slot": 28,
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 원인 선택",
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "지구를 돌고 있는 우주 정거장의 속도는 초속 7.9km에 이른다. 지구를 90분마다 한 번씩 도는 셈이다. 그래서 우주 정거장에서는 하루 동안 16번이나 해가 뜨고 지는 것을 볼 수 있다. 이 때문에 우주 정거장에서 생활을 처음 하는 우주 비행사들 중에는 수면에 어려움을 겪는 경우가 많다. 우주 정거장에서는 (     ) 수면 리듬이 깨지게 되는 것이다.",
+    "passage_template": "지구를 돌고 있는 우주 정거장의 속도는 초속 7.9km에 이른다. 지구를 90분마다 한 번씩 도는 셈이다. 그래서 우주 정거장에서는 하루 동안 16번이나 해가 뜨고 지는 것을 볼 수 있다. 이 때문에 우주 정거장에서 생활을 처음 하는 우주 비행사들 중에는 수면에 어려움을 겪는 경우가 많다. 우주 정거장에서는 (     ) 수면 리듬이 깨지게 되는 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "해가 뜨지 않아서"
+      },
+      {
+        "label": "2",
+        "text": "하루의 길이가 일정해서"
+      },
+      {
+        "label": "3",
+        "text": "낮과 밤이 자주 바뀌어서"
+      },
+      {
+        "label": "4",
+        "text": "지구의 모습을 볼 수 없어서"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "우주 정거장에서는 하루 동안 해가 16번이나 뜨고 지기 때문에 낮과 밤이 자주 바뀌어 수면 리듬이 깨집니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-63-R028",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 28,
+    "level_test_question_number": 12,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "긴 지문 빈칸",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT13-R032",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 15,
+    "source_printed_page": 13,
+    "question_number": 13,
+    "original_question_number": 32,
+    "target_slots": [
+      13
+    ],
+    "template_slot": 32,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "‘정의의 여신상’은 법을 대표하는 상징물로서 보통 한 손에는 저울을, 다른 한 손에는 칼을 쥐고 있다. 저울은 다툼의 정확하고 공정한 해결을 의미하고, 칼은 사회 질서를 파괴하는 행동에 대한 강력한 제재를 나타낸다. 어떤 국가에는 어느 한쪽으로 치우치지 않는 공정한 판단을 강조하기 위해 두 눈을 안대로 가린 정의의 여신상도 있다. 또 칼 대신 법전을 들고 있는 경우도 있는데 법전은 오로지 법에 따라 심판한다는 의미를 가진다.",
+    "passage_template": "‘정의의 여신상’은 법을 대표하는 상징물로서 보통 한 손에는 저울을, 다른 한 손에는 칼을 쥐고 있다. 저울은 다툼의 정확하고 공정한 해결을 의미하고, 칼은 사회 질서를 파괴하는 행동에 대한 강력한 제재를 나타낸다. 어떤 국가에는 어느 한쪽으로 치우치지 않는 공정한 판단을 강조하기 위해 두 눈을 안대로 가린 정의의 여신상도 있다. 또 칼 대신 법전을 들고 있는 경우도 있는데 법전은 오로지 법에 따라 심판한다는 의미를 가진다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "어떤 정의의 여신상은 안대로 눈이 가려져 있다."
+      },
+      {
+        "label": "2",
+        "text": "정의의 여신상의 칼은 질서가 없는 사회를 상징한다."
+      },
+      {
+        "label": "3",
+        "text": "정의의 여신상이 들고 있는 저울은 강력한 제재를 의미한다."
+      },
+      {
+        "label": "4",
+        "text": "어느 나라에서나 정의의 여신상이 들고 있는 물건은 동일하다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "어떤 국가에는 공정한 판단을 강조하기 위해 두 눈을 안대로 가린 정의의 여신상이 있다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 32,
+    "level_test_question_number": 13,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "내용 일치",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT14-R035",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 16,
+    "source_printed_page": 14,
+    "question_number": 14,
+    "original_question_number": 35,
+    "target_slots": [
+      14
+    ],
+    "template_slot": 35,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "글의 중심 내용 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "제품을 디자인할 때 아름다움을 우선적으로 생각하는 경향이 있다. 그러나 때로는 제품의 사용자가 누구냐에 따라서 우선시해야 하는 요소가 달라질 수 있다. 예를 들어 장난감을 디자인할 때는 아이들의 특성을 생각하여 입에 넣을 수 없는 크기로 만들어 안전성을 높여야 한다. 또 고령자를 위한 제품은 조작 방법을 단순화하는 등 편의성을 고려해야 한다. 제품의 디자인은 사용자에 대한 분석과 이해가 바탕이 되어야 하는 것이다.",
+    "passage_template": "제품을 디자인할 때 아름다움을 우선적으로 생각하는 경향이 있다. 그러나 때로는 제품의 사용자가 누구냐에 따라서 우선시해야 하는 요소가 달라질 수 있다. 예를 들어 장난감을 디자인할 때는 아이들의 특성을 생각하여 입에 넣을 수 없는 크기로 만들어 안전성을 높여야 한다. 또 고령자를 위한 제품은 조작 방법을 단순화하는 등 편의성을 고려해야 한다. 제품의 디자인은 사용자에 대한 분석과 이해가 바탕이 되어야 하는 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "디자인을 할 때는 사용자의 특성을 고려할 필요가 있다."
+      },
+      {
+        "label": "2",
+        "text": "디자인의 역할은 제품의 특징을 돋보이게 하는 데 있다."
+      },
+      {
+        "label": "3",
+        "text": "차별성을 살리는 것이 제품 디자인의 가장 중요한 목표이다."
+      },
+      {
+        "label": "4",
+        "text": "좋은 제품의 생산을 위해 독창성을 추구하려는 노력이 요구된다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "사용자에 따라 디자인에서 우선시해야 하는 요소가 달라진다는 것이 중심 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 35,
+    "level_test_question_number": 14,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "주제 파악",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT15-R039",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 18,
+    "source_printed_page": 16,
+    "question_number": 15,
+    "original_question_number": 39,
+    "target_slots": [
+      15
+    ],
+    "template_slot": 39,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "삽입 문장의 앞뒤 연결 관계 파악",
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "봄철 등산객이 늘어나면서 말벌에 쏘이는 일이 잇따르고 있다. ( ㉠ ) 말벌에 쏘이면 강한 독 때문에 매우 고통스럽고 심하면 사망에 이를 수 있다. ( ㉡ ) 그런데 말벌은 검은색이나 갈색 등 짙고 어두운 색에 강한 공격성을 보인다. ( ㉢ ) 곰, 오소리 등 천적들의 털이 짙고 어두운 색이기 때문에 이런 색을 보면 천적으로 오인하는 것이다. ( ㉣ ) 그래서 말벌 사고를 방지하려면 등산 시 밝은 색깔의 옷과 모자를 착용하는 것이 좋다.",
+    "passage_template": "봄철 등산객이 늘어나면서 말벌에 쏘이는 일이 잇따르고 있다. ( ㉠ ) 말벌에 쏘이면 강한 독 때문에 매우 고통스럽고 심하면 사망에 이를 수 있다. ( ㉡ ) 그런데 말벌은 검은색이나 갈색 등 짙고 어두운 색에 강한 공격성을 보인다. ( ㉢ ) 곰, 오소리 등 천적들의 털이 짙고 어두운 색이기 때문에 이런 색을 보면 천적으로 오인하는 것이다. ( ㉣ ) 그래서 말벌 사고를 방지하려면 등산 시 밝은 색깔의 옷과 모자를 착용하는 것이 좋다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "말벌 독이 위험한 이유를 설명하는 문장이므로 말벌에 쏘이면 고통스럽고 사망할 수 있다는 문장 뒤에 들어가는 것이 자연스럽습니다.",
+    "image_url": "",
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "일반 꿀벌의 독에 비해 해로운 성분의 양이 약 15배 이상이나 많기 때문이다.",
+    "sentence_to_insert": "일반 꿀벌의 독에 비해 해로운 성분의 양이 약 15배 이상이나 많기 때문이다.",
+    "given_sentence": "일반 꿀벌의 독에 비해 해로운 성분의 양이 약 15배 이상이나 많기 때문이다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉡",
+    "correct_position": "㉡",
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 39,
+    "level_test_question_number": 15,
+    "source_full_exam_id": "reading-63",
+    "level_test_type_label": "문장 삽입",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT16-R042",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 20,
+    "source_printed_page": 18,
+    "question_number": 16,
+    "original_question_number": 42,
+    "target_slots": [
+      16
+    ],
+    "template_slot": 42,
+    "type": "common_passage_emotion",
+    "category": "공통 지문 심정",
+    "diagnostic_area": "밑줄 부분에 나타난 인물의 심정 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "달리면서 생각한다. 갈 데가 없어, 피시방 같은 데서 밤이라도 보내야 할 텐데, 너무 갑작스럽게 터진 일이라서 백 원짜리 동전 하나도 못 들고 나왔다. 말할 일이 없으니 쓸 일도 거의 없는 휴대 전화는 책상 옆 가방 속에 둔 채로다. 그게 있었다 한들 사정이 달랐을까. 친구라고 부를 만한 누군가가 있기를 해, 나의 더듬거리는 말마디의 행간 속에서 아무것도 묻지 않고 두 팔 벌려 줄 누군가가 나한테 있기를 하나고. 마지막으로 소식을 들은 지 육 년쯤 되는 이모와 외할머니는 이제 연락처는 관두고 생사도 모른다. 나는 언제까지, 어디까지 달릴 수 있을까. 그런 공간적 한계를 깨달을 때 떠오른 곳이 여기였다. 숨을 몰아쉰다. 쇼윈도에 찍힌 불특정 다수의 손자국 너머로 그가 보인다. 피치 못하게 또는 어쩌다 보니 그 가게의 단골이 되기는 했는데, 나는 말만 더듬지 않는다면 꼭 좀 물어보고 싶었더랬다. 무슨 빵집이, 이런 길에서 한밤중에 빵 먹는 사람이 어디 있다고 24시간 영업을 해요? (중략) 그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다. 도망갈 곳이 있다. 문을 밀다. 갓 구운 빵들의 열기로 가게 안이 후끈거린다. (중략) “나 좀 숨겨 줘.” 내가 최대한 멀리 도망가는 대신 아파트 단지에서 몇 백 미터도 떨어지지 않은 빵집으로 뛰어들어 왔으리라고는, 그들 중 아무도 생각 못할 거야.",
+    "passage_template": "달리면서 생각한다. 갈 데가 없어, 피시방 같은 데서 밤이라도 보내야 할 텐데, 너무 갑작스럽게 터진 일이라서 백 원짜리 동전 하나도 못 들고 나왔다. 말할 일이 없으니 쓸 일도 거의 없는 휴대 전화는 책상 옆 가방 속에 둔 채로다. 그게 있었다 한들 사정이 달랐을까. 친구라고 부를 만한 누군가가 있기를 해, 나의 더듬거리는 말마디의 행간 속에서 아무것도 묻지 않고 두 팔 벌려 줄 누군가가 나한테 있기를 하나고. 마지막으로 소식을 들은 지 육 년쯤 되는 이모와 외할머니는 이제 연락처는 관두고 생사도 모른다. 나는 언제까지, 어디까지 달릴 수 있을까. 그런 공간적 한계를 깨달을 때 떠오른 곳이 여기였다. 숨을 몰아쉰다. 쇼윈도에 찍힌 불특정 다수의 손자국 너머로 그가 보인다. 피치 못하게 또는 어쩌다 보니 그 가게의 단골이 되기는 했는데, 나는 말만 더듬지 않는다면 꼭 좀 물어보고 싶었더랬다. 무슨 빵집이, 이런 길에서 한밤중에 빵 먹는 사람이 어디 있다고 24시간 영업을 해요? (중략) 그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다. 도망갈 곳이 있다. 문을 밀다. 갓 구운 빵들의 열기로 가게 안이 후끈거린다. (중략) “나 좀 숨겨 줘.” 내가 최대한 멀리 도망가는 대신 아파트 단지에서 몇 백 미터도 떨어지지 않은 빵집으로 뛰어들어 왔으리라고는, 그들 중 아무도 생각 못할 거야.",
+    "options": [
+      {
+        "label": "1",
+        "text": "자랑스럽다"
+      },
+      {
+        "label": "2",
+        "text": "다행스럽다"
+      },
+      {
+        "label": "3",
+        "text": "대견스럽다"
+      },
+      {
+        "label": "4",
+        "text": "창피스럽다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "도망갈 곳이 생겼다는 안도감이 나타나므로 ‘다행스럽다’가 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R042-R043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다."
+    ],
+    "underlined_parts": [
+      "그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 42,
+    "level_test_question_number": 16,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R042-R043",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R042-R043",
+    "level_test_selection_group_id": "LT-63-T2-63-R042-R043",
+    "passage_set_lock_id": "LT-63-T2-63-R042-R043",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 심정",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT17-R043",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 20,
+    "source_printed_page": 18,
+    "question_number": 17,
+    "original_question_number": 43,
+    "target_slots": [
+      17
+    ],
+    "template_slot": 43,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 정보 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "달리면서 생각한다. 갈 데가 없어, 피시방 같은 데서 밤이라도 보내야 할 텐데, 너무 갑작스럽게 터진 일이라서 백 원짜리 동전 하나도 못 들고 나왔다. 말할 일이 없으니 쓸 일도 거의 없는 휴대 전화는 책상 옆 가방 속에 둔 채로다. 그게 있었다 한들 사정이 달랐을까. 친구라고 부를 만한 누군가가 있기를 해, 나의 더듬거리는 말마디의 행간 속에서 아무것도 묻지 않고 두 팔 벌려 줄 누군가가 나한테 있기를 하나고. 마지막으로 소식을 들은 지 육 년쯤 되는 이모와 외할머니는 이제 연락처는 관두고 생사도 모른다. 나는 언제까지, 어디까지 달릴 수 있을까. 그런 공간적 한계를 깨달을 때 떠오른 곳이 여기였다. 숨을 몰아쉰다. 쇼윈도에 찍힌 불특정 다수의 손자국 너머로 그가 보인다. 피치 못하게 또는 어쩌다 보니 그 가게의 단골이 되기는 했는데, 나는 말만 더듬지 않는다면 꼭 좀 물어보고 싶었더랬다. 무슨 빵집이, 이런 길에서 한밤중에 빵 먹는 사람이 어디 있다고 24시간 영업을 해요? (중략) 그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다. 도망갈 곳이 있다. 문을 밀다. 갓 구운 빵들의 열기로 가게 안이 후끈거린다. (중략) “나 좀 숨겨 줘.” 내가 최대한 멀리 도망가는 대신 아파트 단지에서 몇 백 미터도 떨어지지 않은 빵집으로 뛰어들어 왔으리라고는, 그들 중 아무도 생각 못할 거야.",
+    "passage_template": "달리면서 생각한다. 갈 데가 없어, 피시방 같은 데서 밤이라도 보내야 할 텐데, 너무 갑작스럽게 터진 일이라서 백 원짜리 동전 하나도 못 들고 나왔다. 말할 일이 없으니 쓸 일도 거의 없는 휴대 전화는 책상 옆 가방 속에 둔 채로다. 그게 있었다 한들 사정이 달랐을까. 친구라고 부를 만한 누군가가 있기를 해, 나의 더듬거리는 말마디의 행간 속에서 아무것도 묻지 않고 두 팔 벌려 줄 누군가가 나한테 있기를 하나고. 마지막으로 소식을 들은 지 육 년쯤 되는 이모와 외할머니는 이제 연락처는 관두고 생사도 모른다. 나는 언제까지, 어디까지 달릴 수 있을까. 그런 공간적 한계를 깨달을 때 떠오른 곳이 여기였다. 숨을 몰아쉰다. 쇼윈도에 찍힌 불특정 다수의 손자국 너머로 그가 보인다. 피치 못하게 또는 어쩌다 보니 그 가게의 단골이 되기는 했는데, 나는 말만 더듬지 않는다면 꼭 좀 물어보고 싶었더랬다. 무슨 빵집이, 이런 길에서 한밤중에 빵 먹는 사람이 어디 있다고 24시간 영업을 해요? (중략) 그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다. 도망갈 곳이 있다. 문을 밀다. 갓 구운 빵들의 열기로 가게 안이 후끈거린다. (중략) “나 좀 숨겨 줘.” 내가 최대한 멀리 도망가는 대신 아파트 단지에서 몇 백 미터도 떨어지지 않은 빵집으로 뛰어들어 왔으리라고는, 그들 중 아무도 생각 못할 거야.",
+    "options": [
+      {
+        "label": "1",
+        "text": "나는 휴대 전화를 들고 피시방으로 뛰어갔다."
+      },
+      {
+        "label": "2",
+        "text": "빵집 주인은 한밤중에 나에게 숨겨 달라고 했다."
+      },
+      {
+        "label": "3",
+        "text": "나는 평소 말을 더듬거리는 버릇을 가지고 있다."
+      },
+      {
+        "label": "4",
+        "text": "빵집이 아파트 아래층에 있어 나는 단골이 되었다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "글에는 ‘나의 더듬거리는 말마디’, ‘나는 말만 더듬지 않는다면’이라는 표현이 나옵니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R042-R043",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다."
+    ],
+    "underlined_parts": [
+      "그러나 그 24시간 영업 방침 덕분에 지금 나는 이렇게 문밖에 서 있다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 43,
+    "level_test_question_number": 17,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R042-R043",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R042-R043",
+    "level_test_selection_group_id": "LT-63-T2-63-R042-R043",
+    "passage_set_lock_id": "LT-63-T2-63-R042-R043",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 내용 일치",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT18-R048",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "question_number": 18,
+    "original_question_number": 48,
+    "target_slots": [
+      18
+    ],
+    "template_slot": 48,
+    "type": "common_passage_purpose",
+    "category": "공통 지문 목적",
+    "diagnostic_area": "글을 쓴 목적 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "passage_template": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "통신비의 인상 시기를 제안하기 위해"
+      },
+      {
+        "label": "2",
+        "text": "통신사의 경영 방식을 설명하기 위해"
+      },
+      {
+        "label": "3",
+        "text": "통신 사업의 공공성 회복을 역설하기 위해"
+      },
+      {
+        "label": "4",
+        "text": "통신 사업의 수익성 향상을 촉구하기 위해"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다는 주장을 펼치고 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R048-R050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "underline_targets": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "underlined_parts": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 48,
+    "level_test_question_number": 18,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R048-R050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R048-R050",
+    "level_test_selection_group_id": "LT-63-T2-63-R048-R050",
+    "passage_set_lock_id": "LT-63-T2-63-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 목적",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT19-R049",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "question_number": 19,
+    "original_question_number": 49,
+    "target_slots": [
+      19
+    ],
+    "template_slot": 49,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "passage_template": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "소방 기관과 공유해야"
+      },
+      {
+        "label": "2",
+        "text": "여러 곳으로 분산해야"
+      },
+      {
+        "label": "3",
+        "text": "안전한 저층에 설치해야"
+      },
+      {
+        "label": "4",
+        "text": "최대한의 인력이 관리해야"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "어느 지역 시설에 이상이 생겨도 다른 곳의 시설이 기능을 대체하려면 통신 시설을 여러 곳으로 분산해야 합니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R048-R050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "LT-63-T2-63-R048-R050",
+    "underline_targets": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "underlined_parts": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 49,
+    "level_test_question_number": 19,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R048-R050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R048-R050",
+    "level_test_selection_group_id": "LT-63-T2-63-R048-R050",
+    "passage_set_lock_id": "LT-63-T2-63-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 빈칸",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  },
+  {
+    "id": "T2-63-LT20-R050",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "63",
+    "source_file": "토픽 63회 읽기 문제.pdf",
+    "answer_source": "answer-key-63-level-test.json",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test",
+    "generated_exam_round": "63",
+    "generated_exam_label": "63회 레벨테스트 20문항",
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "question_number": 20,
+    "original_question_number": 50,
+    "target_slots": [
+      20
+    ],
+    "template_slot": 50,
+    "type": "common_passage_attitude",
+    "category": "공통 지문 필자 태도",
+    "diagnostic_area": "밑줄 부분에 나타난 필자의 태도 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "passage_template": "통신 사업은 토지와 같은 국가 재산을 빌려 이루어지기 때문에 공공성이 강하다. 따라서 통신사들은 국민들이 원활하게 통신 서비스를 받을 수 있도록 해야 할 의무가 있다. 가령 통신사들은 사고 발생 시 통신 서비스를 신속히 정상화할 수 있는 시스템을 갖춰야 한다. 또 어느 지역의 통신 시설에 이상이 생겼을 경우 다른 곳의 시설들이 그 기능을 대체할 수 있도록 통신 시설들을 (     ) 한다. 그러나 통신 사업은 대개 수익을 추구하는 민간 기업들이 맡고 있어 비용 절감을 이유로 복구 시스템을 제대로 구축하지 않거나 관리 편의를 위해 통신 시설을 한곳에 집중시키기도 한다. 실제로 화재로 인해 통신 대란이 일어났을 당시 복구까지 상당한 시일이 걸려 국민 생활에 막대한 손해를 입혔다. 통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다. 그러므로 단순히 통신 시설에 대한 관리 강화를 넘어 통신 사업의 공공성을 회복하기 위한 근본 대책이 필요하다. 기업들은 제대로 투자하고 철저하게 시설을 관리할 의무가 있음을 잊어서는 안 된다. 아울러 국가 차원에서도 기업들에 대한 감독을 더욱 엄격히 해야 할 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "통신 대란으로 인한 막대한 경제적 손실을 우려하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "통신 대란의 피해 규모를 파악하기 어렵다고 토로하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "통신 대란의 진상을 숨기면 안 된다는 주장에 찬성하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "통신 대란을 신속히 해결하지 못한 이유에 대해 동감하고 있다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "통신 대란으로 국민 생활에 막대한 손해가 발생한 점을 비판적으로 지적하며 우려하고 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "LT-63-T2-63-R048-R050",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "underline_targets": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "underlined_parts": [
+      "통신사들의 이러한 경영 방식에 문제가 있다는 지적이 충분히 나올 만하다."
+    ],
+    "full_exam_id": "level-test-63",
+    "data_status": "level_test_20_from_reviewed_full_50",
+    "source_question_number": 50,
+    "level_test_question_number": 20,
+    "source_full_exam_id": "reading-63",
+    "source_passage_group_id": "T2-63-R048-R050",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT-63-T2-63-R048-R050",
+    "level_test_selection_group_id": "LT-63-T2-63-R048-R050",
+    "passage_set_lock_id": "LT-63-T2-63-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "level_test_type_label": "공통 지문 필자 태도",
+    "level_test_selection_reason": "63회 50문항 중 유형별 대표 문항으로 선별"
+  }
+]
