@@ -1475,12 +1475,16 @@
       "is_full_50_question_set": false,
       "enabled": true,
       "generator_type": "level-test-template-mix-enabled-round-exams",
-      "blueprint_exam_id": "level-test-103",
+      "blueprint_exam_id": "level-test-64",
       "random_source_exam_type": "full",
       "random_source_selection_type": "round",
       "random_source_min_count": 2,
       "student_visible": true,
-      "internal_use": false
+      "internal_use": false,
+      "selection_policy": "passage_sets_must_travel_together",
+      "set_split_allowed": false,
+      "set_policy": "keep_all_items_together",
+      "visible_note": "랜덤 레벨테스트 20문항입니다. 기준표는 64회 레벨테스트 세트 잠금 구조를 사용하며, 공통 지문 세트는 분리하지 않습니다."
     },
     {
       "id": "reading-87-draft-41-50",
@@ -2090,6 +2094,366 @@
       ],
       "needs_text_review": true,
       "needs_answer_review": true
+    },
+    {
+      "id": "reading-64-draft-1-10",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 검수용 1~10번",
+      "short_label": "64회 1~10번",
+      "file": "./data/exams/reading-64-draft-1-10.json",
+      "time_limit_minutes": 20,
+      "total_questions": 10,
+      "score_full_mark": 100,
+      "question_number_start": 1,
+      "question_number_end": 10,
+      "is_full_50_question_set": false,
+      "enabled": false,
+      "student_visible": false,
+      "internal_use": true,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "draft_1_10_needs_screen_review",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 1~10번 구간 검수용 시험지입니다. 3~4번 밑줄, 5~10번 이미지 크기와 중복 텍스트 여부를 화면에서 검수합니다.",
+      "hidden_reason": "64회 최종 배포 패키지: 구간 검수용 draft는 학생 목록에서 숨김"
+    },
+    {
+      "id": "reading-64-draft-11-20",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 검수용 11~20번",
+      "short_label": "64회 11~20번",
+      "file": "./data/exams/reading-64-draft-11-20.json",
+      "time_limit_minutes": 20,
+      "total_questions": 10,
+      "score_full_mark": 100,
+      "question_number_start": 11,
+      "question_number_end": 20,
+      "is_full_50_question_set": false,
+      "enabled": false,
+      "student_visible": false,
+      "internal_use": true,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "draft_11_20_needs_screen_review",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 11~20번 구간 검수용 시험지입니다. 13번은 전체 선택지 4개를 먼저 보여 주고 한 번 선택하면 자동 완성되도록 설정했습니다.",
+      "hidden_reason": "64회 최종 배포 패키지: 구간 검수용 draft는 학생 목록에서 숨김"
+    },
+    {
+      "id": "reading-64-draft-21-30",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 검수용 21~30번",
+      "short_label": "64회 21~30번",
+      "file": "./data/exams/reading-64-draft-21-30.json",
+      "time_limit_minutes": 20,
+      "total_questions": 10,
+      "score_full_mark": 100,
+      "question_number_start": 21,
+      "question_number_end": 30,
+      "is_full_50_question_set": false,
+      "enabled": false,
+      "student_visible": false,
+      "internal_use": true,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "draft_21_30_needs_screen_review",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 21~30번 구간 검수용 시험지입니다. 23~24번 밑줄 범위를 화면에서 반드시 확인합니다.",
+      "hidden_reason": "64회 최종 배포 패키지: 구간 검수용 draft는 학생 목록에서 숨김"
+    },
+    {
+      "id": "reading-64-draft-31-40",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 검수용 31~40번",
+      "short_label": "64회 31~40번",
+      "file": "./data/exams/reading-64-draft-31-40.json",
+      "time_limit_minutes": 20,
+      "total_questions": 10,
+      "score_full_mark": 100,
+      "question_number_start": 31,
+      "question_number_end": 40,
+      "is_full_50_question_set": false,
+      "enabled": false,
+      "student_visible": false,
+      "internal_use": true,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "draft_31_40_needs_screen_review",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 31~40번 구간 검수용 시험지입니다. 39~40번 문장 삽입 위치를 화면에서 검수합니다.",
+      "hidden_reason": "64회 최종 배포 패키지: 구간 검수용 draft는 학생 목록에서 숨김"
+    },
+    {
+      "id": "reading-64-draft-41-50",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 검수용 41~50번",
+      "short_label": "64회 41~50번",
+      "file": "./data/exams/reading-64-draft-41-50.json",
+      "time_limit_minutes": 20,
+      "total_questions": 10,
+      "score_full_mark": 100,
+      "question_number_start": 41,
+      "question_number_end": 50,
+      "is_full_50_question_set": false,
+      "enabled": false,
+      "student_visible": false,
+      "internal_use": true,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "draft_41_50_needs_screen_review",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 41~50번 구간 검수용 시험지입니다. 42~43번 및 48~50번 밑줄 범위를 사용자 확인 내용에 맞춰 반영했습니다.",
+      "hidden_reason": "64회 최종 배포 패키지: 구간 검수용 draft는 학생 목록에서 숨김"
+    },
+    {
+      "id": "reading-64",
+      "exam_type": "full",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 50문항 실전시험",
+      "short_label": "64회",
+      "file": "./data/exams/reading-64.json",
+      "time_limit_minutes": 70,
+      "total_questions": 50,
+      "score_full_mark": 100,
+      "question_number_start": 1,
+      "question_number_end": 50,
+      "is_full_50_question_set": true,
+      "enabled": true,
+      "student_visible": true,
+      "internal_use": false,
+      "answer_key_file": "./data/answer-keys/answer-key-64.json",
+      "answer_key_status": "official_answer_table_pdf",
+      "is_official_answer_key": true,
+      "data_status": "full_50_integrated_from_reviewed_segments",
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "visible_note": "64회 1~50번 통합 실전시험입니다. 13번/14번 문장 순서와 42~43번, 48~50번 밑줄 검수 내용을 반영했습니다."
+    },
+    {
+      "id": "level-test-64",
+      "exam_type": "level-test",
+      "selection_type": "round",
+      "round": "64",
+      "label": "64회 레벨테스트 20문항",
+      "short_label": "64회",
+      "file": "./data/exams/level-test-64.json",
+      "time_limit_minutes": 30,
+      "total_questions": 20,
+      "score_full_mark": 100,
+      "question_number_start": 1,
+      "question_number_end": 20,
+      "is_full_50_question_set": false,
+      "enabled": true,
+      "student_visible": true,
+      "internal_use": false,
+      "answer_key_file": "./data/answer-keys/answer-key-64-level-test.json",
+      "answer_key_status": "derived_from_answer-key-64-reading-official-v1-full-50",
+      "is_official_answer_key": true,
+      "data_status": "level_test_20_from_reviewed_64_full_50_set_locked",
+      "source_full_exam_id": "reading-64",
+      "source_original_question_numbers": [
+        1,
+        3,
+        5,
+        10,
+        13,
+        16,
+        19,
+        20,
+        23,
+        24,
+        25,
+        28,
+        32,
+        35,
+        39,
+        42,
+        43,
+        48,
+        49,
+        50
+      ],
+      "needs_text_review": true,
+      "needs_answer_review": false,
+      "selection_policy": "passage_sets_must_travel_together",
+      "set_split_allowed": false,
+      "selection_units": [
+        {
+          "type": "single",
+          "question_numbers": [
+            1
+          ],
+          "original_question_numbers": [
+            1
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            2
+          ],
+          "original_question_numbers": [
+            3
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            3
+          ],
+          "original_question_numbers": [
+            5
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            4
+          ],
+          "original_question_numbers": [
+            10
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            5
+          ],
+          "original_question_numbers": [
+            13
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            6
+          ],
+          "original_question_numbers": [
+            16
+          ]
+        },
+        {
+          "type": "passage_set",
+          "selection_group_id": "LT64-SET-07-08-ORIG-19-20",
+          "question_numbers": [
+            7,
+            8
+          ],
+          "original_question_numbers": [
+            19,
+            20
+          ],
+          "split_allowed": false
+        },
+        {
+          "type": "passage_set",
+          "selection_group_id": "LT64-SET-09-10-ORIG-23-24",
+          "question_numbers": [
+            9,
+            10
+          ],
+          "original_question_numbers": [
+            23,
+            24
+          ],
+          "split_allowed": false
+        },
+        {
+          "type": "passage_set",
+          "selection_group_id": "LT64-SET-16-17-ORIG-42-43",
+          "question_numbers": [
+            16,
+            17
+          ],
+          "original_question_numbers": [
+            42,
+            43
+          ],
+          "split_allowed": false
+        },
+        {
+          "type": "passage_set",
+          "selection_group_id": "LT64-SET-18-20-ORIG-48-50",
+          "question_numbers": [
+            18,
+            19,
+            20
+          ],
+          "original_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "split_allowed": false
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            11
+          ],
+          "original_question_numbers": [
+            25
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            12
+          ],
+          "original_question_numbers": [
+            28
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            13
+          ],
+          "original_question_numbers": [
+            32
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            14
+          ],
+          "original_question_numbers": [
+            35
+          ]
+        },
+        {
+          "type": "single",
+          "question_numbers": [
+            15
+          ],
+          "original_question_numbers": [
+            39
+          ]
+        }
+      ],
+      "visible_note": "64회 레벨테스트 20문항입니다. 공통 지문 세트는 분리하지 않고 함께 출제되도록 잠금 처리했습니다."
     }
   ],
   "last_updated_for": "81_draft_11_20",
@@ -2099,5 +2463,8 @@
   "last_updated_for_81": "81_final_deploy_manifest_hide_drafts",
   "deployment_note_81": "81회 검수용 draft 항목은 숨기고, 81회 50문항 실전시험과 81회 레벨테스트만 학생 목록에 표시합니다.",
   "last_updated_for_78": "78_final_deploy_v700",
-  "final_deploy_note_78": "78회 full, level-test, bank v700 배포용 manifest. 78회 draft entries are hidden."
+  "final_deploy_note_78": "78회 full, level-test, bank v700 배포용 manifest. 78회 draft entries are hidden.",
+  "last_updated_for_64": "64_final_deploy_v750_random_set_lock",
+  "last_updated_for_random_level_test": "random_level_test_blueprint_64_set_lock_fix",
+  "final_deploy_note_64": "64회 full, level-test, bank v750, random set lock 정책 배포용 manifest. 64회 draft entries are hidden."
 }
