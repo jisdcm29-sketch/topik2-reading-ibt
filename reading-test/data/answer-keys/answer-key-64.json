@@ -1,0 +1,278 @@
+{
+  "answer_key_version": "answer-key-64-reading-official-v1-full-50",
+  "round": "64",
+  "test_level": "TOPIK II",
+  "section": "reading",
+  "source_file": "733465f3-292d-4d08-a807-bb3a264c5081.pdf",
+  "answer_key_status": "official_answer_table_pdf",
+  "is_official_answer_key": true,
+  "question_number_start": 1,
+  "question_number_end": 50,
+  "total_questions": 50,
+  "total_possible_points": 100,
+  "score_full_mark": 100,
+  "created_at": "2026-07-12",
+  "draft_ready_ranges": [
+    "1-10",
+    "11-20",
+    "21-30",
+    "31-40",
+    "41-50"
+  ],
+  "latest_draft_range": "full-50",
+  "answers": [
+    {
+      "question_number": 1,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 2,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 3,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 5,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 6,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 7,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 8,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 9,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 10,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 11,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 12,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 13,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 14,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 15,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 16,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 17,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 18,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 19,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 20,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 21,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 22,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 23,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 24,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 25,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 26,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 27,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 28,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 29,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 30,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 31,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 32,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 33,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 34,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 35,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 36,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 37,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 38,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 39,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 40,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 41,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 42,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 43,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 44,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 45,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 46,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 47,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 48,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 49,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 50,
+      "answer": 2,
+      "points": 2
+    }
+  ],
+  "updated_at": "2026-07-12",
+  "source": "official_answer_table_pdf",
+  "full_exam_ready": true
+}
