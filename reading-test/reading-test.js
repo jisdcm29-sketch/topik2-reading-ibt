@@ -763,26 +763,122 @@ function normalizeRandomGroupNumbers(numbers) {
     });
 }
 
+/*
+  랜덤 출제 세트 문항 원칙
+  - 공통 지문 세트는 절대 분리하지 않는다.
+  - 한 문항이 선택되면 같은 selection_group_id / passage_group_id / passage_set_lock_id의 문항을 함께 출제한다.
+  - 레벨테스트와 랜덤 50문항 모두 같은 원칙을 적용한다.
+*/
+function isRandomSetLockedQuestion(question) {
+  if (!question) {
+    return false;
+  }
+
+  return (
+    question.must_travel_together === true ||
+    question.set_lock === true ||
+    question.split_allowed === false ||
+    String(question.set_policy || "").trim() === "keep_all_items_together" ||
+    String(question.selection_unit_type || "").trim() === "passage_set" ||
+    String(question.selection_unit || "").trim() === "passage_set"
+  );
+}
+
+function getRandomQuestionSetLockId(question) {
+  if (!question) {
+    return "";
+  }
+
+  return String(
+    question.passage_set_lock_id ||
+    question.random_selection_group_id ||
+    question.level_test_selection_group_id ||
+    question.selection_group_id ||
+    question.parent_set_id ||
+    question.source_set_id ||
+    question.passage_group_id ||
+    question.level_test_group_id ||
+    ""
+  ).trim();
+}
+
+function isSameRandomSetLockQuestion(left, right, lockId) {
+  if (!left || !right || !lockId) {
+    return false;
+  }
+
+  const rightIds = [
+    right.passage_set_lock_id,
+    right.random_selection_group_id,
+    right.level_test_selection_group_id,
+    right.selection_group_id,
+    right.parent_set_id,
+    right.source_set_id,
+    right.passage_group_id,
+    right.level_test_group_id
+  ].map(function (value) {
+    return String(value || "").trim();
+  });
+
+  return rightIds.includes(lockId);
+}
+
 function getRandomPassageGroupNumbers(question, allQuestions) {
   if (!question) {
     return [];
   }
 
-  const directNumbers = normalizeRandomGroupNumbers(question.passage_group_numbers);
+  const currentNumber = Number(question.question_number || question.level_test_slot || 0);
 
-  if (directNumbers.length > 1) {
-    return directNumbers;
+  const directSetNumbers = normalizeRandomGroupNumbers(question.set_question_numbers);
+  if (directSetNumbers.length > 1) {
+    return directSetNumbers;
+  }
+
+  const directPassageNumbers = normalizeRandomGroupNumbers(question.passage_group_numbers);
+  if (directPassageNumbers.length > 1) {
+    return directPassageNumbers;
+  }
+
+  const directTargetNumbers = normalizeRandomGroupNumbers(question.shared_blank_target_questions);
+  if (directTargetNumbers.length > 1) {
+    return directTargetNumbers;
+  }
+
+  const sentenceTargetNumbers = normalizeRandomGroupNumbers(
+    [currentNumber].concat(question.shared_sentence_insert_target_questions || [])
+  );
+  if (sentenceTargetNumbers.length > 1) {
+    return sentenceTargetNumbers;
+  }
+
+  const lockId = getRandomQuestionSetLockId(question);
+
+  if (lockId && Array.isArray(allQuestions)) {
+    const lockGroupNumbers = allQuestions
+      .filter(function (item) {
+        return isSameRandomSetLockQuestion(question, item, lockId);
+      })
+      .map(function (item) {
+        return Number(item.question_number || item.level_test_slot || 0);
+      });
+
+    const normalizedLockGroup = normalizeRandomGroupNumbers(lockGroupNumbers);
+
+    if (normalizedLockGroup.length > 1) {
+      return normalizedLockGroup;
+    }
   }
 
   const passageGroupId = String(question.passage_group_id || "").trim();
 
-  if (passageGroupId) {
+  if (passageGroupId && Array.isArray(allQuestions)) {
     const groupNumbers = allQuestions
       .filter(function (item) {
         return String(item.passage_group_id || "").trim() === passageGroupId;
       })
       .map(function (item) {
-        return Number(item.question_number);
+        return Number(item.question_number || item.level_test_slot || 0);
       });
 
     const normalized = normalizeRandomGroupNumbers(groupNumbers);
@@ -792,7 +888,101 @@ function getRandomPassageGroupNumbers(question, allQuestions) {
     }
   }
 
-  return [Number(question.question_number)];
+  return [currentNumber].filter(function (number) {
+    return Number.isFinite(number) && number > 0;
+  });
+}
+
+function arraysHaveSameNumbers(left, right) {
+  const a = normalizeRandomGroupNumbers(left);
+  const b = normalizeRandomGroupNumbers(right);
+
+  if (a.length !== b.length) {
+    return false;
+  }
+
+  return a.every(function (value, index) {
+    return value === b[index];
+  });
+}
+
+function validateRandomSetLockedGroups(generatedQuestions) {
+  const errors = [];
+
+  if (!Array.isArray(generatedQuestions) || !generatedQuestions.length) {
+    return errors;
+  }
+
+  const groups = new Map();
+
+  generatedQuestions.forEach(function (question) {
+    const groupNumbers = getRandomPassageGroupNumbers(question, generatedQuestions);
+
+    if (groupNumbers.length <= 1) {
+      return;
+    }
+
+    const lockId = getRandomQuestionSetLockId(question) ||
+      String(question.passage_group_id || "").trim() ||
+      `numbers:${groupNumbers.join("-")}`;
+
+    const sourceRound = String(question.source_round || "source_round 없음").trim();
+    const key = `${sourceRound}::${lockId}`;
+
+    if (!groups.has(key)) {
+      groups.set(key, {
+        key,
+        lockId,
+        sourceRound,
+        expectedNumbers: groupNumbers,
+        items: []
+      });
+    }
+
+    const group = groups.get(key);
+    group.expectedNumbers = normalizeRandomGroupNumbers(
+      group.expectedNumbers.concat(groupNumbers)
+    );
+    group.items.push(question);
+  });
+
+  groups.forEach(function (group) {
+    const actualNumbers = normalizeRandomGroupNumbers(
+      group.items.map(function (item) {
+        return Number(item.question_number || item.level_test_slot || 0);
+      })
+    );
+
+    const sourceRounds = group.items
+      .map(function (item) {
+        return String(item.source_round || "source_round 없음").trim();
+      })
+      .filter(function (value, index, array) {
+        return array.indexOf(value) === index;
+      });
+
+    if (!arraysHaveSameNumbers(actualNumbers, group.expectedNumbers)) {
+      errors.push(
+        `${group.lockId} 세트 분리 감지: 기대 ${group.expectedNumbers.join(", ")} / 실제 ${actualNumbers.join(", ")}`
+      );
+    }
+
+    if (sourceRounds.length > 1) {
+      errors.push(
+        `${group.lockId} 세트 회차 섞임 감지: ${sourceRounds.join(", ")}`
+      );
+    }
+  });
+
+  return errors;
+}
+
+function assertRandomSetLockedGroups(generatedQuestions, label) {
+  const errors = validateRandomSetLockedGroups(generatedQuestions);
+
+  if (errors.length > 0) {
+    throw new Error(`${label || "랜덤 출제"} 세트 문항 분리 금지 검증 실패: ${errors.join(" / ")}`);
+  }
 }
 
 function cloneRandomQuestionForExam(question, sourceExam, randomExam, generatedExamId) {
@@ -924,6 +1114,8 @@ async function generateRandomExamFromRoundExams(randomExam, forceReload) {
     generatedQuestions.push(question);
   }
 
+  assertRandomSetLockedGroups(generatedQuestions, "랜덤 50문항 실전시험");
+
   return generatedQuestions;
 }
 function isLevelTestRandomManifestExam(exam) {
@@ -955,6 +1147,19 @@ function getLevelTestBlueprintSourceNumber(blueprintQuestion) {
 }
 
 function getLevelTestBlueprintGroupKey(blueprintQuestion) {
+  const setNumbers = normalizeRandomGroupNumbers(blueprintQuestion.set_question_numbers);
+  const passageNumbers = normalizeRandomGroupNumbers(blueprintQuestion.passage_group_numbers);
+
+  const setLockId = getRandomQuestionSetLockId(blueprintQuestion);
+
+  if (isRandomSetLockedQuestion(blueprintQuestion) && setLockId) {
+    return `set:${setLockId}`;
+  }
+
+  if (setNumbers.length > 1) {
+    return `set_numbers:${setNumbers.join("-")}`;
+  }
+
   const groupId = String(
     blueprintQuestion.level_test_group_id ||
     blueprintQuestion.passage_group_id ||
@@ -963,6 +1168,10 @@ function getLevelTestBlueprintGroupKey(blueprintQuestion) {
 
   if (groupId) {
     return `group:${groupId}`;
+  }
+
+  if (passageNumbers.length > 1) {
+    return `passage_numbers:${passageNumbers.join("-")}`;
   }
 
   return `single:${Number(blueprintQuestion.question_number || 0)}`;
@@ -982,6 +1191,166 @@ function groupLevelTestBlueprintQuestions(blueprintQuestions) {
   });
 
   return Array.from(groupMap.values());
+}
+
+function getRandomLevelTestSlotNumber(blueprintQuestion) {
+  const number = Number(
+    blueprintQuestion && (
+      blueprintQuestion.question_number ||
+      blueprintQuestion.level_test_slot ||
+      blueprintQuestion.level_test_question_number ||
+      0
+    )
+  );
+
+  return Number.isFinite(number) && number > 0 ? number : 0;
+}
+
+function remapRandomLevelTestSharedNumber(number, sourceToSlotMap, slotSet) {
+  const numeric = Number(number);
+
+  if (!Number.isFinite(numeric) || numeric <= 0) {
+    return number;
+  }
+
+  if (sourceToSlotMap.has(numeric)) {
+    return sourceToSlotMap.get(numeric);
+  }
+
+  if (slotSet.has(numeric)) {
+    return numeric;
+  }
+
+  return numeric;
+}
+
+function remapRandomLevelTestSharedNumberList(numbers, sourceToSlotMap, slotSet) {
+  if (!Array.isArray(numbers)) {
+    return [];
+  }
+
+  return normalizeRandomGroupNumbers(
+    numbers.map(function (number) {
+      return remapRandomLevelTestSharedNumber(number, sourceToSlotMap, slotSet);
+    })
+  );
+}
+
+function applyRandomLevelTestSetLockToClonedPairs(clonedPairs, generatedExamId) {
+  if (!Array.isArray(clonedPairs) || clonedPairs.length <= 1) {
+    return clonedPairs;
+  }
+
+  const sortedPairs = clonedPairs.slice().sort(function (left, right) {
+    return getRandomLevelTestSlotNumber(left.blueprintQuestion) -
+      getRandomLevelTestSlotNumber(right.blueprintQuestion);
+  });
+
+  const slotNumbers = normalizeRandomGroupNumbers(
+    sortedPairs.map(function (pair) {
+      return getRandomLevelTestSlotNumber(pair.blueprintQuestion);
+    })
+  );
+
+  if (slotNumbers.length <= 1) {
+    return clonedPairs;
+  }
+
+  const slotSet = new Set(slotNumbers);
+  const sourceToSlotMap = new Map();
+
+  sortedPairs.forEach(function (pair) {
+    const sourceNumber = getLevelTestBlueprintSourceNumber(pair.blueprintQuestion);
+    const slotNumber = getRandomLevelTestSlotNumber(pair.blueprintQuestion);
+
+    if (sourceNumber && slotNumber) {
+      sourceToSlotMap.set(Number(sourceNumber), Number(slotNumber));
+    }
+  });
+
+  const originalSourceNumbers = normalizeRandomGroupNumbers(
+    sortedPairs.map(function (pair) {
+      return getLevelTestBlueprintSourceNumber(pair.blueprintQuestion) ||
+        Number(pair.sourceQuestion && pair.sourceQuestion.question_number || 0);
+    })
+  );
+
+  const firstBlueprint = sortedPairs[0].blueprintQuestion || {};
+  const sourceRound = String(sortedPairs[0].clone && sortedPairs[0].clone.source_round || "MIX").trim();
+
+  const blueprintGroupId = String(
+    firstBlueprint.passage_group_id ||
+    firstBlueprint.level_test_group_id ||
+    firstBlueprint.selection_group_id ||
+    firstBlueprint.random_selection_group_id ||
+    ""
+  ).trim();
+
+  const groupId = blueprintGroupId ||
+    `RAND-LT-${generatedExamId}-R${sourceRound}-S${slotNumbers[0]}-${slotNumbers[slotNumbers.length - 1]}`;
+
+  const groupTitle = firstBlueprint.passage_group_title ||
+    firstBlueprint.selection_unit_title ||
+    `[${slotNumbers[0]}~${slotNumbers[slotNumbers.length - 1]}] 공통 지문`;
+
+  sortedPairs.forEach(function (pair, index) {
+    const clone = pair.clone;
+
+    clone.passage_group_id = groupId;
+    clone.passage_group_title = groupTitle;
+    clone.passage_group_numbers = slotNumbers;
+    clone.shared_passage_index = index + 1;
+    clone.shared_passage_total = slotNumbers.length;
+
+    clone.selection_unit = "passage_set";
+    clone.selection_unit_type = "passage_set";
+    clone.selection_group_id = groupId;
+    clone.random_selection_group_id = groupId;
+    clone.level_test_selection_group_id = groupId;
+    clone.passage_set_lock_id = groupId;
+    clone.must_travel_together = true;
+    clone.split_allowed = false;
+    clone.set_lock = true;
+    clone.set_policy = "keep_all_items_together";
+    clone.set_question_numbers = slotNumbers;
+    clone.set_original_question_numbers = originalSourceNumbers;
+    clone.selection_unit_size = slotNumbers.length;
+    clone.selection_unit_title = groupTitle;
+
+    if (clone.shared_blank_source_question_number !== undefined) {
+      clone.shared_blank_source_question_number = remapRandomLevelTestSharedNumber(
+        clone.shared_blank_source_question_number,
+        sourceToSlotMap,
+        slotSet
+      );
+    }
+
+    if (Array.isArray(clone.shared_blank_target_questions)) {
+      clone.shared_blank_target_questions = remapRandomLevelTestSharedNumberList(
+        clone.shared_blank_target_questions,
+        sourceToSlotMap,
+        slotSet
+      );
+    }
+
+    if (clone.shared_sentence_insert_source_question_number !== undefined) {
+      clone.shared_sentence_insert_source_question_number = remapRandomLevelTestSharedNumber(
+        clone.shared_sentence_insert_source_question_number,
+        sourceToSlotMap,
+        slotSet
+      );
+    }
+
+    if (Array.isArray(clone.shared_sentence_insert_target_questions)) {
+      clone.shared_sentence_insert_target_questions = remapRandomLevelTestSharedNumberList(
+        clone.shared_sentence_insert_target_questions,
+        sourceToSlotMap,
+        slotSet
+      );
+    }
+  });
+
+  return sortedPairs;
 }
 
 function cloneRandomQuestionForLevelTestExam(sourceQuestion, blueprintQuestion, sourceExam, randomExam, generatedExamId) {
@@ -1019,6 +1388,43 @@ function cloneRandomQuestionForLevelTestExam(sourceQuestion, blueprintQuestion, 
     없으면 원본 문항 배점을 그대로 사용한다.
   */
   cloned.points = Number(blueprintQuestion.points || cloned.points || 2);
+
+  /*
+    레벨테스트 랜덤은 원본 문항 내용은 회차별 시험지에서 가져오되,
+    화면 번호와 공통 지문 세트 구조는 기준 레벨테스트의 구조를 따른다.
+    이렇게 해야 7~8, 9~10, 16~17, 18~20 같은 세트가 랜덤에서도 분리되지 않는다.
+  */
+  [
+    "passage_group_id",
+    "passage_group_title",
+    "passage_group_numbers",
+    "shared_passage_index",
+    "shared_passage_total",
+    "shared_blank_source_question_number",
+    "shared_blank_target_questions",
+    "shared_blank_key",
+    "shared_sentence_insert_source_question_number",
+    "shared_sentence_insert_target_questions",
+    "shared_sentence_insert_key",
+    "selection_unit",
+    "selection_unit_type",
+    "selection_group_id",
+    "random_selection_group_id",
+    "level_test_selection_group_id",
+    "passage_set_lock_id",
+    "must_travel_together",
+    "split_allowed",
+    "set_lock",
+    "set_policy",
+    "set_question_numbers",
+    "set_original_question_numbers",
+    "selection_unit_size",
+    "selection_unit_title"
+  ].forEach(function (key) {
+    if (blueprintQuestion[key] !== undefined) {
+      cloned[key] = JSON.parse(JSON.stringify(blueprintQuestion[key]));
+    }
+  });
 
   return cloned;
 }
@@ -1121,17 +1527,24 @@ async function generateRandomLevelTestFromRoundExams(randomExam, forceReload) {
       throw new Error(`레벨테스트 랜덤 후보를 찾지 못했습니다. 기준 문항: ${sourceNumbers}`);
     }
 
-    selected.pairs.forEach(function (pair) {
-      selectedQuestions.push(
-        cloneRandomQuestionForLevelTestExam(
+    const clonedPairs = selected.pairs.map(function (pair) {
+      return {
+        blueprintQuestion: pair.blueprintQuestion,
+        sourceQuestion: pair.sourceQuestion,
+        clone: cloneRandomQuestionForLevelTestExam(
           pair.sourceQuestion,
           pair.blueprintQuestion,
           selected.sourceExam,
           randomExam,
           generatedExamId
         )
-      );
+      };
     });
+
+    applyRandomLevelTestSetLockToClonedPairs(clonedPairs, generatedExamId)
+      .forEach(function (pair) {
+        selectedQuestions.push(pair.clone);
+      });
   });
 
   selectedQuestions.sort(function (a, b) {
@@ -1141,6 +1554,8 @@ async function generateRandomLevelTestFromRoundExams(randomExam, forceReload) {
   if (selectedQuestions.length !== expectedTotal) {
     throw new Error(`랜덤 레벨테스트 문항 수가 맞지 않습니다. 현재 ${selectedQuestions.length}문항입니다.`);
   }
+
+  assertRandomSetLockedGroups(selectedQuestions, "랜덤 레벨테스트");
 
   return selectedQuestions;
 }
@@ -2270,7 +2685,14 @@ async function startTest() {
     });
 
     if (!loaded) {
-      setStartMessage("선택한 시험지를 불러오지 못했습니다. JSON 파일을 확인하세요.", "#d93025");
+      const currentMessage = elements.startMessage
+        ? String(elements.startMessage.textContent || "").trim()
+        : "";
+
+      if (!currentMessage || currentMessage === "선택한 시험지를 불러오는 중입니다.") {
+        setStartMessage("선택한 시험지를 불러오지 못했습니다. JSON 파일을 확인하세요.", "#d93025");
+      }
+
       return;
     }
   }
@@ -2860,6 +3282,7 @@ function renderPassageHtml(question) {
 
   source = normalizeLongNarrativePassageSpacing(question, source);
   source = applySharedInsertStateToPassage(question, source);
+  source = applySharedSentenceInsertStateToPassage(question, source);
   source = applyCurrentAnswerInsertToPassage(question, source);
 
   const htmlWithInsertMarkers = emphasizeInsertMarkers(escapeHtml(source));
@@ -2986,6 +3409,126 @@ function applySharedInsertStateToPassage(question, passage) {
 
   return result;
 }
+
+
+function isSentenceInsertLikeQuestion(question) {
+  const type = String(question && question.type || "");
+  const interactionMode = String(question && question.interaction_mode || "");
+
+  return (
+    type === "sentence_insert" ||
+    type === "sentence_insert_interactive" ||
+    interactionMode === "sentence_insert" ||
+    interactionMode === "click_insert_sentence_into_position" ||
+    Boolean(question && (question.insert_sentence || question.sentence_to_insert || question.given_sentence))
+  );
+}
+
+function getSharedSentenceInsertSourceQuestion(question) {
+  if (!question || !Array.isArray(questions)) {
+    return null;
+  }
+
+  const sourceId = String(
+    question.shared_sentence_insert_source_question_id ||
+    question.shared_sentence_insert_source_id ||
+    question.sentence_insert_source_question_id ||
+    ""
+  ).trim();
+
+  if (sourceId) {
+    const byId = questions.find(function (item) {
+      return String(item.id || "").trim() === sourceId;
+    });
+
+    if (byId) {
+      return byId;
+    }
+  }
+
+  const sourceNumber = Number(
+    question.shared_sentence_insert_source_question_number ||
+    question.shared_sentence_insert_source_number ||
+    question.sentence_insert_source_question_number ||
+    question.insert_sentence_source_question_number ||
+    0
+  );
+
+  if (Number.isFinite(sourceNumber) && sourceNumber > 0) {
+    const byNumber = questions.find(function (item) {
+      return Number(item.question_number) === sourceNumber;
+    });
+
+    if (byNumber) {
+      return byNumber;
+    }
+  }
+
+  const groupId = String(question.passage_group_id || "").trim();
+  const currentNumber = Number(question.question_number || 0);
+
+  if (!groupId || !Number.isFinite(currentNumber)) {
+    return null;
+  }
+
+  const priorSentenceInsertQuestion = questions
+    .filter(function (item) {
+      return (
+        String(item.passage_group_id || "").trim() === groupId &&
+        Number(item.question_number || 0) < currentNumber &&
+        isSentenceInsertLikeQuestion(item)
+      );
+    })
+    .sort(function (a, b) {
+      return Number(b.question_number || 0) - Number(a.question_number || 0);
+    })[0];
+
+  return priorSentenceInsertQuestion || null;
+}
+
+function applySharedSentenceInsertStateToPassage(question, passage) {
+  if (!question || !passage) {
+    return passage;
+  }
+
+  const sourceQuestion = getSharedSentenceInsertSourceQuestion(question);
+
+  if (!sourceQuestion || !sourceQuestion.id) {
+    return passage;
+  }
+
+  const selectedAnswer = answers[sourceQuestion.id];
+
+  if (!selectedAnswer) {
+    return passage;
+  }
+
+  const selectedPosition = getInsertPositionLabelByAnswer(sourceQuestion, selectedAnswer);
+  const insertSentence = getInsertSentence(sourceQuestion);
+
+  if (!selectedPosition || !insertSentence) {
+    return passage;
+  }
+
+  let result = String(passage || "");
+
+  if (result.includes(`[[INSERTED:${insertSentence}]]`)) {
+    return result;
+  }
+
+  const markerVariants = getSentenceInsertMarkerVariants(selectedPosition);
+
+  for (const marker of markerVariants) {
+    const pattern = new RegExp(escapeRegExp(marker));
+
+    if (pattern.test(result)) {
+      return result.replace(pattern, `${marker} [[INSERTED:${insertSentence}]]`);
+    }
+  }
+
+  return result;
+}
+
 
 function applyCurrentAnswerInsertToPassage(question, passage) {
   const selectedAnswer = answers[question.id];
@@ -3492,6 +4035,145 @@ function isAutoSecondSentenceOrderMode(question) {
   );
 }
 
+function isAutoCompleteAfterFirstOrderMode(question) {
+  const mode = String(
+    question && (
+      question.sentence_order_complete_after_first ||
+      question.sentence_order_auto_complete_after_first ||
+      question.order_complete_after_first ||
+      ""
+    )
+  ).trim();
+
+  return (
+    question && (
+      question.sentence_order_complete_after_first === true ||
+      question.sentence_order_auto_complete_after_first === true ||
+      question.order_complete_after_first === true ||
+      mode === "true" ||
+      mode === "auto_complete_after_first" ||
+      mode === "complete_after_first"
+    )
+  );
+}
+
+function getAutoCompletedOrderFromFirst(question, firstLabel) {
+  const cleanFirst = normalizeSentenceBlockLabel(firstLabel);
+
+  const matchedOrder = getSentenceOrderOptionOrders(question).find(function (order) {
+    return normalizeSentenceBlockLabel(order[0]) === cleanFirst;
+  });
+
+  if (matchedOrder) {
+    return matchedOrder;
+  }
+
+  const used = new Set([cleanFirst]);
+
+  const remaining = getSentenceBlocks(question)
+    .map(function (block) {
+      return normalizeSentenceBlockLabel(block.label);
+    })
+    .filter(function (label) {
+      return label && !used.has(label);
+    });
+
+  return [cleanFirst].concat(remaining).slice(0, 4);
+}
+
+function renderFirstOrderCompleteCandidateButtons(question) {
+  const optionOrders = getSentenceOrderOptionOrders(question);
+  const columnCount = Math.min(Math.max(optionOrders.length, 1), 2);
+
+  if (!optionOrders.length) {
+    return `
+      <div class="order-card-list" id="orderSourceList">
+        ${getSentenceBlocks(question).map(renderSentenceCard).join("")}
+      </div>
+    `;
+  }
+
+  return `
+    <div style="
+      margin: 0 0 10px;
+      padding: 12px 15px;
+      border: 1px solid #b9d8ff;
+      border-radius: 10px;
+      background: #f8fbff;
+      color: #111827;
+      font-size: 16px;
+      font-weight: 900;
+      line-height: 1.55;
+    ">
+      네 선택지가 모두 다르므로, 원하는 전체 순서를 한 번 선택하면 왼쪽 배열이 자동으로 완성됩니다.
+    </div>
+
+    <div style="
+      display: grid;
+      grid-template-columns: repeat(${columnCount}, minmax(0, 1fr));
+      gap: 12px;
+    ">
+      ${optionOrders.map(function (order) {
+        const cleanFirst = normalizeSentenceBlockLabel(order[0]);
+        const firstBlock = findSentenceBlock(question, cleanFirst);
+        const orderText = order.map(function (label) {
+          return "(" + escapeHtml(normalizeSentenceBlockLabel(label)) + ")";
+        }).join("-");
+
+        return `
+          <button
+            type="button"
+            class="first-order-candidate-button"
+            data-first-order-label="${escapeAttribute(cleanFirst)}"
+            style="
+              min-height: 118px;
+              padding: 16px 17px;
+              border-radius: 10px;
+              border: 2px solid #b8c7d9;
+              background: #ffffff;
+              color: #003f8f;
+              font-weight: 900;
+              cursor: pointer;
+              text-align: left;
+              line-height: 1.55;
+            "
+          >
+            <span style="
+              display:block;
+              margin-bottom: 7px;
+              color:#003f8f;
+              font-size:18px;
+              font-weight:900;
+            ">
+              전체 순서: ${orderText}
+            </span>
+
+            <span style="
+              display:block;
+              color:#111827;
+              font-size:18px;
+              font-weight:900;
+              line-height:1.55;
+            ">
+              첫 문장: (${escapeHtml(cleanFirst)}) ${firstBlock ? escapeHtml(firstBlock.text) : ""}
+            </span>
+
+            <span style="
+              display:block;
+              margin-top:8px;
+              color:#5f6368;
+              font-size:14px;
+              font-weight:800;
+            ">
+              선택하면 나머지 문장이 자동으로 채워집니다.
+            </span>
+          </button>
+        `;
+      }).join("")}
+    </div>
+  `;
+}
+
 function getAutoSecondSentenceLabel(question, firstLabel) {
   const cleanFirst = normalizeSentenceBlockLabel(firstLabel);
 
@@ -3706,6 +4388,10 @@ function getValidFirstOrderLabel(question, currentOrder) {
 }
 
 function renderFirstOrderCandidateButtons(question, currentOrder) {
+  if (isAutoCompleteAfterFirstOrderMode(question)) {
+    return renderFirstOrderCompleteCandidateButtons(question);
+  }
+
   const candidates = getFirstOrderCandidates(question);
 
   if (candidates.length < 2) {
@@ -4067,6 +4753,14 @@ function setFirstOrderCandidate(question, label) {
   const currentOrder = [null, null, null, null];
 
   currentOrder[0] = cleanLabel;
+
+  if (isAutoCompleteAfterFirstOrderMode(question)) {
+    const completedOrder = getAutoCompletedOrderFromFirst(question, cleanLabel);
+
+    updateSentenceOrderAnswerState(question, completedOrder);
+    renderCurrentQuestion();
+    return;
+  }
 
   const autoSecondLabel = getAutoSecondSentenceLabel(question, cleanLabel);
 

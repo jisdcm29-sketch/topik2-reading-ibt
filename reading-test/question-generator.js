@@ -135,6 +135,13 @@ function validateBank(bank) {
   if (!Array.isArray(bank.passage_sets)) {
     throw new Error("question-bank.json에 passage_sets 배열이 없습니다.");
   }
+
+  bank.passage_sets.forEach((set) => {
+    if (set.split_allowed !== false || set.must_travel_together !== true || set.set_lock !== true) {
+      const id = set.set_id || set.selection_group_id || "set_id 없음";
+      console.warn(`세트 잠금 필드 확인 필요: ${id}`);
+    }
+  });
 }
 
 function generateExam({ template, bank, mode, round }) {
@@ -417,12 +424,27 @@ function normalizePassageSet({ passageSet, groupInfo, generationInfo }) {
       negative_focus_text: item.negative_focus_text || "",
 
       passage_group_id: passageSet.set_id,
-      passage_group_title: passageSet.set_title || groupInfo.group_title || "",
+      passage_group_title: passageSet.set_title || passageSet.passage_group_title || groupInfo.group_title || "",
       passage_group_numbers: groupNumbers,
       shared_passage_index: index + 1,
       shared_passage_total: total,
       shared_insert_enabled: Boolean(passageSet.shared_insert_enabled || groupInfo.shared_insert_enabled),
       shared_insert_keys: passageSet.shared_insert_keys || [],
+
+      selection_unit: "passage_set",
+      selection_unit_type: "passage_set",
+      selection_group_id: passageSet.selection_group_id || passageSet.set_id,
+      random_selection_group_id: passageSet.random_selection_group_id || passageSet.selection_group_id || passageSet.set_id,
+      level_test_selection_group_id: passageSet.level_test_selection_group_id || passageSet.selection_group_id || passageSet.set_id,
+      passage_set_lock_id: passageSet.passage_set_lock_id || passageSet.set_id,
+      must_travel_together: true,
+      split_allowed: false,
+      set_lock: true,
+      set_policy: "keep_all_items_together",
+      set_question_numbers: groupNumbers,
+      set_original_question_numbers: passageSet.original_question_numbers || groupNumbers,
+      selection_unit_size: total,
+      selection_unit_title: passageSet.selection_unit_title || passageSet.passage_group_title || groupInfo.group_title || "",
 
       generated_exam_mode: generationInfo.generated_exam_mode,
       generated_exam_round: generationInfo.generated_exam_round,
