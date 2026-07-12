@@ -507,7 +507,7 @@
     }
 
     /* =========================================================
-       compact print override v5 - common set flow fix
+       compact print override v6 - round bulk buttons
        학생 제공용 유형별 문제지: 텍스트 문항은 촘촘하게, 이미지 문항은 잘리지 않게
        ========================================================= */
 
@@ -926,6 +926,48 @@
       }
     }
 
+
+    /* =========================================================
+       round select buttons v1
+       출제 회차 전체 선택 / 전체 해제 버튼
+       ========================================================= */
+    .round-bulk-actions {
+      display: flex;
+      gap: 8px;
+      margin: 8px 0 8px 0;
+    }
+
+    .round-bulk-button {
+      flex: 1;
+      padding: 9px 10px;
+      border: 1px solid #0b7cff;
+      border-radius: 8px;
+      background: #ffffff;
+      color: #0057c2;
+      font-size: 13px;
+      font-weight: 900;
+      cursor: pointer;
+    }
+
+    .round-bulk-button:hover {
+      background: #eef6ff;
+    }
+
+    .round-bulk-button.clear {
+      border-color: #94a3b8;
+      color: #334155;
+    }
+
+    .round-bulk-button.clear:hover {
+      background: #f1f5f9;
+    }
+
+    @media print {
+      .round-bulk-actions {
+        display: none !important;
+      }
+    }
+
   </style>
 </head>
 <body>
@@ -1022,6 +1064,111 @@
     </section>
   </main>
 
-  <script src="./practice-print.js?v=topik2_practice_print_compact_v5"></script>
+  <script src="./practice-print.js?v=topik2_practice_print_compact_v6_round_buttons"></script>
+
+    <script>
+      /*
+        출제 회차 전체 선택 / 전체 해제 버튼 v1
+        - practice-print 화면의 '출제 회차' 체크박스 목록을 찾아 버튼을 자동 삽입합니다.
+        - 기존 HTML 구조를 크게 바꾸지 않도록 DOM 탐색 방식으로 적용합니다.
+      */
+      (function () {
+        function getRoundCheckboxes() {
+          var checkboxes = Array.prototype.slice.call(document.querySelectorAll('input[type="checkbox"]'));
+
+          return checkboxes.filter(function (checkbox) {
+            var valueText = String(checkbox.value || "").trim();
+            var labelText = "";
+
+            var label = checkbox.closest("label");
+            if (label) {
+              labelText = String(label.textContent || "").trim();
+            }
+
+            var combined = valueText + " " + labelText;
+
+            return (
+              /회/.test(combined) &&
+              !/정답|맞지|중복|표시|포함/.test(combined)
+            );
+          });
+        }
+
+        function dispatchCheckboxChange(checkbox) {
+          checkbox.dispatchEvent(new Event("input", { bubbles: true }));
+          checkbox.dispatchEvent(new Event("change", { bubbles: true }));
+        }
+
+        function setAllRounds(checked) {
+          getRoundCheckboxes().forEach(function (checkbox) {
+            if (!checkbox.disabled) {
+              checkbox.checked = checked;
+              dispatchCheckboxChange(checkbox);
+            }
+          });
+        }
+
+        function findRoundSection() {
+          var checkboxes = getRoundCheckboxes();
+
+          if (!checkboxes.length) {
+            return null;
+          }
+
+          var first = checkboxes[0];
+
+          return (
+            first.closest(".checkbox-list") ||
+            first.closest(".round-list") ||
+            first.closest(".form-group") ||
+            first.closest("section") ||
+            first.parentElement
+          );
+        }
+
+        function insertRoundBulkButtons() {
+          if (document.querySelector(".round-bulk-actions")) {
+            return;
+          }
+
+          var roundSection = findRoundSection();
+
+          if (!roundSection) {
+            return;
+          }
+
+          var box = document.createElement("div");
+          box.className = "round-bulk-actions";
+          box.innerHTML = [
+            '<button type="button" class="round-bulk-button" id="selectAllRoundsButton">회차 전체 선택</button>',
+            '<button type="button" class="round-bulk-button clear" id="clearAllRoundsButton">회차 전체 해제</button>'
+          ].join("");
+
+          roundSection.parentNode.insertBefore(box, roundSection);
+
+          document.getElementById("selectAllRoundsButton").addEventListener("click", function () {
+            setAllRounds(true);
+          });
+
+          document.getElementById("clearAllRoundsButton").addEventListener("click", function () {
+            setAllRounds(false);
+          });
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+          insertRoundBulkButtons();
+
+          var observer = new MutationObserver(function () {
+            insertRoundBulkButtons();
+          });
+
+          observer.observe(document.body, {
+            childList: true,
+            subtree: true
+          });
+        });
+      })();
+    </script>
+
 </body>
 </html>
