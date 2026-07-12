@@ -906,6 +906,90 @@ function arraysHaveSameNumbers(left, right) {
   });
 }
 
+function getRandomSetNumberKey(numbers) {
+  return normalizeRandomGroupNumbers(numbers).join("-");
+}
+
+function isTopik2FullReadingLockedSetNumbers(numbers) {
+  const key = getRandomSetNumberKey(numbers);
+
+  return [
+    "19-20",
+    "21-22",
+    "23-24",
+    "42-43",
+    "44-45",
+    "46-47",
+    "48-49-50"
+  ].includes(key);
+}
+
+function isTopik2LevelTestLockedSetNumbers(numbers) {
+  const key = getRandomSetNumberKey(numbers);
+
+  return [
+    "7-8",
+    "9-10",
+    "16-17",
+    "18-19-20"
+  ].includes(key);
+}
+
+function shouldKeepRandomLevelTestSetFields(question) {
+  if (!question) {
+    return false;
+  }
+
+  return (
+    isTopik2FullReadingLockedSetNumbers(question.set_original_question_numbers) ||
+    isTopik2FullReadingLockedSetNumbers(question.source_passage_group_numbers) ||
+    isTopik2FullReadingLockedSetNumbers(question.original_question_numbers) ||
+    isTopik2FullReadingLockedSetNumbers(question.shared_blank_target_questions) ||
+    isTopik2LevelTestLockedSetNumbers(question.set_question_numbers) ||
+    isTopik2LevelTestLockedSetNumbers(question.passage_group_numbers) ||
+    isTopik2LevelTestLockedSetNumbers(question.shared_blank_target_questions)
+  );
+}
+
+function clearRandomLevelTestSetFieldsIfNotNeeded(question) {
+  if (!question || shouldKeepRandomLevelTestSetFields(question)) {
+    return question;
+  }
+
+  [
+    "passage_group_id",
+    "passage_group_title",
+    "passage_group_numbers",
+    "shared_passage_index",
+    "shared_passage_total",
+    "shared_blank_source_question_number",
+    "shared_blank_target_questions",
+    "shared_blank_key",
+    "shared_sentence_insert_source_question_number",
+    "shared_sentence_insert_target_questions",
+    "shared_sentence_insert_key",
+    "selection_unit",
+    "selection_unit_type",
+    "selection_group_id",
+    "random_selection_group_id",
+    "level_test_selection_group_id",
+    "passage_set_lock_id",
+    "must_travel_together",
+    "split_allowed",
+    "set_lock",
+    "set_policy",
+    "set_question_numbers",
+    "set_original_question_numbers",
+    "selection_unit_size",
+    "selection_unit_title",
+    "source_passage_group_numbers"
+  ].forEach(function (key) {
+    delete question[key];
+  });
+
+  return question;
+}
+
 function validateRandomSetLockedGroups(generatedQuestions) {
   const errors = [];
 
@@ -919,6 +1003,15 @@ function validateRandomSetLockedGroups(generatedQuestions) {
     const groupNumbers = getRandomPassageGroupNumbers(question, generatedQuestions);
 
     if (groupNumbers.length <= 1) {
+      return;
+    }
+
+    const shouldValidateGroup =
+      isRandomSetLockedQuestion(question) ||
+      isTopik2FullReadingLockedSetNumbers(groupNumbers) ||
+      isTopik2LevelTestLockedSetNumbers(groupNumbers);
+
+    if (!shouldValidateGroup) {
       return;
     }
 
@@ -1419,12 +1512,23 @@ function cloneRandomQuestionForLevelTestExam(sourceQuestion, blueprintQuestion, 
     "set_question_numbers",
     "set_original_question_numbers",
     "selection_unit_size",
-    "selection_unit_title"
+    "selection_unit_title",
+    "source_passage_group_numbers"
   ].forEach(function (key) {
     if (blueprintQuestion[key] !== undefined) {
       cloned[key] = JSON.parse(JSON.stringify(blueprintQuestion[key]));
     }
   });
+
+  /*
+    랜덤 레벨테스트에서 39~41번 문장 삽입형은 같은 지시문을 공유하지만
+    공통 지문 세트가 아니다. 일부 기존 회차 데이터에 passage_group_numbers:
+    [39, 40, 41] 같은 보조 필드가 남아 있으면 시작 화면에
+    '세트 문항 분리 금지 검증 실패'가 표시될 수 있으므로,
+    실제 잠금 세트인 19~20, 21~22, 23~24, 42~43, 44~45, 46~47, 48~50
+    및 레벨테스트 대응 세트 7~8, 9~10, 16~17, 18~20만 세트 필드를 유지한다.
+  */
+  clearRandomLevelTestSetFieldsIfNotNeeded(cloned);
 
   return cloned;
 }
@@ -3165,11 +3269,20 @@ function hasSourceQuestionNumberInRange(question, start, end) {
 
 function isLongNarrativePassageForDisplay(question) {
   /*
-    레벨테스트 랜덤에서는 102회 42~43번이 18번처럼 다시 번호가 매겨질 수 있다.
-    따라서 화면 표시 번호(question_number)가 아니라
+    긴 서사형/회상형 지문은 기본 지문보다 줄 간격을 조금 더 촘촘하게 적용한다.
+
+    레벨테스트·랜덤 시험에서는 특정 문항이 다른 번호로 다시 매겨질 수 있으므로
+    화면 표시 번호(question_number)만 보지 않고
     original_question_number, template_slot, passage_group_numbers를 함께 확인한다.
+
+    현재 우선 적용 범위:
+    - 23~24번: 회상형 긴 지문
+    - 42~43번: 긴 설명형 공통 지문
   */
-  return hasSourceQuestionNumberInRange(question, 42, 43);
+  return (
+    hasSourceQuestionNumberInRange(question, 23, 24) ||
+    hasSourceQuestionNumberInRange(question, 42, 43)
+  );
 }
 
 function applyQuestionSpecificPassageStyle(question) {
