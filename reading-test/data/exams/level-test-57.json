@@ -1,0 +1,1912 @@
+[
+  {
+    "id": "LT-57-R01-SRC001",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "source_pdf_page": 1,
+    "source_printed_page": 1,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "question_number": 1,
+    "original_question_number": 1,
+    "template_slot": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "읽고 싶은 책은 (     ) 읽을 시간이 없다.",
+    "passage_template": "읽고 싶은 책은 (     ) 읽을 시간이 없다.",
+    "options": [
+      "많거나",
+      "많은데",
+      "많은지",
+      "많다면"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "많거나"
+      },
+      {
+        "label": "2",
+        "text": "많은데"
+      },
+      {
+        "label": "3",
+        "text": "많은지"
+      },
+      {
+        "label": "4",
+        "text": "많다면"
+      }
+    ],
+    "options_text": [
+      "많거나",
+      "많은데",
+      "많은지",
+      "많다면"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 1,
+    "level_test_original_question_number": 1,
+    "target_slot": 1,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 1,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R02-SRC003",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "source_pdf_page": 1,
+    "source_printed_page": 1,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "question_number": 2,
+    "original_question_number": 3,
+    "template_slot": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "우리는 어디에서 무엇을 하든지 최선을 다해야 한다.",
+    "passage_template": "우리는 어디에서 무엇을 하든지 최선을 다해야 한다.",
+    "underline_targets": [
+      "하든지"
+    ],
+    "underlined_parts": [
+      "하든지"
+    ],
+    "options": [
+      "하자마자",
+      "하더라도",
+      "하느라고",
+      "하기에도"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "하자마자"
+      },
+      {
+        "label": "2",
+        "text": "하더라도"
+      },
+      {
+        "label": "3",
+        "text": "하느라고"
+      },
+      {
+        "label": "4",
+        "text": "하기에도"
+      }
+    ],
+    "options_text": [
+      "하자마자",
+      "하더라도",
+      "하느라고",
+      "하기에도"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 3,
+    "level_test_original_question_number": 3,
+    "target_slot": 2,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 2,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R03-SRC005",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "source_pdf_page": 2,
+    "source_printed_page": 2,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "question_number": 3,
+    "original_question_number": 5,
+    "template_slot": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "운동화",
+      "청바지",
+      "화장품",
+      "자전거"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "운동화"
+      },
+      {
+        "label": "2",
+        "text": "청바지"
+      },
+      {
+        "label": "3",
+        "text": "화장품"
+      },
+      {
+        "label": "4",
+        "text": "자전거"
+      }
+    ],
+    "options_text": [
+      "운동화",
+      "청바지",
+      "화장품",
+      "자전거"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/57_R005.png",
+    "image_max_height": 260,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "92%",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 5,
+    "level_test_original_question_number": 5,
+    "target_slot": 3,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 3,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R04-SRC010",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "source_pdf_page": 3,
+    "source_printed_page": 3,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "question_number": 4,
+    "original_question_number": 10,
+    "template_slot": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "아빠는 도시락보다 외식을 더 좋아한다.",
+      "도시락을 먹겠다는 응답 비율은 엄마가 가장 높다.",
+      "아이는 아빠와 달리 도시락보다 외식을 더 원한다.",
+      "외식을 하고 싶어 하는 비율은 아빠에 비해 엄마가 낮다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "아빠는 도시락보다 외식을 더 좋아한다."
+      },
+      {
+        "label": "2",
+        "text": "도시락을 먹겠다는 응답 비율은 엄마가 가장 높다."
+      },
+      {
+        "label": "3",
+        "text": "아이는 아빠와 달리 도시락보다 외식을 더 원한다."
+      },
+      {
+        "label": "4",
+        "text": "외식을 하고 싶어 하는 비율은 아빠에 비해 엄마가 낮다."
+      }
+    ],
+    "options_text": [
+      "아빠는 도시락보다 외식을 더 좋아한다.",
+      "도시락을 먹겠다는 응답 비율은 엄마가 가장 높다.",
+      "아이는 아빠와 달리 도시락보다 외식을 더 원한다.",
+      "외식을 하고 싶어 하는 비율은 아빠에 비해 엄마가 낮다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/57_R010.png",
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "82%",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 10,
+    "level_test_original_question_number": 10,
+    "target_slot": 4,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 4,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R05-SRC013",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 5,
+    "source_printed_page": 5,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+    "question_number": 5,
+    "original_question_number": 13,
+    "template_slot": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열하십시오.",
+    "passage": "(가) 좁은 골목길은 자동차로 순찰하기가 어렵기 때문이다.\n(나) 시민의 호응 속에서 활동 지역이 확대될 것으로 보인다.\n(다) 경찰들이 자전거를 타고 다니며 좁은 골목길을 순찰하기 시작했다.\n(라) 자전거 순찰은 시민의 안전을 지키고 시민과의 소통도 강화하는 효과가 있다.",
+    "passage_template": "(가) 좁은 골목길은 자동차로 순찰하기가 어렵기 때문이다.\n(나) 시민의 호응 속에서 활동 지역이 확대될 것으로 보인다.\n(다) 경찰들이 자전거를 타고 다니며 좁은 골목길을 순찰하기 시작했다.\n(라) 자전거 순찰은 시민의 안전을 지키고 시민과의 소통도 강화하는 효과가 있다.",
+    "options": [
+      "(다)-(라)-(가)-(나)",
+      "(다)-(가)-(라)-(나)",
+      "(라)-(다)-(나)-(가)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "(다)-(라)-(가)-(나)"
+      },
+      {
+        "label": "2",
+        "text": "(다)-(가)-(라)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(라)-(다)-(나)-(가)"
+      },
+      {
+        "label": "4",
+        "text": "(라)-(나)-(다)-(가)"
+      }
+    ],
+    "options_text": [
+      "(다)-(라)-(가)-(나)",
+      "(다)-(가)-(라)-(나)",
+      "(라)-(다)-(나)-(가)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "좁은 골목길은 자동차로 순찰하기가 어렵기 때문이다."
+      },
+      {
+        "label": "(나)",
+        "text": "시민의 호응 속에서 활동 지역이 확대될 것으로 보인다."
+      },
+      {
+        "label": "(다)",
+        "text": "경찰들이 자전거를 타고 다니며 좁은 골목길을 순찰하기 시작했다."
+      },
+      {
+        "label": "(라)",
+        "text": "자전거 순찰은 시민의 안전을 지키고 시민과의 소통도 강화하는 효과가 있다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "좁은 골목길은 자동차로 순찰하기가 어렵기 때문이다."
+      },
+      {
+        "label": "(나)",
+        "text": "시민의 호응 속에서 활동 지역이 확대될 것으로 보인다."
+      },
+      {
+        "label": "(다)",
+        "text": "경찰들이 자전거를 타고 다니며 좁은 골목길을 순찰하기 시작했다."
+      },
+      {
+        "label": "(라)",
+        "text": "자전거 순찰은 시민의 안전을 지키고 시민과의 소통도 강화하는 효과가 있다."
+      }
+    ],
+    "correct_answer_order": [
+      "다",
+      "라",
+      "가",
+      "나"
+    ],
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 13,
+    "level_test_original_question_number": 13,
+    "target_slot": 5,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 5,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R06-SRC016",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 6,
+    "source_printed_page": 6,
+    "type": "blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "question_number": 6,
+    "original_question_number": 16,
+    "template_slot": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "일반 자동차를 운행할 때 나는 소리는 소음이 되어 보행자에게 피해를 준다. 그런데 전기 자동차의 경우 오히려 소리가 거의 나지 않아서 보행자에게 위험이 될 수 있다. 보행자가 (     ) 사고가 날 수 있기 때문이다. 이에 정부는 안전을 위해 전기 자동차에서 보행자가 들을 수 있을 정도의 소리가 나도록 의무화할 예정이다.",
+    "passage_template": "일반 자동차를 운행할 때 나는 소리는 소음이 되어 보행자에게 피해를 준다. 그런데 전기 자동차의 경우 오히려 소리가 거의 나지 않아서 보행자에게 위험이 될 수 있다. 보행자가 (     ) 사고가 날 수 있기 때문이다. 이에 정부는 안전을 위해 전기 자동차에서 보행자가 들을 수 있을 정도의 소리가 나도록 의무화할 예정이다.",
+    "options": [
+      "안전 규칙을 기억하지 못해",
+      "교통량을 조절하지 못해",
+      "자동차의 접근을 알지 못해",
+      "교통 신호를 보지 못해"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "안전 규칙을 기억하지 못해"
+      },
+      {
+        "label": "2",
+        "text": "교통량을 조절하지 못해"
+      },
+      {
+        "label": "3",
+        "text": "자동차의 접근을 알지 못해"
+      },
+      {
+        "label": "4",
+        "text": "교통 신호를 보지 못해"
+      }
+    ],
+    "options_text": [
+      "안전 규칙을 기억하지 못해",
+      "교통량을 조절하지 못해",
+      "자동차의 접근을 알지 못해",
+      "교통 신호를 보지 못해"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 16,
+    "level_test_original_question_number": 16,
+    "target_slot": 6,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 6,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R07-SRC019",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 7,
+    "source_printed_page": 7,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 연결 표현 이해",
+    "question_number": 7,
+    "original_question_number": 19,
+    "template_slot": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "보통 건조시킨 과일은 바싹 말라 있어서 영양 성분이 부족하고 맛이 없을 것이라고 생각하기 쉽지만 꼭 그런 것만은 아니다. 예를 들어 말린 사과는 말리기 전보다 비타민 성분이 풍부해져 영양 가치가 높아진다. 그리고 단맛이 강해져서 맛도 더 좋아진다. 말린 과일은 씻거나 요리하는 과정 없이 바로 간식으로 먹을 수 있어서 좋다. (     ) 매우 달기 때문에 한꺼번에 너무 많이 먹는 것은 주의해야 한다.",
+    "passage_template": "보통 건조시킨 과일은 바싹 말라 있어서 영양 성분이 부족하고 맛이 없을 것이라고 생각하기 쉽지만 꼭 그런 것만은 아니다. 예를 들어 말린 사과는 말리기 전보다 비타민 성분이 풍부해져 영양 가치가 높아진다. 그리고 단맛이 강해져서 맛도 더 좋아진다. 말린 과일은 씻거나 요리하는 과정 없이 바로 간식으로 먹을 수 있어서 좋다. (     ) 매우 달기 때문에 한꺼번에 너무 많이 먹는 것은 주의해야 한다.",
+    "options": [
+      "혹시",
+      "다만",
+      "게다가",
+      "마침내"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "혹시"
+      },
+      {
+        "label": "2",
+        "text": "다만"
+      },
+      {
+        "label": "3",
+        "text": "게다가"
+      },
+      {
+        "label": "4",
+        "text": "마침내"
+      }
+    ],
+    "options_text": [
+      "혹시",
+      "다만",
+      "게다가",
+      "마침내"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R07-R08",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "57-R019-R020",
+    "passage_set_lock_id": "57-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 19,
+    "level_test_original_question_number": 19,
+    "target_slot": 7,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      19,
+      20
+    ],
+    "original_shared_blank_source_question_number": 19,
+    "original_shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "level_test_question_number": 7,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R08-SRC020",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 7,
+    "source_printed_page": 7,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "question_number": 8,
+    "original_question_number": 20,
+    "template_slot": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "보통 건조시킨 과일은 바싹 말라 있어서 영양 성분이 부족하고 맛이 없을 것이라고 생각하기 쉽지만 꼭 그런 것만은 아니다. 예를 들어 말린 사과는 말리기 전보다 비타민 성분이 풍부해져 영양 가치가 높아진다. 그리고 단맛이 강해져서 맛도 더 좋아진다. 말린 과일은 씻거나 요리하는 과정 없이 바로 간식으로 먹을 수 있어서 좋다. (     ) 매우 달기 때문에 한꺼번에 너무 많이 먹는 것은 주의해야 한다.",
+    "passage_template": "보통 건조시킨 과일은 바싹 말라 있어서 영양 성분이 부족하고 맛이 없을 것이라고 생각하기 쉽지만 꼭 그런 것만은 아니다. 예를 들어 말린 사과는 말리기 전보다 비타민 성분이 풍부해져 영양 가치가 높아진다. 그리고 단맛이 강해져서 맛도 더 좋아진다. 말린 과일은 씻거나 요리하는 과정 없이 바로 간식으로 먹을 수 있어서 좋다. (     ) 매우 달기 때문에 한꺼번에 너무 많이 먹는 것은 주의해야 한다.",
+    "options": [
+      "사과를 말리면 비타민 성분이 훨씬 줄어든다.",
+      "건조시킨 과일은 먹기 전에 씻어 먹어야 한다.",
+      "말린 과일을 간식으로 섭취하는 것은 좋지 않다.",
+      "사과를 건조시켜 먹으면 단맛의 정도가 높아진다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "사과를 말리면 비타민 성분이 훨씬 줄어든다."
+      },
+      {
+        "label": "2",
+        "text": "건조시킨 과일은 먹기 전에 씻어 먹어야 한다."
+      },
+      {
+        "label": "3",
+        "text": "말린 과일을 간식으로 섭취하는 것은 좋지 않다."
+      },
+      {
+        "label": "4",
+        "text": "사과를 건조시켜 먹으면 단맛의 정도가 높아진다."
+      }
+    ],
+    "options_text": [
+      "사과를 말리면 비타민 성분이 훨씬 줄어든다.",
+      "건조시킨 과일은 먹기 전에 씻어 먹어야 한다.",
+      "말린 과일을 간식으로 섭취하는 것은 좋지 않다.",
+      "사과를 건조시켜 먹으면 단맛의 정도가 높아진다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R07-R08",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "57-R019-R020",
+    "passage_set_lock_id": "57-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 20,
+    "level_test_original_question_number": 20,
+    "target_slot": 8,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      19,
+      20
+    ],
+    "original_shared_blank_source_question_number": 19,
+    "original_shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "level_test_question_number": 8,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R09-SRC023",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "question_number": 9,
+    "original_question_number": 23,
+    "template_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "유난히 더운 어느 날, 택시를 기다리고 있었다. 십여 분을 기다린 끝에 간신히 택시를 잡았다. 차에 타려고 하는데 앞 좌석에 사람이 타고 있었다. “어? 손님이 있네요?” 하고 묻자 앞 운전석의 백발의 기사님은 친근한 목소리로 “손님이 아닙니다. 제 아내입니다.” 하고 대답했다. 그제야 나는 조수석 뒤에 붙어 있는 메모를 발견했다. “앞자리에 앉은 사람은 제 아내입니다. 치매를 앓고 있지만 예쁘고 착한 사람입니다. 돌볼 사람이 없어 함께 다니니 양해를 구합니다.”라고 적어 놓은 것을 보면서 왠지 모를 기분에 코끝이 찡해 왔다. 목적지로 이동하는 짧은 시간 동안 부부의 대화에 귀를 기울였다. 남편이 “집에 가면 청소해야 되는데, 이따가 도와줄 수 있어?”라고 묻자 아내는 철없는 아이처럼 “싫어.”라고 대답했다. 부부의 대화를 들으면서 나도 모르게 입가에 잔잔한 미소가 지어졌다.",
+    "passage_template": "유난히 더운 어느 날, 택시를 기다리고 있었다. 십여 분을 기다린 끝에 간신히 택시를 잡았다. 차에 타려고 하는데 앞 좌석에 사람이 타고 있었다. “어? 손님이 있네요?” 하고 묻자 앞 운전석의 백발의 기사님은 친근한 목소리로 “손님이 아닙니다. 제 아내입니다.” 하고 대답했다. 그제야 나는 조수석 뒤에 붙어 있는 메모를 발견했다. “앞자리에 앉은 사람은 제 아내입니다. 치매를 앓고 있지만 예쁘고 착한 사람입니다. 돌볼 사람이 없어 함께 다니니 양해를 구합니다.”라고 적어 놓은 것을 보면서 왠지 모를 기분에 코끝이 찡해 왔다. 목적지로 이동하는 짧은 시간 동안 부부의 대화에 귀를 기울였다. 남편이 “집에 가면 청소해야 되는데, 이따가 도와줄 수 있어?”라고 묻자 아내는 철없는 아이처럼 “싫어.”라고 대답했다. 부부의 대화를 들으면서 나도 모르게 입가에 잔잔한 미소가 지어졌다.",
+    "options": [
+      "감동적이다",
+      "허망적이다",
+      "당황스럽다",
+      "실망스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "감동적이다"
+      },
+      {
+        "label": "2",
+        "text": "허망적이다"
+      },
+      {
+        "label": "3",
+        "text": "당황스럽다"
+      },
+      {
+        "label": "4",
+        "text": "실망스럽다"
+      }
+    ],
+    "options_text": [
+      "감동적이다",
+      "허망적이다",
+      "당황스럽다",
+      "실망스럽다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R09-R10",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "57-R023-R024",
+    "passage_set_lock_id": "57-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      23,
+      24
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "왠지 모를 기분에 코끝이 찡해 왔다"
+    ],
+    "underlined_parts": [
+      "왠지 모를 기분에 코끝이 찡해 왔다"
+    ],
+    "review_note": "2026-07-13: 23번 밑줄 범위를 '왠지 모를 기분에 코끝이 찡해 왔다' 전체로 수정함. 공통 지문 유지용으로 24번에도 동일 적용.",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 23,
+    "level_test_original_question_number": 23,
+    "target_slot": 9,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      23,
+      24
+    ],
+    "level_test_question_number": 9,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R10-SRC024",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 9,
+    "source_printed_page": 9,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "question_number": 10,
+    "original_question_number": 24,
+    "template_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "유난히 더운 어느 날, 택시를 기다리고 있었다. 십여 분을 기다린 끝에 간신히 택시를 잡았다. 차에 타려고 하는데 앞 좌석에 사람이 타고 있었다. “어? 손님이 있네요?” 하고 묻자 앞 운전석의 백발의 기사님은 친근한 목소리로 “손님이 아닙니다. 제 아내입니다.” 하고 대답했다. 그제야 나는 조수석 뒤에 붙어 있는 메모를 발견했다. “앞자리에 앉은 사람은 제 아내입니다. 치매를 앓고 있지만 예쁘고 착한 사람입니다. 돌볼 사람이 없어 함께 다니니 양해를 구합니다.”라고 적어 놓은 것을 보면서 왠지 모를 기분에 코끝이 찡해 왔다. 목적지로 이동하는 짧은 시간 동안 부부의 대화에 귀를 기울였다. 남편이 “집에 가면 청소해야 되는데, 이따가 도와줄 수 있어?”라고 묻자 아내는 철없는 아이처럼 “싫어.”라고 대답했다. 부부의 대화를 들으면서 나도 모르게 입가에 잔잔한 미소가 지어졌다.",
+    "passage_template": "유난히 더운 어느 날, 택시를 기다리고 있었다. 십여 분을 기다린 끝에 간신히 택시를 잡았다. 차에 타려고 하는데 앞 좌석에 사람이 타고 있었다. “어? 손님이 있네요?” 하고 묻자 앞 운전석의 백발의 기사님은 친근한 목소리로 “손님이 아닙니다. 제 아내입니다.” 하고 대답했다. 그제야 나는 조수석 뒤에 붙어 있는 메모를 발견했다. “앞자리에 앉은 사람은 제 아내입니다. 치매를 앓고 있지만 예쁘고 착한 사람입니다. 돌볼 사람이 없어 함께 다니니 양해를 구합니다.”라고 적어 놓은 것을 보면서 왠지 모를 기분에 코끝이 찡해 왔다. 목적지로 이동하는 짧은 시간 동안 부부의 대화에 귀를 기울였다. 남편이 “집에 가면 청소해야 되는데, 이따가 도와줄 수 있어?”라고 묻자 아내는 철없는 아이처럼 “싫어.”라고 대답했다. 부부의 대화를 들으면서 나도 모르게 입가에 잔잔한 미소가 지어졌다.",
+    "options": [
+      "아내를 돌봐 줄 사람은 택시 기사밖에 없다.",
+      "나는 귀가하는 동안 택시 기사의 아내와 대화를 나눴다.",
+      "택시 기사는 아내의 질병에 대해서 자세히 모르고 있다.",
+      "택시 기사의 아내는 나에게 청소를 도와 달라고 부탁했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "아내를 돌봐 줄 사람은 택시 기사밖에 없다."
+      },
+      {
+        "label": "2",
+        "text": "나는 귀가하는 동안 택시 기사의 아내와 대화를 나눴다."
+      },
+      {
+        "label": "3",
+        "text": "택시 기사는 아내의 질병에 대해서 자세히 모르고 있다."
+      },
+      {
+        "label": "4",
+        "text": "택시 기사의 아내는 나에게 청소를 도와 달라고 부탁했다."
+      }
+    ],
+    "options_text": [
+      "아내를 돌봐 줄 사람은 택시 기사밖에 없다.",
+      "나는 귀가하는 동안 택시 기사의 아내와 대화를 나눴다.",
+      "택시 기사는 아내의 질병에 대해서 자세히 모르고 있다.",
+      "택시 기사의 아내는 나에게 청소를 도와 달라고 부탁했다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R09-R10",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "57-R023-R024",
+    "passage_set_lock_id": "57-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      23,
+      24
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "왠지 모를 기분에 코끝이 찡해 왔다"
+    ],
+    "underlined_parts": [
+      "왠지 모를 기분에 코끝이 찡해 왔다"
+    ],
+    "review_note": "2026-07-13: 23번 밑줄 범위를 '왠지 모를 기분에 코끝이 찡해 왔다' 전체로 수정함. 공통 지문 유지용으로 24번에도 동일 적용.",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 24,
+    "level_test_original_question_number": 24,
+    "target_slot": 10,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      23,
+      24
+    ],
+    "level_test_question_number": 10,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R11-SRC025",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 10,
+    "source_printed_page": 10,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "question_number": 11,
+    "original_question_number": 25,
+    "template_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "인기 만화 연극으로 재탄생, 아쉬운 흥행 성적표",
+    "passage_template": "인기 만화 연극으로 재탄생, 아쉬운 흥행 성적표",
+    "options": [
+      "원작 연극의 흥행에 힘입어 좋은 만화들이 여럿 출판되었다.",
+      "인기 있는 만화를 연극으로 만들기도 하지만 그 수는 많지 않다.",
+      "인기 만화를 연극으로 만들었으나 흥행은 기대에 미치지 못했다.",
+      "연극으로 다시 만들어진 만화가 이전보다 많은 인기를 얻고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "원작 연극의 흥행에 힘입어 좋은 만화들이 여럿 출판되었다."
+      },
+      {
+        "label": "2",
+        "text": "인기 있는 만화를 연극으로 만들기도 하지만 그 수는 많지 않다."
+      },
+      {
+        "label": "3",
+        "text": "인기 만화를 연극으로 만들었으나 흥행은 기대에 미치지 못했다."
+      },
+      {
+        "label": "4",
+        "text": "연극으로 다시 만들어진 만화가 이전보다 많은 인기를 얻고 있다."
+      }
+    ],
+    "options_text": [
+      "원작 연극의 흥행에 힘입어 좋은 만화들이 여럿 출판되었다.",
+      "인기 있는 만화를 연극으로 만들기도 하지만 그 수는 많지 않다.",
+      "인기 만화를 연극으로 만들었으나 흥행은 기대에 미치지 못했다.",
+      "연극으로 다시 만들어진 만화가 이전보다 많은 인기를 얻고 있다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 25,
+    "level_test_original_question_number": 25,
+    "target_slot": 11,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 11,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R12-SRC028",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 11,
+    "source_printed_page": 11,
+    "type": "long_blank_choice",
+    "category": "긴 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "question_number": 12,
+    "original_question_number": 28,
+    "template_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "일반적으로 저장 장치는 정보를 안정적으로 저장하고 보관하는 기능만 하면 된다고 생각했다. 하지만 최근에는 (     ) 수 있는 저장 장치의 개발도 요구되고 있다. 저장 장치 속의 정보가 제대로 지워지지 않아 피해가 발생하는 사례가 늘고 있기 때문이다. 그래서 물에 빨리 녹거나 불에 잘 타서 정보를 영구적으로 폐기할 수 있는 저장 장치를 연구 중에 있다.",
+    "passage_template": "일반적으로 저장 장치는 정보를 안정적으로 저장하고 보관하는 기능만 하면 된다고 생각했다. 하지만 최근에는 (     ) 수 있는 저장 장치의 개발도 요구되고 있다. 저장 장치 속의 정보가 제대로 지워지지 않아 피해가 발생하는 사례가 늘고 있기 때문이다. 그래서 물에 빨리 녹거나 불에 잘 타서 정보를 영구적으로 폐기할 수 있는 저장 장치를 연구 중에 있다.",
+    "options": [
+      "정보를 신속하게 공유할",
+      "값비싼 보관 비용을 낮출",
+      "정보를 쉽고 완전하게 없앨",
+      "충분한 용량의 정보를 담을"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "text": "정보를 신속하게 공유할"
+      },
+      {
+        "label": "2",
+        "text": "값비싼 보관 비용을 낮출"
+      },
+      {
+        "label": "3",
+        "text": "정보를 쉽고 완전하게 없앨"
+      },
+      {
+        "label": "4",
+        "text": "충분한 용량의 정보를 담을"
+      }
+    ],
+    "options_text": [
+      "정보를 신속하게 공유할",
+      "값비싼 보관 비용을 낮출",
+      "정보를 쉽고 완전하게 없앨",
+      "충분한 용량의 정보를 담을"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 28,
+    "level_test_original_question_number": 28,
+    "target_slot": 12,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 12,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R13-SRC032",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 13,
+    "source_printed_page": 13,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "설명문의 세부 내용 파악",
+    "question_number": 13,
+    "original_question_number": 32,
+    "template_slot": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+    "passage": "얼음 위에서 경기를 하는 빙상 종목은 얼음의 질이 매우 중요하다. 얼음판을 만들 때 경기장 바닥의 물을 한 번에 얼린다고 생각하기 쉽다. 하지만 얼음을 통째로 얼릴 경우 작은 균열만 생겨도 얼음판 전체가 갈라질 수 있다. 그래서 물을 얇게 깔고 얼음을 여러 층으로 얼리는 작업을 반복한다. 이렇게 하면 한 부분이 깨지더라도 전체가 갈라지지 않는다. 또한 표면도 매끄러워지고 공기나 이물질이 들어가는 것도 최소화할 수 있다.",
+    "passage_template": "얼음 위에서 경기를 하는 빙상 종목은 얼음의 질이 매우 중요하다. 얼음판을 만들 때 경기장 바닥의 물을 한 번에 얼린다고 생각하기 쉽다. 하지만 얼음을 통째로 얼릴 경우 작은 균열만 생겨도 얼음판 전체가 갈라질 수 있다. 그래서 물을 얇게 깔고 얼음을 여러 층으로 얼리는 작업을 반복한다. 이렇게 하면 한 부분이 깨지더라도 전체가 갈라지지 않는다. 또한 표면도 매끄러워지고 공기나 이물질이 들어가는 것도 최소화할 수 있다.",
+    "options": [
+      "얼음은 반복해서 얼릴수록 표면이 점점 거칠어진다.",
+      "얼음판을 한 번에 얼리면 전체가 갈라질 가능성이 낮아진다.",
+      "여러 층으로 얼음을 얼리면 질이 좋은 얼음판을 만들 수 있다.",
+      "얼음판 속의 공기를 줄이기 위해서는 물을 한꺼번에 얼려야 한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "얼음은 반복해서 얼릴수록 표면이 점점 거칠어진다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "얼음판을 한 번에 얼리면 전체가 갈라질 가능성이 낮아진다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "여러 층으로 얼음을 얼리면 질이 좋은 얼음판을 만들 수 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "얼음판 속의 공기를 줄이기 위해서는 물을 한꺼번에 얼려야 한다."
+      }
+    ],
+    "options_text": [
+      "얼음은 반복해서 얼릴수록 표면이 점점 거칠어진다.",
+      "얼음판을 한 번에 얼리면 전체가 갈라질 가능성이 낮아진다.",
+      "여러 층으로 얼음을 얼리면 질이 좋은 얼음판을 만들 수 있다.",
+      "얼음판 속의 공기를 줄이기 위해서는 물을 한꺼번에 얼려야 한다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 32,
+    "level_test_original_question_number": 32,
+    "target_slot": 13,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 13,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R14-SRC035",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 14,
+    "source_printed_page": 14,
+    "type": "main_idea",
+    "category": "중심 내용",
+    "diagnostic_area": "글의 주제 파악",
+    "question_number": 14,
+    "original_question_number": 35,
+    "template_slot": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "일반적으로 수요가 있어야 공급이 발생한다고 생각하지만 때로는 공급이 수요를 창출하기도 한다. 긴 막대 끝에 휴대 전화를 연결해 사진을 찍을 수 있게 한 일명 ‘셀카봉’은 혼자서 자신의 사진을 찍을 때 편리하게 쓰인다. 이 제품은 출시 후 써 본 사람들이 입소문을 내면서 엄청난 수요를 끌어냈다. 쓸모 있고 창의적인 상품이 공급되면 그 상품이 스스로 더 많은 수요를 이끌어 내는 것이다.",
+    "passage_template": "일반적으로 수요가 있어야 공급이 발생한다고 생각하지만 때로는 공급이 수요를 창출하기도 한다. 긴 막대 끝에 휴대 전화를 연결해 사진을 찍을 수 있게 한 일명 ‘셀카봉’은 혼자서 자신의 사진을 찍을 때 편리하게 쓰인다. 이 제품은 출시 후 써 본 사람들이 입소문을 내면서 엄청난 수요를 끌어냈다. 쓸모 있고 창의적인 상품이 공급되면 그 상품이 스스로 더 많은 수요를 이끌어 내는 것이다.",
+    "options": [
+      "공급된 제품에 의해 기존에 없던 수요가 발생할 수 있다.",
+      "공급자는 수요가 높은 물건의 공급을 일부러 줄이기도 한다.",
+      "소비자가 필요성을 인식하지 못하면 공급은 자연히 줄어든다.",
+      "소비가 늘면 공급도 따라서 늘어나는 것이 경제의 기본 원리이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "공급된 제품에 의해 기존에 없던 수요가 발생할 수 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "공급자는 수요가 높은 물건의 공급을 일부러 줄이기도 한다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "소비자가 필요성을 인식하지 못하면 공급은 자연히 줄어든다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "소비가 늘면 공급도 따라서 늘어나는 것이 경제의 기본 원리이다."
+      }
+    ],
+    "options_text": [
+      "공급된 제품에 의해 기존에 없던 수요가 발생할 수 있다.",
+      "공급자는 수요가 높은 물건의 공급을 일부러 줄이기도 한다.",
+      "소비자가 필요성을 인식하지 못하면 공급은 자연히 줄어든다.",
+      "소비가 늘면 공급도 따라서 늘어나는 것이 경제의 기본 원리이다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 35,
+    "level_test_original_question_number": 35,
+    "target_slot": 14,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 14,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R15-SRC039",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 16,
+    "source_printed_page": 16,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "삽입 문장의 지시어와 앞뒤 연결 관계 파악",
+    "question_number": 15,
+    "original_question_number": 39,
+    "template_slot": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "한국의 전통 공연 예술인 판소리는 악보로 기록하지 않고 입에서 입으로 전승되어 왔다. ( ㉠ ) 제자를 양성하는 방식도 스승이 먼저 판소리의 한 대목을 부르면 제자가 듣고 바로 따라 부르는 것이었다. ( ㉡ ) 전수를 받은 후에도 제자는 스승에게 배운 대목을 소화하기 위해 홀로 수없이 반복하며 연습했다. ( ㉢ ) 스승의 소리를 마음으로 받아 익히고 산이나 계곡에서 수련을 쌓으며 자신만의 소리를 완성해 냈다. ( ㉣ )",
+    "passage_template": "한국의 전통 공연 예술인 판소리는 악보로 기록하지 않고 입에서 입으로 전승되어 왔다. ( ㉠ ) 제자를 양성하는 방식도 스승이 먼저 판소리의 한 대목을 부르면 제자가 듣고 바로 따라 부르는 것이었다. ( ㉡ ) 전수를 받은 후에도 제자는 스승에게 배운 대목을 소화하기 위해 홀로 수없이 반복하며 연습했다. ( ㉢ ) 스승의 소리를 마음으로 받아 익히고 산이나 계곡에서 수련을 쌓으며 자신만의 소리를 완성해 냈다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "number": 1,
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "number": 2,
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "number": 3,
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "number": 4,
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "insert_sentence": "이렇게 한자리에서 마주보며 소리를 주고받는 이유는 노래뿐만 아니라 그 속에 담긴 스승의 감정까지 고스란히 전수받기 위해서였다.",
+    "given_sentence": "이렇게 한자리에서 마주보며 소리를 주고받는 이유는 노래뿐만 아니라 그 속에 담긴 스승의 감정까지 고스란히 전수받기 위해서였다.",
+    "sentence_to_insert": "이렇게 한자리에서 마주보며 소리를 주고받는 이유는 노래뿐만 아니라 그 속에 담긴 스승의 감정까지 고스란히 전수받기 위해서였다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉡",
+    "correct_insert_position": "㉡",
+    "interaction_mode": "click_insert_sentence_into_position",
+    "template_required_type": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "sentence_insert_source_round": "57",
+    "sentence_insert_note": "57회 원문 기준 주어진 문장과 ㉠/㉡/㉢/㉣ 위치를 연결한 검수용 초안입니다.",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 39,
+    "level_test_original_question_number": 39,
+    "target_slot": 15,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "level_test_question_number": 15,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R16-SRC042",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "type": "common_passage_question",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 친 표현을 통한 인물 심정 파악",
+    "question_number": 16,
+    "original_question_number": 42,
+    "template_slot": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "아버지는 편지를 보내 보라고 했다. “편지요? 너무 촌스럽지 않을까요?” “그건 촌스러운 게 아니라, 오히려 정중한 거다. 봐라, 내가 너희 엄마와 결혼할 수 있었던 것도 다 편지 덕분이지.” 나는 아버지 말대로 미옥이에게 정중하게 편지를 썼다. 나는 사실 겨울 방학 내내 미옥이만 생각했다. (중략) 미옥이가 사는 동네 앞을 지날 때는 혹시 미옥이가 골목에 나와 있지는 않은지 마을 안 골목으로 들어가 괜히 맴을 돌기도 하면서 자전거 페달을 한없이 느리게 굴렸다. 그리고 어느 순간 미옥이가 나타났다. 분명 미옥이었다. 미옥이는 같은 동네 애들인 아라와 보람이와 함께 어딘가를 가고 있었다. 아라가 먼저 나를 발견했다. “야, 한희창.” 나는 모른 척 그냥 페달을 밟을까 말까 하다가 마지못해 돌아보는 척, 덤덤하게 웃어 보였다. “너 어디 가냐?” “그냥 가던 길이야.” “근데, 왜 우리 동네는 들어와서 어정거리?” “너희 동네 오면 안 되냐?” 나는 일부러 부드럽게 물었다. 내 부드러움에 아라 목소리도 금방 순해졌다. “아니, 뭐 꼭 그런 건 아니지만. 그래, 잘 가라.” 아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다. 나는 (중략) 발걸음이 떨어지지 않는다는 말을 실감하며 그 동네를 빠져나와 우체국으로 가는 지름길인 농로를 힘차게 달려 나갔다.",
+    "passage_template": "아버지는 편지를 보내 보라고 했다. “편지요? 너무 촌스럽지 않을까요?” “그건 촌스러운 게 아니라, 오히려 정중한 거다. 봐라, 내가 너희 엄마와 결혼할 수 있었던 것도 다 편지 덕분이지.” 나는 아버지 말대로 미옥이에게 정중하게 편지를 썼다. 나는 사실 겨울 방학 내내 미옥이만 생각했다. (중략) 미옥이가 사는 동네 앞을 지날 때는 혹시 미옥이가 골목에 나와 있지는 않은지 마을 안 골목으로 들어가 괜히 맴을 돌기도 하면서 자전거 페달을 한없이 느리게 굴렸다. 그리고 어느 순간 미옥이가 나타났다. 분명 미옥이었다. 미옥이는 같은 동네 애들인 아라와 보람이와 함께 어딘가를 가고 있었다. 아라가 먼저 나를 발견했다. “야, 한희창.” 나는 모른 척 그냥 페달을 밟을까 말까 하다가 마지못해 돌아보는 척, 덤덤하게 웃어 보였다. “너 어디 가냐?” “그냥 가던 길이야.” “근데, 왜 우리 동네는 들어와서 어정거리?” “너희 동네 오면 안 되냐?” 나는 일부러 부드럽게 물었다. 내 부드러움에 아라 목소리도 금방 순해졌다. “아니, 뭐 꼭 그런 건 아니지만. 그래, 잘 가라.” 아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다. 나는 (중략) 발걸음이 떨어지지 않는다는 말을 실감하며 그 동네를 빠져나와 우체국으로 가는 지름길인 농로를 힘차게 달려 나갔다.",
+    "options": [
+      "감탄하다",
+      "안심하다",
+      "샘이 나다",
+      "애가 타다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "감탄하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "안심하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "샘이 나다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "애가 타다"
+      }
+    ],
+    "options_text": [
+      "감탄하다",
+      "안심하다",
+      "샘이 나다",
+      "애가 타다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R16-R17",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "shared_passage": null,
+    "underline_targets": [
+      "아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다."
+    ],
+    "underlined_parts": [
+      "아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다."
+    ],
+    "underlined_text": "그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 42,
+    "level_test_original_question_number": 42,
+    "target_slot": 16,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      42,
+      43
+    ],
+    "level_test_question_number": 16,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R17-SRC043",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 18,
+    "source_printed_page": 18,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "소설 지문의 세부 내용 파악",
+    "question_number": 17,
+    "original_question_number": 43,
+    "template_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "아버지는 편지를 보내 보라고 했다. “편지요? 너무 촌스럽지 않을까요?” “그건 촌스러운 게 아니라, 오히려 정중한 거다. 봐라, 내가 너희 엄마와 결혼할 수 있었던 것도 다 편지 덕분이지.” 나는 아버지 말대로 미옥이에게 정중하게 편지를 썼다. 나는 사실 겨울 방학 내내 미옥이만 생각했다. (중략) 미옥이가 사는 동네 앞을 지날 때는 혹시 미옥이가 골목에 나와 있지는 않은지 마을 안 골목으로 들어가 괜히 맴을 돌기도 하면서 자전거 페달을 한없이 느리게 굴렸다. 그리고 어느 순간 미옥이가 나타났다. 분명 미옥이었다. 미옥이는 같은 동네 애들인 아라와 보람이와 함께 어딘가를 가고 있었다. 아라가 먼저 나를 발견했다. “야, 한희창.” 나는 모른 척 그냥 페달을 밟을까 말까 하다가 마지못해 돌아보는 척, 덤덤하게 웃어 보였다. “너 어디 가냐?” “그냥 가던 길이야.” “근데, 왜 우리 동네는 들어와서 어정거리?” “너희 동네 오면 안 되냐?” 나는 일부러 부드럽게 물었다. 내 부드러움에 아라 목소리도 금방 순해졌다. “아니, 뭐 꼭 그런 건 아니지만. 그래, 잘 가라.” 아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다. 나는 (중략) 발걸음이 떨어지지 않는다는 말을 실감하며 그 동네를 빠져나와 우체국으로 가는 지름길인 농로를 힘차게 달려 나갔다.",
+    "passage_template": "아버지는 편지를 보내 보라고 했다. “편지요? 너무 촌스럽지 않을까요?” “그건 촌스러운 게 아니라, 오히려 정중한 거다. 봐라, 내가 너희 엄마와 결혼할 수 있었던 것도 다 편지 덕분이지.” 나는 아버지 말대로 미옥이에게 정중하게 편지를 썼다. 나는 사실 겨울 방학 내내 미옥이만 생각했다. (중략) 미옥이가 사는 동네 앞을 지날 때는 혹시 미옥이가 골목에 나와 있지는 않은지 마을 안 골목으로 들어가 괜히 맴을 돌기도 하면서 자전거 페달을 한없이 느리게 굴렸다. 그리고 어느 순간 미옥이가 나타났다. 분명 미옥이었다. 미옥이는 같은 동네 애들인 아라와 보람이와 함께 어딘가를 가고 있었다. 아라가 먼저 나를 발견했다. “야, 한희창.” 나는 모른 척 그냥 페달을 밟을까 말까 하다가 마지못해 돌아보는 척, 덤덤하게 웃어 보였다. “너 어디 가냐?” “그냥 가던 길이야.” “근데, 왜 우리 동네는 들어와서 어정거리?” “너희 동네 오면 안 되냐?” 나는 일부러 부드럽게 물었다. 내 부드러움에 아라 목소리도 금방 순해졌다. “아니, 뭐 꼭 그런 건 아니지만. 그래, 잘 가라.” 아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다. 나는 (중략) 발걸음이 떨어지지 않는다는 말을 실감하며 그 동네를 빠져나와 우체국으로 가는 지름길인 농로를 힘차게 달려 나갔다.",
+    "options": [
+      "아버지는 내가 편지를 쓰려고 하니까 촌스럽다고 놀렸다.",
+      "나는 동네에서 친구들을 마주치자 자전거 속도를 높였다.",
+      "보람이는 우연히 내가 사는 동네까지 자전거를 타고 왔다.",
+      "나는 아라가 부르는 소리를 듣고 그냥 지나갈까 말까 망설였다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "아버지는 내가 편지를 쓰려고 하니까 촌스럽다고 놀렸다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "나는 동네에서 친구들을 마주치자 자전거 속도를 높였다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "보람이는 우연히 내가 사는 동네까지 자전거를 타고 왔다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 아라가 부르는 소리를 듣고 그냥 지나갈까 말까 망설였다."
+      }
+    ],
+    "options_text": [
+      "아버지는 내가 편지를 쓰려고 하니까 촌스럽다고 놀렸다.",
+      "나는 동네에서 친구들을 마주치자 자전거 속도를 높였다.",
+      "보람이는 우연히 내가 사는 동네까지 자전거를 타고 왔다.",
+      "나는 아라가 부르는 소리를 듣고 그냥 지나갈까 말까 망설였다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R16-R17",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "shared_passage": null,
+    "underline_targets": [
+      "아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다."
+    ],
+    "underlined_parts": [
+      "아라 옆에서 보람이는 그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다."
+    ],
+    "underlined_text": "그냥 생글거리기만 하고 정작 미옥이는 딴 곳을 바라보고만 있었다",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 43,
+    "level_test_original_question_number": 43,
+    "target_slot": 17,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      42,
+      43
+    ],
+    "level_test_question_number": 17,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R18-SRC048",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "common_passage_question",
+    "category": "글의 목적",
+    "diagnostic_area": "논설문 작성 목적 파악",
+    "question_number": 18,
+    "original_question_number": 48,
+    "template_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "passage_template": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "options": [
+      "신뢰 자본의 가치와 중요성을 역설하고자",
+      "신뢰 자본을 확보하는 방법을 제안하고자",
+      "사회적 자본 측정의 필요성을 주장하고자",
+      "사회적 자본의 유형과 의의를 설명하고자"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "신뢰 자본의 가치와 중요성을 역설하고자"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "신뢰 자본을 확보하는 방법을 제안하고자"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "사회적 자본 측정의 필요성을 주장하고자"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "사회적 자본의 유형과 의의를 설명하고자"
+      }
+    ],
+    "options_text": [
+      "신뢰 자본의 가치와 중요성을 역설하고자",
+      "신뢰 자본을 확보하는 방법을 제안하고자",
+      "사회적 자본 측정의 필요성을 주장하고자",
+      "사회적 자본의 유형과 의의를 설명하고자"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "shared_passage": null,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_parts": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_text": "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 48,
+    "level_test_original_question_number": 48,
+    "target_slot": 18,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 18,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R19-SRC049",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "question_number": 19,
+    "original_question_number": 49,
+    "template_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "passage_template": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "options": [
+      "살림이 풍족하게 늘어날",
+      "권력이 한쪽으로 편중될",
+      "쇠퇴 속도가 상당히 느려질",
+      "결속력이 점차적으로 떨어질"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "살림이 풍족하게 늘어날"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "권력이 한쪽으로 편중될"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "쇠퇴 속도가 상당히 느려질"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "결속력이 점차적으로 떨어질"
+      }
+    ],
+    "options_text": [
+      "살림이 풍족하게 늘어날",
+      "권력이 한쪽으로 편중될",
+      "쇠퇴 속도가 상당히 느려질",
+      "결속력이 점차적으로 떨어질"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "shared_passage": null,
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_parts": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_text": "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 49,
+    "level_test_original_question_number": 49,
+    "target_slot": 19,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 19,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-57-R20-SRC050",
+    "source_round": "57",
+    "source_file": "57회-읽기.pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "TOPIK_57_Reading_Answer_Key.pdf",
+    "answer_key_status": "user_provided_answer_table",
+    "is_official_answer_key": false,
+    "needs_text_review": true,
+    "needs_answer_review": true,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_57_full_balanced_by_type_with_sets",
+    "source_pdf_page": 21,
+    "source_printed_page": 21,
+    "type": "common_passage_question",
+    "category": "필자 태도",
+    "diagnostic_area": "밑줄 친 부분에 나타난 필자의 태도 파악",
+    "question_number": 20,
+    "original_question_number": 50,
+    "template_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "passage_template": "물적 자본, 인적 자본과 더불어 사회 발전의 중요한 요소로 사회적 자본을 꼽을 수 있다. 이는 사회 구성원 간의 공유된 제도, 규범, 신뢰 등 일체의 사회적 자산을 포괄하여 지칭하는 것이다. 사회적 자본 중에서 가장 핵심은 신뢰이다. 만일 사회 구성원 간에 신뢰가 형성되어 있지 않으면 서로 소통하고 협력하기 어렵다. 그렇게 되면 사회는 (     ) 수밖에 없고 그런 사회는 살기 좋은 사회가 될 수 없다. 살기 좋은 사회란 신뢰를 바탕으로 구성원들이 잘 결집된 사회를 말하는데, 그 신뢰는 구성원들이 규범에 기초해 정직하고 협동적인 행동을 할 것이라는 믿음을 토대로 한다. 아무리 물질적으로 풍족하고 인재가 넘쳐난다 하더라도 신뢰 자본의 확충 없이는 살기 좋은 사회라고 할 수 없는 것이다. 그런데 오늘날 신뢰 자본이 부족한 나라들이 꽤 많다. 이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다. 따라서 살기 좋은 사회를 만들기 위해서는 사회 구성원들이 상호 신뢰를 바탕으로 공동의 목표를 향해 서로 협력해야 할 것이다.",
+    "options": [
+      "불신 때문에 사회가 혼란스러울 것이라고 단언하고 있다.",
+      "문제 해결을 위한 협동 과정의 어려움을 외면하고 있다.",
+      "인적 자본이 더 중요해질 것이라는 예측을 의심하고 있다.",
+      "물적 자본의 형성 과정이 적절치 못하다고 비난하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "불신 때문에 사회가 혼란스러울 것이라고 단언하고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "문제 해결을 위한 협동 과정의 어려움을 외면하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "인적 자본이 더 중요해질 것이라는 예측을 의심하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "물적 자본의 형성 과정이 적절치 못하다고 비난하고 있다."
+      }
+    ],
+    "options_text": [
+      "불신 때문에 사회가 혼란스러울 것이라고 단언하고 있다.",
+      "문제 해결을 위한 협동 과정의 어려움을 외면하고 있다.",
+      "인적 자본이 더 중요해질 것이라는 예측을 의심하고 있다.",
+      "물적 자본의 형성 과정이 적절치 못하다고 비난하고 있다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "57-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "shared_passage": null,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_parts": [
+      "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다"
+    ],
+    "underlined_text": "이런 나라는 국민이 정부를 잘 믿지 못하고 집단 상호 간의 충돌이 빈번하게 일어날 수밖에 없다",
+    "full_exam_id": "reading-57",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-57",
+    "source_full_exam_question_number": 50,
+    "level_test_original_question_number": 50,
+    "target_slot": 20,
+    "level_test_id": "level-test-57",
+    "generated_exam_id": "level-test-57",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 20,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  }
+]
