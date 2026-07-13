@@ -1,0 +1,3260 @@
+[
+  {
+    "id": "T2-60-R001",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "question_number": 1,
+    "original_question_number": 1,
+    "target_slots": [
+      1
+    ],
+    "template_slot": 1,
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "기초 문법 표현 선택",
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "휴대 전화를 (     ) 내려야 할 역을 지나쳤다.",
+    "passage_template": "휴대 전화를 (     ) 내려야 할 역을 지나쳤다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "보든지"
+      },
+      {
+        "label": "2",
+        "text": "보다가"
+      },
+      {
+        "label": "3",
+        "text": "보려면"
+      },
+      {
+        "label": "4",
+        "text": "보고서"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "휴대 전화를 보는 도중에 내려야 할 역을 지나쳤다는 뜻이므로 ‘보다가’가 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R001",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R002",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "question_number": 2,
+    "original_question_number": 2,
+    "target_slots": [
+      2
+    ],
+    "template_slot": 2,
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "기초 문법 표현 선택",
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "한국 친구 덕분에 한국 문화를 많이 (     ).",
+    "passage_template": "한국 친구 덕분에 한국 문화를 많이 (     ).",
+    "options": [
+      {
+        "label": "1",
+        "text": "알게 되었다"
+      },
+      {
+        "label": "2",
+        "text": "알도록 했다"
+      },
+      {
+        "label": "3",
+        "text": "알아도 된다"
+      },
+      {
+        "label": "4",
+        "text": "알아야 한다"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "한국 친구 덕분에 한국 문화를 많이 알게 되었다는 변화의 결과를 나타내는 표현이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R002",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R003",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "question_number": 3,
+    "original_question_number": 3,
+    "target_slots": [
+      3
+    ],
+    "template_slot": 3,
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "동생은 차를 타기만 하면 멀미를 한다.",
+    "passage_template": "동생은 차를 타기만 하면 멀미를 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "탈 만해서"
+      },
+      {
+        "label": "2",
+        "text": "타는 탓에"
+      },
+      {
+        "label": "3",
+        "text": "탈 때마다"
+      },
+      {
+        "label": "4",
+        "text": "타는 동안"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "‘타기만 하면’은 차를 탈 때마다 그런 일이 생긴다는 뜻입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "underline_targets": [
+      "타기만 하면"
+    ],
+    "underlined_parts": [
+      "타기만 하면"
+    ],
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R004",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "question_number": 4,
+    "original_question_number": 4,
+    "target_slots": [
+      4
+    ],
+    "template_slot": 4,
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "이 컴퓨터는 낡아서 수리해 봐야 오래 쓰기 어렵다.",
+    "passage_template": "이 컴퓨터는 낡아서 수리해 봐야 오래 쓰기 어렵다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "수리해 보니까"
+      },
+      {
+        "label": "2",
+        "text": "수리하는 대로"
+      },
+      {
+        "label": "3",
+        "text": "수리하는 바람에"
+      },
+      {
+        "label": "4",
+        "text": "수리한다고 해도"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "‘수리해 봐야’는 수리를 한다고 해도 결과가 크게 달라지지 않는다는 뜻입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "underline_targets": [
+      "수리해 봐야"
+    ],
+    "underlined_parts": [
+      "수리해 봐야"
+    ],
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R005",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "question_number": 5,
+    "original_question_number": 5,
+    "target_slots": [
+      5
+    ],
+    "template_slot": 5,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 중심 소재 파악",
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "과자"
+      },
+      {
+        "label": "2",
+        "text": "안경"
+      },
+      {
+        "label": "3",
+        "text": "우유"
+      },
+      {
+        "label": "4",
+        "text": "신발"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "‘영양소’, ‘매일 아침 신선함을 마셔요’라는 표현으로 보아 우유 광고입니다.",
+    "image_url": "./images/60_R005.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "몸에 좋은 영양소가 가득~ 매일 아침 신선함을 마셔요!",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R006",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "question_number": 6,
+    "original_question_number": 6,
+    "target_slots": [
+      6
+    ],
+    "template_slot": 6,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 중심 소재 파악",
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "우체국"
+      },
+      {
+        "label": "2",
+        "text": "여행사"
+      },
+      {
+        "label": "3",
+        "text": "편의점"
+      },
+      {
+        "label": "4",
+        "text": "빨래방"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "‘세탁부터 건조까지 한 번에 해결’이라는 표현으로 보아 빨래방 안내입니다.",
+    "image_url": "./images/60_R006.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "큰 이불도 깨끗하게 세탁부터 건조까지 한 번에 해결!",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R007",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "question_number": 7,
+    "original_question_number": 7,
+    "target_slots": [
+      7
+    ],
+    "template_slot": 7,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "안내문의 목적·주제 파악",
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "건강 관리"
+      },
+      {
+        "label": "2",
+        "text": "전기 절약"
+      },
+      {
+        "label": "3",
+        "text": "화재 예방"
+      },
+      {
+        "label": "4",
+        "text": "교통 안전"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "등산할 때 담배와 라이터를 두고 가라는 내용은 산불을 막기 위한 화재 예방 안내입니다.",
+    "image_url": "./images/60_R007.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "등산할 때 담배와 라이터는 두고 가세요. 작은 실천이 아름다운 산을 지킵니다.",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R008",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "question_number": 8,
+    "original_question_number": 8,
+    "target_slots": [
+      8
+    ],
+    "template_slot": 8,
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "안내문의 기능 파악",
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "상품 안내"
+      },
+      {
+        "label": "2",
+        "text": "주의 사항"
+      },
+      {
+        "label": "3",
+        "text": "사용 순서"
+      },
+      {
+        "label": "4",
+        "text": "장소 문의"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "검사 전 음식 섭취와 음주를 피하라는 내용이므로 주의 사항입니다.",
+    "image_url": "./images/60_R008.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "검사 전날 밤 9시 이후에는 아무것도 드시면 안 됩니다. 정확한 검사를 위해 음주를 피하십시오.",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R009",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 7,
+    "source_printed_page": 3,
+    "question_number": 9,
+    "original_question_number": 9,
+    "target_slots": [
+      9
+    ],
+    "template_slot": 9,
+    "type": "same_content_visual",
+    "category": "내용 일치",
+    "diagnostic_area": "안내문 세부 정보 파악",
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "주말에는 이용 요금을 더 받는다."
+      },
+      {
+        "label": "2",
+        "text": "캠핑장은 1년 내내 이용할 수 있다."
+      },
+      {
+        "label": "3",
+        "text": "예약은 이용 당일 홈페이지에서 하면 된다."
+      },
+      {
+        "label": "4",
+        "text": "주차장을 이용하려면 돈을 따로 내야 한다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "안내문에서 1박 2일 이용 요금은 평일 30,000원, 주말 35,000원이므로 주말 요금이 더 비쌉니다.",
+    "image_url": "./images/60_R009.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "인주시 캠핑장 이용 안내",
+    "image_display_width": "520px",
+    "image_max_height": 680,
+    "image_align": "center",
+    "image_size_note": "q9_q10_intermediate_520px_for_screen_review_v6",
+    "imageDisplayWidth": "520px",
+    "visual_image_width": "520px",
+    "imageMaxHeight": 680,
+    "visual_image_max_height": 680,
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R010",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 7,
+    "source_printed_page": 3,
+    "question_number": 10,
+    "original_question_number": 10,
+    "target_slots": [
+      10
+    ],
+    "template_slot": 10,
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      {
+        "label": "1",
+        "text": "여성은 봉사 활동보다 취미 활동을 더 하고 싶어 한다."
+      },
+      {
+        "label": "2",
+        "text": "종교 활동을 하고 싶어 하는 비율은 남성이 여성보다 높다."
+      },
+      {
+        "label": "3",
+        "text": "남녀 모두 경제 활동을 하고 싶다는 응답이 절반을 넘는다."
+      },
+      {
+        "label": "4",
+        "text": "경제 활동보다 봉사 활동을 하고 싶어 하는 남성들이 많다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "여성은 취미 활동 42%, 봉사 활동 16%이므로 취미 활동을 더 하고 싶어 합니다.",
+    "image_url": "./images/60_R010.png",
+    "interaction_mode": "single_choice",
+    "image_alt": "노후에 가장 하고 싶은 일 그래프",
+    "image_display_width": "520px",
+    "image_max_height": 680,
+    "image_align": "center",
+    "image_size_note": "q9_q10_intermediate_520px_for_screen_review_v6",
+    "imageDisplayWidth": "520px",
+    "visual_image_width": "520px",
+    "imageMaxHeight": 680,
+    "visual_image_max_height": 680,
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R011",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 8,
+    "source_printed_page": 4,
+    "question_number": 11,
+    "original_question_number": 11,
+    "target_slots": [
+      11
+    ],
+    "template_slot": 11,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "인주시의 한 고등학교는 올해부터 여름 교복으로 티셔츠와 반바지를 입고 있다. 기존 정장형 교복은 활동할 때 불편하다는 학생들의 의견이 많았기 때문이다. 몸이 편해지니 학생들은 다양한 활동에 적극적으로 참여하기 시작했고 공부에도 더 집중할 수 있어서 학습 효율이 올라갔다. 새 교복은 기존 교복보다 가격이 저렴해서 학부모에게도 인기다.",
+    "passage_template": "인주시의 한 고등학교는 올해부터 여름 교복으로 티셔츠와 반바지를 입고 있다. 기존 정장형 교복은 활동할 때 불편하다는 학생들의 의견이 많았기 때문이다. 몸이 편해지니 학생들은 다양한 활동에 적극적으로 참여하기 시작했고 공부에도 더 집중할 수 있어서 학습 효율이 올라갔다. 새 교복은 기존 교복보다 가격이 저렴해서 학부모에게도 인기다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "학부모들은 정장형 교복을 더 좋아한다."
+      },
+      {
+        "label": "2",
+        "text": "새 교복은 정장형 교복보다 가격이 비싸다."
+      },
+      {
+        "label": "3",
+        "text": "기존 교복에 비해 새 교복은 활동할 때 불편하다."
+      },
+      {
+        "label": "4",
+        "text": "학교는 학생들의 의견을 받아들여서 교복을 바꿨다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "학생들이 기존 정장형 교복이 불편하다는 의견을 많이 냈고, 학교가 이를 반영해 티셔츠와 반바지 교복을 도입했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R012",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 8,
+    "source_printed_page": 4,
+    "question_number": 12,
+    "original_question_number": 12,
+    "target_slots": [
+      12
+    ],
+    "template_slot": 12,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "최근 한 아파트에서는 힘들게 일하는 택배 기사, 청소원 등을 위해 무료 카페를 열어서 화제가 되고 있다. 이 카페는 언제든 부담 없이 음료를 마시면서 쉴 수 있는 곳이어서 이용자들이 만족하고 있다. 주민들은 처음에는 관심을 안 보였지만 지금은 카페에 음료와 간식을 제공하는 등 많은 도움을 주고 있다.",
+    "passage_template": "최근 한 아파트에서는 힘들게 일하는 택배 기사, 청소원 등을 위해 무료 카페를 열어서 화제가 되고 있다. 이 카페는 언제든 부담 없이 음료를 마시면서 쉴 수 있는 곳이어서 이용자들이 만족하고 있다. 주민들은 처음에는 관심을 안 보였지만 지금은 카페에 음료와 간식을 제공하는 등 많은 도움을 주고 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "이 카페에 간식을 가져다주는 주민들이 생겼다."
+      },
+      {
+        "label": "2",
+        "text": "카페를 열 때 아파트 주민들이 적극적으로 도왔다."
+      },
+      {
+        "label": "3",
+        "text": "이 카페는 아파트 주민들이 돈을 벌기 위해서 열었다."
+      },
+      {
+        "label": "4",
+        "text": "택배 기사들이 카페의 운영에 참여해 화제가 되고 있다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "주민들이 지금은 카페에 음료와 간식을 제공하는 등 많은 도움을 주고 있다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R013",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "question_number": 13,
+    "original_question_number": 13,
+    "target_slots": [
+      13
+    ],
+    "template_slot": 13,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "시간 흐름과 설명 구조 파악",
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 환경 보호를 위해 포장 없이 내용물만 판매하는 가게가 있다.\n(나) 사람들이 용기에 든 물품을 사려면 빈 통을 준비해 가야 한다.\n(다) 빈 통이 없는 사람들에게는 가게에서 통을 대여해 주기도 한다.\n(라) 이 가게에서는 밀가루나 샴푸 등을 커다란 용기에 담아 놓고 판매한다.",
+    "passage_template": "(가) 환경 보호를 위해 포장 없이 내용물만 판매하는 가게가 있다.\n(나) 사람들이 용기에 든 물품을 사려면 빈 통을 준비해 가야 한다.\n(다) 빈 통이 없는 사람들에게는 가게에서 통을 대여해 주기도 한다.\n(라) 이 가게에서는 밀가루나 샴푸 등을 커다란 용기에 담아 놓고 판매한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "label": "3",
+        "text": "(나)-(가)-(라)-(다)"
+      },
+      {
+        "label": "4",
+        "text": "(나)-(다)-(가)-(라)"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "포장 없이 파는 가게를 소개한 뒤, 무엇을 파는지 설명하고, 빈 통을 준비해야 하며 없는 경우 빌릴 수 있다는 순서가 자연스럽습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R014",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "question_number": 14,
+    "original_question_number": 14,
+    "target_slots": [
+      14
+    ],
+    "template_slot": 14,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "사건 전개 순서 파악",
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 요금을 내려고 보니 가방 어디에서도 지갑을 찾을 수 없었다.\n(나) 감사의 인사를 전하는 나에게 아주머니는 환하게 웃어 주셨다.\n(다) 회사에 지각할 것 같아서 막 출발하려는 버스를 뛰어가서 탔다.\n(라) 그냥 내리려는데 뒤에 서 있던 아주머니가 대신 요금을 내 주셨다.",
+    "passage_template": "(가) 요금을 내려고 보니 가방 어디에서도 지갑을 찾을 수 없었다.\n(나) 감사의 인사를 전하는 나에게 아주머니는 환하게 웃어 주셨다.\n(다) 회사에 지각할 것 같아서 막 출발하려는 버스를 뛰어가서 탔다.\n(라) 그냥 내리려는데 뒤에 서 있던 아주머니가 대신 요금을 내 주셨다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "(가)-(다)-(나)-(라)"
+      },
+      {
+        "label": "2",
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "label": "3",
+        "text": "(다)-(가)-(라)-(나)"
+      },
+      {
+        "label": "4",
+        "text": "(다)-(나)-(라)-(가)"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "버스를 타고, 지갑이 없음을 알게 되고, 아주머니가 대신 요금을 내 주고, 감사 인사를 전하는 순서입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R015",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "question_number": 15,
+    "original_question_number": 15,
+    "target_slots": [
+      15
+    ],
+    "template_slot": 15,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "일반 진술과 원인·해결 설명 순서 파악",
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 쉬어도 떨림이 계속된다면 마그네슘이 부족해서일 수도 있다.\n(나) 눈 밑 떨림의 주된 원인은 피로이므로 푹 쉬면 증상은 완화된다.\n(다) 이런 사람들은 마그네슘이 풍부한 견과류나 바나나를 먹으면 좋다.\n(라) 누구나 한 번쯤은 눈 밑이 떨리는 경험을 해 본 적이 있을 것이다.",
+    "passage_template": "(가) 쉬어도 떨림이 계속된다면 마그네슘이 부족해서일 수도 있다.\n(나) 눈 밑 떨림의 주된 원인은 피로이므로 푹 쉬면 증상은 완화된다.\n(다) 이런 사람들은 마그네슘이 풍부한 견과류나 바나나를 먹으면 좋다.\n(라) 누구나 한 번쯤은 눈 밑이 떨리는 경험을 해 본 적이 있을 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "(나)-(다)-(라)-(가)"
+      },
+      {
+        "label": "2",
+        "text": "(나)-(라)-(다)-(가)"
+      },
+      {
+        "label": "3",
+        "text": "(라)-(가)-(다)-(나)"
+      },
+      {
+        "label": "4",
+        "text": "(라)-(나)-(가)-(다)"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "눈 밑 떨림 경험을 일반적으로 제시한 뒤, 원인은 피로이지만 계속되면 마그네슘 부족일 수 있고, 이에 좋은 음식을 제시하는 순서입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R016",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "question_number": 16,
+    "original_question_number": 16,
+    "target_slots": [
+      16
+    ],
+    "template_slot": 16,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "원래 악수는 상대를 안심시키기 위한 행동이었다. 중세 시대의 기사들은 칼과 같은 무기를 가지고 다니다가 적과 싸울 때 꺼내 들었다. 하지만 (     ) 때에는 악수를 하면서 손에 무기가 없음을 보여 주었다. 이렇게 안전을 확인시켜 주기 위한 행동이 오늘날에는 반가움과 존중을 표시하는 인사법이 되었다.",
+    "passage_template": "원래 악수는 상대를 안심시키기 위한 행동이었다. 중세 시대의 기사들은 칼과 같은 무기를 가지고 다니다가 적과 싸울 때 꺼내 들었다. 하지만 (     ) 때에는 악수를 하면서 손에 무기가 없음을 보여 주었다. 이렇게 안전을 확인시켜 주기 위한 행동이 오늘날에는 반가움과 존중을 표시하는 인사법이 되었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "싸울 생각이 없을"
+      },
+      {
+        "label": "2",
+        "text": "상대의 도움을 받았을"
+      },
+      {
+        "label": "3",
+        "text": "자신의 잘못을 사과할"
+      },
+      {
+        "label": "4",
+        "text": "무기를 새로 구해야 할"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "손에 무기가 없음을 보여 주는 것은 싸울 생각이 없음을 나타내기 위한 행동입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R016",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R017",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "question_number": 17,
+    "original_question_number": 17,
+    "target_slots": [
+      17
+    ],
+    "template_slot": 17,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "특별한 사건 없이 주인공의 단순하고 반복적인 일상을 다룬 한 영화가 인기를 끌고 있다. 주인공이 하루하루를 평범하게 보낼 뿐 별다른 일을 하지 않는데도 관객들은 영화에 빠져든다. 관객들은 그동안 잊고 지냈던 일상의 기쁨을 새삼 깨닫는 것이다. 그리고 행복은 크고 거창한 꿈에만 있는 것이 아니라 (     ) 일에서도 찾을 수 있음을 발견한다.",
+    "passage_template": "특별한 사건 없이 주인공의 단순하고 반복적인 일상을 다룬 한 영화가 인기를 끌고 있다. 주인공이 하루하루를 평범하게 보낼 뿐 별다른 일을 하지 않는데도 관객들은 영화에 빠져든다. 관객들은 그동안 잊고 지냈던 일상의 기쁨을 새삼 깨닫는 것이다. 그리고 행복은 크고 거창한 꿈에만 있는 것이 아니라 (     ) 일에서도 찾을 수 있음을 발견한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "스스로 인정하지 않는"
+      },
+      {
+        "label": "2",
+        "text": "현실 속의 작고 소소한"
+      },
+      {
+        "label": "3",
+        "text": "평소 자주 하지 못하는"
+      },
+      {
+        "label": "4",
+        "text": "일상에서 하기 쉽지 않은"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "평범한 일상을 통해 행복을 찾는다는 내용이므로 현실 속의 작고 소소한 일에서 행복을 찾는다는 표현이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R017",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R018",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "question_number": 18,
+    "original_question_number": 18,
+    "target_slots": [
+      18
+    ],
+    "template_slot": 18,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 활동 내용 선택",
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "‘씨앗 저장고’는 미래의 식량 문제를 대비하기 위해 식물 자원을 영구적으로 보호하는 시설이다. 이곳의 연구원들은 보관 중인 씨앗을 연구하는 일뿐만 아니라 (     ) 활동도 한다. 이들은 씨앗 하나를 구하기 위해 전국 곳곳을 찾아다닌다. 연구원들이 직접 가서 보지 않으면 보관할 가치가 있는 씨앗인지 알 수 없기 때문이다.",
+    "passage_template": "‘씨앗 저장고’는 미래의 식량 문제를 대비하기 위해 식물 자원을 영구적으로 보호하는 시설이다. 이곳의 연구원들은 보관 중인 씨앗을 연구하는 일뿐만 아니라 (     ) 활동도 한다. 이들은 씨앗 하나를 구하기 위해 전국 곳곳을 찾아다닌다. 연구원들이 직접 가서 보지 않으면 보관할 가치가 있는 씨앗인지 알 수 없기 때문이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "자원을 홍보하는"
+      },
+      {
+        "label": "2",
+        "text": "사람을 교육하는"
+      },
+      {
+        "label": "3",
+        "text": "씨앗을 수집하는"
+      },
+      {
+        "label": "4",
+        "text": "저장고를 관리하는"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "전국 곳곳을 찾아다니며 보관할 가치가 있는 씨앗을 직접 확인한다는 내용이므로 씨앗을 수집하는 활동입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R018",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R019",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "question_number": 19,
+    "original_question_number": 19,
+    "target_slots": [
+      19
+    ],
+    "template_slot": 19,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문에서 연결어 선택",
+    "instruction": "[19~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (     ) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.",
+    "passage_template": "시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (     ) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "비록"
+      },
+      {
+        "label": "2",
+        "text": "물론"
+      },
+      {
+        "label": "3",
+        "text": "만약"
+      },
+      {
+        "label": "4",
+        "text": "과연"
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "안내견이 행인에게 다가간다면 주인이 위험하다는 조건을 제시하므로 ‘만약’이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R019-R020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R019-R020",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R020",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "question_number": 20,
+    "original_question_number": 20,
+    "target_slots": [
+      20
+    ],
+    "template_slot": 20,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 파악",
+    "instruction": "[19~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (     ) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.",
+    "passage_template": "시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (     ) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "안내견이 주인 곁을 떠나는 경우는 없다."
+      },
+      {
+        "label": "2",
+        "text": "안내견은 문제가 생기면 구조 센터로 달려간다."
+      },
+      {
+        "label": "3",
+        "text": "안내견이 다가오는 것은 위급한 상황이 생겼다는 뜻이다."
+      },
+      {
+        "label": "4",
+        "text": "안내견은 항상 주변의 사람들에게 관심을 갖도록 훈련을 받는다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "안내견이 주인을 남겨 두고 행인에게 다가간다면 주인이 위험에 처해 있다는 뜻이라고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R019-R020",
+    "passage_group_title": "[19~20] 공통 지문",
+    "passage_group_numbers": [
+      19,
+      20
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R019-R020",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R021",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 12,
+    "source_printed_page": 8,
+    "question_number": 21,
+    "original_question_number": 21,
+    "target_slots": [
+      21
+    ],
+    "template_slot": 21,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "관용 표현 의미와 문맥 파악",
+    "instruction": "[21~22] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "문자 교육은 빠를수록 좋다고 믿는 부모들이 있다. 이들은 자신의 아이가 또래보다 글자를 더 빨리 깨치기를 바라며 문자 교육에 (     ). 그런데 나이가 어린 아이들은 아직 다양한 능력들이 완전히 발달하지 못해 온몸의 감각을 동원하여 정보를 얻는다. 이 시기에 글자를 읽는 것에 집중하다 보면 다른 감각을 사용할 기회가 줄어 능력이 고르게 발달하는 데 어려움이 있을 수 있다.",
+    "passage_template": "문자 교육은 빠를수록 좋다고 믿는 부모들이 있다. 이들은 자신의 아이가 또래보다 글자를 더 빨리 깨치기를 바라며 문자 교육에 (     ). 그런데 나이가 어린 아이들은 아직 다양한 능력들이 완전히 발달하지 못해 온몸의 감각을 동원하여 정보를 얻는다. 이 시기에 글자를 읽는 것에 집중하다 보면 다른 감각을 사용할 기회가 줄어 능력이 고르게 발달하는 데 어려움이 있을 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "손을 뗀다"
+      },
+      {
+        "label": "2",
+        "text": "이를 간다"
+      },
+      {
+        "label": "3",
+        "text": "담을 쌓는다"
+      },
+      {
+        "label": "4",
+        "text": "열을 올린다"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "부모들이 아이의 문자 교육에 매우 적극적이라는 뜻이므로 ‘열을 올린다’가 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R021-R022",
+    "passage_group_title": "[21~22] 공통 지문",
+    "passage_group_numbers": [
+      21,
+      22
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 21,
+    "shared_blank_target_questions": [
+      21,
+      22
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R021-R022",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R022",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 12,
+    "source_printed_page": 8,
+    "question_number": 22,
+    "original_question_number": 22,
+    "target_slots": [
+      22
+    ],
+    "template_slot": 22,
+    "type": "common_passage_main_idea",
+    "category": "공통 지문 중심 생각",
+    "diagnostic_area": "공통 지문의 중심 생각 파악",
+    "instruction": "[21~22] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 중심 생각을 고르십시오.",
+    "passage": "문자 교육은 빠를수록 좋다고 믿는 부모들이 있다. 이들은 자신의 아이가 또래보다 글자를 더 빨리 깨치기를 바라며 문자 교육에 (     ). 그런데 나이가 어린 아이들은 아직 다양한 능력들이 완전히 발달하지 못해 온몸의 감각을 동원하여 정보를 얻는다. 이 시기에 글자를 읽는 것에 집중하다 보면 다른 감각을 사용할 기회가 줄어 능력이 고르게 발달하는 데 어려움이 있을 수 있다.",
+    "passage_template": "문자 교육은 빠를수록 좋다고 믿는 부모들이 있다. 이들은 자신의 아이가 또래보다 글자를 더 빨리 깨치기를 바라며 문자 교육에 (     ). 그런데 나이가 어린 아이들은 아직 다양한 능력들이 완전히 발달하지 못해 온몸의 감각을 동원하여 정보를 얻는다. 이 시기에 글자를 읽는 것에 집중하다 보면 다른 감각을 사용할 기회가 줄어 능력이 고르게 발달하는 데 어려움이 있을 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "문자 교육을 하는 방법이 다양해져야 한다."
+      },
+      {
+        "label": "2",
+        "text": "아이의 감각을 기르는 데 문자 교육이 필요하다."
+      },
+      {
+        "label": "3",
+        "text": "이른 문자 교육이 아이의 발달을 방해할 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "아이들은 서로 비슷한 시기에 글자를 배우는 것이 좋다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "어린 시기에 글자를 읽는 데 집중하면 다른 감각 사용 기회가 줄어 능력 발달에 어려움이 생길 수 있다는 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R021-R022",
+    "passage_group_title": "[21~22] 공통 지문",
+    "passage_group_numbers": [
+      21,
+      22
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 21,
+    "shared_blank_target_questions": [
+      21,
+      22
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R021-R022",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R023",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "question_number": 23,
+    "original_question_number": 23,
+    "target_slots": [
+      23
+    ],
+    "template_slot": 23,
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 친 부분에 나타난 인물의 심정 파악",
+    "instruction": "[23~24] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 나의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "고향에 사는 아버지가 오랜만에 우리 집에 오셨다. 나는 남편과 함께 아버지와 이런저런 이야기를 나누며 거실에 앉아 있었다. 그때 갑자기 남편이 아버지를 모시고 영화관에 가자고 했다. 그 말에 나는 “영화관은 무슨? 아버지는 어둡고 갑갑해서 영화관 가는 거 안 좋아하셔.” 하고 내뱉었다. 그래도 아버지에게 슬쩍 “영화 보러 가실래요?” 하고 물었는데 손사래를 치실 것 같던 아버지는 그저 가만히 계셨다. 그 순간 나는 아버지의 마음을 읽을 수 있었다. 나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까. 지금껏 내 기준에서 판단한 일들이 얼마나 많을까 생각하니 마음이 무거워졌다. 영화관에 갈 준비를 하며 옷도 살피고 모자도 쓰고 벗기를 반복하시는 아버지의 얼굴에는 미소가 가득했다. 그런 아버지를 보며 나는 앞으로 아버지가 무엇을 좋아하시는지 관심을 가지기로 했다.",
+    "passage_template": "고향에 사는 아버지가 오랜만에 우리 집에 오셨다. 나는 남편과 함께 아버지와 이런저런 이야기를 나누며 거실에 앉아 있었다. 그때 갑자기 남편이 아버지를 모시고 영화관에 가자고 했다. 그 말에 나는 “영화관은 무슨? 아버지는 어둡고 갑갑해서 영화관 가는 거 안 좋아하셔.” 하고 내뱉었다. 그래도 아버지에게 슬쩍 “영화 보러 가실래요?” 하고 물었는데 손사래를 치실 것 같던 아버지는 그저 가만히 계셨다. 그 순간 나는 아버지의 마음을 읽을 수 있었다. 나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까. 지금껏 내 기준에서 판단한 일들이 얼마나 많을까 생각하니 마음이 무거워졌다. 영화관에 갈 준비를 하며 옷도 살피고 모자도 쓰고 벗기를 반복하시는 아버지의 얼굴에는 미소가 가득했다. 그런 아버지를 보며 나는 앞으로 아버지가 무엇을 좋아하시는지 관심을 가지기로 했다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "부담스럽다"
+      },
+      {
+        "label": "2",
+        "text": "불만스럽다"
+      },
+      {
+        "label": "3",
+        "text": "짜증스럽다"
+      },
+      {
+        "label": "4",
+        "text": "죄송스럽다"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "아버지의 마음을 제대로 헤아리지 못하고 자신의 기준으로 판단해 왔다는 생각 때문에 죄송한 마음을 느끼고 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R023-R024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까."
+    ],
+    "underlined_parts": [
+      "나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까."
+    ],
+    "underline_note": "PDF 원본 기준 밑줄은 첫 번째 문장 '나는 왜 ... 생각했을까.'까지만 적용",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R024",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "question_number": 24,
+    "original_question_number": 24,
+    "target_slots": [
+      24
+    ],
+    "template_slot": 24,
+    "type": "common_passage_question",
+    "category": "서사 글 이해",
+    "diagnostic_area": "공통 지문의 세부 내용 파악",
+    "instruction": "[23~24] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "고향에 사는 아버지가 오랜만에 우리 집에 오셨다. 나는 남편과 함께 아버지와 이런저런 이야기를 나누며 거실에 앉아 있었다. 그때 갑자기 남편이 아버지를 모시고 영화관에 가자고 했다. 그 말에 나는 “영화관은 무슨? 아버지는 어둡고 갑갑해서 영화관 가는 거 안 좋아하셔.” 하고 내뱉었다. 그래도 아버지에게 슬쩍 “영화 보러 가실래요?” 하고 물었는데 손사래를 치실 것 같던 아버지는 그저 가만히 계셨다. 그 순간 나는 아버지의 마음을 읽을 수 있었다. 나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까. 지금껏 내 기준에서 판단한 일들이 얼마나 많을까 생각하니 마음이 무거워졌다. 영화관에 갈 준비를 하며 옷도 살피고 모자도 쓰고 벗기를 반복하시는 아버지의 얼굴에는 미소가 가득했다. 그런 아버지를 보며 나는 앞으로 아버지가 무엇을 좋아하시는지 관심을 가지기로 했다.",
+    "passage_template": "고향에 사는 아버지가 오랜만에 우리 집에 오셨다. 나는 남편과 함께 아버지와 이런저런 이야기를 나누며 거실에 앉아 있었다. 그때 갑자기 남편이 아버지를 모시고 영화관에 가자고 했다. 그 말에 나는 “영화관은 무슨? 아버지는 어둡고 갑갑해서 영화관 가는 거 안 좋아하셔.” 하고 내뱉었다. 그래도 아버지에게 슬쩍 “영화 보러 가실래요?” 하고 물었는데 손사래를 치실 것 같던 아버지는 그저 가만히 계셨다. 그 순간 나는 아버지의 마음을 읽을 수 있었다. 나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까. 지금껏 내 기준에서 판단한 일들이 얼마나 많을까 생각하니 마음이 무거워졌다. 영화관에 갈 준비를 하며 옷도 살피고 모자도 쓰고 벗기를 반복하시는 아버지의 얼굴에는 미소가 가득했다. 그런 아버지를 보며 나는 앞으로 아버지가 무엇을 좋아하시는지 관심을 가지기로 했다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "나는 아버지와 자주 영화를 보러 다녔다."
+      },
+      {
+        "label": "2",
+        "text": "아버지는 내 질문에 아무 말도 하지 않았다."
+      },
+      {
+        "label": "3",
+        "text": "아버지는 영화를 보러 가기 위해 우리 집에 왔다."
+      },
+      {
+        "label": "4",
+        "text": "나는 아버지가 외출 준비하는 모습이 마음에 들지 않았다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "아버지는 영화 보러 가실래요라는 질문에 손사래를 치지 않고 그저 가만히 계셨다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R023-R024",
+    "passage_group_title": "[23~24] 공통 지문",
+    "passage_group_numbers": [
+      23,
+      24
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까."
+    ],
+    "underlined_parts": [
+      "나는 왜 아버지가 영화관에 가는 것을 좋아하실 거라고 생각했을까."
+    ],
+    "underline_note": "PDF 원본 기준 밑줄은 첫 번째 문장 '나는 왜 ... 생각했을까.'까지만 적용",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R025",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 14,
+    "source_printed_page": 10,
+    "question_number": 25,
+    "original_question_number": 25,
+    "target_slots": [
+      25
+    ],
+    "template_slot": 25,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "출산율 또 하락, 정부 대책 효과 없어",
+    "passage_template": "출산율 또 하락, 정부 대책 효과 없어",
+    "options": [
+      {
+        "label": "1",
+        "text": "정부가 대책을 세워 노력했으나 출산율은 다시 떨어졌다."
+      },
+      {
+        "label": "2",
+        "text": "정부는 출산율이 낮아지지 않도록 효과적인 정책을 마련하였다."
+      },
+      {
+        "label": "3",
+        "text": "정부의 정책 중 시급히 개선되어야 할 부분이 출산 관련 정책이다."
+      },
+      {
+        "label": "4",
+        "text": "출산과 관련한 정부의 지원이 축소되자 출산율이 급격히 낮아졌다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "정부 대책에도 출산율이 또 하락했다는 제목의 의미입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R026",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 14,
+    "source_printed_page": 10,
+    "question_number": 26,
+    "original_question_number": 26,
+    "target_slots": [
+      26
+    ],
+    "template_slot": 26,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "놀이공원, 수익에만 치중 이용객 안전은 뒷전",
+    "passage_template": "놀이공원, 수익에만 치중 이용객 안전은 뒷전",
+    "options": [
+      {
+        "label": "1",
+        "text": "놀이공원의 이용객들은 놀이공원에 안전시설 점검을 요구했다."
+      },
+      {
+        "label": "2",
+        "text": "놀이공원이 이용객의 안전을 중시하기 시작한 후 수익이 증가했다."
+      },
+      {
+        "label": "3",
+        "text": "놀이공원이 수익은 중요시하고 이용객의 안전은 중요시하지 않고 있다."
+      },
+      {
+        "label": "4",
+        "text": "놀이공원은 수익이 감소해 이용객의 안전에 더 이상 투자하기 어려워졌다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "‘수익에만 치중’하고 ‘안전은 뒷전’이라는 표현은 수익은 중시하지만 안전은 중시하지 않는다는 뜻입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R027",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 14,
+    "source_printed_page": 10,
+    "question_number": 27,
+    "original_question_number": 27,
+    "target_slots": [
+      27
+    ],
+    "template_slot": 27,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "기사 제목의 핵심 의미 파악",
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "제2공장 정상 가동, 반도체 공급 안정은 미지수",
+    "passage_template": "제2공장 정상 가동, 반도체 공급 안정은 미지수",
+    "options": [
+      {
+        "label": "1",
+        "text": "제2공장이 정상적으로 가동됨에 따라 반도체 공급이 안정되었다."
+      },
+      {
+        "label": "2",
+        "text": "제2공장이 반도체 생산을 시작했지만 공급이 안정될지는 불확실하다."
+      },
+      {
+        "label": "3",
+        "text": "반도체가 안정적으로 공급되기 위해서는 제2공장의 가동이 필수적이다."
+      },
+      {
+        "label": "4",
+        "text": "반도체 공급이 안정적으로 이루어지면서 제2공장도 정상 가동될 수 있었다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "제2공장은 정상 가동되었지만 반도체 공급 안정 여부는 아직 불확실하다는 뜻입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R028",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 15,
+    "source_printed_page": 11,
+    "question_number": 28,
+    "original_question_number": 28,
+    "target_slots": [
+      28
+    ],
+    "template_slot": 28,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "수업에 게임 방식을 도입하면 열의를 갖고 참여하는 학생들이 많아진다. 학생들은 흥미진진한 퀴즈를 풀며 용어와 개념을 익힌다. 퀴즈의 정답을 맞힌 학생에게는 즉각적으로 점수가 부여되는데 어려운 문제를 빨리 맞힐수록 획득하는 점수가 크다. 이러한 방법을 활용하면 학생들이 (     ) 수 있다.",
+    "passage_template": "수업에 게임 방식을 도입하면 열의를 갖고 참여하는 학생들이 많아진다. 학생들은 흥미진진한 퀴즈를 풀며 용어와 개념을 익힌다. 퀴즈의 정답을 맞힌 학생에게는 즉각적으로 점수가 부여되는데 어려운 문제를 빨리 맞힐수록 획득하는 점수가 크다. 이러한 방법을 활용하면 학생들이 (     ) 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "교실 환경을 살필"
+      },
+      {
+        "label": "2",
+        "text": "수업에 보다 집중할"
+      },
+      {
+        "label": "3",
+        "text": "게임에 흥미를 느낄"
+      },
+      {
+        "label": "4",
+        "text": "친구들과 더 소통할"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "게임 방식을 활용하면 학생들이 열의를 갖고 참여하고 퀴즈를 풀며 개념을 익히므로 수업에 더 집중할 수 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R028",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R029",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 15,
+    "source_printed_page": 11,
+    "question_number": 29,
+    "original_question_number": 29,
+    "target_slots": [
+      29
+    ],
+    "template_slot": 29,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 원인 선택",
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "“지구가 아파요!”라는 문구가 새겨진 티셔츠나 잘려 나간 나무가 그려진 가방 등을 구매하는 사람들이 증가하고 있다. 사람들은 그 상품이 (     ) 때문에 구매를 한다. 그들은 구매한 물건을 일상에서 사용함으로써 사회 문제에 대한 입장을 표현한다. 그리고 주변 사람들이 그 상품을 보고 거기에 담긴 메시지에 대해 관심을 갖도록 한다.",
+    "passage_template": "“지구가 아파요!”라는 문구가 새겨진 티셔츠나 잘려 나간 나무가 그려진 가방 등을 구매하는 사람들이 증가하고 있다. 사람들은 그 상품이 (     ) 때문에 구매를 한다. 그들은 구매한 물건을 일상에서 사용함으로써 사회 문제에 대한 입장을 표현한다. 그리고 주변 사람들이 그 상품을 보고 거기에 담긴 메시지에 대해 관심을 갖도록 한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "세련되게 디자인되었기"
+      },
+      {
+        "label": "2",
+        "text": "천연 소재로 만들어졌기"
+      },
+      {
+        "label": "3",
+        "text": "본인의 체형을 보완해 주기"
+      },
+      {
+        "label": "4",
+        "text": "자신의 가치관을 드러낼 수 있기"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "사람들은 상품을 사용해 사회 문제에 대한 자신의 입장을 표현하므로 자신의 가치관을 드러낼 수 있기 때문에 구매한다고 볼 수 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R029",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R030",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 16,
+    "source_printed_page": 12,
+    "question_number": 30,
+    "original_question_number": 30,
+    "target_slots": [
+      30
+    ],
+    "template_slot": 30,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 방법 선택",
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "깨어져도 파편이 튀지 않는 안전유리는 한 과학자가 실험실 선반에서 떨어진 유리병에 주목하면서 발명되었다. 산산조각 난 다른 유리병과 달리 금이 간 채 형태를 유지하고 있는 유리병이 있었다. 이 병은 안에 담긴 용액이 마르면서 유리 표면에 생긴 막이 유리 조각을 붙잡고 있었다. 이 점에 착안하여 (     ) 안전유리를 제작하게 되었다.",
+    "passage_template": "깨어져도 파편이 튀지 않는 안전유리는 한 과학자가 실험실 선반에서 떨어진 유리병에 주목하면서 발명되었다. 산산조각 난 다른 유리병과 달리 금이 간 채 형태를 유지하고 있는 유리병이 있었다. 이 병은 안에 담긴 용액이 마르면서 유리 표면에 생긴 막이 유리 조각을 붙잡고 있었다. 이 점에 착안하여 (     ) 안전유리를 제작하게 되었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "파편 조각을 붙인"
+      },
+      {
+        "label": "2",
+        "text": "유리에 막을 입힌"
+      },
+      {
+        "label": "3",
+        "text": "유리를 여러 장 겹친"
+      },
+      {
+        "label": "4",
+        "text": "깨지지 않는 재료를 사용한"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "유리 표면에 생긴 막이 유리 조각을 붙잡고 있었다는 점에 착안했으므로 유리에 막을 입힌 안전유리를 만들었다는 내용이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R030",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R031",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 16,
+    "source_printed_page": 12,
+    "question_number": 31,
+    "original_question_number": 31,
+    "target_slots": [
+      31
+    ],
+    "template_slot": 31,
+    "type": "long_blank_choice",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "보통 수학에서는 개념이 먼저 정립되고 기호가 등장한다. 그러나 수가 끝없이 커지는 상태를 가리키는 무한대의 경우에는 정반대이다. 무한대는 (     ) 후에도 한동안 개념이 정립되지 못했다. 왜냐하면 당시의 학자들은 무한대를 인간의 능력으로는 파악할 수 없다고 여겼기 때문이다. 그래서 수학계에서 무한대를 정의하는 것은 오랫동안 시도되지 않았다.",
+    "passage_template": "보통 수학에서는 개념이 먼저 정립되고 기호가 등장한다. 그러나 수가 끝없이 커지는 상태를 가리키는 무한대의 경우에는 정반대이다. 무한대는 (     ) 후에도 한동안 개념이 정립되지 못했다. 왜냐하면 당시의 학자들은 무한대를 인간의 능력으로는 파악할 수 없다고 여겼기 때문이다. 그래서 수학계에서 무한대를 정의하는 것은 오랫동안 시도되지 않았다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "기호가 만들어진"
+      },
+      {
+        "label": "2",
+        "text": "의미가 여러 번 바뀐"
+      },
+      {
+        "label": "3",
+        "text": "학계에서 활발히 연구된"
+      },
+      {
+        "label": "4",
+        "text": "반대되는 이론이 등장한"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "무한대는 기호가 먼저 만들어진 뒤에도 개념이 한동안 정립되지 못했다는 흐름입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "blank_key": "BLANK-T2-60-R031",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R032",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 17,
+    "source_printed_page": 13,
+    "question_number": 32,
+    "original_question_number": 32,
+    "target_slots": [
+      32
+    ],
+    "template_slot": 32,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "하루살이는 하루밖에 못 살 정도로 수명이 짧다고 해서 붙은 이름이다. 그러나 하루살이 애벌레는 성충이 되기 위해 약 1년을 물속에 살고 성충이 되어서는 1~2주 정도 산다. 하루살이 애벌레는 물속에 가라앉은 낙엽 등을 먹고 살지만 성충이 되면 입이 퇴화한다. 이런 까닭에 성충은 애벌레 때 몸속에 저장해 둔 영양분을 사용할 뿐 따로 먹이를 섭취하지 못한다.",
+    "passage_template": "하루살이는 하루밖에 못 살 정도로 수명이 짧다고 해서 붙은 이름이다. 그러나 하루살이 애벌레는 성충이 되기 위해 약 1년을 물속에 살고 성충이 되어서는 1~2주 정도 산다. 하루살이 애벌레는 물속에 가라앉은 낙엽 등을 먹고 살지만 성충이 되면 입이 퇴화한다. 이런 까닭에 성충은 애벌레 때 몸속에 저장해 둔 영양분을 사용할 뿐 따로 먹이를 섭취하지 못한다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "하루살이의 수명은 하루를 넘지 않는다."
+      },
+      {
+        "label": "2",
+        "text": "하루살이는 성충이 되는 데에 1~2주 정도 걸린다."
+      },
+      {
+        "label": "3",
+        "text": "하루살이 성충은 애벌레 때 저장한 영양분으로 산다."
+      },
+      {
+        "label": "4",
+        "text": "하루살이의 입은 성충이 되면서 기능이 더욱 발달한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "하루살이 성충은 애벌레 때 몸속에 저장해 둔 영양분을 사용할 뿐 따로 먹이를 섭취하지 못한다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R033",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 17,
+    "source_printed_page": 13,
+    "question_number": 33,
+    "original_question_number": 33,
+    "target_slots": [
+      33
+    ],
+    "template_slot": 33,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "눈물은 약 98%가 물로 이루어져 있다. 나머지 성분은 눈물을 흘리는 상황에 따라 달라진다. 먼지 같은 외부의 물리적 자극 때문에 흘리는 눈물에는 세균에 저항할 수 있는 단백질이 포함되어 있다. 슬플 때 흘리는 눈물에는 항균 물질뿐만 아니라 스트레스로 인해 체내에 쌓인 물질도 들어 있다. 그래서 슬플 때 울고 나면 신체에 해로운 물질이 몸 밖으로 나가 기분이 나아진 것 같은 느낌을 받는다.",
+    "passage_template": "눈물은 약 98%가 물로 이루어져 있다. 나머지 성분은 눈물을 흘리는 상황에 따라 달라진다. 먼지 같은 외부의 물리적 자극 때문에 흘리는 눈물에는 세균에 저항할 수 있는 단백질이 포함되어 있다. 슬플 때 흘리는 눈물에는 항균 물질뿐만 아니라 스트레스로 인해 체내에 쌓인 물질도 들어 있다. 그래서 슬플 때 울고 나면 신체에 해로운 물질이 몸 밖으로 나가 기분이 나아진 것 같은 느낌을 받는다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "눈물 속에 있는 단백질은 기분을 좋게 만든다."
+      },
+      {
+        "label": "2",
+        "text": "슬퍼서 흘리는 눈물에는 항균 물질이 빠져 있다."
+      },
+      {
+        "label": "3",
+        "text": "슬플 때 흘리는 눈물 속에는 몸에 나쁜 물질이 포함되어 있다."
+      },
+      {
+        "label": "4",
+        "text": "물리적 자극으로 흘리는 눈물이 슬플 때의 눈물보다 성분이 더 다양하다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "슬플 때 흘리는 눈물에는 스트레스로 인해 체내에 쌓인 물질도 들어 있다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R034",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 18,
+    "source_printed_page": 14,
+    "question_number": 34,
+    "original_question_number": 34,
+    "target_slots": [
+      34
+    ],
+    "template_slot": 34,
+    "type": "same_content_passage",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 파악",
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 내용과 같은 것을 고르십시오.",
+    "passage": "19세기 중반까지는 태양의 위치를 기준으로 시간을 정해서 지역마다 시간이 달랐다. 이는 철도 이용이 활발해지면서 문제가 되었다. 철도 회사는 본사가 있는 지역의 시간을 기준으로 열차를 운행했다. 그래서 승객은 다른 지역에서 온 열차를 탈 때마다 자기 지역의 시간과 열차 시간이 달라 불편을 겪었다. 이를 해결하고자 캐나다의 한 철도 기사가 지구의 경도를 기준으로 하는 표준시를 제안하였고 이것이 현재의 표준시가 되었다.",
+    "passage_template": "19세기 중반까지는 태양의 위치를 기준으로 시간을 정해서 지역마다 시간이 달랐다. 이는 철도 이용이 활발해지면서 문제가 되었다. 철도 회사는 본사가 있는 지역의 시간을 기준으로 열차를 운행했다. 그래서 승객은 다른 지역에서 온 열차를 탈 때마다 자기 지역의 시간과 열차 시간이 달라 불편을 겪었다. 이를 해결하고자 캐나다의 한 철도 기사가 지구의 경도를 기준으로 하는 표준시를 제안하였고 이것이 현재의 표준시가 되었다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "표준시 도입의 필요성은 철도 분야에서 제기되었다."
+      },
+      {
+        "label": "2",
+        "text": "예전에는 철도 회사가 지역의 기준 시간을 결정했다."
+      },
+      {
+        "label": "3",
+        "text": "캐나다에서는 19세기 이전부터 표준시를 사용해 왔다."
+      },
+      {
+        "label": "4",
+        "text": "철도 승객들은 표준시의 적용으로 불편을 겪게 되었다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "철도 이용이 활발해지며 지역별 시간이 달라 불편이 생겼고 이를 해결하려 표준시가 제안되었습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R035",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 18,
+    "source_printed_page": 14,
+    "question_number": 35,
+    "original_question_number": 35,
+    "target_slots": [
+      35
+    ],
+    "template_slot": 35,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "글의 중심 내용 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "초소형 카메라는 의료용 및 산업용으로 만들어져 각 현장에서 유용하게 사용되고 있다. 그러나 원래의 목적에 맞지 않게 타인의 신체를 몰래 촬영하는 용도로 악용되는 사례가 늘고 있다. 이러한 악용을 원천적으로 방지하기 위해서는 신상 정보를 등록해야만 카메라의 판매 및 유통이 가능하도록 법적 규제를 강화할 필요가 있다.",
+    "passage_template": "초소형 카메라는 의료용 및 산업용으로 만들어져 각 현장에서 유용하게 사용되고 있다. 그러나 원래의 목적에 맞지 않게 타인의 신체를 몰래 촬영하는 용도로 악용되는 사례가 늘고 있다. 이러한 악용을 원천적으로 방지하기 위해서는 신상 정보를 등록해야만 카메라의 판매 및 유통이 가능하도록 법적 규제를 강화할 필요가 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "의료용 및 산업용 초소형 카메라의 사용처를 확대해야 한다."
+      },
+      {
+        "label": "2",
+        "text": "초소형 카메라가 더 유용하게 사용될 수 있도록 개발해야 한다."
+      },
+      {
+        "label": "3",
+        "text": "초소형 카메라가 악용되는 것을 막기 위한 대책이 마련되어야 한다."
+      },
+      {
+        "label": "4",
+        "text": "원활한 판매 및 유통을 위해 초소형 카메라의 등록 과정을 간소화해야 한다."
+      }
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "초소형 카메라 악용을 막기 위해 신상 정보 등록 등 법적 규제를 강화해야 한다는 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R036",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 19,
+    "source_printed_page": 15,
+    "question_number": 36,
+    "original_question_number": 36,
+    "target_slots": [
+      36
+    ],
+    "template_slot": 36,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "글의 중심 내용 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "정보의 양이 폭발적으로 증가하면서 핵심만 집어낸 요약형 정보를 찾는 사람들이 늘고 있다. 필요한 지식을 쉽고 빠르게 얻을 수 있기 때문이다. 그러나 짧게 정돈된 지식만을 취하다 보면 사물을 오랫동안 관찰하고 분석하는 능력이 떨어지고 정보를 비판적으로 처리할 수 있는 능력이 무뎌질 수 있다.",
+    "passage_template": "정보의 양이 폭발적으로 증가하면서 핵심만 집어낸 요약형 정보를 찾는 사람들이 늘고 있다. 필요한 지식을 쉽고 빠르게 얻을 수 있기 때문이다. 그러나 짧게 정돈된 지식만을 취하다 보면 사물을 오랫동안 관찰하고 분석하는 능력이 떨어지고 정보를 비판적으로 처리할 수 있는 능력이 무뎌질 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "요약형 정보는 가장 효율적인 정보 습득 방식이다."
+      },
+      {
+        "label": "2",
+        "text": "요약형 정보는 사람들의 사고력 저하를 초래할 수 있다."
+      },
+      {
+        "label": "3",
+        "text": "사람들이 습득해야 할 지식의 양이 크게 증가하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "짧게 정돈된 지식 덕분에 정보 처리 시간을 줄일 수 있다."
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "요약형 정보만 취하면 관찰·분석 능력과 비판적 정보 처리 능력이 무뎌질 수 있다는 것이 중심 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R037",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 19,
+    "source_printed_page": 15,
+    "question_number": 37,
+    "original_question_number": 37,
+    "target_slots": [
+      37
+    ],
+    "template_slot": 37,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "글의 중심 내용 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "유명 드라마가 소설책으로 출간되는 일이 많아졌다. 소설이 인기를 끌고 그 후에 영상물로 제작되던 것과는 반대되는 현상이 생긴 것이다. 이러한 현상의 영향 탓인지 처음부터 영상물을 염두에 두고 글을 쓰는 소설가들이 늘고 있다. 그러나 이와 같이 영상물 중심으로 창작과 출판이 이루어진다면 순수 문학이 가진 고유한 특성들이 하나둘씩 사라질지도 모른다.",
+    "passage_template": "유명 드라마가 소설책으로 출간되는 일이 많아졌다. 소설이 인기를 끌고 그 후에 영상물로 제작되던 것과는 반대되는 현상이 생긴 것이다. 이러한 현상의 영향 탓인지 처음부터 영상물을 염두에 두고 글을 쓰는 소설가들이 늘고 있다. 그러나 이와 같이 영상물 중심으로 창작과 출판이 이루어진다면 순수 문학이 가진 고유한 특성들이 하나둘씩 사라질지도 모른다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "작가들의 창작열을 높이기 위한 보상 체계 마련이 시급하다."
+      },
+      {
+        "label": "2",
+        "text": "출판물의 판매를 늘리기 위해 영상물을 활용한 홍보가 필요하다."
+      },
+      {
+        "label": "3",
+        "text": "영상물이 소설로 많이 출간되어야 출판 시장이 활성화될 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "영상물이 갖는 영향력이 커지면 순수 문학이 위기를 맞을 수 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "영상물 중심의 창작과 출판이 늘면 순수 문학의 고유한 특성이 사라질 수 있다는 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R038",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 20,
+    "source_printed_page": 16,
+    "question_number": 38,
+    "original_question_number": 38,
+    "target_slots": [
+      38
+    ],
+    "template_slot": 38,
+    "type": "main_idea",
+    "category": "주제 파악",
+    "diagnostic_area": "글의 중심 내용 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "분자 요리는 과학을 응용해 기존 식재료가 갖는 물리적인 제약에서 벗어나 새로운 형태와 식감의 음식을 만드는 요리법이다. 노란 망고 주스와 하얀 우유로 계란 모양의 요리를 만드는 것이 한 예다. 분자 요리는 식재료 고유의 맛과 향은 유지한 채 기존에는 볼 수 없었던 요리를 선보일 수 있다는 점에서 새로운 요리 문화를 이끌 것으로 기대하고 있다. 독특한 음식에 대한 소비자들의 즐거움을 제공한다는 점도 이러한 기대감을 키운다.",
+    "passage_template": "분자 요리는 과학을 응용해 기존 식재료가 갖는 물리적인 제약에서 벗어나 새로운 형태와 식감의 음식을 만드는 요리법이다. 노란 망고 주스와 하얀 우유로 계란 모양의 요리를 만드는 것이 한 예다. 분자 요리는 식재료 고유의 맛과 향은 유지한 채 기존에는 볼 수 없었던 요리를 선보일 수 있다는 점에서 새로운 요리 문화를 이끌 것으로 기대하고 있다. 독특한 음식에 대한 소비자들의 즐거움을 제공한다는 점도 이러한 기대감을 키운다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "분자 요리가 과학의 연구 영역을 더 넓히고 있다."
+      },
+      {
+        "label": "2",
+        "text": "독특한 음식에 대한 소비자들의 요구가 늘고 있다."
+      },
+      {
+        "label": "3",
+        "text": "식재료가 갖는 제약 탓에 요리법 개발이 정체되고 있다."
+      },
+      {
+        "label": "4",
+        "text": "새로운 요리 문화를 이끌 요리법으로 분자 요리가 주목받고 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "분자 요리가 기존에 볼 수 없었던 요리를 선보여 새로운 요리 문화를 이끌 것으로 기대된다는 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R039",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 20,
+    "source_printed_page": 16,
+    "question_number": 39,
+    "original_question_number": 39,
+    "target_slots": [
+      39
+    ],
+    "template_slot": 39,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "삽입 문장의 앞뒤 연결 관계 파악",
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "도시의 거리는 온통 상점으로 가득 차 있다. ( ㉠ ) 하지만 상점은 도시에 활력을 불어넣어 걷고 싶은 거리를 만드는 데 중요한 역할을 한다. ( ㉡ ) 상점은 단순히 물건을 파는 공간이 아니라 보행자들에게 볼거리와 잔재미를 끊임없이 제공하는 거대한 미술관이 되어 준다. ( ㉢ ) 또 밤거리를 밝히는 가로등이며 보안등이자 거리의 청결함과 쾌적함을 지켜 주는 파수꾼이 되기도 한다. ( ㉣ )",
+    "passage_template": "도시의 거리는 온통 상점으로 가득 차 있다. ( ㉠ ) 하지만 상점은 도시에 활력을 불어넣어 걷고 싶은 거리를 만드는 데 중요한 역할을 한다. ( ㉡ ) 상점은 단순히 물건을 파는 공간이 아니라 보행자들에게 볼거리와 잔재미를 끊임없이 제공하는 거대한 미술관이 되어 준다. ( ㉢ ) 또 밤거리를 밝히는 가로등이며 보안등이자 거리의 청결함과 쾌적함을 지켜 주는 파수꾼이 되기도 한다. ( ㉣ )",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "상업적 공간에 부정적인 시각을 제시한 뒤, 하지만 상점이 도시의 활력을 만든다는 반대 내용이 이어지므로 ㉠이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "상업적 공간으로 채워진 거리를 보며 눈살을 찌푸리는 이들도 많다.",
+    "sentence_to_insert": "상업적 공간으로 채워진 거리를 보며 눈살을 찌푸리는 이들도 많다.",
+    "given_sentence": "상업적 공간으로 채워진 거리를 보며 눈살을 찌푸리는 이들도 많다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉠",
+    "correct_position": "㉠",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R040",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 21,
+    "source_printed_page": 17,
+    "question_number": 40,
+    "original_question_number": 40,
+    "target_slots": [
+      40
+    ],
+    "template_slot": 40,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "삽입 문장의 앞뒤 연결 관계 파악",
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "『박철수의 거주 박물지』는 건축학자가 서울을 중심으로 한 거주 문화사를 소개한 책이다. ( ㉠ ) 아파트가 어떻게 중산층의 표준 욕망이 됐는가, 장독이 왜 아파트에서 사라졌는가와 같은 물음들을 도면과 신문 기사를 곁들여 풀어내는 식이다. ( ㉡ ) 그 과정에서 이웃과 정을 나누는 일 없이 각박하게 살아온 지난 수십 년의 세태를 지적하는 것도 놓치지 않고 있다. ( ㉢ ) 이웃과 정답게 살아가는 동네를 그려내고자 하는 미래의 건축학도에게 추천하고 싶다. ( ㉣ )",
+    "passage_template": "『박철수의 거주 박물지』는 건축학자가 서울을 중심으로 한 거주 문화사를 소개한 책이다. ( ㉠ ) 아파트가 어떻게 중산층의 표준 욕망이 됐는가, 장독이 왜 아파트에서 사라졌는가와 같은 물음들을 도면과 신문 기사를 곁들여 풀어내는 식이다. ( ㉡ ) 그 과정에서 이웃과 정을 나누는 일 없이 각박하게 살아온 지난 수십 년의 세태를 지적하는 것도 놓치지 않고 있다. ( ㉢ ) 이웃과 정답게 살아가는 동네를 그려내고자 하는 미래의 건축학도에게 추천하고 싶다. ( ㉣ )",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "문답 형식으로 구성되었다는 설명 뒤에 ‘아파트가 어떻게…’, ‘장독이 왜…’와 같은 물음의 예가 이어지므로 ㉠이 알맞습니다.",
+    "image_url": "",
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "무엇보다 독자들이 더 흥미롭게 읽을 수 있도록 문답의 형식으로 구성된 것이 돋보인다.",
+    "sentence_to_insert": "무엇보다 독자들이 더 흥미롭게 읽을 수 있도록 문답의 형식으로 구성된 것이 돋보인다.",
+    "given_sentence": "무엇보다 독자들이 더 흥미롭게 읽을 수 있도록 문답의 형식으로 구성된 것이 돋보인다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉠",
+    "correct_position": "㉠",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R041",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 21,
+    "source_printed_page": 17,
+    "question_number": 41,
+    "original_question_number": 41,
+    "target_slots": [
+      41
+    ],
+    "template_slot": 41,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "삽입 문장의 앞뒤 연결 관계 파악",
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "최초의 동전은 값비싼 금과 은으로 제작되었다. ( ㉠ ) 이 금속은 그 자체로 가치가 매우 높았던 까닭에 주화를 조금씩 깎아 내서 이득을 보려는 사람들이 많았다. ( ㉡ ) 자연히 시장에서는 성한 금화나 은화를 찾아볼 수 없었고 화폐를 발행하는 국가도 손실이 컸다. ( ㉢ ) 그래서 그 대안으로 주화들의 테두리에 톱니 모양을 새겨 훼손 여부가 잘 드러나도록 하였다. ( ㉣ ) 톱니 모양이 훼손된 주화는 육안으로 쉽게 구별할 수 있었고 그러한 돈은 사람들이 받지 않았기 때문이다.",
+    "passage_template": "최초의 동전은 값비싼 금과 은으로 제작되었다. ( ㉠ ) 이 금속은 그 자체로 가치가 매우 높았던 까닭에 주화를 조금씩 깎아 내서 이득을 보려는 사람들이 많았다. ( ㉡ ) 자연히 시장에서는 성한 금화나 은화를 찾아볼 수 없었고 화폐를 발행하는 국가도 손실이 컸다. ( ㉢ ) 그래서 그 대안으로 주화들의 테두리에 톱니 모양을 새겨 훼손 여부가 잘 드러나도록 하였다. ( ㉣ ) 톱니 모양이 훼손된 주화는 육안으로 쉽게 구별할 수 있었고 그러한 돈은 사람들이 받지 않았기 때문이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "톱니 모양을 새긴 대안 뒤에 그 효과가 빠르게 나타났다는 문장이 오고, 이어서 그 이유가 설명되는 흐름이 자연스럽습니다.",
+    "image_url": "",
+    "interaction_mode": "sentence_insert",
+    "insert_sentence": "그 효과는 기대 이상으로 빠르게 나타났다.",
+    "sentence_to_insert": "그 효과는 기대 이상으로 빠르게 나타났다.",
+    "given_sentence": "그 효과는 기대 이상으로 빠르게 나타났다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉣",
+    "correct_position": "㉣",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R042",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "question_number": 42,
+    "original_question_number": 42,
+    "target_slots": [
+      42
+    ],
+    "template_slot": 42,
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 친 부분에 나타난 인물의 심정 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘어머니’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "어머니와 아버지가 프랜차이즈 빵집을 연다고 했을 때, 주영은 언젠가는 두 사람이 자기를 가게로 부를 것임을 알았다. 그러나 여름에 있을 지방직 9급 시험일까지는 기다려 줄 줄 알았다. (중략)\n\n실제로 벌어진 일은 그런 예상과는 전혀 달랐다. 부모님이 주영에게 빵집으로 나와 일하라는 말을 한 것은 가게 문을 정식으로 연 당일 오후였다. 어머니는 주영에게 전화를 걸어 이렇게 말했다.\n\n네가 우리 가족 맞나?\n\n그러고는 바로 전화를 끊어 버렸다. (중략)\n\n매장은 사람들로 북적였다. 개장 기념으로 식빵을 반값에 팔고, 어떤 빵을 사든지 아메리카노를 한 잔 무료로 제공하는 행사를 벌이는 중이었다. 프랜차이즈 본사에서 나온 지원 인력들이 손님을 맞고 질문에 답변하고 카드를 받고 빵을 썰었다. 아버지와 어머니는 하인들처럼 겁먹은 눈으로 예, 예, 굽실거리며 지원 인력들의 지시에 따랐다.\n\n주영의 아버지와 어머니는 카드 결제조차 제대로 하지 못했다. 빵에는 바코드가 없었다. 제품이 어느 카테고리에 속하는지, 이름이 뭔지를 전부 외워야 단말기에 가격을 입력할 수 있었다. 아버지는 단말기 옆에서 빵을 봉투에 담으며 로프, 바게트, 치아바타, 푸가스 같은 빵 이름들을 외우려 애썼다.",
+    "passage_template": "어머니와 아버지가 프랜차이즈 빵집을 연다고 했을 때, 주영은 언젠가는 두 사람이 자기를 가게로 부를 것임을 알았다. 그러나 여름에 있을 지방직 9급 시험일까지는 기다려 줄 줄 알았다. (중략)\n\n실제로 벌어진 일은 그런 예상과는 전혀 달랐다. 부모님이 주영에게 빵집으로 나와 일하라는 말을 한 것은 가게 문을 정식으로 연 당일 오후였다. 어머니는 주영에게 전화를 걸어 이렇게 말했다.\n\n네가 우리 가족 맞나?\n\n그러고는 바로 전화를 끊어 버렸다. (중략)\n\n매장은 사람들로 북적였다. 개장 기념으로 식빵을 반값에 팔고, 어떤 빵을 사든지 아메리카노를 한 잔 무료로 제공하는 행사를 벌이는 중이었다. 프랜차이즈 본사에서 나온 지원 인력들이 손님을 맞고 질문에 답변하고 카드를 받고 빵을 썰었다. 아버지와 어머니는 하인들처럼 겁먹은 눈으로 예, 예, 굽실거리며 지원 인력들의 지시에 따랐다.\n\n주영의 아버지와 어머니는 카드 결제조차 제대로 하지 못했다. 빵에는 바코드가 없었다. 제품이 어느 카테고리에 속하는지, 이름이 뭔지를 전부 외워야 단말기에 가격을 입력할 수 있었다. 아버지는 단말기 옆에서 빵을 봉투에 담으며 로프, 바게트, 치아바타, 푸가스 같은 빵 이름들을 외우려 애썼다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "억울하다"
+      },
+      {
+        "label": "2",
+        "text": "서운하다"
+      },
+      {
+        "label": "3",
+        "text": "걱정스럽다"
+      },
+      {
+        "label": "4",
+        "text": "혼란스럽다"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "어머니는 주영이 가족의 일에 함께하지 않는다고 느끼며 서운한 마음을 드러내고 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R042-R043",
+    "passage_group_title": "[42~43] 공통 지문",
+    "passage_group_numbers": [
+      42,
+      43
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "네가 우리 가족 맞나?"
+    ],
+    "underlined_parts": [
+      "네가 우리 가족 맞나?"
+    ],
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R043",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "question_number": 43,
+    "original_question_number": 43,
+    "target_slots": [
+      43
+    ],
+    "template_slot": 43,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "어머니와 아버지가 프랜차이즈 빵집을 연다고 했을 때, 주영은 언젠가는 두 사람이 자기를 가게로 부를 것임을 알았다. 그러나 여름에 있을 지방직 9급 시험일까지는 기다려 줄 줄 알았다. (중략)\n\n실제로 벌어진 일은 그런 예상과는 전혀 달랐다. 부모님이 주영에게 빵집으로 나와 일하라는 말을 한 것은 가게 문을 정식으로 연 당일 오후였다. 어머니는 주영에게 전화를 걸어 이렇게 말했다.\n\n네가 우리 가족 맞나?\n\n그러고는 바로 전화를 끊어 버렸다. (중략)\n\n매장은 사람들로 북적였다. 개장 기념으로 식빵을 반값에 팔고, 어떤 빵을 사든지 아메리카노를 한 잔 무료로 제공하는 행사를 벌이는 중이었다. 프랜차이즈 본사에서 나온 지원 인력들이 손님을 맞고 질문에 답변하고 카드를 받고 빵을 썰었다. 아버지와 어머니는 하인들처럼 겁먹은 눈으로 예, 예, 굽실거리며 지원 인력들의 지시에 따랐다.\n\n주영의 아버지와 어머니는 카드 결제조차 제대로 하지 못했다. 빵에는 바코드가 없었다. 제품이 어느 카테고리에 속하는지, 이름이 뭔지를 전부 외워야 단말기에 가격을 입력할 수 있었다. 아버지는 단말기 옆에서 빵을 봉투에 담으며 로프, 바게트, 치아바타, 푸가스 같은 빵 이름들을 외우려 애썼다.",
+    "passage_template": "어머니와 아버지가 프랜차이즈 빵집을 연다고 했을 때, 주영은 언젠가는 두 사람이 자기를 가게로 부를 것임을 알았다. 그러나 여름에 있을 지방직 9급 시험일까지는 기다려 줄 줄 알았다. (중략)\n\n실제로 벌어진 일은 그런 예상과는 전혀 달랐다. 부모님이 주영에게 빵집으로 나와 일하라는 말을 한 것은 가게 문을 정식으로 연 당일 오후였다. 어머니는 주영에게 전화를 걸어 이렇게 말했다.\n\n네가 우리 가족 맞나?\n\n그러고는 바로 전화를 끊어 버렸다. (중략)\n\n매장은 사람들로 북적였다. 개장 기념으로 식빵을 반값에 팔고, 어떤 빵을 사든지 아메리카노를 한 잔 무료로 제공하는 행사를 벌이는 중이었다. 프랜차이즈 본사에서 나온 지원 인력들이 손님을 맞고 질문에 답변하고 카드를 받고 빵을 썰었다. 아버지와 어머니는 하인들처럼 겁먹은 눈으로 예, 예, 굽실거리며 지원 인력들의 지시에 따랐다.\n\n주영의 아버지와 어머니는 카드 결제조차 제대로 하지 못했다. 빵에는 바코드가 없었다. 제품이 어느 카테고리에 속하는지, 이름이 뭔지를 전부 외워야 단말기에 가격을 입력할 수 있었다. 아버지는 단말기 옆에서 빵을 봉투에 담으며 로프, 바게트, 치아바타, 푸가스 같은 빵 이름들을 외우려 애썼다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "빵 가게는 개업식 날 손님이 많지 않았다."
+      },
+      {
+        "label": "2",
+        "text": "주영은 시험을 마치자마자 부모님께 연락을 받았다."
+      },
+      {
+        "label": "3",
+        "text": "아버지는 여러 종류의 빵 이름을 모두 알고 있었다."
+      },
+      {
+        "label": "4",
+        "text": "부모님은 긴장한 채로 본사 직원이 시키는 일을 했다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "아버지와 어머니는 겁먹은 눈으로 본사 지원 인력들의 지시에 따랐다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R042-R043",
+    "passage_group_title": "[42~43] 공통 지문",
+    "passage_group_numbers": [
+      42,
+      43
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "네가 우리 가족 맞나?"
+    ],
+    "underlined_parts": [
+      "네가 우리 가족 맞나?"
+    ],
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R044",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 23,
+    "source_printed_page": 19,
+    "question_number": 44,
+    "original_question_number": 44,
+    "target_slots": [
+      44
+    ],
+    "template_slot": 44,
+    "type": "common_passage_main_idea",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "공통 지문의 중심 내용 파악",
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+    "passage": "원고 마감이 임박하거나 시험공부 시간이 부족하면 사람은 본능적으로 놀라운 집중력을 발휘한다. 그래서 시간 부족 상태가 되어야만 일을 효율적으로 할 수 있다고 믿는 사람들이 많다. 그러나 효율성만 믿고 (     ) 것은 어리석은 일이다. 시간에 쫓기면 사람들은 한 가지에만 집중할 뿐 그 외에 다른 것에는 주의를 기울이지 못하게 되기 때문이다. 이런 상황은 실제로 상당히 위험할 수 있다. 단적인 예로 소방관들은 구조 현장으로 이동하는 과정에서 안전벨트를 매지 않아 사고를 당하는 경우가 매우 많다. 일 초가 급한 상황에서 인명 구조에만 집중한 나머지 차 문을 닫거나 안전벨트를 채우는 기본적인 일을 잊어서 생긴 결과이다. 이처럼 시간적 여유가 부족해지면 집중했던 일은 성공적으로 처리할 수 있겠지만 나머지 많은 것들은 놓칠 수 있다.",
+    "passage_template": "원고 마감이 임박하거나 시험공부 시간이 부족하면 사람은 본능적으로 놀라운 집중력을 발휘한다. 그래서 시간 부족 상태가 되어야만 일을 효율적으로 할 수 있다고 믿는 사람들이 많다. 그러나 효율성만 믿고 (     ) 것은 어리석은 일이다. 시간에 쫓기면 사람들은 한 가지에만 집중할 뿐 그 외에 다른 것에는 주의를 기울이지 못하게 되기 때문이다. 이런 상황은 실제로 상당히 위험할 수 있다. 단적인 예로 소방관들은 구조 현장으로 이동하는 과정에서 안전벨트를 매지 않아 사고를 당하는 경우가 매우 많다. 일 초가 급한 상황에서 인명 구조에만 집중한 나머지 차 문을 닫거나 안전벨트를 채우는 기본적인 일을 잊어서 생긴 결과이다. 이처럼 시간적 여유가 부족해지면 집중했던 일은 성공적으로 처리할 수 있겠지만 나머지 많은 것들은 놓칠 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "인간의 집중력은 시간적인 제약이 많을수록 높아진다."
+      },
+      {
+        "label": "2",
+        "text": "인간에게 시간 부족은 효율적인 일 처리의 원동력이 된다."
+      },
+      {
+        "label": "3",
+        "text": "단시간 내에 일을 처리해도 성공적으로 일을 마칠 수 있다."
+      },
+      {
+        "label": "4",
+        "text": "시간 부족은 인간의 시야를 좁혀 부정적인 영향을 미칠 수 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "시간이 부족하면 한 가지 일에는 집중할 수 있지만 다른 중요한 일을 놓칠 수 있다는 것이 중심 내용입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R044-R045",
+    "passage_group_title": "[44~45] 공통 지문",
+    "passage_group_numbers": [
+      44,
+      45
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R045",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 23,
+    "source_printed_page": 19,
+    "question_number": 45,
+    "original_question_number": 45,
+    "target_slots": [
+      45
+    ],
+    "template_slot": 45,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "원고 마감이 임박하거나 시험공부 시간이 부족하면 사람은 본능적으로 놀라운 집중력을 발휘한다. 그래서 시간 부족 상태가 되어야만 일을 효율적으로 할 수 있다고 믿는 사람들이 많다. 그러나 효율성만 믿고 (     ) 것은 어리석은 일이다. 시간에 쫓기면 사람들은 한 가지에만 집중할 뿐 그 외에 다른 것에는 주의를 기울이지 못하게 되기 때문이다. 이런 상황은 실제로 상당히 위험할 수 있다. 단적인 예로 소방관들은 구조 현장으로 이동하는 과정에서 안전벨트를 매지 않아 사고를 당하는 경우가 매우 많다. 일 초가 급한 상황에서 인명 구조에만 집중한 나머지 차 문을 닫거나 안전벨트를 채우는 기본적인 일을 잊어서 생긴 결과이다. 이처럼 시간적 여유가 부족해지면 집중했던 일은 성공적으로 처리할 수 있겠지만 나머지 많은 것들은 놓칠 수 있다.",
+    "passage_template": "원고 마감이 임박하거나 시험공부 시간이 부족하면 사람은 본능적으로 놀라운 집중력을 발휘한다. 그래서 시간 부족 상태가 되어야만 일을 효율적으로 할 수 있다고 믿는 사람들이 많다. 그러나 효율성만 믿고 (     ) 것은 어리석은 일이다. 시간에 쫓기면 사람들은 한 가지에만 집중할 뿐 그 외에 다른 것에는 주의를 기울이지 못하게 되기 때문이다. 이런 상황은 실제로 상당히 위험할 수 있다. 단적인 예로 소방관들은 구조 현장으로 이동하는 과정에서 안전벨트를 매지 않아 사고를 당하는 경우가 매우 많다. 일 초가 급한 상황에서 인명 구조에만 집중한 나머지 차 문을 닫거나 안전벨트를 채우는 기본적인 일을 잊어서 생긴 결과이다. 이처럼 시간적 여유가 부족해지면 집중했던 일은 성공적으로 처리할 수 있겠지만 나머지 많은 것들은 놓칠 수 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "성급히 일을 처리하는"
+      },
+      {
+        "label": "2",
+        "text": "무턱대고 일을 미루는"
+      },
+      {
+        "label": "3",
+        "text": "관심사를 무한히 늘리는"
+      },
+      {
+        "label": "4",
+        "text": "전적으로 하나에만 매달리는"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "시간 부족 상태가 되어야만 일을 효율적으로 할 수 있다고 믿고 일을 미루는 것은 어리석다는 문맥입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R044-R045",
+    "passage_group_title": "[44~45] 공통 지문",
+    "passage_group_numbers": [
+      44,
+      45
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 45,
+    "shared_blank_target_questions": [
+      44,
+      45
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R044-R045",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R046",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 24,
+    "source_printed_page": 20,
+    "question_number": 46,
+    "original_question_number": 46,
+    "target_slots": [
+      46
+    ],
+    "template_slot": 46,
+    "type": "common_passage_sentence_insert",
+    "category": "공통 지문 문장 삽입",
+    "diagnostic_area": "삽입 문장의 앞뒤 연결 관계 파악",
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글에서 <보기>의 글이 들어가기에 가장 알맞은 곳을 고르십시오.",
+    "passage": "우주는 지구와 환경이 상이해 지구에서 쓰는 방법으로는 쓰레기를 수거하기가 어렵다. 처음에는 작살과 같이 물리적인 힘을 이용해서 쓰레기를 찍을 수 있는 도구가 거론되었다. ( ㉠ ) 이 때문에 테이프나 빨판같이 접착력이 있는 도구를 사용하자는 제안도 나왔다. ( ㉡ ) 점성이 강한 테이프의 경우는 우주에서의 극심한 온도 변화를 견디지 못했으며 빨판은 진공 상태에서는 소용이 없었다. ( ㉢ ) 그런데 최근 한 연구진이 도마뱀이 벽에 쉽게 달라붙어 떨어지지 않는 것에서 영감을 받아 접착력이 있는 도구를 개발하는 데 성공했다. ( ㉣ ) 도마뱀의 발바닥에 있는 수백만 개의 미세한 털들이 표면에 접촉할 때 생기는 힘을 응용한 것이다.",
+    "passage_template": "우주는 지구와 환경이 상이해 지구에서 쓰는 방법으로는 쓰레기를 수거하기가 어렵다. 처음에는 작살과 같이 물리적인 힘을 이용해서 쓰레기를 찍을 수 있는 도구가 거론되었다. ( ㉠ ) 이 때문에 테이프나 빨판같이 접착력이 있는 도구를 사용하자는 제안도 나왔다. ( ㉡ ) 점성이 강한 테이프의 경우는 우주에서의 극심한 온도 변화를 견디지 못했으며 빨판은 진공 상태에서는 소용이 없었다. ( ㉢ ) 그런데 최근 한 연구진이 도마뱀이 벽에 쉽게 달라붙어 떨어지지 않는 것에서 영감을 받아 접착력이 있는 도구를 개발하는 데 성공했다. ( ㉣ ) 도마뱀의 발바닥에 있는 수백만 개의 미세한 털들이 표면에 접촉할 때 생기는 힘을 응용한 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "text": "㉣"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "작살과 같은 물리적 도구가 거론된 뒤, 그 방법의 위험을 설명하고 그래서 접착력 있는 도구를 제안했다는 흐름이 자연스럽습니다.",
+    "image_url": "",
+    "interaction_mode": "sentence_insert",
+    "passage_group_id": "T2-60-R046-R047",
+    "passage_group_title": "[46~47] 공통 지문",
+    "passage_group_numbers": [
+      46,
+      47
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "insert_sentence": "그러나 이 방법은 오히려 우주 쓰레기를 엉뚱한 방향으로 밀어낼 위험이 있었다.",
+    "sentence_to_insert": "그러나 이 방법은 오히려 우주 쓰레기를 엉뚱한 방향으로 밀어낼 위험이 있었다.",
+    "given_sentence": "그러나 이 방법은 오히려 우주 쓰레기를 엉뚱한 방향으로 밀어낼 위험이 있었다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉠",
+    "correct_position": "㉠",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R047",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 24,
+    "source_printed_page": 20,
+    "question_number": 47,
+    "original_question_number": 47,
+    "target_slots": [
+      47
+    ],
+    "template_slot": 47,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 파악",
+    "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "우주는 지구와 환경이 상이해 지구에서 쓰는 방법으로는 쓰레기를 수거하기가 어렵다. 처음에는 작살과 같이 물리적인 힘을 이용해서 쓰레기를 찍을 수 있는 도구가 거론되었다. ( ㉠ ) 이 때문에 테이프나 빨판같이 접착력이 있는 도구를 사용하자는 제안도 나왔다. ( ㉡ ) 점성이 강한 테이프의 경우는 우주에서의 극심한 온도 변화를 견디지 못했으며 빨판은 진공 상태에서는 소용이 없었다. ( ㉢ ) 그런데 최근 한 연구진이 도마뱀이 벽에 쉽게 달라붙어 떨어지지 않는 것에서 영감을 받아 접착력이 있는 도구를 개발하는 데 성공했다. ( ㉣ ) 도마뱀의 발바닥에 있는 수백만 개의 미세한 털들이 표면에 접촉할 때 생기는 힘을 응용한 것이다.",
+    "passage_template": "우주는 지구와 환경이 상이해 지구에서 쓰는 방법으로는 쓰레기를 수거하기가 어렵다. 처음에는 작살과 같이 물리적인 힘을 이용해서 쓰레기를 찍을 수 있는 도구가 거론되었다. ( ㉠ ) 이 때문에 테이프나 빨판같이 접착력이 있는 도구를 사용하자는 제안도 나왔다. ( ㉡ ) 점성이 강한 테이프의 경우는 우주에서의 극심한 온도 변화를 견디지 못했으며 빨판은 진공 상태에서는 소용이 없었다. ( ㉢ ) 그런데 최근 한 연구진이 도마뱀이 벽에 쉽게 달라붙어 떨어지지 않는 것에서 영감을 받아 접착력이 있는 도구를 개발하는 데 성공했다. ( ㉣ ) 도마뱀의 발바닥에 있는 수백만 개의 미세한 털들이 표면에 접촉할 때 생기는 힘을 응용한 것이다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "테이프는 우주의 온도 변화 때문에 점성을 잃었다."
+      },
+      {
+        "label": "2",
+        "text": "작살은 접착력을 이용한 도구의 좋은 대안이 되었다."
+      },
+      {
+        "label": "3",
+        "text": "우주에서 쓰레기를 처리하는 방법은 지구와 유사하다."
+      },
+      {
+        "label": "4",
+        "text": "접착력을 이용한 쓰레기 수거 방법은 결국 성공하지 못했다."
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "점성이 강한 테이프는 우주에서의 극심한 온도 변화를 견디지 못했다고 했습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R046-R047",
+    "passage_group_title": "[46~47] 공통 지문",
+    "passage_group_numbers": [
+      46,
+      47
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "shared_sentence_insert_source_question_number": 46,
+    "sentence_insert_source_question_number": 46,
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R048",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "question_number": 48,
+    "original_question_number": 48,
+    "target_slots": [
+      48
+    ],
+    "template_slot": 48,
+    "type": "common_passage_purpose",
+    "category": "공통 지문 목적",
+    "diagnostic_area": "글을 쓴 목적 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "passage_template": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "투자 감소가 야기할 혼란을 경고하려고"
+      },
+      {
+        "label": "2",
+        "text": "세제 지원 조건의 문제점을 지적하려고"
+      },
+      {
+        "label": "3",
+        "text": "연구 개발에 적절한 분야를 소개하려고"
+      },
+      {
+        "label": "4",
+        "text": "신성장 산업 연구의 중요성을 강조하려고"
+      }
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "신성장 산업 세제 지원 자체는 긍정적으로 보지만 현재 조건이 일부 대기업에만 유리할 수 있다는 문제점을 지적하고 있습니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R048-R050",
+    "passage_group_title": "[48~50] 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 3,
+    "underline_targets": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underlined_parts": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underline_note": "사용자 최종 요청 기준: '미래형 자동차, 바이오 산업 등 ... 고무적인 일이다.' 전체 문장을 밑줄 처리",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R049",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "question_number": 49,
+    "original_question_number": 49,
+    "target_slots": [
+      49
+    ],
+    "template_slot": 49,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "passage_template": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "일정한 제약을 두려는"
+      },
+      {
+        "label": "2",
+        "text": "연구 기관을 늘리려는"
+      },
+      {
+        "label": "3",
+        "text": "투자 대상을 확대하려는"
+      },
+      {
+        "label": "4",
+        "text": "지원을 단계적으로 하려는"
+      }
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "혜택이 큰 만큼 정부가 일정한 제약을 두려는 입장을 이해할 수 있다는 문맥입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R048-R050",
+    "passage_group_title": "[48~50] 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 3,
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 49,
+    "shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "shared_blank_key": "blank_1",
+    "shared_blank_target_group_id": "T2-60-R048-R050",
+    "underline_targets": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underlined_parts": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underline_note": "사용자 최종 요청 기준: '미래형 자동차, 바이오 산업 등 ... 고무적인 일이다.' 전체 문장을 밑줄 처리",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  },
+  {
+    "id": "T2-60-R050",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_round": "60",
+    "source_file": "제60회 한국어능력시험 TOPIK II 읽기 B-홀수형",
+    "answer_source": "answer-key-60.json",
+    "answer_key_status": "official_answer_table_pdf",
+    "is_official_answer_key": true,
+    "needs_text_review": true,
+    "needs_answer_review": false,
+    "review_confidence": "reviewed_segment_draft",
+    "generated_exam_mode": "round",
+    "generated_exam_round": "60",
+    "generated_exam_label": "60회 50문항 실전시험",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "question_number": 50,
+    "original_question_number": 50,
+    "target_slots": [
+      50
+    ],
+    "template_slot": 50,
+    "type": "common_passage_attitude",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "밑줄 친 부분에 나타난 필자의 태도 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "passage_template": "4차 산업은 그 분야가 다양하지만 연구 개발이 핵심 원동력이라는 점에서 공통점을 갖고 있다. 이러한 점을 고려하여 정부는 신성장 산업에 대한 세제 지원을 확대하기로 했다. 미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다. 하지만 현재의 지원 조건이라면 몇몇 대기업에만 유리한 지원이 될 수 있다. 해당 기술을 전담으로 담당하는 연구 부서를 두어야 하고 원천 기술이 국내에 있는 경우에만 지원이 가능하기 때문이다. 혜택이 큰 만큼 (     ) 정부의 입장을 이해하지 못하는 것은 아니다. 그러나 이번 정책의 목적이 단지 연구 개발 지원에 있는 것이 아니라 연구 개발을 유도하고 독려하고자 하는 것이라면 해당 조건을 완화하거나 단계적으로 적용할 필요가 있다.",
+    "options": [
+      {
+        "label": "1",
+        "text": "기술 발전이 산업 구조 변화에 미칠 영향을 인정하고 있다."
+      },
+      {
+        "label": "2",
+        "text": "세제 지원의 변화가 투자 감소로 이어질 것을 우려하고 있다."
+      },
+      {
+        "label": "3",
+        "text": "세금 정책이 연구 개발에 미치는 부정적 영향을 비판하고 있다."
+      },
+      {
+        "label": "4",
+        "text": "신성장 기술에 대한 세제 지원 확대를 긍정적으로 평가하고 있다."
+      }
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "‘고무적인 일이다’는 신성장 기술 연구에 대한 세제 지원 확대를 긍정적으로 평가하는 표현입니다.",
+    "image_url": "",
+    "interaction_mode": "single_choice",
+    "passage_group_id": "T2-60-R048-R050",
+    "passage_group_title": "[48~50] 공통 지문",
+    "passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "shared_passage_index": 3,
+    "shared_passage_total": 3,
+    "underline_targets": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underlined_parts": [
+      "미래형 자동차, 바이오 산업 등 신성장 기술에 해당하는 연구를 할 경우 세금을 대폭 낮춰 준다는 점에서 고무적인 일이다."
+    ],
+    "underline_note": "사용자 최종 요청 기준: '미래형 자동차, 바이오 산업 등 ... 고무적인 일이다.' 전체 문장을 밑줄 처리",
+    "round": "60",
+    "full_exam_id": "reading-60",
+    "data_status": "full_50_integrated_from_reviewed_segments"
+  }
+]
