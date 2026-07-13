@@ -1,6 +1,6 @@
 "use strict";
 
-console.log("TOPIK II Reading Diagnosis loaded: final-type-16-v8-diagnostic-prescription-fix");
+console.log("TOPIK II Reading Diagnosis loaded: final-type-16-v12-strength-weakness-dedupe");
 
 const AUTO_DIAGNOSIS_STORAGE_KEY = "topik2_latest_reading_result";
 const WRONG_REVIEW_STORAGE_KEY = "topik2_wrong_review_question_numbers";
@@ -146,12 +146,11 @@ function buildDiagnosisReport(result) {
 
   /*
     유형별 분석은 item.category 원문을 그대로 쓰지 않고
-    유형별 득점 그래프와 같은 대표 유형 기준으로 통일한다.
-    실제 표에는 응시 결과에 포함된 유형만 표시한다.
+    유형별 득점 그래프와 같은 16개 대표 유형 기준으로 통일한다.
     진단 영역별 분석은 세부 처방을 위해 diagnostic_area 원문 기준을 유지한다.
   */
   const categoryAnalysis = readingTypeAnalysis;
-  const diagnosticAnalysis = groupStats(items, "diagnostic_area");
+  const diagnosticAnalysis = groupDiagnosticStats(items);
   const zoneAnalysis = makeZoneAnalysis(items);
 
   const problemItems = items.filter((item) => !item.is_correct);
@@ -670,14 +669,12 @@ function inferReadingTypeChartId(item) {
   }
 
   /*
-    50번처럼 category 값이 과거 호환 때문에 "유사 표현"으로 남아 있어도
-    diagnostic_area가 필자 태도/주장/목적이면 유사 표현이 아니라
-    필자 의도·주장 유형으로 우선 분류한다.
+    60회 레벨테스트 20번(원본 50번)처럼
+    diagnostic_area에 '밑줄'이 들어가더라도
+    실제 유형이 필자 태도/의도/주장인 문항이 있다.
+    따라서 필자 태도/의도/목적 판별을 유사 표현 판별보다 먼저 한다.
   */
-  if (
-    analysisNumber === 50 ||
-    /밑줄 부분에 나타난 필자의 태도|필자 의도|필자의 태도|필자.*태도|글을 쓴 목적|글의 목적|주장/.test(mainText)
-  ) {
+  if (/필자 의도|필자의 태도|필자.*태도|밑줄 친 부분에 나타난 필자의 태도|글을 쓴 목적|목적 파악|주장|태도 파악/.test(mainText)) {
     return "T14";
   }
 
@@ -920,83 +917,11 @@ function zoneOrder(zoneId) {
   return order[zoneId] || 99;
 }
 
-
-function normalizeDiagnosticAreaNameForReport(rawName, item) {
-  const text = [
-    rawName,
-    item && item.type,
-    item && item.category,
-    item && item.level_test_type_label
-  ].map(function (value) {
-    return String(value || "");
-  }).join(" ");
-
-  /*
-    랜덤 시험에서는 회차별 question-bank의 diagnostic_area 문구가 서로 달라
-    1문항짜리 세부 영역이 지나치게 많이 생길 수 있다.
-    보고서 표에서는 학습 처방에 도움이 되는 표준 진단 영역으로 묶어 가독성을 높인다.
-  */
-
-  if (/광고|안내문|시각 자료|이미지|중심 소재|목적 및 대상|안내문 세부|자료의 목적/.test(text)) {
-    return "이미지·안내문 이해";
-  }
-
-  if (/그래프|자료·그래프|자료\s*[-·]?\s*그래프|표\s*자료|도표|통계|자료.*비교|정보 비교/.test(text)) {
-    return "자료·그래프 정보 비교";
-  }
-
-  if (/문법 표현|기초 문법|문맥에 맞는 문법/.test(text)) {
-    return "문법·표현";
-  }
-
-  if (/밑줄 친 표현의 의미|강조 표현 의미|유사 표현|표현의 의미 이해/.test(text)) {
-    return "유사 표현 의미 이해";
-  }
-
-  if (/시간 흐름|인과 관계|문장 배열|문장 순서/.test(text)) {
-    return "문장 순서 배열";
-  }
-
-  if (/삽입|앞뒤 문맥|응집성|요약 문장/.test(text)) {
-    return "문장 삽입";
-  }
-
-  if (/신문|기사 제목|제목 의미|제목의 핵심/.test(text)) {
-    return "신문 제목 이해";
-  }
-
-  if (/심정|감정|기분|짜증|불만|인물의 심정/.test(text)) {
-    return "심정 파악";
-  }
-
-  if (/필자.*태도|필자의 태도|필자 의도|글을 쓴 목적|글의 목적|주장|촉구|미래 자원|사회 제도 개선/.test(text)) {
-    return "필자 의도·주장";
-  }
-
-  if (/주제|중심 내용|중심 생각|중심.*파악|논설문 주제|설명문 중심|긴 지문의 중심|짧은 공통 지문의 주제/.test(text)) {
-    return "중심 내용·주제 파악";
-  }
-
-  if (/빈칸|연결어|연결 표현|명사구|서술 내용|정도 표현|목적 표현|조건 선택|원인 선택|관용 표현|문맥에 맞는 표현|문맥 파악/.test(text)) {
-    return "빈칸·문맥 표현";
-  }
-
-  if (/세부 내용|내용 일치|내용 이해|정보성 글|전통 건축|소설 지문|서사 글|사건 전개|긴 지문.*세부/.test(text)) {
-    return "내용 일치·세부 내용";
-  }
-
-  return String(rawName || "미분류").trim() || "미분류";
-}
-
-
 function groupStats(items, key) {
   const map = new Map();
 
   items.forEach((item) => {
-    const rawGroupName = item[key] || "미분류";
-    const groupName = key === "diagnostic_area"
-      ? normalizeDiagnosticAreaNameForReport(rawGroupName, item)
-      : rawGroupName;
+    const groupName = item[key] || "미분류";
 
     if (!map.has(groupName)) {
       map.set(groupName, {
@@ -1043,17 +968,89 @@ function groupStats(items, key) {
     .sort((a, b) => b.wrong - a.wrong || a.accuracy - b.accuracy || a.name.localeCompare(b.name, "ko"));
 }
 
+function groupDiagnosticStats(items) {
+  const map = new Map();
+
+  items.forEach((item) => {
+    const groupName = getStandardDiagnosticAreaName(item);
+
+    if (!map.has(groupName)) {
+      map.set(groupName, {
+        name: groupName,
+        total: 0,
+        correct: 0,
+        wrong: 0,
+        unanswered: 0,
+        points_possible: 0,
+        points_earned: 0,
+        wrong_questions: []
+      });
+    }
+
+    const stat = map.get(groupName);
+    const points = numberOrZero(item.points);
+    const earned = numberOrZero(item.earned_points);
+    const isCorrect = Boolean(item.is_correct);
+
+    stat.total += 1;
+    stat.points_possible += points;
+    stat.points_earned += earned;
+
+    if (isCorrect) {
+      stat.correct += 1;
+    } else {
+      stat.wrong += 1;
+      stat.wrong_questions.push(item.question_number);
+    }
+
+    if (isUnanswered(item.student_answer)) {
+      stat.unanswered += 1;
+    }
+  });
+
+  return [...map.values()]
+    .map((stat) => ({
+      ...stat,
+      accuracy: percent(stat.correct, stat.total),
+      point_rate: stat.points_possible
+        ? Math.round((stat.points_earned / stat.points_possible) * 100)
+        : 0
+    }))
+    .sort((a, b) => b.wrong - a.wrong || a.accuracy - b.accuracy || a.name.localeCompare(b.name, "ko"));
+}
+
+function getStandardDiagnosticAreaName(item) {
+  const typeId = inferReadingTypeChartIdByNumberFirst(item);
+
+  const names = {
+    T01: "문법·표현",
+    T02: "유사 표현",
+    T03: "이미지·안내문 이해",
+    T04: "자료·그래프 정보 비교",
+    T05: "내용 일치·세부 내용",
+    T06: "문장 순서·배열",
+    T07: "빈칸·문맥 표현",
+    T08: "공통 지문 빈칸",
+    T09: "공통 지문 주제·중심 생각",
+    T10: "심정 파악",
+    T11: "서사 글 이해",
+    T12: "신문 제목·함축 의미",
+    T13: "중심 내용·주제 파악",
+    T14: "필자 의도·주장",
+    T15: "문장 삽입",
+    T16: "긴 지문 내용 일치"
+  };
+
+  return names[typeId] || (item && item.diagnostic_area ? item.diagnostic_area : "미분류");
+}
+
 function makeStrengthList(categoryAnalysis, diagnosticAnalysis) {
-  /*
-    1문항짜리 100% 영역은 실제 강점이라기보다 참고 신호에 가깝다.
-    보고서의 강점 영역에는 최소 2문항 이상 출제된 영역만 표시한다.
-  */
   const categoryStrengths = categoryAnalysis
-    .filter((stat) => stat.total >= 2 && stat.accuracy >= 70)
+    .filter((stat) => stat.total >= 1 && stat.accuracy >= 70)
     .slice(0, 5);
 
   const diagnosticStrengths = diagnosticAnalysis
-    .filter((stat) => stat.total >= 2 && stat.accuracy >= 70)
+    .filter((stat) => stat.total >= 1 && stat.accuracy >= 70)
     .slice(0, 5);
 
   return {
@@ -1262,25 +1259,17 @@ function makePrescriptions(context) {
   return prescriptions;
 }
 function prescriptionForCategory(stat, problemItems) {
-  /*
-    대표 유형 처방은 해당 유형 통계의 wrong_questions를 우선 사용한다.
-    일부 과거 JSON에서 item.category가 "유사 표현"처럼 남아 있어도
-    실제 대표 유형 분류가 다르면 처방 문항에 섞이지 않게 하기 위함이다.
-  */
-  let relatedProblemItems = problemItems.filter((item) => {
+  const relatedProblemItems = problemItems.filter((item) => {
+    if (item.category === stat.name) {
+      return true;
+    }
+
+    if (getReadingTypeDisplayName(item) === stat.name) {
+      return true;
+    }
+
     return statHasQuestionNumber(stat, item.question_number);
   });
-
-  if (!relatedProblemItems.length) {
-    relatedProblemItems = problemItems.filter((item) => {
-      if (getReadingTypeDisplayName(item) === stat.name) {
-        return true;
-      }
-
-      return item.category === stat.name;
-    });
-  }
-
   const questionText = makeQuestionListText(relatedProblemItems.map((item) => item.question_number));
 
   if (/문법|표현|어휘/.test(stat.name)) {
@@ -1348,21 +1337,9 @@ function prescriptionForCategory(stat, problemItems) {
 }
 
 function prescriptionForDiagnosticArea(stat, problemItems) {
-  /*
-    진단 영역별 분석은 표준 진단 영역명으로 정규화되어 있으므로,
-    item.diagnostic_area 원문과 stat.name이 항상 같지는 않다.
-    처방 문항은 통계에 들어 있는 wrong_questions를 우선 사용한다.
-  */
-  let relatedProblemItems = problemItems.filter((item) => {
-    return statHasQuestionNumber(stat, item.question_number);
+  const relatedProblemItems = problemItems.filter((item) => {
+    return item.diagnostic_area === stat.name || getStandardDiagnosticAreaName(item) === stat.name;
   });
-
-  if (!relatedProblemItems.length) {
-    relatedProblemItems = problemItems.filter((item) => {
-      return normalizeDiagnosticAreaNameForReport(item.diagnostic_area, item) === stat.name;
-    });
-  }
-
   const questionText = makeQuestionListText(relatedProblemItems.map((item) => item.question_number));
 
   return {
@@ -1614,20 +1591,16 @@ function renderReport(report) {
     ${renderTypeBarChart(report.readingTypeAnalysis)}
 
     <h3 class="section-title">문항 구간별 분석</h3>
-    ${renderZoneTable(report.zoneAnalysis, result)}
+    ${renderZoneTable(report.zoneAnalysis)}
 
     <h3 class="section-title">유형별 분석</h3>
     ${renderStatsTable(report.readingTypeAnalysis, "유형")}
 
     <h3 class="section-title">진단 영역별 분석</h3>
-    <p class="small-report-note">
-      랜덤 시험과 문제은행 문항은 회차별 세부 진단명이 서로 다를 수 있으므로,
-      이 표에서는 비슷한 세부 진단명을 표준 진단 영역으로 묶어 표시합니다.
-    </p>
     ${renderStatsTable(report.diagnosticAnalysis, "진단 영역")}
 
     <h3 class="section-title">강점 영역</h3>
-    ${renderStrengths(report.strengths)}
+    ${renderStrengths(report.strengths, result)}
 
     <h3 class="section-title">약점 영역</h3>
      ${renderWeaknesses(report.weaknesses, result)}
@@ -1849,8 +1822,7 @@ function renderTypeBarChart(stats) {
   return `
     <div class="type-chart">
       <p class="type-chart-guide">
-        아래 그래프는 TOPIK II 읽기 문항을 대표 유형으로 묶어 계산한 득점률입니다.
-        실제 표에는 이번 시험 결과에 포함된 유형만 표시됩니다.
+        아래 그래프는 TOPIK II 읽기 문항을 16개 대표 유형으로 묶어 계산한 득점률입니다.
         막대가 짧은 유형일수록 우선 복습이 필요한 영역입니다.
       </p>
 
@@ -1934,18 +1906,10 @@ function renderExamInfoTable(result) {
   `;
 }
 
-function renderZoneTable(stats, result) {
+function renderZoneTable(stats) {
   if (!stats.length) {
     return `<p>구간별 분석 데이터가 없습니다.</p>`;
   }
-
-  const isLevelTest = isLevelTestResult(result);
-  const intro = isLevelTest
-    ? `<p class="small-report-note">
-        레벨테스트의 구간 분석은 화면 번호가 아니라 원본 TOPIK II 읽기 1~50번 번호대를 기준으로 묶어 계산합니다.
-        단, 문제 발생 문항에는 레벨테스트 화면 번호가 표시됩니다.
-      </p>`
-    : "";
 
   const rows = stats.map((stat) => `
     <tr>
@@ -1959,7 +1923,6 @@ function renderZoneTable(stats, result) {
   `).join("");
 
   return `
-    ${intro}
     <table>
       <thead>
         <tr>
@@ -2007,26 +1970,60 @@ function renderStatsTable(stats, label) {
   `;
 }
 
-function renderStrengths(strengths) {
+function getReportTagDedupeKey(name) {
+  const normalized = String(name || "")
+    .replace(/\s+/g, "")
+    .replace(/[·ㆍ]/g, "")
+    .replace(/[()]/g, "");
+
+  const aliasMap = {
+    "자료그래프정보비교": "자료그래프이해",
+    "내용일치세부내용": "내용일치",
+    "문장순서배열": "문장순서",
+    "빈칸문맥표현": "빈칸표현",
+    "공통지문주제중심생각": "공통지문주제",
+    "신문제목함축의미": "신문제목이해",
+    "중심내용주제파악": "중심내용파악",
+    "긴지문내용일치": "긴지문내용일치",
+    "필자의도주장": "필자의도주장",
+    "이미지안내문이해": "이미지안내문이해",
+    "유사표현": "유사표현",
+    "문법표현": "문법표현",
+    "심정파악": "심정파악",
+    "문장삽입": "문장삽입",
+    "공통지문빈칸": "공통지문빈칸",
+    "서사글이해": "서사글이해"
+  };
+
+  return aliasMap[normalized] || normalized;
+}
+
+function renderStrengths(strengths, result) {
   const tags = [];
-  const seenNames = new Set();
+  const usedKeys = new Set();
+  const totalQuestions = Number(result && result.total_questions ? result.total_questions : 0);
+  const isLevelTest = isLevelTestResult(result);
 
-  function pushStrengthTag(stat) {
-    const name = String(stat && stat.name || "").trim();
+  function addStrengthTag(stat) {
+    const name = String(stat && stat.name ? stat.name : "").trim();
+    if (!name) return;
 
-    if (!name || seenNames.has(name)) {
-      return;
-    }
+    const key = getReportTagDedupeKey(name);
+    if (usedKeys.has(key)) return;
 
-    seenNames.add(name);
+    usedKeys.add(key);
     tags.push(`<span class="tag good">${escapeHtml(name)} ${stat.accuracy}%</span>`);
   }
 
-  strengths.categoryStrengths.forEach(pushStrengthTag);
-  strengths.diagnosticStrengths.forEach(pushStrengthTag);
+  (strengths.categoryStrengths || []).forEach(addStrengthTag);
+  (strengths.diagnosticStrengths || []).forEach(addStrengthTag);
 
   if (!tags.length) {
-    return `<p>현재 50문항 결과 기준으로 뚜렷한 강점 영역은 아직 확인되지 않았습니다. 다음 응시에서는 정답률 70% 이상인 유형이 2개 이상 안정적으로 나타나는지 확인하세요.</p>`;
+    if (isLevelTest) {
+      return `<p>현재 레벨테스트 ${totalQuestions}문항 기준으로 뚜렷한 강점 영역은 아직 확인되지 않았습니다. 다음 응시에서는 정답률 70% 이상인 유형이 2개 이상 안정적으로 나타나는지 확인하세요.</p>`;
+    }
+
+    return `<p>현재 결과 기준으로 뚜렷한 강점 영역이 아직 확인되지 않았습니다. 전체 50문항 시험에서는 더 넓은 범위로 강점 영역을 확인할 수 있습니다.</p>`;
   }
 
   return `<p>${tags.join(" ")}</p>`;
@@ -2034,32 +2031,40 @@ function renderStrengths(strengths) {
 
 function renderWeaknesses(weaknesses, result) {
   const tags = [];
+  const usedKeys = new Set();
   const totalQuestions = Number(result && result.total_questions ? result.total_questions : 0);
   const isFullSet = totalQuestions >= 50;
   const isLevelTest = isLevelTestResult(result);
 
-  /*
-    전체 50문항 보고서에서도 약점 태그가 지나치게 많으면 핵심이 흐려진다.
-    대표 유형 3개, 진단 영역 3개, 구간 2개로 제한해 우선순위를 명확히 한다.
-  */
-  const categoryLimit = isFullSet ? 3 : 3;
-  const diagnosticLimit = isFullSet ? 3 : 2;
-  const zoneLimit = isFullSet ? 2 : 2;
+  const categoryLimit = isFullSet ? 5 : 3;
+  const diagnosticLimit = isFullSet ? 8 : 2;
+  const zoneLimit = isFullSet ? 5 : 2;
 
   const categoryWeaknesses = (weaknesses.categoryWeaknesses || []).slice(0, categoryLimit);
   const diagnosticWeaknesses = (weaknesses.diagnosticWeaknesses || []).slice(0, diagnosticLimit);
   const zoneWeaknesses = (weaknesses.zoneWeaknesses || []).slice(0, zoneLimit);
 
+  function addWeaknessTag(name, wrongCount) {
+    const safeName = String(name || "").trim();
+    if (!safeName) return;
+
+    const key = getReportTagDedupeKey(safeName);
+    if (usedKeys.has(key)) return;
+
+    usedKeys.add(key);
+    tags.push(`<span class="tag bad">${escapeHtml(safeName)} 문제 ${wrongCount}개</span>`);
+  }
+
   categoryWeaknesses.forEach((stat) => {
-    tags.push(`<span class="tag bad">${escapeHtml(stat.name)} 문제 ${stat.wrong}개</span>`);
+    addWeaknessTag(stat.name, stat.wrong);
   });
 
   diagnosticWeaknesses.forEach((stat) => {
-    tags.push(`<span class="tag bad">${escapeHtml(stat.name)} 문제 ${stat.wrong}개</span>`);
+    addWeaknessTag(stat.name, stat.wrong);
   });
 
   zoneWeaknesses.forEach((stat) => {
-    tags.push(`<span class="tag bad">${escapeHtml(stat.label)} 문제 ${stat.wrong}개</span>`);
+    addWeaknessTag(stat.label, stat.wrong);
   });
 
   if (!tags.length) {
@@ -2150,7 +2155,39 @@ function answerToTextWithOptions(item, answer) {
   }
 
   if (Array.isArray(answer)) {
-    return answer.join("-");
+    const cleanedParts = answer
+      .map((part) => String(part ?? "").trim())
+      .filter((part) => part && part !== "NaN" && part !== "undefined" && part !== "null");
+
+    if (!cleanedParts.length) {
+      return "응답 형식 확인 필요";
+    }
+
+    const joined = cleanedParts.join("-");
+    const normalizedJoined = joined
+      .replace(/[()\s]/g, "")
+      .replace(/[－–—]/g, "-");
+
+    if (Array.isArray(item.options)) {
+      const matched = item.options.find((option) => {
+        const optionText = String(option.text ?? "");
+        const normalizedOptionText = optionText
+          .replace(/[()\s]/g, "")
+          .replace(/[－–—]/g, "-");
+
+        return (
+          String(option.label) === joined ||
+          optionText === joined ||
+          normalizedOptionText === normalizedJoined
+        );
+      });
+
+      if (matched) {
+        return `${matched.label}. ${matched.text}`;
+      }
+    }
+
+    return joined;
   }
 
   const answerText = String(answer);
