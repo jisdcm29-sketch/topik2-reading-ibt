@@ -4319,6 +4319,134 @@ function getAutoSecondSentenceLabel(question, firstLabel) {
   return "";
 }
 
+function getSentenceOrderBranchRule(question, firstLabel) {
+  const cleanFirst = normalizeSentenceBlockLabel(firstLabel);
+
+  if (!question || !cleanFirst) {
+    return null;
+  }
+
+  const branchMap = question.sentence_order_branch_map;
+
+  if (
+    !branchMap ||
+    typeof branchMap !== "object" ||
+    !branchMap.after_first ||
+    typeof branchMap.after_first !== "object"
+  ) {
+    return null;
+  }
+
+  const rawRule =
+    branchMap.after_first[cleanFirst] ||
+    branchMap.after_first[`(${cleanFirst})`];
+
+  if (!rawRule || typeof rawRule !== "object") {
+    return null;
+  }
+
+  const autoAppend = Array.isArray(rawRule.auto_append)
+    ? rawRule.auto_append
+        .map(function (label) {
+          return normalizeSentenceBlockLabel(label);
+        })
+        .filter(function (label, index, array) {
+          return label && findSentenceBlock(question, label) && array.indexOf(label) === index;
+        })
+    : [];
+
+  const nextCandidates = Array.isArray(rawRule.next_candidates)
+    ? rawRule.next_candidates
+        .map(function (label) {
+          return normalizeSentenceBlockLabel(label);
+        })
+        .filter(function (label, index, array) {
+          return label && findSentenceBlock(question, label) && array.indexOf(label) === index;
+        })
+    : [];
+
+  const completion = {};
+
+  if (rawRule.completion && typeof rawRule.completion === "object") {
+    Object.keys(rawRule.completion).forEach(function (key) {
+      const cleanKey = normalizeSentenceBlockLabel(key);
+      const order = Array.isArray(rawRule.completion[key])
+        ? rawRule.completion[key]
+            .map(function (label) {
+              return normalizeSentenceBlockLabel(label);
+            })
+            .filter(Boolean)
+        : [];
+
+      if (
+        cleanKey &&
+        order.length === 4 &&
+        order.every(function (label) {
+          return Boolean(findSentenceBlock(question, label));
+        })
+      ) {
+        completion[cleanKey] = order;
+      }
+    });
+  }
+
+  return {
+    firstLabel: cleanFirst,
+    autoAppend,
+    nextCandidates,
+    completion
+  };
+}
+
+function getSentenceOrderBranchAutoSecondLabel(branchRule) {
+  if (!branchRule || !Array.isArray(branchRule.autoAppend)) {
+    return "";
+  }
+
+  return branchRule.autoAppend[0] || "";
+}
+
+function getSentenceOrderBranchCandidates(question, branchRule, firstLabel, autoSecondLabel, targetIndex) {
+  if (branchRule && Array.isArray(branchRule.nextCandidates) && branchRule.nextCandidates.length) {
+    return branchRule.nextCandidates;
+  }
+
+  if (targetIndex === 2 && autoSecondLabel) {
+    return getOrderCandidatesForSlot(question, [firstLabel, autoSecondLabel, null, null], targetIndex);
+  }
+
+  return getSecondOrderCandidates(question, firstLabel);
+}
+
+function getSentenceOrderBranchCompletedOrder(question, branchRule, firstLabel, autoSecondLabel, selectedLabel) {
+  const cleanSelected = normalizeSentenceBlockLabel(selectedLabel);
+
+  if (
+    branchRule &&
+    branchRule.completion &&
+    cleanSelected &&
+    Array.isArray(branchRule.completion[cleanSelected])
+  ) {
+    return branchRule.completion[cleanSelected];
+  }
+
+  if (autoSecondLabel) {
+    return getAutoCompletedOrderFromPrefixAndCandidate(
+      question,
+      [firstLabel, autoSecondLabel, null, null],
+      2,
+      cleanSelected
+    );
+  }
+
+  return getAutoCompletedOrderFromFirstAndSecond(
+    question,
+    firstLabel,
+    cleanSelected
+  );
+}
+
+
 function getOrderCandidatesForSlot(question, currentOrder, targetIndex) {
   const cleanCurrentOrder = Array.isArray(currentOrder)
     ? currentOrder.map(function (label) {
@@ -4644,19 +4772,38 @@ function renderManualOrderSourceList(question, currentOrder) {
 function renderSecondOrderCandidateButtons(question, currentOrder) {
   const firstLabel = getValidFirstOrderLabel(question, currentOrder);
   const firstBlock = findSentenceBlock(question, firstLabel);
+  const branchRule = getSentenceOrderBranchRule(question, firstLabel);
 
-  const autoSecondMode = isAutoSecondSentenceOrderMode(question);
-  const autoSecondLabel = autoSecondMode
+  const branchAutoSecondLabel = branchRule
     ? (
         normalizeSentenceBlockLabel(currentOrder && currentOrder[1]) ||
-        getAutoSecondSentenceLabel(question, firstLabel)
+        getSentenceOrderBranchAutoSecondLabel(branchRule)
       )
     : "";
 
+  const autoSecondMode = branchRule
+    ? Boolean(branchAutoSecondLabel)
+    : isAutoSecondSentenceOrderMode(question);
+
+  const autoSecondLabel = branchRule
+    ? branchAutoSecondLabel
+    : (
+        autoSecondMode
+          ? (
+              normalizeSentenceBlockLabel(currentOrder && currentOrder[1]) ||
+              getAutoSecondSentenceLabel(question, firstLabel)
+            )
+          : ""
+      );
+
   const targetIndex = autoSecondMode && autoSecondLabel ? 2 : 1;
-  const candidates = targetIndex === 2
-    ? getOrderCandidatesForSlot(question, [firstLabel, autoSecondLabel, null, null], targetIndex)
-    : getSecondOrderCandidates(question, firstLabel);
+  const candidates = branchRule
+    ? getSentenceOrderBranchCandidates(question, branchRule, firstLabel, autoSecondLabel, targetIndex)
+    : (
+        targetIndex === 2
+          ? getOrderCandidatesForSlot(question, [firstLabel, autoSecondLabel, null, null], targetIndex)
+          : getSecondOrderCandidates(question, firstLabel)
+      );
 
   const columnCount = Math.min(Math.max(candidates.length, 1), 2);
   const targetOrdinalText = targetIndex === 2 ? "세 번째" : "두 번째";
@@ -4875,6 +5022,20 @@ function setFirstOrderCandidate(question, label) {
     return;
   }
 
+  const branchRule = getSentenceOrderBranchRule(question, cleanLabel);
+
+  if (branchRule) {
+    const branchAutoSecondLabel = getSentenceOrderBranchAutoSecondLabel(branchRule);
+
+    if (branchAutoSecondLabel) {
+      currentOrder[1] = branchAutoSecondLabel;
+    }
+
+    updateSentenceOrderAnswerState(question, currentOrder);
+    renderCurrentQuestion();
+    return;
+  }
+
   const autoSecondLabel = getAutoSecondSentenceLabel(question, cleanLabel);
 
   if (autoSecondLabel) {
@@ -4890,6 +5051,26 @@ function setSecondOrderCandidate(question, label) {
   const selectedLabel = normalizeSentenceBlockLabel(label);
 
   if (!firstLabel || !selectedLabel) {
+    return;
+  }
+
+  const branchRule = getSentenceOrderBranchRule(question, firstLabel);
+
+  if (branchRule) {
+    const branchAutoSecondLabel =
+      normalizeSentenceBlockLabel(currentOrder[1]) ||
+      getSentenceOrderBranchAutoSecondLabel(branchRule);
+
+    const completedOrder = getSentenceOrderBranchCompletedOrder(
+      question,
+      branchRule,
+      firstLabel,
+      branchAutoSecondLabel,
+      selectedLabel
+    );
+
+    updateSentenceOrderAnswerState(question, completedOrder);
+    renderCurrentQuestion();
     return;
   }
 
