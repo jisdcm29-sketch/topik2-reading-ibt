@@ -1,0 +1,2079 @@
+[
+  {
+    "id": "LT-52-R01-SRC001",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "question_number": 1,
+    "original_question_number": 1,
+    "template_slot": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "해가 뜨는 것을 (     ) 아침 일찍 일어났다.",
+    "passage_template": "해가 뜨는 것을 (     ) 아침 일찍 일어났다.",
+    "options": [
+      "보아야",
+      "보려고",
+      "보거나",
+      "보는데"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "보아야"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "보려고"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "보거나"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "보는데"
+      }
+    ],
+    "options_text": [
+      "보아야",
+      "보려고",
+      "보거나",
+      "보는데"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 1,
+    "level_test_original_question_number": 1,
+    "target_slot": 1,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 1,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R02-SRC003",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "question_number": 2,
+    "original_question_number": 3,
+    "template_slot": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "계속 웃고 다니는 걸 보니 좋은 일이 있나 보다.",
+    "passage_template": "계속 웃고 다니는 걸 보니 좋은 일이 있나 보다.",
+    "options": [
+      "있는 척한다",
+      "있을 뿐이다",
+      "있을 지경이다",
+      "있는 모양이다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "있는 척한다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "있을 뿐이다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "있을 지경이다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "있는 모양이다"
+      }
+    ],
+    "options_text": [
+      "있는 척한다",
+      "있을 뿐이다",
+      "있을 지경이다",
+      "있는 모양이다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "underline_targets": [
+      "있나 보다"
+    ],
+    "underlined_parts": [
+      "있나 보다"
+    ],
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 3,
+    "level_test_original_question_number": 3,
+    "target_slot": 2,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 2,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R03-SRC005",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+    "question_number": 3,
+    "original_question_number": 5,
+    "template_slot": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "수건",
+      "침대",
+      "시계",
+      "신발"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "수건"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "침대"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "시계"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "신발"
+      }
+    ],
+    "options_text": [
+      "수건",
+      "침대",
+      "시계",
+      "신발"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/52_R005.png",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "image_max_height": 260,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "92%",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 5,
+    "level_test_original_question_number": 5,
+    "target_slot": 3,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 3,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R04-SRC010",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 3,
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "question_number": 4,
+    "original_question_number": 10,
+    "template_slot": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "직업의 안정성을 중요하게 생각하는 사람이 가장 적다.",
+      "월급과 적성을 중요하게 생각하는 사람의 비율이 같다.",
+      "개인의 발전보다 월급을 중요하게 생각하는 사람이 더 많다.",
+      "근무 조건을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "직업의 안정성을 중요하게 생각하는 사람이 가장 적다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "월급과 적성을 중요하게 생각하는 사람의 비율이 같다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "개인의 발전보다 월급을 중요하게 생각하는 사람이 더 많다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "근무 조건을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+      }
+    ],
+    "options_text": [
+      "직업의 안정성을 중요하게 생각하는 사람이 가장 적다.",
+      "월급과 적성을 중요하게 생각하는 사람의 비율이 같다.",
+      "개인의 발전보다 월급을 중요하게 생각하는 사람이 더 많다.",
+      "근무 조건을 중요하게 생각하는 사람이 전체의 반을 넘는다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/52_R010.png",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "image_max_height": 420,
+    "image_max_width": "100%",
+    "image_only": true,
+    "image_display_width": "82%",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 10,
+    "level_test_original_question_number": 10,
+    "target_slot": 4,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 4,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R05-SRC013",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "문장 간 논리적 순서 파악",
+    "question_number": 5,
+    "original_question_number": 13,
+    "template_slot": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 개와 고양이는 사이가 나쁜 것으로 유명하다.\n(나) 개가 앞발을 드는 행동은 함께 놀고 싶다는 의미이다.\n(다) 그런데 고양이는 이런 행동을 공격하는 것으로 오해하는 것이다.\n(라) 둘 사이가 안 좋은 이유는 표현을 서로 다르게 받아들이기 때문이다.",
+    "passage_template": "(가) 개와 고양이는 사이가 나쁜 것으로 유명하다.\n(나) 개가 앞발을 드는 행동은 함께 놀고 싶다는 의미이다.\n(다) 그런데 고양이는 이런 행동을 공격하는 것으로 오해하는 것이다.\n(라) 둘 사이가 안 좋은 이유는 표현을 서로 다르게 받아들이기 때문이다.",
+    "options": [
+      "(가)-(라)-(나)-(다)",
+      "(가)-(나)-(라)-(다)",
+      "(나)-(다)-(가)-(라)",
+      "(나)-(가)-(다)-(라)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "(나)-(다)-(가)-(라)"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "(나)-(가)-(다)-(라)"
+      }
+    ],
+    "options_text": [
+      "(가)-(라)-(나)-(다)",
+      "(가)-(나)-(라)-(다)",
+      "(나)-(다)-(가)-(라)",
+      "(나)-(가)-(다)-(라)"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "sentence_labels": [
+      "가",
+      "나",
+      "다",
+      "라"
+    ],
+    "sentence_parts": {
+      "가": "개와 고양이는 사이가 나쁜 것으로 유명하다.",
+      "나": "개가 앞발을 드는 행동은 함께 놀고 싶다는 의미이다.",
+      "다": "그런데 고양이는 이런 행동을 공격하는 것으로 오해하는 것이다.",
+      "라": "둘 사이가 안 좋은 이유는 표현을 서로 다르게 받아들이기 때문이다."
+    },
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 13,
+    "level_test_original_question_number": 13,
+    "target_slot": 5,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 5,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R06-SRC016",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "question_number": 6,
+    "original_question_number": 16,
+    "template_slot": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "사람들은 일반적으로 쓴맛을 꺼린다. 이것은 (     ) 본능과 관계가 있다. 식물 중에는 독성이 있어 몸에 해로운 것들이 있다. 그런데 이런 독이 있는 식물은 보통 쓴맛이 난다. 따라서 사람들은 무의식적으로 쓴맛이 나는 것을 위험하다고 여기고 이를 거부하게 되는 것이다.",
+    "passage_template": "사람들은 일반적으로 쓴맛을 꺼린다. 이것은 (     ) 본능과 관계가 있다. 식물 중에는 독성이 있어 몸에 해로운 것들이 있다. 그런데 이런 독이 있는 식물은 보통 쓴맛이 난다. 따라서 사람들은 무의식적으로 쓴맛이 나는 것을 위험하다고 여기고 이를 거부하게 되는 것이다.",
+    "options": [
+      "지나친 과식을 피하려는",
+      "자신의 몸을 보호하려는",
+      "맛없는 음식을 멀리하려는",
+      "입맛이 변하는 것을 막으려는"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "지나친 과식을 피하려는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "자신의 몸을 보호하려는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "맛없는 음식을 멀리하려는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "입맛이 변하는 것을 막으려는"
+      }
+    ],
+    "options_text": [
+      "지나친 과식을 피하려는",
+      "자신의 몸을 보호하려는",
+      "맛없는 음식을 멀리하려는",
+      "입맛이 변하는 것을 막으려는"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "blank_key": "blank_1",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 16,
+    "level_test_original_question_number": 16,
+    "target_slot": 6,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 6,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R07-SRC019",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문에서 연결어 선택",
+    "question_number": 7,
+    "original_question_number": 19,
+    "template_slot": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "인터넷으로 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어 만들어야 한다. (     ) 비밀번호 변경도 주기적으로 해야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀌는 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업들도 보안 기술 개발에 적극 투자해야 한다.",
+    "passage_template": "인터넷으로 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어 만들어야 한다. (     ) 비밀번호 변경도 주기적으로 해야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀌는 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업들도 보안 기술 개발에 적극 투자해야 한다.",
+    "options": [
+      "그러면",
+      "게다가",
+      "반면에",
+      "이처럼"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "그러면"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "게다가"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "반면에"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "이처럼"
+      }
+    ],
+    "options_text": [
+      "그러면",
+      "게다가",
+      "반면에",
+      "이처럼"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R07-R08",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R07-R08",
+    "passage_set_lock_id": "52-LT-R07-R08",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "shared_passage_index": 1,
+    "blank_key": "blank_1",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 19,
+    "level_test_original_question_number": 19,
+    "target_slot": 7,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      19,
+      20
+    ],
+    "original_set_question_numbers": [
+      19,
+      20
+    ],
+    "source_set_original_question_numbers": [
+      19,
+      20
+    ],
+    "original_shared_blank_source_question_number": 19,
+    "original_shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "level_test_question_number": 7,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R08-SRC020",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 정보 파악",
+    "question_number": 8,
+    "original_question_number": 20,
+    "template_slot": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "인터넷으로 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어 만들어야 한다. (     ) 비밀번호 변경도 주기적으로 해야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀌는 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업들도 보안 기술 개발에 적극 투자해야 한다.",
+    "passage_template": "인터넷으로 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어 만들어야 한다. (     ) 비밀번호 변경도 주기적으로 해야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀌는 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업들도 보안 기술 개발에 적극 투자해야 한다.",
+    "options": [
+      "가입자는 비밀번호 변경으로 스트레스를 받는다.",
+      "초기의 비밀번호는 숫자 네 개로는 만들 수 없었다.",
+      "가입자는 기업에 비밀번호 설정을 까다롭게 요구한다.",
+      "비밀번호 설정 시에 숫자와 문자 중 하나를 선택해야 한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "가입자는 비밀번호 변경으로 스트레스를 받는다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "초기의 비밀번호는 숫자 네 개로는 만들 수 없었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "가입자는 기업에 비밀번호 설정을 까다롭게 요구한다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "비밀번호 설정 시에 숫자와 문자 중 하나를 선택해야 한다."
+      }
+    ],
+    "options_text": [
+      "가입자는 비밀번호 변경으로 스트레스를 받는다.",
+      "초기의 비밀번호는 숫자 네 개로는 만들 수 없었다.",
+      "가입자는 기업에 비밀번호 설정을 까다롭게 요구한다.",
+      "비밀번호 설정 시에 숫자와 문자 중 하나를 선택해야 한다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R07-R08",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R07-R08",
+    "passage_set_lock_id": "52-LT-R07-R08",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "shared_passage_index": 2,
+    "blank_key": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 20,
+    "level_test_original_question_number": 20,
+    "target_slot": 8,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      19,
+      20
+    ],
+    "original_set_question_numbers": [
+      19,
+      20
+    ],
+    "source_set_original_question_numbers": [
+      19,
+      20
+    ],
+    "original_shared_blank_source_question_number": 19,
+    "original_shared_blank_target_questions": [
+      19,
+      20
+    ],
+    "level_test_question_number": 8,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R09-SRC023",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "question_number": 9,
+    "original_question_number": 23,
+    "template_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "친정아버지가 손자들이 보고 싶다며 오랜만에 우리 집에 오셨다. 내가 집안일을 하는 사이에 아버지는 큰애를 데리고 놀이터에 다녀온다며 나가셨다. 한 시간쯤 지났는데 아버지가 다급한 목소리로 전화를 하셨다. 아이가 다쳐서 병원 응급실로 데리고 가신다는 것이었다. 나는 너무 놀라 허둥지둥 응급실로 달려갔다. 아이는 이마가 찢어져 치료를 받고 있었다. 나도 모르게 “아버지, 애 좀 잘 보고 계시지 그러셨어요?”라며 퉁명스럽게 말했다. 아버지는 아무 말씀 없이 치료받는 아이의 손만 꼭 잡고 계셨다. 집에 와서 아이를 재우고 나서야 아버지 손등의 상처가 눈에 들어왔다. 아이의 상처에는 그렇게 가슴 아파하면서 아버지의 상처는 미처 살피지 못했다. 나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다.",
+    "passage_template": "친정아버지가 손자들이 보고 싶다며 오랜만에 우리 집에 오셨다. 내가 집안일을 하는 사이에 아버지는 큰애를 데리고 놀이터에 다녀온다며 나가셨다. 한 시간쯤 지났는데 아버지가 다급한 목소리로 전화를 하셨다. 아이가 다쳐서 병원 응급실로 데리고 가신다는 것이었다. 나는 너무 놀라 허둥지둥 응급실로 달려갔다. 아이는 이마가 찢어져 치료를 받고 있었다. 나도 모르게 “아버지, 애 좀 잘 보고 계시지 그러셨어요?”라며 퉁명스럽게 말했다. 아버지는 아무 말씀 없이 치료받는 아이의 손만 꼭 잡고 계셨다. 집에 와서 아이를 재우고 나서야 아버지 손등의 상처가 눈에 들어왔다. 아이의 상처에는 그렇게 가슴 아파하면서 아버지의 상처는 미처 살피지 못했다. 나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다.",
+    "options": [
+      "억울하다",
+      "허전하다",
+      "후회스럽다",
+      "부담스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "억울하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "허전하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "후회스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "부담스럽다"
+      }
+    ],
+    "options_text": [
+      "억울하다",
+      "허전하다",
+      "후회스럽다",
+      "부담스럽다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R09-R10",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R09-R10",
+    "passage_set_lock_id": "52-LT-R09-R10",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다."
+    ],
+    "underlined_parts": [
+      "나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다."
+    ],
+    "shared_passage_index": 1,
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 23,
+    "level_test_original_question_number": 23,
+    "target_slot": 9,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      23,
+      24
+    ],
+    "original_set_question_numbers": [
+      23,
+      24
+    ],
+    "source_set_original_question_numbers": [
+      23,
+      24
+    ],
+    "level_test_question_number": 9,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R10-SRC024",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 일치 판단",
+    "question_number": 10,
+    "original_question_number": 24,
+    "template_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "친정아버지가 손자들이 보고 싶다며 오랜만에 우리 집에 오셨다. 내가 집안일을 하는 사이에 아버지는 큰애를 데리고 놀이터에 다녀온다며 나가셨다. 한 시간쯤 지났는데 아버지가 다급한 목소리로 전화를 하셨다. 아이가 다쳐서 병원 응급실로 데리고 가신다는 것이었다. 나는 너무 놀라 허둥지둥 응급실로 달려갔다. 아이는 이마가 찢어져 치료를 받고 있었다. 나도 모르게 “아버지, 애 좀 잘 보고 계시지 그러셨어요?”라며 퉁명스럽게 말했다. 아버지는 아무 말씀 없이 치료받는 아이의 손만 꼭 잡고 계셨다. 집에 와서 아이를 재우고 나서야 아버지 손등의 상처가 눈에 들어왔다. 아이의 상처에는 그렇게 가슴 아파하면서 아버지의 상처는 미처 살피지 못했다. 나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다.",
+    "passage_template": "친정아버지가 손자들이 보고 싶다며 오랜만에 우리 집에 오셨다. 내가 집안일을 하는 사이에 아버지는 큰애를 데리고 놀이터에 다녀온다며 나가셨다. 한 시간쯤 지났는데 아버지가 다급한 목소리로 전화를 하셨다. 아이가 다쳐서 병원 응급실로 데리고 가신다는 것이었다. 나는 너무 놀라 허둥지둥 응급실로 달려갔다. 아이는 이마가 찢어져 치료를 받고 있었다. 나도 모르게 “아버지, 애 좀 잘 보고 계시지 그러셨어요?”라며 퉁명스럽게 말했다. 아버지는 아무 말씀 없이 치료받는 아이의 손만 꼭 잡고 계셨다. 집에 와서 아이를 재우고 나서야 아버지 손등의 상처가 눈에 들어왔다. 아이의 상처에는 그렇게 가슴 아파하면서 아버지의 상처는 미처 살피지 못했다. 나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다.",
+    "options": [
+      "나는 친정아버지를 모시고 살고 있다.",
+      "아버지는 다친 큰애를 데리고 응급실에 가셨다.",
+      "나는 병원에서 아이가 다쳤다는 전화를 받았다.",
+      "아버지는 매일 큰애와 놀이터에서 놀아 주셨다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나는 친정아버지를 모시고 살고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "아버지는 다친 큰애를 데리고 응급실에 가셨다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 병원에서 아이가 다쳤다는 전화를 받았다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "아버지는 매일 큰애와 놀이터에서 놀아 주셨다."
+      }
+    ],
+    "options_text": [
+      "나는 친정아버지를 모시고 살고 있다.",
+      "아버지는 다친 큰애를 데리고 응급실에 가셨다.",
+      "나는 병원에서 아이가 다쳤다는 전화를 받았다.",
+      "아버지는 매일 큰애와 놀이터에서 놀아 주셨다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R09-R10",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R09-R10",
+    "passage_set_lock_id": "52-LT-R09-R10",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다."
+    ],
+    "underlined_parts": [
+      "나는 아버지에게 홧김에 내뱉은 말을 생각하며 약을 발라 드렸다."
+    ],
+    "shared_passage_index": 2,
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 24,
+    "level_test_original_question_number": 24,
+    "target_slot": 10,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      23,
+      24
+    ],
+    "original_set_question_numbers": [
+      23,
+      24
+    ],
+    "source_set_original_question_numbers": [
+      23,
+      24
+    ],
+    "level_test_question_number": 10,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R11-SRC025",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 14,
+    "source_printed_page": 10,
+    "type": "newspaper_title",
+    "category": "신문 제목",
+    "diagnostic_area": "신문 제목의 의미 파악",
+    "question_number": 11,
+    "original_question_number": 25,
+    "template_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "소비 심리 ‘봄바람’, 백화점 매출 기지개",
+    "passage_template": "소비 심리 ‘봄바람’, 백화점 매출 기지개",
+    "options": [
+      "소비자들의 구매 욕구가 살아나 백화점 매출이 늘어나고 있다.",
+      "날씨의 영향으로 백화점에서 물건을 구입하는 사람들이 많아졌다.",
+      "백화점에서 매출을 늘리기 위해 행사를 하자 사람들이 모여들었다.",
+      "소비자들의 심리를 반영한 백화점의 매출 전략이 호응을 얻고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "소비자들의 구매 욕구가 살아나 백화점 매출이 늘어나고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "날씨의 영향으로 백화점에서 물건을 구입하는 사람들이 많아졌다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "백화점에서 매출을 늘리기 위해 행사를 하자 사람들이 모여들었다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "소비자들의 심리를 반영한 백화점의 매출 전략이 호응을 얻고 있다."
+      }
+    ],
+    "options_text": [
+      "소비자들의 구매 욕구가 살아나 백화점 매출이 늘어나고 있다.",
+      "날씨의 영향으로 백화점에서 물건을 구입하는 사람들이 많아졌다.",
+      "백화점에서 매출을 늘리기 위해 행사를 하자 사람들이 모여들었다.",
+      "소비자들의 심리를 반영한 백화점의 매출 전략이 호응을 얻고 있다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 25,
+    "level_test_original_question_number": 25,
+    "target_slot": 11,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 11,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R12-SRC028",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 15,
+    "source_printed_page": 11,
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 내용 선택",
+    "question_number": 12,
+    "original_question_number": 28,
+    "template_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "한 연구에 따르면 과거에 비해 요즘 사람들의 손톱이 더 빨리 자란다고 한다. 80년 전 사람들은 한 달에 손톱이 3mm 정도 자랐지만 최근에는 그보다 길게 3.5mm 정도 자란다는 것이다. 손톱 주변을 (     ) 세포 활동이 활발해져 손톱이 더 빨리 자란다. 연구팀은 최근 컴퓨터나 휴대전화의 자판을 누르는 등 손가락 끝을 사용하는 일이 많아지면서 손톱이 자라는 속도에 영향을 준 것으로 보았다.",
+    "passage_template": "한 연구에 따르면 과거에 비해 요즘 사람들의 손톱이 더 빨리 자란다고 한다. 80년 전 사람들은 한 달에 손톱이 3mm 정도 자랐지만 최근에는 그보다 길게 3.5mm 정도 자란다는 것이다. 손톱 주변을 (     ) 세포 활동이 활발해져 손톱이 더 빨리 자란다. 연구팀은 최근 컴퓨터나 휴대전화의 자판을 누르는 등 손가락 끝을 사용하는 일이 많아지면서 손톱이 자라는 속도에 영향을 준 것으로 보았다.",
+    "options": [
+      "깨끗하게 관리하면",
+      "감싸서 보호해 주면",
+      "자극하는 활동을 하면",
+      "건조하지 않게 해 주면"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "깨끗하게 관리하면"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "감싸서 보호해 주면"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "자극하는 활동을 하면"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "건조하지 않게 해 주면"
+      }
+    ],
+    "options_text": [
+      "깨끗하게 관리하면",
+      "감싸서 보호해 주면",
+      "자극하는 활동을 하면",
+      "건조하지 않게 해 주면"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "blank_key": "blank_1",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 28,
+    "level_test_original_question_number": 28,
+    "target_slot": 12,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 12,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R13-SRC032",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 17,
+    "source_printed_page": 13,
+    "type": "same_content_long",
+    "category": "긴 지문 내용 일치",
+    "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+    "question_number": 13,
+    "original_question_number": 32,
+    "template_slot": 13,
+    "target_slots": [
+      13
+    ],
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+    "passage": "물감은 섞거나 덧칠할수록 색이 탁해진다. 그래서 19세기 화가들은 점을 찍어 색을 표현하는 점묘법을 생각해 냈다. 이 기법은 예를 들어 빨간색과 파란색의 작은 점들을 함께 찍어서, 조금 떨어진 곳에서 볼 때 두 색이 섞여 보라색으로 보이도록 한 것이다. 이렇게 표현한 색은 물감을 섞어서 만든 색보다 훨씬 더 맑고 부드러운 느낌을 준다. 이 때문에 점묘법은 회화의 대표적인 표현 기법으로 자리 잡게 되었고 현대 화가들도 즐겨 사용하고 있다.",
+    "passage_template": "물감은 섞거나 덧칠할수록 색이 탁해진다. 그래서 19세기 화가들은 점을 찍어 색을 표현하는 점묘법을 생각해 냈다. 이 기법은 예를 들어 빨간색과 파란색의 작은 점들을 함께 찍어서, 조금 떨어진 곳에서 볼 때 두 색이 섞여 보라색으로 보이도록 한 것이다. 이렇게 표현한 색은 물감을 섞어서 만든 색보다 훨씬 더 맑고 부드러운 느낌을 준다. 이 때문에 점묘법은 회화의 대표적인 표현 기법으로 자리 잡게 되었고 현대 화가들도 즐겨 사용하고 있다.",
+    "options": [
+      "이 기법으로 그림을 그리면 그림이 부드럽게 느껴진다.",
+      "이 기법은 19세기 이후에는 화가들의 외면을 받게 되었다.",
+      "이 기법은 가까운 곳에서 봐야 색이 섞여 보이는 효과가 있다.",
+      "이 기법으로 그림을 그릴 때는 넓은 간격으로 점을 찍어야 한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "이 기법으로 그림을 그리면 그림이 부드럽게 느껴진다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "이 기법은 19세기 이후에는 화가들의 외면을 받게 되었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "이 기법은 가까운 곳에서 봐야 색이 섞여 보이는 효과가 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "이 기법으로 그림을 그릴 때는 넓은 간격으로 점을 찍어야 한다."
+      }
+    ],
+    "options_text": [
+      "이 기법으로 그림을 그리면 그림이 부드럽게 느껴진다.",
+      "이 기법은 19세기 이후에는 화가들의 외면을 받게 되었다.",
+      "이 기법은 가까운 곳에서 봐야 색이 섞여 보이는 효과가 있다.",
+      "이 기법으로 그림을 그릴 때는 넓은 간격으로 점을 찍어야 한다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 32,
+    "level_test_original_question_number": 32,
+    "target_slot": 13,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 13,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R14-SRC035",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 18,
+    "source_printed_page": 14,
+    "type": "main_idea",
+    "category": "중심 내용 파악",
+    "diagnostic_area": "중심 내용·주제 파악",
+    "question_number": 14,
+    "original_question_number": 35,
+    "template_slot": 14,
+    "target_slots": [
+      14
+    ],
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "현대인들은 통계를 이용해 실상을 파악하는 경우가 많다. 하지만 통계가 절대적인 진실을 반영하는 것만은 아니다. 예컨대 오이의 가격이 1월에 1,000원이고 2월에 3,000원이며 현재 2,000원이라고 가정해 보자. 현재의 오이 값을 통계에 근거해서 평가할 때 1월을 기준으로 하면 물가가 큰 폭으로 오른 것이 되고 2월을 기준으로 보면 대폭 하락한 것으로 이해될 수 있는 것이다.",
+    "passage_template": "현대인들은 통계를 이용해 실상을 파악하는 경우가 많다. 하지만 통계가 절대적인 진실을 반영하는 것만은 아니다. 예컨대 오이의 가격이 1월에 1,000원이고 2월에 3,000원이며 현재 2,000원이라고 가정해 보자. 현재의 오이 값을 통계에 근거해서 평가할 때 1월을 기준으로 하면 물가가 큰 폭으로 오른 것이 되고 2월을 기준으로 보면 대폭 하락한 것으로 이해될 수 있는 것이다.",
+    "options": [
+      "통계 수치에 근거하면 실상을 파악할 수 있다.",
+      "현실이 반영되지 않는 통계 수치는 무의미하다.",
+      "통계를 통해 물가 상승률과 하락률을 알 수 있다.",
+      "통계는 기준 설정에 따라 다양하게 해석될 수 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "통계 수치에 근거하면 실상을 파악할 수 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "현실이 반영되지 않는 통계 수치는 무의미하다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "통계를 통해 물가 상승률과 하락률을 알 수 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "통계는 기준 설정에 따라 다양하게 해석될 수 있다."
+      }
+    ],
+    "options_text": [
+      "통계 수치에 근거하면 실상을 파악할 수 있다.",
+      "현실이 반영되지 않는 통계 수치는 무의미하다.",
+      "통계를 통해 물가 상승률과 하락률을 알 수 있다.",
+      "통계는 기준 설정에 따라 다양하게 해석될 수 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 35,
+    "level_test_original_question_number": 35,
+    "target_slot": 14,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 14,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R15-SRC039",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 20,
+    "source_printed_page": 16,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "question_number": 15,
+    "original_question_number": 39,
+    "template_slot": 15,
+    "target_slots": [
+      15
+    ],
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+    "passage": "한 연구팀이 냄새가 나지 않는 무취 상태의 조건을 알아냈다. ( ㉠ ) 사람의 코는 다양한 냄새 중에 농도가 짙은 것 위주로 냄새를 맡는다. ( ㉡ ) 그런데 서로 다른 냄새 입자를 동일한 양으로 섞으면 사람의 코는 냄새가 거의 나지 않는 것처럼 느끼는 것이다. ( ㉢ ) 여기에서 착안해 악취를 없애는 기술을 연구하고 있다. ( ㉣ ) 이 기술이 개발되면 심한 악취 환경에서 작업하는 사람들의 어려움을 줄여 줄 수 있을 것이다.",
+    "passage_template": "한 연구팀이 냄새가 나지 않는 무취 상태의 조건을 알아냈다. ( ㉠ ) 사람의 코는 다양한 냄새 중에 농도가 짙은 것 위주로 냄새를 맡는다. ( ㉡ ) 그런데 서로 다른 냄새 입자를 동일한 양으로 섞으면 사람의 코는 냄새가 거의 나지 않는 것처럼 느끼는 것이다. ( ㉢ ) 여기에서 착안해 악취를 없애는 기술을 연구하고 있다. ( ㉣ ) 이 기술이 개발되면 심한 악취 환경에서 작업하는 사람들의 어려움을 줄여 줄 수 있을 것이다.",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "sentence_to_insert": "악취에 동일한 양의 다른 냄새들을 더해 악취를 느끼지 못하게 하는 것이 목표이다.",
+    "given_sentence": "악취에 동일한 양의 다른 냄새들을 더해 악취를 느끼지 못하게 하는 것이 목표이다.",
+    "insert_sentence": "악취에 동일한 양의 다른 냄새들을 더해 악취를 느끼지 못하게 하는 것이 목표이다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉣",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 39,
+    "level_test_original_question_number": 39,
+    "target_slot": 15,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "level_test_question_number": 15,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R16-SRC042",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "question_number": 16,
+    "original_question_number": 42,
+    "template_slot": 16,
+    "target_slots": [
+      16
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "예쁘고 멋쟁이인 박영은 선생님을 새 담임으로 맞이한 것은 우리 모두에게 가슴 떨리는 일이었다. 먼젓번 담임 선생님의 말은 죽어라고 안 듣던 말썽꾸러기들이 박 선생님 앞에서는 고개도 제대로 못 들고 수줍어했다. 우리 반은 당장 전교에서 제일 말 잘 듣고 가장 깨끗한 반이 되었다. 나도 박 선생님에게 잘 보이고 싶은 마음이 태산 같았지만 늘 그렇듯이 머리가 따라 주지를 않았다. 아마 이번 시험에서도 모든 과목이 50점을 넘지 못했을 것이다. 아이들이 모두 떠난 교실에서 나는 몸을 비비 꼬며 창밖에서 놀고 있는 아이들에게 시선을 주고 있었다. (중략) 선생님이 마침내 입을 연 것은 20분이나 시간이 지나서였다. (중략)\n\n“동구를 가만히 보면, 아는데 말을 못하는 적도 많은 것 같아. 그러다 보니 자신감도 없어지고.”\n\n나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴. 공부 못하는 죄를 추궁당하는 것이 아니라 공부 못하는 서러움을 이해받는 것은 생애 처음 있는 일이었다. 안 그래도 몰려 터진 내 마음은 완전히 물에 만 휴지처럼 흐물흐물해져서, 예쁘고 멋진 데다 현명하기까지 한 박 선생님 앞에서 때 아닌 눈물까지 한 방울 선을 보일 뻔했다.",
+    "passage_template": "예쁘고 멋쟁이인 박영은 선생님을 새 담임으로 맞이한 것은 우리 모두에게 가슴 떨리는 일이었다. 먼젓번 담임 선생님의 말은 죽어라고 안 듣던 말썽꾸러기들이 박 선생님 앞에서는 고개도 제대로 못 들고 수줍어했다. 우리 반은 당장 전교에서 제일 말 잘 듣고 가장 깨끗한 반이 되었다. 나도 박 선생님에게 잘 보이고 싶은 마음이 태산 같았지만 늘 그렇듯이 머리가 따라 주지를 않았다. 아마 이번 시험에서도 모든 과목이 50점을 넘지 못했을 것이다. 아이들이 모두 떠난 교실에서 나는 몸을 비비 꼬며 창밖에서 놀고 있는 아이들에게 시선을 주고 있었다. (중략) 선생님이 마침내 입을 연 것은 20분이나 시간이 지나서였다. (중략)\n\n“동구를 가만히 보면, 아는데 말을 못하는 적도 많은 것 같아. 그러다 보니 자신감도 없어지고.”\n\n나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴. 공부 못하는 죄를 추궁당하는 것이 아니라 공부 못하는 서러움을 이해받는 것은 생애 처음 있는 일이었다. 안 그래도 몰려 터진 내 마음은 완전히 물에 만 휴지처럼 흐물흐물해져서, 예쁘고 멋진 데다 현명하기까지 한 박 선생님 앞에서 때 아닌 눈물까지 한 방울 선을 보일 뻔했다.",
+    "options": [
+      "난처하다",
+      "답답하다",
+      "감격스럽다",
+      "의심스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "난처하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "답답하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "감격스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "의심스럽다"
+      }
+    ],
+    "options_text": [
+      "난처하다",
+      "답답하다",
+      "감격스럽다",
+      "의심스럽다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R16-R17",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R16-R17",
+    "passage_set_lock_id": "52-LT-R16-R17",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴."
+    ],
+    "underlined_parts": [
+      "나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴."
+    ],
+    "shared_passage_index": 1,
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 42,
+    "level_test_original_question_number": 42,
+    "target_slot": 16,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      42,
+      43
+    ],
+    "original_set_question_numbers": [
+      42,
+      43
+    ],
+    "source_set_original_question_numbers": [
+      42,
+      43
+    ],
+    "level_test_question_number": 16,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R17-SRC043",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 일치 판단",
+    "question_number": 17,
+    "original_question_number": 43,
+    "template_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "예쁘고 멋쟁이인 박영은 선생님을 새 담임으로 맞이한 것은 우리 모두에게 가슴 떨리는 일이었다. 먼젓번 담임 선생님의 말은 죽어라고 안 듣던 말썽꾸러기들이 박 선생님 앞에서는 고개도 제대로 못 들고 수줍어했다. 우리 반은 당장 전교에서 제일 말 잘 듣고 가장 깨끗한 반이 되었다. 나도 박 선생님에게 잘 보이고 싶은 마음이 태산 같았지만 늘 그렇듯이 머리가 따라 주지를 않았다. 아마 이번 시험에서도 모든 과목이 50점을 넘지 못했을 것이다. 아이들이 모두 떠난 교실에서 나는 몸을 비비 꼬며 창밖에서 놀고 있는 아이들에게 시선을 주고 있었다. (중략) 선생님이 마침내 입을 연 것은 20분이나 시간이 지나서였다. (중략)\n\n“동구를 가만히 보면, 아는데 말을 못하는 적도 많은 것 같아. 그러다 보니 자신감도 없어지고.”\n\n나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴. 공부 못하는 죄를 추궁당하는 것이 아니라 공부 못하는 서러움을 이해받는 것은 생애 처음 있는 일이었다. 안 그래도 몰려 터진 내 마음은 완전히 물에 만 휴지처럼 흐물흐물해져서, 예쁘고 멋진 데다 현명하기까지 한 박 선생님 앞에서 때 아닌 눈물까지 한 방울 선을 보일 뻔했다.",
+    "passage_template": "예쁘고 멋쟁이인 박영은 선생님을 새 담임으로 맞이한 것은 우리 모두에게 가슴 떨리는 일이었다. 먼젓번 담임 선생님의 말은 죽어라고 안 듣던 말썽꾸러기들이 박 선생님 앞에서는 고개도 제대로 못 들고 수줍어했다. 우리 반은 당장 전교에서 제일 말 잘 듣고 가장 깨끗한 반이 되었다. 나도 박 선생님에게 잘 보이고 싶은 마음이 태산 같았지만 늘 그렇듯이 머리가 따라 주지를 않았다. 아마 이번 시험에서도 모든 과목이 50점을 넘지 못했을 것이다. 아이들이 모두 떠난 교실에서 나는 몸을 비비 꼬며 창밖에서 놀고 있는 아이들에게 시선을 주고 있었다. (중략) 선생님이 마침내 입을 연 것은 20분이나 시간이 지나서였다. (중략)\n\n“동구를 가만히 보면, 아는데 말을 못하는 적도 많은 것 같아. 그러다 보니 자신감도 없어지고.”\n\n나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴. 공부 못하는 죄를 추궁당하는 것이 아니라 공부 못하는 서러움을 이해받는 것은 생애 처음 있는 일이었다. 안 그래도 몰려 터진 내 마음은 완전히 물에 만 휴지처럼 흐물흐물해져서, 예쁘고 멋진 데다 현명하기까지 한 박 선생님 앞에서 때 아닌 눈물까지 한 방울 선을 보일 뻔했다.",
+    "options": [
+      "나는 담임 선생님께 인정을 받고 싶다.",
+      "반 아이들은 요즘 교실 청소를 잘 하지 않는다.",
+      "반 아이들은 예전 담임 선생님 말을 잘 들었다.",
+      "담임 선생님은 내가 공부를 못해서 화를 내셨다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나는 담임 선생님께 인정을 받고 싶다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "반 아이들은 요즘 교실 청소를 잘 하지 않는다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "반 아이들은 예전 담임 선생님 말을 잘 들었다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "담임 선생님은 내가 공부를 못해서 화를 내셨다."
+      }
+    ],
+    "options_text": [
+      "나는 담임 선생님께 인정을 받고 싶다.",
+      "반 아이들은 요즘 교실 청소를 잘 하지 않는다.",
+      "반 아이들은 예전 담임 선생님 말을 잘 들었다.",
+      "담임 선생님은 내가 공부를 못해서 화를 내셨다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R16-R17",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R16-R17",
+    "passage_set_lock_id": "52-LT-R16-R17",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴."
+    ],
+    "underlined_parts": [
+      "나의 간지럽고 아픈 부분을 이렇게나 간결하게 짚어 준 사람이 내 인생에 또 있으랴."
+    ],
+    "shared_passage_index": 2,
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 43,
+    "level_test_original_question_number": 43,
+    "target_slot": 17,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      42,
+      43
+    ],
+    "original_set_question_numbers": [
+      42,
+      43
+    ],
+    "source_set_original_question_numbers": [
+      42,
+      43
+    ],
+    "level_test_question_number": 17,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R18-SRC048",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "type": "common_passage_purpose",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "글을 쓴 목적 파악",
+    "question_number": 18,
+    "original_question_number": 48,
+    "template_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "passage_template": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "options": [
+      "특허 심사 절차를 설명하기 위해서",
+      "특허권의 필요성을 역설하기 위해서",
+      "특허의 실질적 가치를 분석하기 위해서",
+      "특허 출원 남용의 문제를 제기하기 위해서"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "특허 심사 절차를 설명하기 위해서"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "특허권의 필요성을 역설하기 위해서"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "특허의 실질적 가치를 분석하기 위해서"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "특허 출원 남용의 문제를 제기하기 위해서"
+      }
+    ],
+    "options_text": [
+      "특허 심사 절차를 설명하기 위해서",
+      "특허권의 필요성을 역설하기 위해서",
+      "특허의 실질적 가치를 분석하기 위해서",
+      "특허 출원 남용의 문제를 제기하기 위해서"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R18-R19-R20",
+    "passage_set_lock_id": "52-LT-R18-R19-R20",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "underline_targets": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "underlined_parts": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "shared_passage_index": 1,
+    "blank_key": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 48,
+    "level_test_original_question_number": 48,
+    "target_slot": 18,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 18,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R19-SRC049",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문 빈칸 내용 선택",
+    "question_number": 19,
+    "original_question_number": 49,
+    "template_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "passage_template": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "options": [
+      "특허가 만료되지 않은",
+      "신기술을 특허로 인정받은",
+      "기술이 완벽하게 개발되지 않은",
+      "기존의 기술과 차별성을 확인한"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "특허가 만료되지 않은"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "신기술을 특허로 인정받은"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "기술이 완벽하게 개발되지 않은"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "기존의 기술과 차별성을 확인한"
+      }
+    ],
+    "options_text": [
+      "특허가 만료되지 않은",
+      "신기술을 특허로 인정받은",
+      "기술이 완벽하게 개발되지 않은",
+      "기존의 기술과 차별성을 확인한"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R18-R19-R20",
+    "passage_set_lock_id": "52-LT-R18-R19-R20",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "underline_targets": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "underlined_parts": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "shared_passage_index": 2,
+    "blank_key": "blank_1",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 49,
+    "level_test_original_question_number": 49,
+    "target_slot": 19,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 19,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  },
+  {
+    "id": "LT-52-R20-SRC050",
+    "source_round": "52",
+    "source_file": "52회_문제지_TOPIK2_2읽기(B_홀수형).pdf",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "52회_정답지_TOPIK2_듣기읽기쓰기(B-홀수형).pdf",
+    "answer_key_status": "user_provided_answer_table_odd_number_type_B",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_52_full_balanced_by_type_with_sets",
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "type": "common_passage_attitude",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "밑줄 친 부분에 나타난 필자의 태도 파악",
+    "question_number": 20,
+    "original_question_number": 50,
+    "template_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "passage_template": "특허법은 독창적인 기술을 최초로 발명한 사람에게 기술에 대한 독점적 사용권을 부여하는 대신 그 기술을 사회에 공개할 의무를 부과한다. 공개된 기술 공유를 통해 사회 전체의 기술력을 높이는 것이 특허의 취지이다. 이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다. 그런데 최근 들어 특허의 본래 취지가 변질되어 기술 개발보다 독점권 확보를 우선하는 현상이 두드러지게 나타나고 있다. (     ) 상태에서 마구잡이 특허 출원으로 권리부터 선점해 놓고 기술을 개발하려는 경우가 비일비재한 것이다. 이 때문에 정작 신기술 개발에 힘들게 성공한 사람들이 권리를 확보하지 못하는 경우가 자주 발생하곤 한다. 특허는 발명의 대가로 당연히 보호받을 가치가 있다. 하지만 그것은 기술 개발에 성공해 사회 발전에 공헌하는 경우에 한해서이다. 무분별한 특허 출원으로 기술 발전을 저해한다면 이는 특허가 가진 본래의 취지를 훼손하는 것이다.",
+    "options": [
+      "특허 출원 감소를 심각하게 우려하고 있다.",
+      "특허권자의 독점권을 강하게 옹호하고 있다.",
+      "특허 제도의 정책적 보완을 강력히 요구하고 있다.",
+      "특허 제도가 사회에 기여한 바를 높이 평가하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "특허 출원 감소를 심각하게 우려하고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "특허권자의 독점권을 강하게 옹호하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "특허 제도의 정책적 보완을 강력히 요구하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "특허 제도가 사회에 기여한 바를 높이 평가하고 있다."
+      }
+    ],
+    "options_text": [
+      "특허 출원 감소를 심각하게 우려하고 있다.",
+      "특허권자의 독점권을 강하게 옹호하고 있다.",
+      "특허 제도의 정책적 보완을 강력히 요구하고 있다.",
+      "특허 제도가 사회에 기여한 바를 높이 평가하고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "passage_group_id": "52-LT-R18-R19-R20",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "52-LT-R18-R19-R20",
+    "passage_set_lock_id": "52-LT-R18-R19-R20",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "underline_targets": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "underlined_parts": [
+      "이런 취지에 부합하여 실제로 특허 제도는 기술 혁신과 산업 발전에 크게 이바지해 왔다."
+    ],
+    "shared_passage_index": 3,
+    "blank_key": "",
+    "full_exam_id": "reading-52",
+    "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+    "source_full_exam_id": "reading-52",
+    "source_full_exam_question_number": 50,
+    "level_test_original_question_number": 50,
+    "target_slot": 20,
+    "level_test_id": "level-test-52",
+    "generated_exam_id": "level-test-52",
+    "original_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "original_shared_blank_source_question_number": 49,
+    "original_shared_blank_target_questions": [
+      48,
+      49,
+      50
+    ],
+    "level_test_question_number": 20,
+    "level_test_source_selection": "balanced_by_type_with_passage_sets"
+  }
+]
