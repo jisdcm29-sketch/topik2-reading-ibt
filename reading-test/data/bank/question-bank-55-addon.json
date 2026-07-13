@@ -1,0 +1,4921 @@
+{
+  "bank_version": "topik2-reading-bank-addon-55-v1",
+  "bank_name": "TOPIK II Reading Question Bank Add-on - 55회 50문항",
+  "level": "TOPIK II",
+  "test_level": "TOPIK II",
+  "section": "reading",
+  "question_number_start": 1,
+  "question_number_end": 50,
+  "expected_total_questions": 50,
+  "status": "addon_reviewed_full_50_ready_for_merge",
+  "description": "제55회 TOPIK II 읽기 50문항을 사용자 화면 검수 완료본 reading-55.json 기준으로 문제은행 추가본으로 변환한 파일입니다. 기존 question-bank.json에는 아직 병합하지 않았습니다.",
+  "source_round": "55",
+  "source_file": "55회-읽기.pdf",
+  "source_exam_file": "reading-test/data/exams/reading-55.json",
+  "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+  "source_answer_key_type": "B형·짝수형",
+  "converted_at": "2026-07-13T12:13:08",
+  "conversion_mode": "addon_from_reviewed_full_50_exam_json",
+  "answer_key_status": "user_provided_answer_table",
+  "is_official_answer_key": false,
+  "needs_text_review": false,
+  "needs_answer_review": false,
+  "review_confidence": "screen_reviewed_by_user",
+  "total_bank_questions": 50,
+  "single_items_count": 35,
+  "passage_sets_count": 7,
+  "passage_set_items_count": 15,
+  "single_items": [
+    {
+      "id": "QB-T2-55-R001",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 1,
+      "source_printed_page": 1,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "question_number": 1,
+      "original_question_number": 1,
+      "template_slot": 1,
+      "target_slots": [
+        1
+      ],
+      "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+      "passage": "비가 (     ) 날씨가 더 추워진 것 같다.",
+      "passage_template": "비가 (     ) 날씨가 더 추워진 것 같다.",
+      "options": [
+        "내리든지",
+        "내리려면",
+        "내리고 나서",
+        "내리면 되고"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "내리든지"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "내리려면"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "내리고 나서"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "내리면 되고"
+        }
+      ],
+      "options_text": [
+        "내리든지",
+        "내리려면",
+        "내리고 나서",
+        "내리면 되고"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R001",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 1
+    },
+    {
+      "id": "QB-T2-55-R002",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 1,
+      "source_printed_page": 1,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "blank_choice",
+      "category": "문법·표현",
+      "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+      "question_number": 2,
+      "original_question_number": 2,
+      "template_slot": 2,
+      "target_slots": [
+        2
+      ],
+      "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+      "passage": "중요한 회의를 (     ) 전화를 받지 못했다.",
+      "passage_template": "중요한 회의를 (     ) 전화를 받지 못했다.",
+      "options": [
+        "하듯이",
+        "하도록",
+        "하느라고",
+        "하려거든"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "하듯이"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "하도록"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "하느라고"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "하려거든"
+        }
+      ],
+      "options_text": [
+        "하듯이",
+        "하도록",
+        "하느라고",
+        "하려거든"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R002",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 2
+    },
+    {
+      "id": "QB-T2-55-R003",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 1,
+      "source_printed_page": 1,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "question_number": 3,
+      "original_question_number": 3,
+      "template_slot": 3,
+      "target_slots": [
+        3
+      ],
+      "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "어제 서점에 가다가 우연히 학교 선배를 만났다.",
+      "passage_template": "어제 서점에 가다가 우연히 학교 선배를 만났다.",
+      "options": [
+        "가는 길에",
+        "가는 대로",
+        "가는 데다",
+        "가는 한편"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "가는 길에"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "가는 대로"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "가는 데다"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "가는 한편"
+        }
+      ],
+      "options_text": [
+        "가는 길에",
+        "가는 대로",
+        "가는 데다",
+        "가는 한편"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "underline_targets": [
+        "가다가"
+      ],
+      "underlined_parts": [
+        "가다가"
+      ],
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R003",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 3
+    },
+    {
+      "id": "QB-T2-55-R004",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 1,
+      "source_printed_page": 1,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "similar_expression",
+      "category": "유사 표현",
+      "diagnostic_area": "밑줄 친 표현의 의미 이해",
+      "question_number": 4,
+      "original_question_number": 4,
+      "template_slot": 4,
+      "target_slots": [
+        4
+      ],
+      "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+      "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+      "passage": "오랜만에 고향에 갔더니 거리가 몰라보게 변해 있었다.",
+      "passage_template": "오랜만에 고향에 갔더니 거리가 몰라보게 변해 있었다.",
+      "options": [
+        "몰라볼 텐데",
+        "몰라볼 만큼",
+        "몰라보는 반면에",
+        "몰라보는 바람에"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "몰라볼 텐데"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "몰라볼 만큼"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "몰라보는 반면에"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "몰라보는 바람에"
+        }
+      ],
+      "options_text": [
+        "몰라볼 텐데",
+        "몰라볼 만큼",
+        "몰라보는 반면에",
+        "몰라보는 바람에"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "underline_targets": [
+        "몰라보게"
+      ],
+      "underlined_parts": [
+        "몰라보게"
+      ],
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R004",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 4
+    },
+    {
+      "id": "QB-T2-55-R005",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 2,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "question_number": 5,
+      "original_question_number": 5,
+      "template_slot": 5,
+      "target_slots": [
+        5
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "필통",
+        "가방",
+        "우산",
+        "책상"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "필통"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "가방"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "우산"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "책상"
+        }
+      ],
+      "options_text": [
+        "필통",
+        "가방",
+        "우산",
+        "책상"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R005.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 260,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "92%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R005",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 5
+    },
+    {
+      "id": "QB-T2-55-R006",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 2,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "question_number": 6,
+      "original_question_number": 6,
+      "template_slot": 6,
+      "target_slots": [
+        6
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "빵집",
+        "꽃집",
+        "박물관",
+        "세탁소"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "빵집"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "꽃집"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "박물관"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "세탁소"
+        }
+      ],
+      "options_text": [
+        "빵집",
+        "꽃집",
+        "박물관",
+        "세탁소"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R006.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 260,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "92%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R006",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 6
+    },
+    {
+      "id": "QB-T2-55-R007",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 2,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "광고·안내문의 목적 및 대상 파악",
+      "question_number": 7,
+      "original_question_number": 7,
+      "template_slot": 7,
+      "target_slots": [
+        7
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "자리 양보",
+        "환경 보호",
+        "전기 절약",
+        "분실 신고"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "자리 양보"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "환경 보호"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "전기 절약"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "분실 신고"
+        }
+      ],
+      "options_text": [
+        "자리 양보",
+        "환경 보호",
+        "전기 절약",
+        "분실 신고"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R007.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 260,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "92%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R007",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 7
+    },
+    {
+      "id": "QB-T2-55-R008",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 2,
+      "source_printed_page": 2,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "visual_topic",
+      "category": "이미지·안내문 이해",
+      "diagnostic_area": "안전 안내문의 목적 파악",
+      "question_number": 8,
+      "original_question_number": 8,
+      "template_slot": 8,
+      "target_slots": [
+        8
+      ],
+      "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+      "question": "다음은 무엇에 대한 글인지 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "보관 방법",
+        "건강 습관",
+        "안전 규칙",
+        "사용 순서"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "보관 방법"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "건강 습관"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "안전 규칙"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "사용 순서"
+        }
+      ],
+      "options_text": [
+        "보관 방법",
+        "건강 습관",
+        "안전 규칙",
+        "사용 순서"
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R008.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 260,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "92%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R008",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 8
+    },
+    {
+      "id": "QB-T2-55-R009",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 3,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_visual",
+      "category": "내용 일치",
+      "diagnostic_area": "안내문 세부 정보 파악",
+      "question_number": 9,
+      "original_question_number": 9,
+      "template_slot": 9,
+      "target_slots": [
+        9
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "이 시장에서는 공연을 볼 수 있다.",
+        "이 시장은 주말 오전에 이용할 수 있다.",
+        "이 시장은 이번에 처음으로 열리게 되었다.",
+        "이 시장에 대해 궁금하면 시청으로 전화해야 한다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "이 시장에서는 공연을 볼 수 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "이 시장은 주말 오전에 이용할 수 있다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "이 시장은 이번에 처음으로 열리게 되었다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "이 시장에 대해 궁금하면 시청으로 전화해야 한다."
+        }
+      ],
+      "options_text": [
+        "이 시장에서는 공연을 볼 수 있다.",
+        "이 시장은 주말 오전에 이용할 수 있다.",
+        "이 시장은 이번에 처음으로 열리게 되었다.",
+        "이 시장에 대해 궁금하면 시청으로 전화해야 한다."
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R009.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 420,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "78%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R009",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 9
+    },
+    {
+      "id": "QB-T2-55-R010",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_pdf_page": 3,
+      "source_printed_page": 3,
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "type": "same_content_visual",
+      "category": "자료·그래프 이해",
+      "diagnostic_area": "그래프 정보 비교",
+      "question_number": 10,
+      "original_question_number": 10,
+      "template_slot": 10,
+      "target_slots": [
+        10
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "",
+      "passage_template": "",
+      "options": [
+        "음식 사진을 찍는 비율은 남성과 여성이 같다.",
+        "남녀 모두 연인 및 친구 사진을 가장 많이 찍는다.",
+        "풍경 사진보다 음식 사진을 찍는 여성들이 더 적다.",
+        "남성들은 자기 자신보다 가족의 사진을 더 많이 찍는다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "음식 사진을 찍는 비율은 남성과 여성이 같다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "남녀 모두 연인 및 친구 사진을 가장 많이 찍는다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "풍경 사진보다 음식 사진을 찍는 여성들이 더 적다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "남성들은 자기 자신보다 가족의 사진을 더 많이 찍는다."
+        }
+      ],
+      "options_text": [
+        "음식 사진을 찍는 비율은 남성과 여성이 같다.",
+        "남녀 모두 연인 및 친구 사진을 가장 많이 찍는다.",
+        "풍경 사진보다 음식 사진을 찍는 여성들이 더 적다.",
+        "남성들은 자기 자신보다 가족의 사진을 더 많이 찍는다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "./images/55_R010.png",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "image_max_height": 420,
+      "image_max_width": "100%",
+      "image_only": true,
+      "image_display_width": "82%",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R010",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 10
+    },
+    {
+      "id": "QB-T2-55-R011",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 4,
+      "source_printed_page": 4,
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 이해",
+      "question_number": 11,
+      "original_question_number": 11,
+      "template_slot": 11,
+      "target_slots": [
+        11
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "최근 보건소에서는 시민들의 건강관리를 돕기 위해 건강 달력을 제작하여 배부하고 있다. 3월에는 꽃가루 알레르기 예방법, 12월에는 체온을 높이는 운동법 등 매달 다른 주제의 건강 정보가 담겨 있다. 시민들이 이해하기 쉽도록 건강 정보를 그림과 함께 설명하고 있는 것도 특징이다. 이 달력은 보건소에서 누구나 무료로 받을 수 있다.",
+      "passage_template": "최근 보건소에서는 시민들의 건강관리를 돕기 위해 건강 달력을 제작하여 배부하고 있다. 3월에는 꽃가루 알레르기 예방법, 12월에는 체온을 높이는 운동법 등 매달 다른 주제의 건강 정보가 담겨 있다. 시민들이 이해하기 쉽도록 건강 정보를 그림과 함께 설명하고 있는 것도 특징이다. 이 달력은 보건소에서 누구나 무료로 받을 수 있다.",
+      "options": [
+        "이 달력은 보건소에 가서 살 수 있다.",
+        "이 달력은 시민들이 직접 제작에 참여했다.",
+        "이 달력에는 보건소 진료 일정이 들어 있다.",
+        "이 달력에는 건강 정보를 설명해 주는 그림이 있다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "이 달력은 보건소에 가서 살 수 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "이 달력은 시민들이 직접 제작에 참여했다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "이 달력에는 보건소 진료 일정이 들어 있다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "이 달력에는 건강 정보를 설명해 주는 그림이 있다."
+        }
+      ],
+      "options_text": [
+        "이 달력은 보건소에 가서 살 수 있다.",
+        "이 달력은 시민들이 직접 제작에 참여했다.",
+        "이 달력에는 보건소 진료 일정이 들어 있다.",
+        "이 달력에는 건강 정보를 설명해 주는 그림이 있다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R011",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 11
+    },
+    {
+      "id": "QB-T2-55-R012",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 4,
+      "source_printed_page": 4,
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 파악",
+      "question_number": 12,
+      "original_question_number": 12,
+      "template_slot": 12,
+      "target_slots": [
+        12
+      ],
+      "instruction": "[9~12] 다음 글 또는 그래프의 내용과 같은 것을 고르십시오. (각 2점)",
+      "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+      "passage": "어린 학생들의 따뜻한 마음이 사람들에게 잔잔한 감동을 주고 있다. 올해 인주초등학교에 소리를 듣지 못하는 김 모 군이 입학했다. 반 친구들과 선생님은 김 모 군이 대화를 나누지 못해 외로움을 느끼지 않을까 걱정했다. 그래서 매주 한 시간씩 손짓으로 의사소통을 하는 수어를 배웠다. 현재 김 모 군은 친구들과 수어로 대화하며 즐겁게 학교생활을 하고 있다고 한다.",
+      "passage_template": "어린 학생들의 따뜻한 마음이 사람들에게 잔잔한 감동을 주고 있다. 올해 인주초등학교에 소리를 듣지 못하는 김 모 군이 입학했다. 반 친구들과 선생님은 김 모 군이 대화를 나누지 못해 외로움을 느끼지 않을까 걱정했다. 그래서 매주 한 시간씩 손짓으로 의사소통을 하는 수어를 배웠다. 현재 김 모 군은 친구들과 수어로 대화하며 즐겁게 학교생활을 하고 있다고 한다.",
+      "options": [
+        "김 모 군은 작년부터 인주초등학교에 다니고 있다.",
+        "선생님은 매주 김 모 군에게 수어를 가르쳐 주었다.",
+        "친구들과 김 모 군은 손짓으로 이야기를 나누게 되었다.",
+        "김 모 군은 현재 외로운 학교생활 때문에 힘들어하고 있다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "김 모 군은 작년부터 인주초등학교에 다니고 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "선생님은 매주 김 모 군에게 수어를 가르쳐 주었다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "친구들과 김 모 군은 손짓으로 이야기를 나누게 되었다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "김 모 군은 현재 외로운 학교생활 때문에 힘들어하고 있다."
+        }
+      ],
+      "options_text": [
+        "김 모 군은 작년부터 인주초등학교에 다니고 있다.",
+        "선생님은 매주 김 모 군에게 수어를 가르쳐 주었다.",
+        "친구들과 김 모 군은 손짓으로 이야기를 나누게 되었다.",
+        "김 모 군은 현재 외로운 학교생활 때문에 힘들어하고 있다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R012",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 12
+    },
+    {
+      "id": "QB-T2-55-R013",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 5,
+      "source_printed_page": 5,
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "문장 간 논리적 순서 파악",
+      "question_number": 13,
+      "original_question_number": 13,
+      "template_slot": 13,
+      "target_slots": [
+        13
+      ],
+      "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+      "passage": "(가) 한 연구팀이 위조지폐를 찾아내는 실험을 했다.\n(나) 그 결과 사람들은 풍경보다 인물이 위조된 지폐를 더 잘 찾아냈다.\n(다) 사람들에게 풍경과 인물이 그려진 지폐들 중에서 위조지폐를 찾게 했다.\n(라) 인물에는 표정이 있어서 조금만 달라져도 쉽게 알아챌 수 있었던 것이다.",
+      "passage_template": "(가) 한 연구팀이 위조지폐를 찾아내는 실험을 했다.\n(나) 그 결과 사람들은 풍경보다 인물이 위조된 지폐를 더 잘 찾아냈다.\n(다) 사람들에게 풍경과 인물이 그려진 지폐들 중에서 위조지폐를 찾게 했다.\n(라) 인물에는 표정이 있어서 조금만 달라져도 쉽게 알아챌 수 있었던 것이다.",
+      "options": [
+        "(가)-(다)-(나)-(라)",
+        "(가)-(나)-(라)-(다)",
+        "(다)-(가)-(라)-(나)",
+        "(다)-(라)-(나)-(가)"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "(가)-(다)-(나)-(라)"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "(다)-(가)-(라)-(나)"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "(다)-(라)-(나)-(가)"
+        }
+      ],
+      "options_text": [
+        "(가)-(다)-(나)-(라)",
+        "(가)-(나)-(라)-(다)",
+        "(다)-(가)-(라)-(나)",
+        "(다)-(라)-(나)-(가)"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_labels": [
+        "가",
+        "나",
+        "다",
+        "라"
+      ],
+      "sentence_parts": {
+        "가": "한 연구팀이 위조지폐를 찾아내는 실험을 했다.",
+        "나": "그 결과 사람들은 풍경보다 인물이 위조된 지폐를 더 잘 찾아냈다.",
+        "다": "사람들에게 풍경과 인물이 그려진 지폐들 중에서 위조지폐를 찾게 했다.",
+        "라": "인물에는 표정이 있어서 조금만 달라져도 쉽게 알아챌 수 있었던 것이다."
+      },
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R013",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 13
+    },
+    {
+      "id": "QB-T2-55-R014",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 5,
+      "source_printed_page": 5,
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "question_number": 14,
+      "original_question_number": 14,
+      "template_slot": 14,
+      "target_slots": [
+        14
+      ],
+      "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+      "passage": "(가) 아이들은 바닷가 모래밭에서 모래성을 쌓으며 논다.\n(나) 모래성은 파도에 쉽게 쓸려 가 대부분 완성되지 못한다.\n(다) 아이들은 완성이 아닌 과정 그 자체에서 즐거움을 느끼기 때문이다.\n(라) 하지만 모래성이 무너져도 아이들은 여전히 웃고 떠들며 즐거워한다.",
+      "passage_template": "(가) 아이들은 바닷가 모래밭에서 모래성을 쌓으며 논다.\n(나) 모래성은 파도에 쉽게 쓸려 가 대부분 완성되지 못한다.\n(다) 아이들은 완성이 아닌 과정 그 자체에서 즐거움을 느끼기 때문이다.\n(라) 하지만 모래성이 무너져도 아이들은 여전히 웃고 떠들며 즐거워한다.",
+      "options": [
+        "(가)-(다)-(라)-(나)",
+        "(가)-(나)-(라)-(다)",
+        "(나)-(가)-(다)-(라)",
+        "(나)-(다)-(라)-(가)"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "(가)-(다)-(라)-(나)"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "(가)-(나)-(라)-(다)"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "(나)-(가)-(다)-(라)"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "(나)-(다)-(라)-(가)"
+        }
+      ],
+      "options_text": [
+        "(가)-(다)-(라)-(나)",
+        "(가)-(나)-(라)-(다)",
+        "(나)-(가)-(다)-(라)",
+        "(나)-(다)-(라)-(가)"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_labels": [
+        "가",
+        "나",
+        "다",
+        "라"
+      ],
+      "sentence_parts": {
+        "가": "아이들은 바닷가 모래밭에서 모래성을 쌓으며 논다.",
+        "나": "모래성은 파도에 쉽게 쓸려 가 대부분 완성되지 못한다.",
+        "다": "아이들은 완성이 아닌 과정 그 자체에서 즐거움을 느끼기 때문이다.",
+        "라": "하지만 모래성이 무너져도 아이들은 여전히 웃고 떠들며 즐거워한다."
+      },
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R014",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 14
+    },
+    {
+      "id": "QB-T2-55-R015",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 5,
+      "source_printed_page": 5,
+      "type": "sentence_order",
+      "category": "문장 순서",
+      "diagnostic_area": "시간 흐름과 인과 관계에 따른 문장 배열",
+      "question_number": 15,
+      "original_question_number": 15,
+      "template_slot": 15,
+      "target_slots": [
+        15
+      ],
+      "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+      "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+      "passage": "(가) 이 때문에 지붕이 있는 돔 야구장이 만들어지게 되었다.\n(나) 그런데 야구장이 야외에 있다 보니 경기가 중단되는 경우가 많다.\n(다) 야구장은 보통 넓은 공간이 필요한 야구의 특성상 야외에 지어진다.\n(라) 야구는 다른 스포츠와 달리 비나 눈이 오면 경기의 진행이 어려워지기 때문이다.",
+      "passage_template": "(가) 이 때문에 지붕이 있는 돔 야구장이 만들어지게 되었다.\n(나) 그런데 야구장이 야외에 있다 보니 경기가 중단되는 경우가 많다.\n(다) 야구장은 보통 넓은 공간이 필요한 야구의 특성상 야외에 지어진다.\n(라) 야구는 다른 스포츠와 달리 비나 눈이 오면 경기의 진행이 어려워지기 때문이다.",
+      "options": [
+        "(다)-(나)-(라)-(가)",
+        "(다)-(가)-(라)-(나)",
+        "(라)-(가)-(나)-(다)",
+        "(라)-(다)-(나)-(가)"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "(다)-(나)-(라)-(가)"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "(다)-(가)-(라)-(나)"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "(라)-(가)-(나)-(다)"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "(라)-(다)-(나)-(가)"
+        }
+      ],
+      "options_text": [
+        "(다)-(나)-(라)-(가)",
+        "(다)-(가)-(라)-(나)",
+        "(라)-(가)-(나)-(다)",
+        "(라)-(다)-(나)-(가)"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_labels": [
+        "가",
+        "나",
+        "다",
+        "라"
+      ],
+      "sentence_parts": {
+        "가": "이 때문에 지붕이 있는 돔 야구장이 만들어지게 되었다.",
+        "나": "그런데 야구장이 야외에 있다 보니 경기가 중단되는 경우가 많다.",
+        "다": "야구장은 보통 넓은 공간이 필요한 야구의 특성상 야외에 지어진다.",
+        "라": "야구는 다른 스포츠와 달리 비나 눈이 오면 경기의 진행이 어려워지기 때문이다."
+      },
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R015",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 15
+    },
+    {
+      "id": "QB-T2-55-R016",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 6,
+      "source_printed_page": 6,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+      "question_number": 16,
+      "original_question_number": 16,
+      "template_slot": 16,
+      "target_slots": [
+        16
+      ],
+      "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "최근 사람들이 걸으면서 휴대전화를 보느라 앞을 제대로 확인하지 않아 사고가 많이 발생하고 있다. 이러한 사고를 막기 위한 방법의 하나로 바닥 신호등이 등장했다. 횡단보도 양쪽에 설치된 바닥 신호등은 보행자가 길을 건너도 되는 경우에는 초록색, 건널 수 없는 경우에는 붉은색으로 표시되어 깜박거린다. 이를 통해 보행자들은 (     ) 신호를 확인할 수 있다.",
+      "passage_template": "최근 사람들이 걸으면서 휴대전화를 보느라 앞을 제대로 확인하지 않아 사고가 많이 발생하고 있다. 이러한 사고를 막기 위한 방법의 하나로 바닥 신호등이 등장했다. 횡단보도 양쪽에 설치된 바닥 신호등은 보행자가 길을 건너도 되는 경우에는 초록색, 건널 수 없는 경우에는 붉은색으로 표시되어 깜박거린다. 이를 통해 보행자들은 (     ) 신호를 확인할 수 있다.",
+      "options": [
+        "고개를 들지 않고도",
+        "휴대전화의 소리를 듣고",
+        "주변에 자동차가 없어서",
+        "사람들의 움직임을 보면서"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "고개를 들지 않고도"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "휴대전화의 소리를 듣고"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "주변에 자동차가 없어서"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "사람들의 움직임을 보면서"
+        }
+      ],
+      "options_text": [
+        "고개를 들지 않고도",
+        "휴대전화의 소리를 듣고",
+        "주변에 자동차가 없어서",
+        "사람들의 움직임을 보면서"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R016",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 16
+    },
+    {
+      "id": "QB-T2-55-R017",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 6,
+      "source_printed_page": 6,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 비교 표현 선택",
+      "question_number": 17,
+      "original_question_number": 17,
+      "template_slot": 17,
+      "target_slots": [
+        17
+      ],
+      "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "사람들은 보통 자동차를 살 때는 신중하게 선택하지만 치약이나 비누는 쉽게 구매를 결정한다. 이렇게 소비자가 제품을 구매할 때 쏟는 관심과 애정의 정도를 ‘관여도’라고 한다. 일반적으로 관여도는 가격이 비싼 제품일수록 높지만 (     ) 수 있다. 피부에 관심이 많은 사람은 비누처럼 싼 제품을 살 때도 이것저것 꼼꼼히 살펴본다.",
+      "passage_template": "사람들은 보통 자동차를 살 때는 신중하게 선택하지만 치약이나 비누는 쉽게 구매를 결정한다. 이렇게 소비자가 제품을 구매할 때 쏟는 관심과 애정의 정도를 ‘관여도’라고 한다. 일반적으로 관여도는 가격이 비싼 제품일수록 높지만 (     ) 수 있다. 피부에 관심이 많은 사람은 비누처럼 싼 제품을 살 때도 이것저것 꼼꼼히 살펴본다.",
+      "options": [
+        "경제력에 영향을 미칠",
+        "제품의 질을 떨어뜨릴",
+        "소비자의 부담을 덜어줄",
+        "개인의 상황에 따라 달라질"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "경제력에 영향을 미칠"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "제품의 질을 떨어뜨릴"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "소비자의 부담을 덜어줄"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "개인의 상황에 따라 달라질"
+        }
+      ],
+      "options_text": [
+        "경제력에 영향을 미칠",
+        "제품의 질을 떨어뜨릴",
+        "소비자의 부담을 덜어줄",
+        "개인의 상황에 따라 달라질"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R017",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 17
+    },
+    {
+      "id": "QB-T2-55-R018",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 6,
+      "source_printed_page": 6,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 원인 표현 선택",
+      "question_number": 18,
+      "original_question_number": 18,
+      "template_slot": 18,
+      "target_slots": [
+        18
+      ],
+      "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "물고기 중에는 독이 있어서 음식으로 먹을 때 주의해야 하는 종류가 있다. 그중 대표적인 것이 복어이다. 그런데 복어는 스스로 독을 만들어 내지 못한다. 복어의 독은 불가사리 같은 독이 있는 먹이를 먹기 때문에 생기는 것이다. 그래서 양식 복어에는 독이 거의 없다. 사람들이 복어에게 주는 먹이에 (     ) 때문이다.",
+      "passage_template": "물고기 중에는 독이 있어서 음식으로 먹을 때 주의해야 하는 종류가 있다. 그중 대표적인 것이 복어이다. 그런데 복어는 스스로 독을 만들어 내지 못한다. 복어의 독은 불가사리 같은 독이 있는 먹이를 먹기 때문에 생기는 것이다. 그래서 양식 복어에는 독이 거의 없다. 사람들이 복어에게 주는 먹이에 (     ) 때문이다.",
+      "options": [
+        "독이 없기",
+        "첨가물이 많기",
+        "기름기가 적기",
+        "영양이 풍부하기"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "독이 없기"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "첨가물이 많기"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "기름기가 적기"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "영양이 풍부하기"
+        }
+      ],
+      "options_text": [
+        "독이 없기",
+        "첨가물이 많기",
+        "기름기가 적기",
+        "영양이 풍부하기"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R018",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 18
+    },
+    {
+      "id": "QB-T2-55-R025",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 10,
+      "source_printed_page": 10,
+      "type": "news_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "신문 제목·함축 의미",
+      "question_number": 25,
+      "original_question_number": 25,
+      "template_slot": 25,
+      "target_slots": [
+        25
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "드라마 인기 폭발, 촬영지도 덩달아 유명세",
+      "passage_template": "드라마 인기 폭발, 촬영지도 덩달아 유명세",
+      "options": [
+        "드라마가 끝나자 촬영지에 대한 관심도 급격하게 줄었다.",
+        "드라마가 인기를 끌면서 촬영 장소도 함께 널리 알려지게 되었다.",
+        "드라마 촬영지에 관광객이 몰리면서 여러 문제가 발생하고 있다.",
+        "드라마는 큰 인기를 얻지 못했지만 아름다운 촬영지는 유명해졌다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "드라마가 끝나자 촬영지에 대한 관심도 급격하게 줄었다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "드라마가 인기를 끌면서 촬영 장소도 함께 널리 알려지게 되었다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "드라마 촬영지에 관광객이 몰리면서 여러 문제가 발생하고 있다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "드라마는 큰 인기를 얻지 못했지만 아름다운 촬영지는 유명해졌다."
+        }
+      ],
+      "options_text": [
+        "드라마가 끝나자 촬영지에 대한 관심도 급격하게 줄었다.",
+        "드라마가 인기를 끌면서 촬영 장소도 함께 널리 알려지게 되었다.",
+        "드라마 촬영지에 관광객이 몰리면서 여러 문제가 발생하고 있다.",
+        "드라마는 큰 인기를 얻지 못했지만 아름다운 촬영지는 유명해졌다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R025",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 25
+    },
+    {
+      "id": "QB-T2-55-R026",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 10,
+      "source_printed_page": 10,
+      "type": "news_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "신문 제목·함축 의미",
+      "question_number": 26,
+      "original_question_number": 26,
+      "template_slot": 26,
+      "target_slots": [
+        26
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "공해 도시는 옛말, ‘마주시’ 친환경 도시로 탈바꿈",
+      "passage_template": "공해 도시는 옛말, ‘마주시’ 친환경 도시로 탈바꿈",
+      "options": [
+        "예전에 공해가 없던 마주시는 대표적인 환경친화 도시로 꼽혔다.",
+        "공해가 심했던 마주시가 환경친화적인 도시로 완전히 변화했다.",
+        "공해가 심했으나 마주시는 적절한 환경 정책을 마련하지 못했다.",
+        "마주시는 공해를 줄이려고 노력했지만 환경 개선에 실패하고 말았다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "예전에 공해가 없던 마주시는 대표적인 환경친화 도시로 꼽혔다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "공해가 심했던 마주시가 환경친화적인 도시로 완전히 변화했다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "공해가 심했으나 마주시는 적절한 환경 정책을 마련하지 못했다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "마주시는 공해를 줄이려고 노력했지만 환경 개선에 실패하고 말았다."
+        }
+      ],
+      "options_text": [
+        "예전에 공해가 없던 마주시는 대표적인 환경친화 도시로 꼽혔다.",
+        "공해가 심했던 마주시가 환경친화적인 도시로 완전히 변화했다.",
+        "공해가 심했으나 마주시는 적절한 환경 정책을 마련하지 못했다.",
+        "마주시는 공해를 줄이려고 노력했지만 환경 개선에 실패하고 말았다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R026",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 26
+    },
+    {
+      "id": "QB-T2-55-R027",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 10,
+      "source_printed_page": 10,
+      "type": "news_headline",
+      "category": "신문 제목 이해",
+      "diagnostic_area": "신문 제목·함축 의미",
+      "question_number": 27,
+      "original_question_number": 27,
+      "template_slot": 27,
+      "target_slots": [
+        27
+      ],
+      "instruction": "[25~27] 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오. (각 2점)",
+      "question": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+      "passage": "고등학생 선수 올림픽 첫 출전, 예상 밖 메달 획득",
+      "passage_template": "고등학생 선수 올림픽 첫 출전, 예상 밖 메달 획득",
+      "options": [
+        "고등학생 선수가 올림픽 메달을 목표로 훈련하고 있다.",
+        "고등학생 선수가 올림픽에 다시 한 번 출전해서 메달을 땄다.",
+        "고등학생 선수가 올림픽에 참가해서 메달을 딸 것을 기대하고 있다.",
+        "고등학생 선수가 처음 올림픽에 나갔는데 생각하지도 못한 메달을 땄다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "고등학생 선수가 올림픽 메달을 목표로 훈련하고 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "고등학생 선수가 올림픽에 다시 한 번 출전해서 메달을 땄다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "고등학생 선수가 올림픽에 참가해서 메달을 딸 것을 기대하고 있다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "고등학생 선수가 처음 올림픽에 나갔는데 생각하지도 못한 메달을 땄다."
+        }
+      ],
+      "options_text": [
+        "고등학생 선수가 올림픽 메달을 목표로 훈련하고 있다.",
+        "고등학생 선수가 올림픽에 다시 한 번 출전해서 메달을 땄다.",
+        "고등학생 선수가 올림픽에 참가해서 메달을 딸 것을 기대하고 있다.",
+        "고등학생 선수가 처음 올림픽에 나갔는데 생각하지도 못한 메달을 땄다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R027",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 27
+    },
+    {
+      "id": "QB-T2-55-R028",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 11,
+      "source_printed_page": 11,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+      "question_number": 28,
+      "original_question_number": 28,
+      "template_slot": 28,
+      "target_slots": [
+        28
+      ],
+      "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "산불이 많은 것을 잃게 하는 큰 재앙임에는 틀림없지만 산불로 인해 얻는 것도 있다. 과거 대형 산불이 났던 피해지들을 조사한 결과 산불 발생 이전보다 생물의 수와 종류가 증가한 것으로 나타났다. 햇빛을 가리던 큰 나무가 줄어들면서 다른 지역보다 다양한 식물이 자랄 수 있는 환경이 조성된 것이다. 이에 따라 식물과 어울려 사는 곤충이 늘고 동물들도 함께 늘어났다. 장기적으로 보면 산불이 생태계에 (     ) 하는 것이다.",
+      "passage_template": "산불이 많은 것을 잃게 하는 큰 재앙임에는 틀림없지만 산불로 인해 얻는 것도 있다. 과거 대형 산불이 났던 피해지들을 조사한 결과 산불 발생 이전보다 생물의 수와 종류가 증가한 것으로 나타났다. 햇빛을 가리던 큰 나무가 줄어들면서 다른 지역보다 다양한 식물이 자랄 수 있는 환경이 조성된 것이다. 이에 따라 식물과 어울려 사는 곤충이 늘고 동물들도 함께 늘어났다. 장기적으로 보면 산불이 생태계에 (     ) 하는 것이다.",
+      "options": [
+        "오염을 확산시키기도",
+        "고립성을 부여하기도",
+        "심각한 해를 입히기도",
+        "긍정적인 영향을 미치기도"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "오염을 확산시키기도"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "고립성을 부여하기도"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "심각한 해를 입히기도"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "긍정적인 영향을 미치기도"
+        }
+      ],
+      "options_text": [
+        "오염을 확산시키기도",
+        "고립성을 부여하기도",
+        "심각한 해를 입히기도",
+        "긍정적인 영향을 미치기도"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R028",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 28
+    },
+    {
+      "id": "QB-T2-55-R029",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 11,
+      "source_printed_page": 11,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "question_number": 29,
+      "original_question_number": 29,
+      "template_slot": 29,
+      "target_slots": [
+        29
+      ],
+      "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "대규모 행사에서 참가자들의 기원을 담아 풍선을 날리는 경우가 있다. 그렇게 하늘에 올라간 풍선 대부분은 바람이 빠진 채 땅이나 바다에 떨어진다. 그런데 이 풍선으로 인해 야생동물들의 (     ) 있다. 산양이나 소 같은 초식동물들이 바람 빠진 풍선을 풀잎으로 착각해서 먹기도 하고 거북이가 풍선을 해파리로 착각해 삼켰다가 죽는 경우도 있다. 풍선에 달린 끈도 조류의 다리에 감기면 치명적이다.",
+      "passage_template": "대규모 행사에서 참가자들의 기원을 담아 풍선을 날리는 경우가 있다. 그렇게 하늘에 올라간 풍선 대부분은 바람이 빠진 채 땅이나 바다에 떨어진다. 그런데 이 풍선으로 인해 야생동물들의 (     ) 있다. 산양이나 소 같은 초식동물들이 바람 빠진 풍선을 풀잎으로 착각해서 먹기도 하고 거북이가 풍선을 해파리로 착각해 삼켰다가 죽는 경우도 있다. 풍선에 달린 끈도 조류의 다리에 감기면 치명적이다.",
+      "options": [
+        "활동이 증가하고",
+        "피해가 잇따르고",
+        "서식지가 넓어지고",
+        "공격성이 강해지고"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "활동이 증가하고"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "피해가 잇따르고"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "서식지가 넓어지고"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "공격성이 강해지고"
+        }
+      ],
+      "options_text": [
+        "활동이 증가하고",
+        "피해가 잇따르고",
+        "서식지가 넓어지고",
+        "공격성이 강해지고"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R029",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 29
+    },
+    {
+      "id": "QB-T2-55-R030",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 12,
+      "source_printed_page": 12,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 원인 표현 선택",
+      "question_number": 30,
+      "original_question_number": 30,
+      "template_slot": 30,
+      "target_slots": [
+        30
+      ],
+      "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "눈 내리는 겨울날은 다른 날보다 조용하다. 공기의 진동을 통해 전달되는 소리를 눈송이가 차단해 주기 때문이다. 눈송이는 자세히 들여다보면 육각형 모양의 아주 작은 얼음 결정체들로 이루어져 있다. 이 결정체들 사이에 수없이 많은 틈이 있어 공기가 들어간다. 이 틈으로 (     ) 소리가 줄어드는 것이다.",
+      "passage_template": "눈 내리는 겨울날은 다른 날보다 조용하다. 공기의 진동을 통해 전달되는 소리를 눈송이가 차단해 주기 때문이다. 눈송이는 자세히 들여다보면 육각형 모양의 아주 작은 얼음 결정체들로 이루어져 있다. 이 결정체들 사이에 수없이 많은 틈이 있어 공기가 들어간다. 이 틈으로 (     ) 소리가 줄어드는 것이다.",
+      "options": [
+        "눈이 녹아내려",
+        "얼음 씨앗거려",
+        "얼음 결정체를 깨뜨려",
+        "공기의 진동이 흡수되어"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "눈이 녹아내려"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "얼음 씨앗거려"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "얼음 결정체를 깨뜨려"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "공기의 진동이 흡수되어"
+        }
+      ],
+      "options_text": [
+        "눈이 녹아내려",
+        "얼음 씨앗거려",
+        "얼음 결정체를 깨뜨려",
+        "공기의 진동이 흡수되어"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R030",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 30
+    },
+    {
+      "id": "QB-T2-55-R031",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 12,
+      "source_printed_page": 12,
+      "type": "blank_expression",
+      "category": "빈칸 표현",
+      "diagnostic_area": "문맥에 맞는 명사구 선택",
+      "question_number": 31,
+      "original_question_number": 31,
+      "template_slot": 31,
+      "target_slots": [
+        31
+      ],
+      "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+      "passage": "‘실용신안’은 특허와 함께 기술이나 아이디어를 보호하는 대표적인 지식 재산권이다. 특허가 발명에 대한 권리를 보호한다면 실용신안은 이미 발명된 물품을 보다 편리하고 유용하게 하는 기술에 대한 권리를 보호한다. 최초 개발된 연필이 특허의 대상이라면 연필이 굴러 가는 것을 방지하기 위해 만든 육각 연필은 실용신안의 대상으로 볼 수 있다. 위와 같은 (     ) 충분히 권리를 보호받을 수 있는 것이다.",
+      "passage_template": "‘실용신안’은 특허와 함께 기술이나 아이디어를 보호하는 대표적인 지식 재산권이다. 특허가 발명에 대한 권리를 보호한다면 실용신안은 이미 발명된 물품을 보다 편리하고 유용하게 하는 기술에 대한 권리를 보호한다. 최초 개발된 연필이 특허의 대상이라면 연필이 굴러 가는 것을 방지하기 위해 만든 육각 연필은 실용신안의 대상으로 볼 수 있다. 위와 같은 (     ) 충분히 권리를 보호받을 수 있는 것이다.",
+      "options": [
+        "판매 방식에 대한 제안도",
+        "제조 절차의 획기적인 변화도",
+        "장기적인 보관 기술의 개발도",
+        "기존 물품에 대한 부분적인 개선도"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "판매 방식에 대한 제안도"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "제조 절차의 획기적인 변화도"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "장기적인 보관 기술의 개발도"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "기존 물품에 대한 부분적인 개선도"
+        }
+      ],
+      "options_text": [
+        "판매 방식에 대한 제안도",
+        "제조 절차의 획기적인 변화도",
+        "장기적인 보관 기술의 개발도",
+        "기존 물품에 대한 부분적인 개선도"
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "blank_key": "blank_1",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R031",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 31
+    },
+    {
+      "id": "QB-T2-55-R032",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 13,
+      "source_printed_page": 13,
+      "type": "same_content_long",
+      "category": "긴 지문 내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "question_number": 32,
+      "original_question_number": 32,
+      "template_slot": 32,
+      "target_slots": [
+        32
+      ],
+      "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+      "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+      "passage": "고려 시대에는 ‘다점’이라는 찻집이 있었다. 다점은 국가에서 직접 운영하는 경우가 많았고 주요 교통로를 따라 설치되었다. 차를 마시면서 쉬거나 잠깐 누워서 낮잠을 잘 수 있는 누각이 있어 오늘날의 고속도로 휴게소와 비슷한 역할을 수행했다. 그러나 조선 시대에 이르러 차를 마시는 문화가 쇠퇴하면서 술을 판매하는 주막이 그 자리를 대신하게 되었다.",
+      "passage_template": "고려 시대에는 ‘다점’이라는 찻집이 있었다. 다점은 국가에서 직접 운영하는 경우가 많았고 주요 교통로를 따라 설치되었다. 차를 마시면서 쉬거나 잠깐 누워서 낮잠을 잘 수 있는 누각이 있어 오늘날의 고속도로 휴게소와 비슷한 역할을 수행했다. 그러나 조선 시대에 이르러 차를 마시는 문화가 쇠퇴하면서 술을 판매하는 주막이 그 자리를 대신하게 되었다.",
+      "options": [
+        "‘다점’은 민간에서 경영하는 것이 대다수였다.",
+        "‘다점’은 이동 중 잠시 휴식할 수 있는 장소로 쓰였다.",
+        "조선 시대에는 고려 시대보다 차 문화가 성행하였다.",
+        "고려 시대의 ‘다점’은 사람들의 왕래가 적은 곳에 설치되었다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "‘다점’은 민간에서 경영하는 것이 대다수였다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "‘다점’은 이동 중 잠시 휴식할 수 있는 장소로 쓰였다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "조선 시대에는 고려 시대보다 차 문화가 성행하였다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "고려 시대의 ‘다점’은 사람들의 왕래가 적은 곳에 설치되었다."
+        }
+      ],
+      "options_text": [
+        "‘다점’은 민간에서 경영하는 것이 대다수였다.",
+        "‘다점’은 이동 중 잠시 휴식할 수 있는 장소로 쓰였다.",
+        "조선 시대에는 고려 시대보다 차 문화가 성행하였다.",
+        "고려 시대의 ‘다점’은 사람들의 왕래가 적은 곳에 설치되었다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R032",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 32
+    },
+    {
+      "id": "QB-T2-55-R033",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 13,
+      "source_printed_page": 13,
+      "type": "same_content",
+      "category": "내용 일치",
+      "diagnostic_area": "짧은 글의 세부 내용 파악",
+      "question_number": 33,
+      "original_question_number": 33,
+      "template_slot": 33,
+      "target_slots": [
+        33
+      ],
+      "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+      "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+      "passage": "인천공항에서는 지난 8월부터 기내 반입 금지품에 대한 보관 및 택배 서비스를 시행하고 있다. 이전에는 비행기에 가지고 탈 수 없는 물품이 보안검색대에서 적발될 경우 항공사 창구로 돌아가 다시 짐을 부쳐야 했다. 탑승 시간이 임박했을 때는 화장품 같은 비싼 물품도 어쩔 수 없이 버려야만 했다. 하지만 이제 공항에 맡겨 두거나 택배로 보낼 수 있게 되어 공항 이용객의 만족도가 높아질 것으로 전망된다.",
+      "passage_template": "인천공항에서는 지난 8월부터 기내 반입 금지품에 대한 보관 및 택배 서비스를 시행하고 있다. 이전에는 비행기에 가지고 탈 수 없는 물품이 보안검색대에서 적발될 경우 항공사 창구로 돌아가 다시 짐을 부쳐야 했다. 탑승 시간이 임박했을 때는 화장품 같은 비싼 물품도 어쩔 수 없이 버려야만 했다. 하지만 이제 공항에 맡겨 두거나 택배로 보낼 수 있게 되어 공항 이용객의 만족도가 높아질 것으로 전망된다.",
+      "options": [
+        "이 서비스로는 고가의 물품을 보낼 수 없다.",
+        "이 서비스에 대한 승객들의 불만이 적지 않다.",
+        "이 서비스 시행 전에는 적발된 물품을 버리는 승객도 있었다.",
+        "이 서비스 시행으로 항공사 창구에서 짐을 부칠 수 있게 되었다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "이 서비스로는 고가의 물품을 보낼 수 없다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "이 서비스에 대한 승객들의 불만이 적지 않다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "이 서비스 시행 전에는 적발된 물품을 버리는 승객도 있었다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "이 서비스 시행으로 항공사 창구에서 짐을 부칠 수 있게 되었다."
+        }
+      ],
+      "options_text": [
+        "이 서비스로는 고가의 물품을 보낼 수 없다.",
+        "이 서비스에 대한 승객들의 불만이 적지 않다.",
+        "이 서비스 시행 전에는 적발된 물품을 버리는 승객도 있었다.",
+        "이 서비스 시행으로 항공사 창구에서 짐을 부칠 수 있게 되었다."
+      ],
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R033",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 33
+    },
+    {
+      "id": "QB-T2-55-R034",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 14,
+      "source_printed_page": 14,
+      "type": "same_content_long",
+      "category": "긴 지문 내용 일치",
+      "diagnostic_area": "긴 지문의 세부 내용 일치 판단",
+      "question_number": 34,
+      "original_question_number": 34,
+      "template_slot": 34,
+      "target_slots": [
+        34
+      ],
+      "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+      "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+      "passage": "오케스트라에서 지휘자의 지휘봉은 단순히 연주의 진행을 위한 도구가 아니라 지휘자의 예술적 영감을 표현하는 또 하나의 악기와 같다. 지휘자의 감성과 의지가 지휘봉 끝의 미묘한 떨림 등에 의해 연주자에게 전달되어 지휘자와 연주자의 협업이 이루어지기 때문이다. 그러므로 지휘자들은 자신만의 곡 해석을 잘 표현하기 위해 지휘봉 선택에 신중을 기한다. 어떤 지휘자는 자기 집 나무의 가지를 잘라 지휘봉을 만드는 수고를 마다하지 않는다.",
+      "passage_template": "오케스트라에서 지휘자의 지휘봉은 단순히 연주의 진행을 위한 도구가 아니라 지휘자의 예술적 영감을 표현하는 또 하나의 악기와 같다. 지휘자의 감성과 의지가 지휘봉 끝의 미묘한 떨림 등에 의해 연주자에게 전달되어 지휘자와 연주자의 협업이 이루어지기 때문이다. 그러므로 지휘자들은 자신만의 곡 해석을 잘 표현하기 위해 지휘봉 선택에 신중을 기한다. 어떤 지휘자는 자기 집 나무의 가지를 잘라 지휘봉을 만드는 수고를 마다하지 않는다.",
+      "options": [
+        "지휘자는 직접 악기 연주에 참여한다.",
+        "지휘봉의 규격은 일정하게 정해져 있다.",
+        "연주자는 자신의 곡 해석대로 연주한다.",
+        "지휘자는 지휘봉으로 연주자들과 소통한다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "지휘자는 직접 악기 연주에 참여한다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "지휘봉의 규격은 일정하게 정해져 있다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "연주자는 자신의 곡 해석대로 연주한다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "지휘자는 지휘봉으로 연주자들과 소통한다."
+        }
+      ],
+      "options_text": [
+        "지휘자는 직접 악기 연주에 참여한다.",
+        "지휘봉의 규격은 일정하게 정해져 있다.",
+        "연주자는 자신의 곡 해석대로 연주한다.",
+        "지휘자는 지휘봉으로 연주자들과 소통한다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R034",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 34
+    },
+    {
+      "id": "QB-T2-55-R035",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 14,
+      "source_printed_page": 14,
+      "type": "main_idea",
+      "category": "중심 내용 파악",
+      "diagnostic_area": "중심 내용·주제 파악",
+      "question_number": 35,
+      "original_question_number": 35,
+      "template_slot": 35,
+      "target_slots": [
+        35
+      ],
+      "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "초원에서 아카시아나무는 개미와 서로 도우며 살아간다. 개미는 아카시아나무에 구멍을 뚫고 살면서 거기서 나오는 꿀을 먹는 대신 코끼리나 기린 같은 초식동물로부터 아카시아나무를 지켜 준다. 초식동물이 아카시아나무의 잎을 먹으려는 순간 개미들이 몰려나와 초식동물의 콧속 같은 예민한 곳을 물어 대며 괴롭힌다. 그런 공격을 당한 초식동물은 아카시아나무를 피하게 되고 결국 아카시아나무는 피해를 입지 않고 살아남게 되는 것이다.",
+      "passage_template": "초원에서 아카시아나무는 개미와 서로 도우며 살아간다. 개미는 아카시아나무에 구멍을 뚫고 살면서 거기서 나오는 꿀을 먹는 대신 코끼리나 기린 같은 초식동물로부터 아카시아나무를 지켜 준다. 초식동물이 아카시아나무의 잎을 먹으려는 순간 개미들이 몰려나와 초식동물의 콧속 같은 예민한 곳을 물어 대며 괴롭힌다. 그런 공격을 당한 초식동물은 아카시아나무를 피하게 되고 결국 아카시아나무는 피해를 입지 않고 살아남게 되는 것이다.",
+      "options": [
+        "아카시아나무와 개미는 공생 관계에 있다.",
+        "초식동물을 피하기 위해 아카시아나무를 심는다.",
+        "개미는 무리를 지어 초식동물의 공격에 대비한다.",
+        "아카시아나무는 초식동물에게 중요한 식량 자원이다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "아카시아나무와 개미는 공생 관계에 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "초식동물을 피하기 위해 아카시아나무를 심는다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "개미는 무리를 지어 초식동물의 공격에 대비한다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "아카시아나무는 초식동물에게 중요한 식량 자원이다."
+        }
+      ],
+      "options_text": [
+        "아카시아나무와 개미는 공생 관계에 있다.",
+        "초식동물을 피하기 위해 아카시아나무를 심는다.",
+        "개미는 무리를 지어 초식동물의 공격에 대비한다.",
+        "아카시아나무는 초식동물에게 중요한 식량 자원이다."
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R035",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 35
+    },
+    {
+      "id": "QB-T2-55-R036",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 15,
+      "source_printed_page": 15,
+      "type": "main_idea",
+      "category": "중심 내용 파악",
+      "diagnostic_area": "중심 내용·주제 파악",
+      "question_number": 36,
+      "original_question_number": 36,
+      "template_slot": 36,
+      "target_slots": [
+        36
+      ],
+      "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "많은 자금을 투자해 문을 연 음식점이 갈수록 경영이 악화된다면 어떻게 할까? 장사를 계속해도 그만둬도 초기 투자금을 회수하지 못하는 상황이 된다. 이렇게 지불한 후 돌려받을 수 없는 매몰비용이 생길 때 투자한 돈이 아까워 그 일을 그만두지 못하는 사람들이 있다. 그러나 매몰비용에 집착하다 보면 더 큰 손해를 볼 수 있다는 것을 알아야 한다. 어쩔 수 없는 매몰비용은 빨리 잊어버리고 앞으로의 손익에 집중하는 것이 더 현명하다.",
+      "passage_template": "많은 자금을 투자해 문을 연 음식점이 갈수록 경영이 악화된다면 어떻게 할까? 장사를 계속해도 그만둬도 초기 투자금을 회수하지 못하는 상황이 된다. 이렇게 지불한 후 돌려받을 수 없는 매몰비용이 생길 때 투자한 돈이 아까워 그 일을 그만두지 못하는 사람들이 있다. 그러나 매몰비용에 집착하다 보면 더 큰 손해를 볼 수 있다는 것을 알아야 한다. 어쩔 수 없는 매몰비용은 빨리 잊어버리고 앞으로의 손익에 집중하는 것이 더 현명하다.",
+      "options": [
+        "사업을 시작할 때는 먼저 매몰비용을 계산해야 한다.",
+        "현명한 사람이라면 매몰비용을 아껴서 돈을 절약해야 한다.",
+        "매몰비용을 회수할 수 있는 방법을 여러 측면에서 찾아야 한다.",
+        "매몰비용에 집착해 잘못된 판단을 하지 않도록 조심해야 한다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "사업을 시작할 때는 먼저 매몰비용을 계산해야 한다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "현명한 사람이라면 매몰비용을 아껴서 돈을 절약해야 한다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "매몰비용을 회수할 수 있는 방법을 여러 측면에서 찾아야 한다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "매몰비용에 집착해 잘못된 판단을 하지 않도록 조심해야 한다."
+        }
+      ],
+      "options_text": [
+        "사업을 시작할 때는 먼저 매몰비용을 계산해야 한다.",
+        "현명한 사람이라면 매몰비용을 아껴서 돈을 절약해야 한다.",
+        "매몰비용을 회수할 수 있는 방법을 여러 측면에서 찾아야 한다.",
+        "매몰비용에 집착해 잘못된 판단을 하지 않도록 조심해야 한다."
+      ],
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R036",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 36
+    },
+    {
+      "id": "QB-T2-55-R037",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 15,
+      "source_printed_page": 15,
+      "type": "main_idea",
+      "category": "중심 내용 파악",
+      "diagnostic_area": "중심 내용·주제 파악",
+      "question_number": 37,
+      "original_question_number": 37,
+      "template_slot": 37,
+      "target_slots": [
+        37
+      ],
+      "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "지역 문학관은 그 지역 출신이거나 그곳에서 창작 활동을 했던 작가를 기념하기 위해 짓는다. 그런데 작가의 문학 세계를 충분히 느낄 수 있는 공간이 되지 못해 관람객들의 외면을 받는 경우가 많다. 그저 작가의 유품, 책 등을 보여 주는 단순 전시 공간에 머물기 때문이다. 그런 점에서 이효석 문학관은 주목할 만하다. 문학관 주변에 소설 속 배경처럼 드넓은 메밀밭을 조성하여 관람객들에게 마치 작품 속에 들어와 있는 듯한 느낌을 준다.",
+      "passage_template": "지역 문학관은 그 지역 출신이거나 그곳에서 창작 활동을 했던 작가를 기념하기 위해 짓는다. 그런데 작가의 문학 세계를 충분히 느낄 수 있는 공간이 되지 못해 관람객들의 외면을 받는 경우가 많다. 그저 작가의 유품, 책 등을 보여 주는 단순 전시 공간에 머물기 때문이다. 그런 점에서 이효석 문학관은 주목할 만하다. 문학관 주변에 소설 속 배경처럼 드넓은 메밀밭을 조성하여 관람객들에게 마치 작품 속에 들어와 있는 듯한 느낌을 준다.",
+      "options": [
+        "문학관은 주변에 넓은 공원을 조성해야 성공할 수 있다.",
+        "문학관은 작가의 문학 세계를 공감할 수 있는 곳이어야 한다.",
+        "문학관은 관람객 취향에 맞게 작가의 작품을 전시하는 것이 좋다.",
+        "문학관은 전시를 세련되게 하지 못하면 관람객들의 외면을 받는다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "문학관은 주변에 넓은 공원을 조성해야 성공할 수 있다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "문학관은 작가의 문학 세계를 공감할 수 있는 곳이어야 한다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "문학관은 관람객 취향에 맞게 작가의 작품을 전시하는 것이 좋다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "문학관은 전시를 세련되게 하지 못하면 관람객들의 외면을 받는다."
+        }
+      ],
+      "options_text": [
+        "문학관은 주변에 넓은 공원을 조성해야 성공할 수 있다.",
+        "문학관은 작가의 문학 세계를 공감할 수 있는 곳이어야 한다.",
+        "문학관은 관람객 취향에 맞게 작가의 작품을 전시하는 것이 좋다.",
+        "문학관은 전시를 세련되게 하지 못하면 관람객들의 외면을 받는다."
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R037",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 37
+    },
+    {
+      "id": "QB-T2-55-R038",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 16,
+      "source_printed_page": 16,
+      "type": "main_idea",
+      "category": "필자 의도·주장",
+      "diagnostic_area": "필자 의도·주장",
+      "question_number": 38,
+      "original_question_number": 38,
+      "template_slot": 38,
+      "target_slots": [
+        38
+      ],
+      "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+      "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+      "passage": "사람들은 끝맺지 못한 일을 더 오랫동안 기억하는 경향이 있는데 이를 미완성 효과라고 한다. 상대적으로 잘 한 일보다는 마무리를 못해 아쉬웠던 일이나 해결되지 않은 문제들이 우리의 기억을 지배하는 것이다. 예컨대 과제를 수행할 때 과제를 완성한 사람보다 중도에 그만둔 사람이 과제 내용을 더 잘 기억한다. 또한 사람들이 불안전한 첫사랑의 기억을 오래 간직하는 것도 이러한 심리가 작용한 것이라고 볼 수 있다.",
+      "passage_template": "사람들은 끝맺지 못한 일을 더 오랫동안 기억하는 경향이 있는데 이를 미완성 효과라고 한다. 상대적으로 잘 한 일보다는 마무리를 못해 아쉬웠던 일이나 해결되지 않은 문제들이 우리의 기억을 지배하는 것이다. 예컨대 과제를 수행할 때 과제를 완성한 사람보다 중도에 그만둔 사람이 과제 내용을 더 잘 기억한다. 또한 사람들이 불안전한 첫사랑의 기억을 오래 간직하는 것도 이러한 심리가 작용한 것이라고 볼 수 있다.",
+      "options": [
+        "인간은 완성하지 못해 아쉬운 일을 더 오래 기억한다.",
+        "인간은 완성하지 못한 과제를 언젠가 다시 수행한다.",
+        "사람들은 보통 해결하지 못한 문제를 회피하려고 한다.",
+        "사람들은 사랑을 불완전한 것으로 여기는 경향이 있다."
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "인간은 완성하지 못해 아쉬운 일을 더 오래 기억한다."
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "인간은 완성하지 못한 과제를 언젠가 다시 수행한다."
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "사람들은 보통 해결하지 못한 문제를 회피하려고 한다."
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "사람들은 사랑을 불완전한 것으로 여기는 경향이 있다."
+        }
+      ],
+      "options_text": [
+        "인간은 완성하지 못해 아쉬운 일을 더 오래 기억한다.",
+        "인간은 완성하지 못한 과제를 언젠가 다시 수행한다.",
+        "사람들은 보통 해결하지 못한 문제를 회피하려고 한다.",
+        "사람들은 사랑을 불완전한 것으로 여기는 경향이 있다."
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R038",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 38
+    },
+    {
+      "id": "QB-T2-55-R039",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 16,
+      "source_printed_page": 16,
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "question_number": 39,
+      "original_question_number": 39,
+      "template_slot": 39,
+      "target_slots": [
+        39
+      ],
+      "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+      "question": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+      "passage": "거짓말과 코는 정말 관련이 있을까? ( ㉠ ) 한 실험 결과에 따르면 거짓말을 할 때 들통 날지 모른다는 긴장감과 불안감 때문에 특정 호르몬이 분비된다고 한다. ( ㉡ ) 이 호르몬은 콧속 조직을 팽창시키고 혈압을 높여 코가 간지럽게 만든다. ( ㉢ ) 그래서 거짓말을 할 때 자꾸 코를 만지게 된다. ( ㉣ ) 따라서 거짓말과 코는 어느 정도 상관관계가 있다.",
+      "passage_template": "거짓말과 코는 정말 관련이 있을까? ( ㉠ ) 한 실험 결과에 따르면 거짓말을 할 때 들통 날지 모른다는 긴장감과 불안감 때문에 특정 호르몬이 분비된다고 한다. ( ㉡ ) 이 호르몬은 콧속 조직을 팽창시키고 혈압을 높여 코가 간지럽게 만든다. ( ㉢ ) 그래서 거짓말을 할 때 자꾸 코를 만지게 된다. ( ㉣ ) 따라서 거짓말과 코는 어느 정도 상관관계가 있다.",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_to_insert": "거짓말을 하면 코가 길어진다는 동화 속 이야기 때문에 우리는 항상 그런 호기심을 가져 왔다.",
+      "given_sentence": "거짓말을 하면 코가 길어진다는 동화 속 이야기 때문에 우리는 항상 그런 호기심을 가져 왔다.",
+      "insert_sentence": "거짓말을 하면 코가 길어진다는 동화 속 이야기 때문에 우리는 항상 그런 호기심을 가져 왔다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_insert_position": "㉠",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R039",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 39
+    },
+    {
+      "id": "QB-T2-55-R040",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 17,
+      "source_printed_page": 17,
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "question_number": 40,
+      "original_question_number": 40,
+      "template_slot": 40,
+      "target_slots": [
+        40
+      ],
+      "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+      "question": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+      "passage": "섬 탐험가 김민수 씨가 13권에 이르는 『한국의 섬들』 시리즈를 출간했다. ( ㉠ ) 저자는 20여 년에 걸쳐 한국의 섬을 모두 찾아다니며 섬의 지리적 특성과 동식물 현황 등 수많은 자료를 수집하고 기록했다. ( ㉡ ) 또 자연과 더불어 살아가는 섬사람들의 치열한 삶도 고스란히 담았다. ( ㉢ ) 아름다운 우리 섬과 섬사람들의 삶을 느끼고 싶은 분들께 이 책을 추천한다. ( ㉣ ) 책을 펼치는 순간, 당신은 섬의 매력에 빠져들게 될 것이다.",
+      "passage_template": "섬 탐험가 김민수 씨가 13권에 이르는 『한국의 섬들』 시리즈를 출간했다. ( ㉠ ) 저자는 20여 년에 걸쳐 한국의 섬을 모두 찾아다니며 섬의 지리적 특성과 동식물 현황 등 수많은 자료를 수집하고 기록했다. ( ㉡ ) 또 자연과 더불어 살아가는 섬사람들의 치열한 삶도 고스란히 담았다. ( ㉢ ) 아름다운 우리 섬과 섬사람들의 삶을 느끼고 싶은 분들께 이 책을 추천한다. ( ㉣ ) 책을 펼치는 순간, 당신은 섬의 매력에 빠져들게 될 것이다.",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_to_insert": "이 책이 단순한 정보 서적이 아닌 자연과 사람의 이야기를 담은 책으로 느껴지는 이유이다.",
+      "given_sentence": "이 책이 단순한 정보 서적이 아닌 자연과 사람의 이야기를 담은 책으로 느껴지는 이유이다.",
+      "insert_sentence": "이 책이 단순한 정보 서적이 아닌 자연과 사람의 이야기를 담은 책으로 느껴지는 이유이다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_insert_position": "㉡",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R040",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 40
+    },
+    {
+      "id": "QB-T2-55-R041",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "test_level": "TOPIK II",
+      "level": "TOPIK II",
+      "section": "reading",
+      "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+      "answer_key_status": "user_provided_answer_table",
+      "is_official_answer_key": false,
+      "needs_text_review": false,
+      "needs_answer_review": false,
+      "review_confidence": "screen_reviewed_by_user",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "source_pdf_page": 17,
+      "source_printed_page": 17,
+      "type": "sentence_insert",
+      "category": "문장 삽입",
+      "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+      "question_number": 41,
+      "original_question_number": 41,
+      "template_slot": 41,
+      "target_slots": [
+        41
+      ],
+      "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+      "question": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+      "passage": "조선 시대에는 왕위 계승자인 세자의 교육을 매우 중시했다. ( ㉠ ) 세자 한 사람의 교육을 위해서 ‘세자시강원’이라는 관청이 설치될 정도였다. ( ㉡ ) 그리고 교육받은 내용에 대해서는 시시때때로 왕과 스승, 세자시강원 관원을 비롯한 수많은 사람들로부터 엄격한 평가를 받아야 했다. ( ㉢ ) 세자를 이렇게 혹독하게 교육했던 것은 장차 왕이 되어 국가의 운명을 좌우할 사람이었기 때문이다. ( ㉣ )",
+      "passage_template": "조선 시대에는 왕위 계승자인 세자의 교육을 매우 중시했다. ( ㉠ ) 세자 한 사람의 교육을 위해서 ‘세자시강원’이라는 관청이 설치될 정도였다. ( ㉡ ) 그리고 교육받은 내용에 대해서는 시시때때로 왕과 스승, 세자시강원 관원을 비롯한 수많은 사람들로부터 엄격한 평가를 받아야 했다. ( ㉢ ) 세자를 이렇게 혹독하게 교육했던 것은 장차 왕이 되어 국가의 운명을 좌우할 사람이었기 때문이다. ( ㉣ )",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "option_objects": [
+        {
+          "label": "1",
+          "number": 1,
+          "text": "㉠"
+        },
+        {
+          "label": "2",
+          "number": 2,
+          "text": "㉡"
+        },
+        {
+          "label": "3",
+          "number": 3,
+          "text": "㉢"
+        },
+        {
+          "label": "4",
+          "number": 4,
+          "text": "㉣"
+        }
+      ],
+      "options_text": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2,
+      "description": "",
+      "image_url": "",
+      "sentence_to_insert": "세자는 이곳에서 매일 아침, 점심, 저녁 세 번에 걸쳐 정치 지도자가 갖추어야 할 식견에 대한 강의를 들어야 했다.",
+      "given_sentence": "세자는 이곳에서 매일 아침, 점심, 저녁 세 번에 걸쳐 정치 지도자가 갖추어야 할 식견에 대한 강의를 들어야 했다.",
+      "insert_sentence": "세자는 이곳에서 매일 아침, 점심, 저녁 세 번에 걸쳐 정치 지도자가 갖추어야 할 식견에 대한 강의를 들어야 했다.",
+      "insert_positions": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "correct_insert_position": "㉡",
+      "full_exam_id": "reading-55",
+      "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+      "bank_id": "QB-T2-55-R041",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "source_full_exam_id": "reading-55",
+      "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+      "target_slot": 41
+    }
+  ],
+  "passage_sets": [
+    {
+      "set_id": "QB-T2-55-SET-R019-R020",
+      "id": "QB-T2-55-SET-R019-R020",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R019-R020",
+      "passage_group_title": "[19~20] 공통 지문",
+      "group_title": "[19~20] 공통 지문",
+      "target_slots": [
+        19,
+        20
+      ],
+      "original_question_numbers": [
+        19,
+        20
+      ],
+      "source_pdf_pages": [
+        7
+      ],
+      "source_printed_pages": [
+        7
+      ],
+      "passage": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+      "passage_template": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R019",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 7,
+          "source_printed_page": 7,
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "공통 지문에서 연결어 선택",
+          "question_number": 19,
+          "original_question_number": 19,
+          "template_slot": 19,
+          "target_slots": [
+            19
+          ],
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+          "passage": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+          "passage_template": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+          "options": [
+            "결국",
+            "물론",
+            "만약",
+            "비록"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "결국"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "물론"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "만약"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "비록"
+            }
+          ],
+          "options_text": [
+            "결국",
+            "물론",
+            "만약",
+            "비록"
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R019-R020",
+          "passage_group_title": "[19~20] 공통 지문",
+          "passage_group_numbers": [
+            19,
+            20
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 19,
+          "shared_blank_target_questions": [
+            19,
+            20
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R019-R020",
+          "passage_set_lock_id": "55-R019-R020",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            19,
+            20
+          ],
+          "set_original_question_numbers": [
+            19,
+            20
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 1,
+          "blank_key": "blank_1",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R019",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 19
+        },
+        {
+          "id": "QB-T2-55-R020",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 7,
+          "source_printed_page": 7,
+          "type": "common_passage_question",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "공통 지문의 세부 정보 파악",
+          "question_number": 20,
+          "original_question_number": 20,
+          "template_slot": 20,
+          "target_slots": [
+            20
+          ],
+          "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 내용과 같은 것을 고르십시오.",
+          "passage": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+          "passage_template": "발열 의류는 섬유에서 열이 나서 몸을 따뜻하게 만드는 옷을 말한다. 그중에는 배터리가 달려 있는 것도 있다. 이 옷은 배터리를 작동시키면 5분 이내에 섬유의 온도가 40도까지 높아져 겨울철 장시간 야외 활동을 할 때에도 체온을 유지시켜 준다. 배터리를 제거하면 세탁도 가능하다. (     ) 발열 의류에도 단점이 없는 것은 아니다. 발열 의류는 특수 소재를 사용해서 가격이 비싸고 일반 옷보다 착용감이 다소 떨어진다.",
+          "options": [
+            "발열 의류에 사용된 소재는 비교적 저렴한 편이다.",
+            "발열 의류는 아직까지 특별한 단점이 발견되지 않았다.",
+            "발열 의류에 달려 있는 배터리를 분리하는 것이 가능하다.",
+            "발열 의류는 체온을 이용하여 열을 내는 방식으로 작동된다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "발열 의류에 사용된 소재는 비교적 저렴한 편이다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "발열 의류는 아직까지 특별한 단점이 발견되지 않았다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "발열 의류에 달려 있는 배터리를 분리하는 것이 가능하다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "발열 의류는 체온을 이용하여 열을 내는 방식으로 작동된다."
+            }
+          ],
+          "options_text": [
+            "발열 의류에 사용된 소재는 비교적 저렴한 편이다.",
+            "발열 의류는 아직까지 특별한 단점이 발견되지 않았다.",
+            "발열 의류에 달려 있는 배터리를 분리하는 것이 가능하다.",
+            "발열 의류는 체온을 이용하여 열을 내는 방식으로 작동된다."
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R019-R020",
+          "passage_group_title": "[19~20] 공통 지문",
+          "passage_group_numbers": [
+            19,
+            20
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 19,
+          "shared_blank_target_questions": [
+            19,
+            20
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R019-R020",
+          "passage_set_lock_id": "55-R019-R020",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            19,
+            20
+          ],
+          "set_original_question_numbers": [
+            19,
+            20
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 2,
+          "blank_key": "",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R020",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 20
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R021-R022",
+      "id": "QB-T2-55-SET-R021-R022",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R021-R022",
+      "passage_group_title": "[21~22] 공통 지문",
+      "group_title": "[21~22] 공통 지문",
+      "target_slots": [
+        21,
+        22
+      ],
+      "original_question_numbers": [
+        21,
+        22
+      ],
+      "source_pdf_pages": [
+        8
+      ],
+      "source_printed_pages": [
+        8
+      ],
+      "passage": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+      "passage_template": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R021",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 8,
+          "source_printed_page": 8,
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "공통 지문에서 관용 표현 선택",
+          "question_number": 21,
+          "original_question_number": 21,
+          "template_slot": 21,
+          "target_slots": [
+            21
+          ],
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+          "passage": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+          "passage_template": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+          "options": [
+            "입을 막다가",
+            "발목을 잡다가",
+            "눈치를 보다가",
+            "등을 떠밀다가"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "입을 막다가"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "발목을 잡다가"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "눈치를 보다가"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "등을 떠밀다가"
+            }
+          ],
+          "options_text": [
+            "입을 막다가",
+            "발목을 잡다가",
+            "눈치를 보다가",
+            "등을 떠밀다가"
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R021-R022",
+          "passage_group_title": "[21~22] 공통 지문",
+          "passage_group_numbers": [
+            21,
+            22
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 21,
+          "shared_blank_target_questions": [
+            21,
+            22
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R021-R022",
+          "passage_set_lock_id": "55-R021-R022",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            21,
+            22
+          ],
+          "set_original_question_numbers": [
+            21,
+            22
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 1,
+          "blank_key": "blank_1",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R021",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 21
+        },
+        {
+          "id": "QB-T2-55-R022",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 8,
+          "source_printed_page": 8,
+          "type": "common_passage_question",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "공통 지문 주제·중심 생각",
+          "question_number": 22,
+          "original_question_number": 22,
+          "template_slot": 22,
+          "target_slots": [
+            22
+          ],
+          "instruction": "[21~22] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 중심 생각을 고르십시오.",
+          "passage": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+          "passage_template": "회사에서는 조직 관리의 효율성을 위해 직원들을 능력에 따라 분류하는 경향이 있다. 그런데 한번 무능한 직원으로 분류되면 일을 잘해도 잘한다는 평가를 받기 어렵다. 또 사소한 실수를 하게 되면 무능해서 그렇다는 말을 듣게 된다. 그래서 이런 직원은 계속 지적과 간섭을 받게 되고 윗사람의 (     ) 점점 자신감을 잃는다. 효율적이라고 믿었던 관리 방식이 오히려 역효과를 낼 수도 있는 것이다.",
+          "options": [
+            "좋은 평가를 받는 직원이 늘고 있다.",
+            "실수를 통해 업무를 배우는 경우가 많다.",
+            "지적을 많이 받을수록 일을 잘할 수 있다.",
+            "능력에 따른 분류가 부작용을 낳을 수 있다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "좋은 평가를 받는 직원이 늘고 있다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "실수를 통해 업무를 배우는 경우가 많다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "지적을 많이 받을수록 일을 잘할 수 있다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "능력에 따른 분류가 부작용을 낳을 수 있다."
+            }
+          ],
+          "options_text": [
+            "좋은 평가를 받는 직원이 늘고 있다.",
+            "실수를 통해 업무를 배우는 경우가 많다.",
+            "지적을 많이 받을수록 일을 잘할 수 있다.",
+            "능력에 따른 분류가 부작용을 낳을 수 있다."
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R021-R022",
+          "passage_group_title": "[21~22] 공통 지문",
+          "passage_group_numbers": [
+            21,
+            22
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 21,
+          "shared_blank_target_questions": [
+            21,
+            22
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R021-R022",
+          "passage_set_lock_id": "55-R021-R022",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            21,
+            22
+          ],
+          "set_original_question_numbers": [
+            21,
+            22
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 2,
+          "blank_key": "",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R022",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 22
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R023-R024",
+      "id": "QB-T2-55-SET-R023-R024",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R023-R024",
+      "passage_group_title": "[23~24] 공통 지문",
+      "group_title": "[23~24] 공통 지문",
+      "target_slots": [
+        23,
+        24
+      ],
+      "original_question_numbers": [
+        23,
+        24
+      ],
+      "source_pdf_pages": [
+        9
+      ],
+      "source_printed_pages": [
+        9
+      ],
+      "passage": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+      "passage_template": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R023",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 9,
+          "source_printed_page": 9,
+          "type": "common_passage_emotion",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "question_number": 23,
+          "original_question_number": 23,
+          "template_slot": 23,
+          "target_slots": [
+            23
+          ],
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+          "passage": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+          "passage_template": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+          "options": [
+            "그립다",
+            "두렵다",
+            "창피하다",
+            "억울하다"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "그립다"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "두렵다"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "창피하다"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "억울하다"
+            }
+          ],
+          "options_text": [
+            "그립다",
+            "두렵다",
+            "창피하다",
+            "억울하다"
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R023-R024",
+          "passage_group_title": "[23~24] 공통 지문",
+          "passage_group_numbers": [
+            23,
+            24
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R023-R024",
+          "passage_set_lock_id": "55-R023-R024",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            23,
+            24
+          ],
+          "set_original_question_numbers": [
+            23,
+            24
+          ],
+          "selection_unit_size": 2,
+          "underline_targets": [
+            "‘최팽이’ 체면이 말이 아니었다."
+          ],
+          "underlined_parts": [
+            "‘최팽이’ 체면이 말이 아니었다."
+          ],
+          "shared_passage_index": 1,
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R023",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 23
+        },
+        {
+          "id": "QB-T2-55-R024",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 9,
+          "source_printed_page": 9,
+          "type": "common_passage_question",
+          "category": "서사 글 이해",
+          "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+          "question_number": 24,
+          "original_question_number": 24,
+          "template_slot": 24,
+          "target_slots": [
+            24
+          ],
+          "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 내용과 같은 것을 고르십시오.",
+          "passage": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+          "passage_template": "저녁에 딸아이가 전통 놀이 수업에 필요한 준비물이라며 아이들 장난감인 팽이 두 개를 가지고 왔다.\n\n“아빠, 팽이 돌릴 줄 아세요?”\n“그럼, 팽이 하면 ‘최팽이’라고! 어릴 때 아빠 별명이야.”\n나는 얼른 팽이에 채를 감아 거실 바닥에 힘껏 던졌다. 그런데 팽이는 잘 돌지 못하고 피아노 밑으로 데굴데굴 들어가 버렸다. ‘이럴 수가! 내가 힘이 너무 세졌나?’ 하며 다시 한 번 던져 봤지만 마찬가지였다. ‘최팽이’ 체면이 말이 아니었다. 이마에서 식은땀이 다 났다.\n\n“아빠, 친구들이 큰 팽이보다 작은 팽이가 더 잘 돌아간대요.”\n아이의 말에 작은 팽이로 바꿔 돌려 보았다. 오호! 덩치가 큰 것보다는 작은 것이 짝짝 야무진 소리를 내며 잘 돌았다. 거실을 누비는 팽이와 아이의 박수 소리. 나는 그날 어릴 때의 당당한 ‘최팽이’로 돌아갔다.",
+          "options": [
+            "나는 어렸을 때 팽이를 돌려본 적이 없었다.",
+            "딸아이는 나에게 ‘최팽이’라는 별명을 붙여 주었다.",
+            "나는 작은 팽이로 바꾼 후에 팽이 돌리기에 성공했다.",
+            "딸아이는 내가 팽이를 돌리는 모습을 보고 화를 냈다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "나는 어렸을 때 팽이를 돌려본 적이 없었다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "딸아이는 나에게 ‘최팽이’라는 별명을 붙여 주었다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "나는 작은 팽이로 바꾼 후에 팽이 돌리기에 성공했다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "딸아이는 내가 팽이를 돌리는 모습을 보고 화를 냈다."
+            }
+          ],
+          "options_text": [
+            "나는 어렸을 때 팽이를 돌려본 적이 없었다.",
+            "딸아이는 나에게 ‘최팽이’라는 별명을 붙여 주었다.",
+            "나는 작은 팽이로 바꾼 후에 팽이 돌리기에 성공했다.",
+            "딸아이는 내가 팽이를 돌리는 모습을 보고 화를 냈다."
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R023-R024",
+          "passage_group_title": "[23~24] 공통 지문",
+          "passage_group_numbers": [
+            23,
+            24
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R023-R024",
+          "passage_set_lock_id": "55-R023-R024",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            23,
+            24
+          ],
+          "set_original_question_numbers": [
+            23,
+            24
+          ],
+          "selection_unit_size": 2,
+          "underline_targets": [
+            "‘최팽이’ 체면이 말이 아니었다."
+          ],
+          "underlined_parts": [
+            "‘최팽이’ 체면이 말이 아니었다."
+          ],
+          "shared_passage_index": 2,
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R024",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 24
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R042-R043",
+      "id": "QB-T2-55-SET-R042-R043",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R042-R043",
+      "passage_group_title": "[42~43] 공통 지문",
+      "group_title": "[42~43] 공통 지문",
+      "target_slots": [
+        42,
+        43
+      ],
+      "original_question_numbers": [
+        42,
+        43
+      ],
+      "source_pdf_pages": [
+        18
+      ],
+      "source_printed_pages": [
+        18
+      ],
+      "passage": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+      "passage_template": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R042",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 18,
+          "source_printed_page": 18,
+          "type": "common_passage_emotion",
+          "category": "심정 파악",
+          "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+          "question_number": 42,
+          "original_question_number": 42,
+          "template_slot": 42,
+          "target_slots": [
+            42
+          ],
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 아저씨의 심정으로 알맞은 것을 고르십시오.",
+          "passage": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+          "passage_template": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+          "options": [
+            "서글프다",
+            "허전하다",
+            "혼란스럽다",
+            "못마땅하다"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "서글프다"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "허전하다"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "혼란스럽다"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "못마땅하다"
+            }
+          ],
+          "options_text": [
+            "서글프다",
+            "허전하다",
+            "혼란스럽다",
+            "못마땅하다"
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R042-R043",
+          "passage_group_title": "[42~43] 공통 지문",
+          "passage_group_numbers": [
+            42,
+            43
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R042-R043",
+          "passage_set_lock_id": "55-R042-R043",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            42,
+            43
+          ],
+          "set_original_question_numbers": [
+            42,
+            43
+          ],
+          "selection_unit_size": 2,
+          "underline_targets": [
+            "교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?"
+          ],
+          "underlined_parts": [
+            "교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?"
+          ],
+          "shared_passage_index": 1,
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R042",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 42
+        },
+        {
+          "id": "QB-T2-55-R043",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 18,
+          "source_printed_page": 18,
+          "type": "common_passage_question",
+          "category": "내용 일치",
+          "diagnostic_area": "공통 지문의 세부 내용 일치 판단",
+          "question_number": 43,
+          "original_question_number": 43,
+          "template_slot": 43,
+          "target_slots": [
+            43
+          ],
+          "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 내용과 같은 것을 고르십시오.",
+          "passage": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+          "passage_template": "나는 소극장에서 나오자마자 카페와 주점과 식당이 즐비한 거리를 꿋꿋하게 지나쳤다. 퇴근 시간이 훨씬 지나 버스에는 빈자리가 많았다. 앉자마자 유리창에 머리를 기대고 졸았다. 시냇물 흐르는 소리가 배에서 가슴까지 치밀어 오를 적마다 스스로 놀라서 깨었다가 다시 잠들었다. (중략) 의식하지 않고도 목적지 바로 전 정류장에서 저절로 잠이 깼다. 버스에서 내리니 네거리 모퉁이에 내 알바 일터가 보인다. 나는 신호등이 바뀌기를 기다리며 맞은편에 보이는 이십사 시간 편의점의 불빛을 건너다보았다. 신호가 바뀌자마자 뛰어갔고 거칠게 숨을 내쉬며 유리문을 밀고 들어갔다. 좀 과장된 동작이었는데, 아저씨는 말없이 나를 노려보기만 했다. 나는 얼른 편의점 앞치마를 두르고 호들갑을 떨며 말했다.\n\n“죄송해요. 그 대신 낼 아침에 한 시간 더 근무할게요.”\n“교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?”\n“내일 총연습이구요. 모레부터 공연이에요.”\n“그거 밥벌이두 안 된다면서 뭣 하러 하는 건지 원.”\n아저씨는 나갈 채비를 하다가 말했다.\n“물건 들어온 거 그대로 놔 뒀으니까 우희 씨가 정리하라구. 그럼 내일은 아홉시까지야.”\n아저씨가 퇴근했다.",
+          "options": [
+            "나는 연극 연습 후에 아르바이트를 하러 갔다.",
+            "나는 배가 고파서 극장 앞의 편의점에 들어갔다.",
+            "나는 버스 안에서 졸다가 내릴 곳을 지나쳐 버렸다.",
+            "나는 일하러 들어가자마자 물건을 정리하기 시작했다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "나는 연극 연습 후에 아르바이트를 하러 갔다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "나는 배가 고파서 극장 앞의 편의점에 들어갔다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "나는 버스 안에서 졸다가 내릴 곳을 지나쳐 버렸다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "나는 일하러 들어가자마자 물건을 정리하기 시작했다."
+            }
+          ],
+          "options_text": [
+            "나는 연극 연습 후에 아르바이트를 하러 갔다.",
+            "나는 배가 고파서 극장 앞의 편의점에 들어갔다.",
+            "나는 버스 안에서 졸다가 내릴 곳을 지나쳐 버렸다.",
+            "나는 일하러 들어가자마자 물건을 정리하기 시작했다."
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R042-R043",
+          "passage_group_title": "[42~43] 공통 지문",
+          "passage_group_numbers": [
+            42,
+            43
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R042-R043",
+          "passage_set_lock_id": "55-R042-R043",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            42,
+            43
+          ],
+          "set_original_question_numbers": [
+            42,
+            43
+          ],
+          "selection_unit_size": 2,
+          "underline_targets": [
+            "교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?"
+          ],
+          "underlined_parts": [
+            "교대 시간을 지켜 줘야지. 오늘도 연극하구 왔어?"
+          ],
+          "shared_passage_index": 2,
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R043",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 43
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R044-R045",
+      "id": "QB-T2-55-SET-R044-R045",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R044-R045",
+      "passage_group_title": "[44~45] 공통 지문",
+      "group_title": "[44~45] 공통 지문",
+      "target_slots": [
+        44,
+        45
+      ],
+      "original_question_numbers": [
+        44,
+        45
+      ],
+      "source_pdf_pages": [
+        19
+      ],
+      "source_printed_pages": [
+        19
+      ],
+      "passage": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+      "passage_template": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R044",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 19,
+          "source_printed_page": 19,
+          "type": "common_passage_main_idea",
+          "category": "공통 지문 주제",
+          "diagnostic_area": "공통 지문 주제·중심 생각",
+          "question_number": 44,
+          "original_question_number": 44,
+          "template_slot": 44,
+          "target_slots": [
+            44
+          ],
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+          "passage": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+          "passage_template": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+          "options": [
+            "인간의 소비에 대한 욕망은 인류 보편적인 현상이다.",
+            "인간은 대세에 순응하여 의사를 결정하는 경향이 있다.",
+            "인간은 외부 환경으로부터 독립적인 의사 결정을 한다.",
+            "인간의 모방 심리는 성공적인 사회생활의 밑바탕이 된다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "인간의 소비에 대한 욕망은 인류 보편적인 현상이다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "인간은 대세에 순응하여 의사를 결정하는 경향이 있다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "인간은 외부 환경으로부터 독립적인 의사 결정을 한다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "인간의 모방 심리는 성공적인 사회생활의 밑바탕이 된다."
+            }
+          ],
+          "options_text": [
+            "인간의 소비에 대한 욕망은 인류 보편적인 현상이다.",
+            "인간은 대세에 순응하여 의사를 결정하는 경향이 있다.",
+            "인간은 외부 환경으로부터 독립적인 의사 결정을 한다.",
+            "인간의 모방 심리는 성공적인 사회생활의 밑바탕이 된다."
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R044-R045",
+          "passage_group_title": "[44~45] 공통 지문",
+          "passage_group_numbers": [
+            44,
+            45
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 45,
+          "shared_blank_target_questions": [
+            44,
+            45
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R044-R045",
+          "passage_set_lock_id": "55-R044-R045",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            44,
+            45
+          ],
+          "set_original_question_numbers": [
+            44,
+            45
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 1,
+          "blank_key": "",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R044",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 44
+        },
+        {
+          "id": "QB-T2-55-R045",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 19,
+          "source_printed_page": 19,
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "공통 지문 빈칸",
+          "question_number": 45,
+          "original_question_number": 45,
+          "template_slot": 45,
+          "target_slots": [
+            45
+          ],
+          "instruction": "[44~45] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+          "passage": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+          "passage_template": "사람들은 남들이 많이 사용하는 물건이라면 최신 유행에 뒤처지지 않도록 자신에게 불필요하더라도 그 상품을 구매하는 경향이 있다. 주변 사람들의 소비 행위를 (     ) 자신의 소비 의사를 결정하는 것이다. 이러한 소비 행태는 바로 일종의 편승 효과이다. 편승 효과는 개인의 정치적 의사 결정 과정에서도 나타날 수 있다. 선거 운동에서는 우세가 확실한 후보 쪽으로 유권자들의 표심이 움직이는 현상이 나타난다. 원래 지지하지 않았던 후보라도 그 사람이 대세를 잡게 되면 유권자들의 마음은 그쪽으로 기울게 되는 것이다. 주체적으로 이루어져야 할 정치적 의사 결정을 할 때도 사람들은 자신이 주변 사람들과 다르게 보이는 것을 피하기 위해 다수의 의견이 옳다고 믿고 거기에 의존해 버리는 경향을 보인다.",
+          "options": [
+            "마냥 본받지 않고 참고만 해",
+            "무조건 배타적인 태도로 비판해",
+            "마치 본인과 무관한 일처럼 여겨",
+            "일종의 사회적 압력으로 받아들여"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "마냥 본받지 않고 참고만 해"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "무조건 배타적인 태도로 비판해"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "마치 본인과 무관한 일처럼 여겨"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "일종의 사회적 압력으로 받아들여"
+            }
+          ],
+          "options_text": [
+            "마냥 본받지 않고 참고만 해",
+            "무조건 배타적인 태도로 비판해",
+            "마치 본인과 무관한 일처럼 여겨",
+            "일종의 사회적 압력으로 받아들여"
+          ],
+          "correct_answer": 4,
+          "answer": 4,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R044-R045",
+          "passage_group_title": "[44~45] 공통 지문",
+          "passage_group_numbers": [
+            44,
+            45
+          ],
+          "shared_passage_total": 2,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 45,
+          "shared_blank_target_questions": [
+            44,
+            45
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R044-R045",
+          "passage_set_lock_id": "55-R044-R045",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            44,
+            45
+          ],
+          "set_original_question_numbers": [
+            44,
+            45
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 2,
+          "blank_key": "blank_1",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R045",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 45
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R046-R047",
+      "id": "QB-T2-55-SET-R046-R047",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_2_questions",
+      "passage_group_id": "55-R046-R047",
+      "passage_group_title": "[46~47] 공통 지문",
+      "group_title": "[46~47] 공통 지문",
+      "target_slots": [
+        46,
+        47
+      ],
+      "original_question_numbers": [
+        46,
+        47
+      ],
+      "source_pdf_pages": [
+        20
+      ],
+      "source_printed_pages": [
+        20
+      ],
+      "passage": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+      "passage_template": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R046",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 20,
+          "source_printed_page": 20,
+          "type": "sentence_insert",
+          "category": "문장 삽입",
+          "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+          "question_number": 46,
+          "original_question_number": 46,
+          "template_slot": 46,
+          "target_slots": [
+            46
+          ],
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+          "passage": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+          "passage_template": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+          "options": [
+            "㉠",
+            "㉡",
+            "㉢",
+            "㉣"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "㉠"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "㉡"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "㉢"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "㉣"
+            }
+          ],
+          "options_text": [
+            "㉠",
+            "㉡",
+            "㉢",
+            "㉣"
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R046-R047",
+          "passage_group_title": "[46~47] 공통 지문",
+          "passage_group_numbers": [
+            46,
+            47
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R046-R047",
+          "passage_set_lock_id": "55-R046-R047",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            46,
+            47
+          ],
+          "set_original_question_numbers": [
+            46,
+            47
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 1,
+          "sentence_to_insert": "타인들과 한 방에 갇히는 절박한 상황에서 협동을 통해 탈출 방법을 함께 추리해 내는 즐거움을 느낄 수 있는 것이다.",
+          "given_sentence": "타인들과 한 방에 갇히는 절박한 상황에서 협동을 통해 탈출 방법을 함께 추리해 내는 즐거움을 느낄 수 있는 것이다.",
+          "insert_sentence": "타인들과 한 방에 갇히는 절박한 상황에서 협동을 통해 탈출 방법을 함께 추리해 내는 즐거움을 느낄 수 있는 것이다.",
+          "insert_positions": [
+            "㉠",
+            "㉡",
+            "㉢",
+            "㉣"
+          ],
+          "correct_insert_position": "㉢",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R046",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 46
+        },
+        {
+          "id": "QB-T2-55-R047",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 20,
+          "source_printed_page": 20,
+          "type": "common_passage_question",
+          "category": "필자 의도·주장",
+          "diagnostic_area": "주장문 세부 내용 이해",
+          "question_number": 47,
+          "original_question_number": 47,
+          "template_slot": 47,
+          "target_slots": [
+            47
+          ],
+          "instruction": "[46~47] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글의 내용과 같은 것을 고르십시오.",
+          "passage": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+          "passage_template": "요즘 젊은이들 사이에 인기를 끌고 있는 놀이가 있다. 스스로 방에 갇혔다가 빠져나오는 ‘탈출 게임’이 바로 그것이다. ( ㉠ ) 이 게임은 인터넷 게임을 현실 세계에 재현한 것인데, 제한된 시간 안에 주어진 단서들을 이용해 탈출 방법을 추리하는 방식으로 진행된다. ( ㉡ ) 젊은이들이 이러한 게임에 열광하는 이유로는 두 가지를 들 수 있다. 첫째, 타인들과 함께 주어진 문제를 해결하는 과정에서 색다른 협동의 묘미를 느낄 수 있다. ( ㉢ ) 둘째, 탈출 게임을 통해 궁극의 몰입 상태에 이르는 즐거움을 느낄 수 있다. 사람들은 자기가 갇힌 방이 위험 요소가 없는 설정된 공간임을 이미 알고 있으면서도 방에서 탈출하려고 필사적으로 노력한다. ( ㉣ ) 그 과정에서 잠재되어 있던 창의력을 발휘하여 마침내 탈출에 성공하는 희열을 맛보게 되는 것이다.",
+          "options": [
+            "탈출 게임은 시간제한 없이 방을 탈출하기만 하면 된다.",
+            "탈출 게임은 참가자 간의 일대일 경쟁 방식으로 진행된다.",
+            "탈출 게임은 안전하게 미리 설정된 상황 안에서 이루어진다.",
+            "탈출 게임은 실제 놀이를 응용하여 인터넷 게임으로 만든 것이다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "탈출 게임은 시간제한 없이 방을 탈출하기만 하면 된다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "탈출 게임은 참가자 간의 일대일 경쟁 방식으로 진행된다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "탈출 게임은 안전하게 미리 설정된 상황 안에서 이루어진다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "탈출 게임은 실제 놀이를 응용하여 인터넷 게임으로 만든 것이다."
+            }
+          ],
+          "options_text": [
+            "탈출 게임은 시간제한 없이 방을 탈출하기만 하면 된다.",
+            "탈출 게임은 참가자 간의 일대일 경쟁 방식으로 진행된다.",
+            "탈출 게임은 안전하게 미리 설정된 상황 안에서 이루어진다.",
+            "탈출 게임은 실제 놀이를 응용하여 인터넷 게임으로 만든 것이다."
+          ],
+          "correct_answer": 3,
+          "answer": 3,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R046-R047",
+          "passage_group_title": "[46~47] 공통 지문",
+          "passage_group_numbers": [
+            46,
+            47
+          ],
+          "shared_passage_total": 2,
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R046-R047",
+          "passage_set_lock_id": "55-R046-R047",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            46,
+            47
+          ],
+          "set_original_question_numbers": [
+            46,
+            47
+          ],
+          "selection_unit_size": 2,
+          "shared_passage_index": 2,
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R047",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 47
+        }
+      ],
+      "item_count": 2,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    },
+    {
+      "set_id": "QB-T2-55-SET-R048-R049-R050",
+      "id": "QB-T2-55-SET-R048-R049-R050",
+      "source_round": "55",
+      "source_file": "55회-읽기.pdf",
+      "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+      "source_answer_key_type": "B형·짝수형",
+      "level": "TOPIK II",
+      "test_level": "TOPIK II",
+      "section": "reading",
+      "set_type": "common_passage_3_questions",
+      "passage_group_id": "55-R048-R049-R050",
+      "passage_group_title": "[48~50] 공통 지문",
+      "group_title": "[48~50] 공통 지문",
+      "target_slots": [
+        48,
+        49,
+        50
+      ],
+      "original_question_numbers": [
+        48,
+        49,
+        50
+      ],
+      "source_pdf_pages": [
+        21
+      ],
+      "source_printed_pages": [
+        21
+      ],
+      "passage": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+      "passage_template": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+      "items": [
+        {
+          "id": "QB-T2-55-R048",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 21,
+          "source_printed_page": 21,
+          "type": "common_passage_purpose",
+          "category": "필자 의도·주장",
+          "diagnostic_area": "글을 쓴 목적 파악",
+          "question_number": 48,
+          "original_question_number": 48,
+          "template_slot": 48,
+          "target_slots": [
+            48
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+          "passage": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "passage_template": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "options": [
+            "곡물자급률의 제고 방안을 제안하려고",
+            "곡물자급률의 변동 시기를 예측하려고",
+            "곡물자급률의 감소 원인을 설명하려고",
+            "곡물자급률의 하락 현황을 분석하려고"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "곡물자급률의 제고 방안을 제안하려고"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "곡물자급률의 변동 시기를 예측하려고"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "곡물자급률의 감소 원인을 설명하려고"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "곡물자급률의 하락 현황을 분석하려고"
+            }
+          ],
+          "options_text": [
+            "곡물자급률의 제고 방안을 제안하려고",
+            "곡물자급률의 변동 시기를 예측하려고",
+            "곡물자급률의 감소 원인을 설명하려고",
+            "곡물자급률의 하락 현황을 분석하려고"
+          ],
+          "correct_answer": 1,
+          "answer": 1,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R048-R049-R050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 49,
+          "shared_blank_target_questions": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R048-R049-R050",
+          "passage_set_lock_id": "55-R048-R049-R050",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "set_original_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit_size": 3,
+          "underline_targets": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "underlined_parts": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "shared_passage_index": 1,
+          "blank_key": "",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R048",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 48
+        },
+        {
+          "id": "QB-T2-55-R049",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 21,
+          "source_printed_page": 21,
+          "type": "common_passage_blank_choice",
+          "category": "공통 지문 빈칸",
+          "diagnostic_area": "공통 지문 빈칸",
+          "question_number": 49,
+          "original_question_number": 49,
+          "template_slot": 49,
+          "target_slots": [
+            49
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+          "passage": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "passage_template": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "options": [
+            "측정하는 것이 복잡하기",
+            "유지하는 것이 중요하기",
+            "표시하는 것이 편리하기",
+            "계산하는 것이 까다롭기"
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "측정하는 것이 복잡하기"
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "유지하는 것이 중요하기"
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "표시하는 것이 편리하기"
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "계산하는 것이 까다롭기"
+            }
+          ],
+          "options_text": [
+            "측정하는 것이 복잡하기",
+            "유지하는 것이 중요하기",
+            "표시하는 것이 편리하기",
+            "계산하는 것이 까다롭기"
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R048-R049-R050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 49,
+          "shared_blank_target_questions": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R048-R049-R050",
+          "passage_set_lock_id": "55-R048-R049-R050",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "set_original_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit_size": 3,
+          "underline_targets": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "underlined_parts": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "shared_passage_index": 2,
+          "blank_key": "blank_1",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R049",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 49
+        },
+        {
+          "id": "QB-T2-55-R050",
+          "source_round": "55",
+          "source_file": "55회-읽기.pdf",
+          "test_level": "TOPIK II",
+          "level": "TOPIK II",
+          "section": "reading",
+          "answer_source": "TOPIK_55_Reading_Answer_Key.pdf",
+          "answer_key_status": "user_provided_answer_table",
+          "is_official_answer_key": false,
+          "needs_text_review": false,
+          "needs_answer_review": false,
+          "review_confidence": "screen_reviewed_by_user",
+          "data_status": "question_bank_addon_reviewed_full_50",
+          "source_pdf_page": 21,
+          "source_printed_page": 21,
+          "type": "common_passage_attitude",
+          "category": "필자 의도·주장",
+          "diagnostic_area": "밑줄 친 부분에 나타난 필자의 태도 파악",
+          "question_number": 50,
+          "original_question_number": 50,
+          "template_slot": 50,
+          "target_slots": [
+            50
+          ],
+          "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+          "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+          "passage": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "passage_template": "식량 문제는 단순히 먹을거리만의 문제가 아니다. 국가 안보와 직결되기 때문에 국가 경영에서 매우 중요한 사안이다. 특히 그중에서도 곡물자급률을 일정 비율 이상으로 (     ) 때문에 세계 각국에서는 이를 위한 많은 노력을 기울이고 있다. 그리고 최근 그 노력이 식물공장에 대한 관심으로 이어지고 있다. 식물공장이란 최첨단 공학과 정보통신 기술을 농산물 생산에 접목해 생산량을 혁신적으로 높이는 공장 시스템을 말한다. 이제 국내에도 이러한 시스템을 본격적으로 도입해야 할 때이다. 국내의 곡물자급률은 매년 감소해 현재는 30%에도 미치지 못하고 있는 실정이다. 식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다. 물론 이 시스템의 도입을 위해서는 초기 시설비와 생산 비용에 대한 부담을 감수해야 한다. 그럼에도 불구하고 현재의 농산물 생산 방식으로는 도달할 수 없는 곡물자급률을 확보하기 위해서는 식물공장 시스템에 정부 차원의 과감한 투자와 지원이 필요하다.",
+          "options": [
+            "식물공장 도입에 대해 회의적인 입장을 고수하고 있다.",
+            "식물공장 도입의 결과에 대해 확신을 갖고 역설하고 있다.",
+            "식물공장 시스템에 대한 반감을 극단적으로 표출하고 있다.",
+            "식물공장 시스템에 대한 낙관적 전망의 문제점을 지적하고 있다."
+          ],
+          "option_objects": [
+            {
+              "label": "1",
+              "number": 1,
+              "text": "식물공장 도입에 대해 회의적인 입장을 고수하고 있다."
+            },
+            {
+              "label": "2",
+              "number": 2,
+              "text": "식물공장 도입의 결과에 대해 확신을 갖고 역설하고 있다."
+            },
+            {
+              "label": "3",
+              "number": 3,
+              "text": "식물공장 시스템에 대한 반감을 극단적으로 표출하고 있다."
+            },
+            {
+              "label": "4",
+              "number": 4,
+              "text": "식물공장 시스템에 대한 낙관적 전망의 문제점을 지적하고 있다."
+            }
+          ],
+          "options_text": [
+            "식물공장 도입에 대해 회의적인 입장을 고수하고 있다.",
+            "식물공장 도입의 결과에 대해 확신을 갖고 역설하고 있다.",
+            "식물공장 시스템에 대한 반감을 극단적으로 표출하고 있다.",
+            "식물공장 시스템에 대한 낙관적 전망의 문제점을 지적하고 있다."
+          ],
+          "correct_answer": 2,
+          "answer": 2,
+          "points": 2,
+          "description": "",
+          "image_url": "",
+          "passage_group_id": "55-R048-R049-R050",
+          "passage_group_title": "[48~50] 공통 지문",
+          "passage_group_numbers": [
+            48,
+            49,
+            50
+          ],
+          "shared_passage_total": 3,
+          "shared_blank_key": "blank_1",
+          "shared_blank_source_question_number": 49,
+          "shared_blank_target_questions": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit": "passage_set",
+          "selection_unit_type": "common_passage_set",
+          "selection_group_id": "55-R048-R049-R050",
+          "passage_set_lock_id": "55-R048-R049-R050",
+          "must_travel_together": true,
+          "split_allowed": false,
+          "set_lock": true,
+          "set_policy": "keep_all_items_together",
+          "set_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "set_original_question_numbers": [
+            48,
+            49,
+            50
+          ],
+          "selection_unit_size": 3,
+          "underline_targets": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "underlined_parts": [
+            "식물공장을 도입하면 고층 건물에서도 대량 생산이 가능하고 기상과 병충해의 제약에서도 비교적 자유롭기 때문에 국내의 열악한 농업 환경을 극복하는 데 좋은 대안이 될 수 있다."
+          ],
+          "shared_passage_index": 3,
+          "blank_key": "",
+          "full_exam_id": "reading-55",
+          "screen_review_status": "source_full_exam_screen_reviewed_by_user",
+          "bank_id": "QB-T2-55-R050",
+          "source_answer_key_file": "TOPIK_55_Reading_Answer_Key.pdf",
+          "source_answer_key_type": "B형·짝수형",
+          "bank_source": "reading-55.json",
+          "bank_status": "addon_from_55_full_50_reviewed_segments",
+          "source_full_exam_id": "reading-55",
+          "bank_conversion_mode": "from_reviewed_full_50_exam_json",
+          "target_slot": 50
+        }
+      ],
+      "item_count": 3,
+      "must_travel_together": true,
+      "split_allowed": false,
+      "set_lock": true,
+      "selection_unit": "passage_set",
+      "selection_unit_type": "common_passage_set",
+      "bank_source": "reading-55.json",
+      "bank_status": "addon_from_55_full_50_reviewed_segments",
+      "data_status": "question_bank_addon_reviewed_full_50",
+      "review_confidence": "screen_reviewed_by_user",
+      "needs_text_review": false,
+      "needs_answer_review": false
+    }
+  ],
+  "merge_policy": {
+    "do_not_overwrite_existing_question_bank_without_latest_file": true,
+    "required_pre_merge_checks": [
+      "최신 reading-test/data/bank/question-bank.json 업로드 및 검토",
+      "기존 source_round 목록 확인",
+      "55회 중복 포함 여부 확인",
+      "ID 중복 확인",
+      "병합 후 total_bank_questions가 50 증가하는지 확인",
+      "각 회차 50문항 유지 여부 확인"
+    ]
+  }
+}
