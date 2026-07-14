@@ -1,0 +1,58 @@
+{
+  "validation_name": "VALIDATION_q93_r015_sentence_order_branch_generator_fix",
+  "created_at": "2026-07-14T18:19:11",
+  "target": "question-bank.json + question-generator.js",
+  "reason": "랜덤 50문항에서 93회 15번 라 선택 후 나 자동 삽입이 적용되지 않는 문제 수정",
+  "root_cause": "question-bank.json에는 sentence_order_branch_map을 추가했지만, question-generator.js가 랜덤 시험 문항 생성 시 해당 필드를 generated question으로 복사하지 않아 화면에서 자동 삽입 로직이 사용할 수 없었음",
+  "fix_summary": [
+    "QB-T2-93-R015에 branch_map 호환 키 보강",
+    "QB-T2-93-R015에 correct_order, correct_answer_order, sentence_order_auto_after_first 보강",
+    "question-generator.js의 convertSingleItemToQuestion에서 sentence_order_branch_map 및 관련 필드 복사 추가",
+    "question-generator.js의 convertPassageSetItemToQuestion에서도 동일 필드 복사 추가"
+  ],
+  "expected_ui_flow": [
+    "첫 화면 후보: 다 / 라",
+    "다 선택 → 가 / 나 중 선택",
+    "가 선택 시: 다-가-라-나",
+    "나 선택 시: 다-나-가-라",
+    "라 선택 → 나 자동 배치 → 가 / 다 중 선택",
+    "가 선택 시: 라-나-가-다",
+    "다 선택 시: 라-나-다-가"
+  ],
+  "bank_counts": {
+    "single_items": 735,
+    "passage_sets": 147,
+    "passage_set_items_from_sets": 315,
+    "top_level_passage_set_items": 315,
+    "total_bank_questions": 1050,
+    "declared_total_bank_questions": 1050
+  },
+  "source_round_93_count": 50,
+  "source_round_47_count": 50,
+  "duplicate_item_ids": 0,
+  "duplicate_passage_set_ids": 0,
+  "q93_r015_fields_present": {
+    "sentence_order_branch_map": true,
+    "sentence_order_auto_after_first": true,
+    "sentence_order_auto_second_after_first": true,
+    "sentence_order_input_mode": "branch_map",
+    "correct_order": [
+      "(다)",
+      "(가)",
+      "(라)",
+      "(나)"
+    ],
+    "correct_answer_order": [
+      "다",
+      "가",
+      "라",
+      "나"
+    ]
+  },
+  "question_generator_modified": {
+    "single_item_copies_sentence_order_branch_map": true,
+    "single_item_copies_sentence_order_auto_after_first": true,
+    "passage_set_copies_sentence_order_branch_map": true
+  },
+  "status": "OK"
+}

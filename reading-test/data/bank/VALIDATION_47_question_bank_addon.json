@@ -1,0 +1,171 @@
+{
+  "validation_version": "VALIDATION_47_question_bank_addon_v1",
+  "validated_at": "2026-07-14T17:59:57",
+  "source_exam_file": "reading-47.json",
+  "source_answer_key_file": "answer-key-47.json",
+  "status": "OK",
+  "summary": {
+    "total_bank_questions": 50,
+    "single_items_count": 35,
+    "passage_sets_count": 7,
+    "passage_set_items_count": 15,
+    "total_points": 100,
+    "question_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "source_round_question_count": {
+      "47": 50
+    }
+  },
+  "checks": {
+    "total_questions_is_50": true,
+    "question_numbers_1_to_50": true,
+    "total_points_is_100": true,
+    "single_items_is_35": true,
+    "passage_sets_is_7": true,
+    "passage_set_items_is_15": true,
+    "item_id_duplicates": 0,
+    "bank_id_duplicates": 0,
+    "passage_set_id_duplicates": 0,
+    "answer_key_mismatches_count": 0,
+    "points_mismatch_count": 0,
+    "passage_sets_expected_groups": true,
+    "source_round_47_all_items": true
+  },
+  "expected_passage_sets": [
+    [
+      19,
+      20
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48,
+      49,
+      50
+    ]
+  ],
+  "actual_passage_sets": [
+    [
+      19,
+      20
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48,
+      49,
+      50
+    ]
+  ],
+  "answer_key_mismatches": [],
+  "points_mismatches": [],
+  "special_item_checks": {
+    "q14_sentence_order_branch_map_preserved": true,
+    "q14_correct_answer_order_text": "(가)-(다)-(라)-(나)",
+    "q23_underline": [
+      "등에서 땀이 흘렀다"
+    ],
+    "q24_underline": [
+      "등에서 땀이 흘렀다"
+    ],
+    "q39_sentence_insert_position": "㉢",
+    "q40_sentence_insert_position": "㉢",
+    "q41_sentence_insert_position": "㉡",
+    "q42_underline": [
+      "못 오겠냐?"
+    ],
+    "q43_underline": [
+      "못 오겠냐?"
+    ],
+    "q46_sentence_insert_position": "㉢",
+    "q50_underline": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ]
+  }
+}
