@@ -1,0 +1,238 @@
+{
+  "answer_key_version": "topik2-reading-47-B-level-test-v1",
+  "test_level": "TOPIK II",
+  "level": "TOPIK II",
+  "section": "reading",
+  "source_round": "47",
+  "exam_id": "level-test-47",
+  "source_exam_id": "reading-47",
+  "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+  "source_answer_key_type": "B형",
+  "answer_key_status": "user_provided_answer_table_B_type_remapped_for_level_test",
+  "is_official_answer_key": false,
+  "question_number_start": 1,
+  "question_number_end": 20,
+  "expected_total_questions": 20,
+  "total_possible_points": 40,
+  "score_full_mark": 100,
+  "points_by_question": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "6": 2,
+    "7": 2,
+    "8": 2,
+    "9": 2,
+    "10": 2,
+    "11": 2,
+    "12": 2,
+    "13": 2,
+    "14": 2,
+    "15": 2,
+    "16": 2,
+    "17": 2,
+    "18": 2,
+    "19": 2,
+    "20": 2
+  },
+  "answers": {
+    "1": 3,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 1,
+    "6": 2,
+    "7": 2,
+    "8": 4,
+    "9": 4,
+    "10": 3,
+    "11": 4,
+    "12": 3,
+    "13": 4,
+    "14": 1,
+    "15": 3,
+    "16": 1,
+    "17": 2,
+    "18": 4,
+    "19": 4,
+    "20": 1
+  },
+  "items": [
+    {
+      "question_number": 1,
+      "original_question_number": 1,
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 2,
+      "original_question_number": 3,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 3,
+      "original_question_number": 5,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 4,
+      "original_question_number": 10,
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 5,
+      "original_question_number": 13,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 6,
+      "original_question_number": 16,
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 7,
+      "original_question_number": 19,
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 8,
+      "original_question_number": 20,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 9,
+      "original_question_number": 23,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 10,
+      "original_question_number": 24,
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 11,
+      "original_question_number": 25,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 12,
+      "original_question_number": 28,
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 13,
+      "original_question_number": 32,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 14,
+      "original_question_number": 35,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 15,
+      "original_question_number": 39,
+      "correct_answer": 3,
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "question_number": 16,
+      "original_question_number": 42,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question_number": 17,
+      "original_question_number": 43,
+      "correct_answer": 2,
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "question_number": 18,
+      "original_question_number": 48,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 19,
+      "original_question_number": 49,
+      "correct_answer": 4,
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "question_number": 20,
+      "original_question_number": 50,
+      "correct_answer": 1,
+      "answer": 1,
+      "points": 2
+    }
+  ],
+  "selected_original_question_numbers": [
+    1,
+    3,
+    5,
+    10,
+    13,
+    16,
+    19,
+    20,
+    23,
+    24,
+    25,
+    28,
+    32,
+    35,
+    39,
+    42,
+    43,
+    48,
+    49,
+    50
+  ],
+  "review_notes": [
+    "47회 50문항 실전시험에서 유형별 대표 20문항을 선별했습니다.",
+    "공통 지문 세트는 함께 제시했습니다: 원본 19~20, 23~24, 42~43, 48~50.",
+    "14번 분기형 문장 순서 문항은 레벨테스트에는 포함하지 않았고, 원본 13번 일반 문장 순서 문항을 대표 문항으로 사용했습니다.",
+    "39번 문장 삽입 문항은 레벨테스트 15번으로 재번호화했습니다.",
+    "42~43번 밑줄 범위는 '못 오겠냐?'로 유지했습니다.",
+    "48~50번 공통 지문 밑줄 범위와 공유 빈칸 구조를 유지했습니다."
+  ],
+  "status": "level_test_20_ready_for_screen_review",
+  "needs_text_review": true,
+  "needs_answer_review": true,
+  "review_confidence": "from_reviewed_full_50_exam_json"
+}
