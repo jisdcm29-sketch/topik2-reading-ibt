@@ -1310,7 +1310,101 @@
       }
     ],
     "data_status": "full_50_integrated_from_reviewed_segments",
-    "full_exam_id": "reading-93"
+    "full_exam_id": "reading-93",
+    "review_note": "2026-07-15 사용자 화면 검수 반영: 93회 15번은 47회 14번/52회 14번과 같은 분기형 문장 순서 문항입니다. 첫 선택지가 '라'이면 보기 ③·④ 모두 두 번째가 '나'이므로 '나'가 자동 배치되어야 합니다. 첫 선택지가 '다'이면 두 번째 후보가 '가/나'로 갈라지므로 자동 배치는 하지 않습니다.",
+    "sentence_order_branch_map": {
+      "first_candidates": [
+        "다",
+        "라"
+      ],
+      "first_candidates_with_parentheses": [
+        "(다)",
+        "(라)"
+      ],
+      "after_first": {
+        "다": {
+          "auto_append": [],
+          "next_candidates": [
+            "가",
+            "나"
+          ],
+          "completion": {
+            "가": [
+              "다",
+              "가",
+              "라",
+              "나"
+            ],
+            "나": [
+              "다",
+              "나",
+              "가",
+              "라"
+            ]
+          }
+        },
+        "라": {
+          "auto_append": [
+            "나"
+          ],
+          "next_candidates": [
+            "가",
+            "다"
+          ],
+          "completion": {
+            "가": [
+              "라",
+              "나",
+              "가",
+              "다"
+            ],
+            "다": [
+              "라",
+              "나",
+              "다",
+              "가"
+            ]
+          }
+        }
+      }
+    },
+    "sentence_order_expected_ui_flow": [
+      "첫 화면 후보: 다 / 라",
+      "다 선택 → 가 / 나 중 선택",
+      "가 선택 시: 다-가-라-나",
+      "나 선택 시: 다-나-가-라",
+      "라 선택 → 나 자동 배치 → 가 / 다 중 선택",
+      "가 선택 시: 라-나-가-다",
+      "다 선택 시: 라-나-다-가"
+    ],
+    "correct_answer_order": [
+      "다",
+      "가",
+      "라",
+      "나"
+    ],
+    "correct_answer_order_text": "(다)-(가)-(라)-(나)",
+    "sentence_order_auto_second_after_first": {
+      "라": "나",
+      "(라)": "(나)"
+    },
+    "sentence_order_auto_after_first": {
+      "라": "나",
+      "(라)": "(나)"
+    },
+    "sentence_order_input_mode": "branch_map",
+    "sentence_labels": [
+      "가",
+      "나",
+      "다",
+      "라"
+    ],
+    "sentence_parts": {
+      "가": "하지만 우리 생활에 이롭게 활용되기도 한다.",
+      "나": "또 유해 물질을 분해해 오염된 물을 정화하는 데도 유용하다.",
+      "다": "곰팡이는 음식과 물건을 상하게 하여 해로운 것으로 여겨진다.",
+      "라": "곰팡이는 된장과 치즈 등의 발효 식품을 만드는 데 꼭 필요하다."
+    }
   },
   {
     "id": "T2-93-R016",

@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "T2-47-LT001-ORIG001",
+    "question_number": 1,
+    "original_question_number": 1,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_choice",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "instruction": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "내일 친구와 함께 놀이공원에 (     ).",
+    "passage_template": "내일 친구와 함께 놀이공원에 (     ).",
+    "options": [
+      "가는 편이다",
+      "가는 중이다",
+      "가기로 했다",
+      "간 적이 있다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 1,
+    "target_slots": [
+      1
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "가는 편이다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "가는 중이다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "가기로 했다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "간 적이 있다"
+      }
+    ],
+    "options_text": [
+      "가는 편이다",
+      "가는 중이다",
+      "가기로 했다",
+      "간 적이 있다"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 1,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R001",
+    "full_exam_question_number": 1,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 1,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT002-ORIG003",
+    "question_number": 2,
+    "original_question_number": 3,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 표현의 의미 이해",
+    "instruction": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "question": "밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+    "passage": "아침에 늦게 일어나는 바람에 기차를 놓쳤다.",
+    "passage_template": "아침에 늦게 일어나는 바람에 기차를 놓쳤다.",
+    "underline_targets": [
+      "일어나는 바람에"
+    ],
+    "underlined_parts": [
+      "일어나는 바람에"
+    ],
+    "options": [
+      "일어난 탓에",
+      "일어난 김에",
+      "일어나는 대신",
+      "일어나는 대로"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 2,
+    "target_slots": [
+      2
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 5,
+    "source_printed_page": 1,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "일어난 탓에"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "일어난 김에"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "일어나는 대신"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "일어나는 대로"
+      }
+    ],
+    "options_text": [
+      "일어난 탓에",
+      "일어난 김에",
+      "일어나는 대신",
+      "일어나는 대로"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 2,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R003",
+    "full_exam_question_number": 3,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 2,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT003-ORIG005",
+    "question_number": 3,
+    "original_question_number": 5,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "이미지·안내문 이해",
+    "diagnostic_area": "광고·안내문의 중심 소재 파악",
+    "instruction": "다음은 무엇에 대해 쓴 글인지 고르십시오.",
+    "question": "다음은 무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "주스",
+      "콜라",
+      "우유",
+      "커피"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/47_R005.png",
+    "image_only": true,
+    "image_display_width": "92%",
+    "image_max_width": "100%",
+    "image_max_height": 260,
+    "template_slot": 3,
+    "target_slots": [
+      3
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 6,
+    "source_printed_page": 2,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "주스"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "콜라"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "우유"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "커피"
+      }
+    ],
+    "options_text": [
+      "주스",
+      "콜라",
+      "우유",
+      "커피"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 3,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R005",
+    "full_exam_question_number": 5,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 3,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT004-ORIG010",
+    "question_number": 4,
+    "original_question_number": 10,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content_visual",
+    "category": "자료·그래프 이해",
+    "diagnostic_area": "그래프 정보 비교",
+    "instruction": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "question": "다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "신문을 보는 사람의 비율은 20대와 60대가 같다.",
+      "모든 세대가 텔레비전보다 신문을 더 많이 본다.",
+      "신문을 보는 사람의 비율은 60대가 40대보다 낮다.",
+      "텔레비전을 보는 사람의 비율은 20대가 40대보다 높다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/47_R010.png",
+    "image_only": true,
+    "image_display_width": "82%",
+    "image_max_width": "100%",
+    "image_max_height": 420,
+    "template_slot": 4,
+    "target_slots": [
+      4
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 7,
+    "source_printed_page": 3,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "신문을 보는 사람의 비율은 20대와 60대가 같다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "모든 세대가 텔레비전보다 신문을 더 많이 본다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "신문을 보는 사람의 비율은 60대가 40대보다 낮다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "텔레비전을 보는 사람의 비율은 20대가 40대보다 높다."
+      }
+    ],
+    "options_text": [
+      "신문을 보는 사람의 비율은 20대와 60대가 같다.",
+      "모든 세대가 텔레비전보다 신문을 더 많이 본다.",
+      "신문을 보는 사람의 비율은 60대가 40대보다 낮다.",
+      "텔레비전을 보는 사람의 비율은 20대가 40대보다 높다."
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 4,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R010",
+    "full_exam_question_number": 10,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 4,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT005-ORIG013",
+    "question_number": 5,
+    "original_question_number": 13,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "문장 간 논리적 순서 파악",
+    "instruction": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다.\n(나) 마음을 안정시키는 효과를 얻을 수 있기 때문이다.\n(다) 깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다.\n(라) 그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다.",
+    "passage_template": "(가) 요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다.\n(나) 마음을 안정시키는 효과를 얻을 수 있기 때문이다.\n(다) 깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다.\n(라) 그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다.",
+    "options": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(라)-(나)-(다)",
+      "(다)-(라)-(가)-(나)",
+      "(다)-(가)-(라)-(나)"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 5,
+    "target_slots": [
+      5
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 9,
+    "source_printed_page": 5,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "(가)-(나)-(라)-(다)"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "(가)-(라)-(나)-(다)"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "(다)-(라)-(가)-(나)"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "(다)-(가)-(라)-(나)"
+      }
+    ],
+    "options_text": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(라)-(나)-(다)",
+      "(다)-(라)-(가)-(나)",
+      "(다)-(가)-(라)-(나)"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "sentence_labels": [
+      "가",
+      "나",
+      "다",
+      "라"
+    ],
+    "sentence_parts": {
+      "가": "요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다.",
+      "나": "마음을 안정시키는 효과를 얻을 수 있기 때문이다.",
+      "다": "깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다.",
+      "라": "그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다."
+    },
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "마음을 안정시키는 효과를 얻을 수 있기 때문이다."
+      },
+      {
+        "label": "(다)",
+        "text": "깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다."
+      },
+      {
+        "label": "(라)",
+        "text": "그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다."
+      },
+      {
+        "label": "(나)",
+        "text": "마음을 안정시키는 효과를 얻을 수 있기 때문이다."
+      },
+      {
+        "label": "(다)",
+        "text": "깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다."
+      },
+      {
+        "label": "(라)",
+        "text": "그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다."
+      }
+    ],
+    "correct_answer_order": [
+      "가",
+      "나",
+      "라",
+      "다"
+    ],
+    "correct_answer_order_text": "(가)-(나)-(라)-(다)",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 5,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R013",
+    "full_exam_question_number": 13,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 5,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT006-ORIG016",
+    "question_number": 6,
+    "original_question_number": 16,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "악보 없이 공연하는 것은 피아니스트들의 오랜 전통이다. 이에 대해 일부 사람들은 악보를 외우는 것보다는 (     ) 시간을 써야 한다고 말한다. 그러나 악보를 외우면 작곡가를 좀 더 이해하게 되어 결국 작품에 대한 표현력이 풍성해질 수 있다.",
+    "passage_template": "악보 없이 공연하는 것은 피아니스트들의 오랜 전통이다. 이에 대해 일부 사람들은 악보를 외우는 것보다는 (     ) 시간을 써야 한다고 말한다. 그러나 악보를 외우면 작곡가를 좀 더 이해하게 되어 결국 작품에 대한 표현력이 풍성해질 수 있다.",
+    "options": [
+      "전통을 이해하는 데에",
+      "표현력을 높이는 데에",
+      "공연을 기획하는 데에",
+      "장단점을 설명하는 데에"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 6,
+    "target_slots": [
+      6
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 10,
+    "source_printed_page": 6,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "전통을 이해하는 데에"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "표현력을 높이는 데에"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "공연을 기획하는 데에"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "장단점을 설명하는 데에"
+      }
+    ],
+    "options_text": [
+      "전통을 이해하는 데에",
+      "표현력을 높이는 데에",
+      "공연을 기획하는 데에",
+      "장단점을 설명하는 데에"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "blank_key": "blank_1",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 6,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R016",
+    "full_exam_question_number": 16,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 6,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT007-ORIG019",
+    "question_number": 7,
+    "original_question_number": 19,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문에서 연결어 선택",
+    "instruction": "[7~8] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. (     ) 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 완성되는 청소년기에는 ‘권위 있는 아빠’의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.",
+    "passage_template": "요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. (     ) 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 완성되는 청소년기에는 ‘권위 있는 아빠’의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.",
+    "options": [
+      "반면",
+      "물론",
+      "차라리",
+      "그러면"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 7,
+    "target_slots": [
+      7
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "반면"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "물론"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "차라리"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "그러면"
+      }
+    ],
+    "options_text": [
+      "반면",
+      "물론",
+      "차라리",
+      "그러면"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "passage_group_id": "47-LT-R007-R008",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "47-R019-R020",
+    "passage_set_lock_id": "47-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "blank_key": "blank_1",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 7,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R019",
+    "full_exam_question_number": 19,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 7,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT008-ORIG020",
+    "question_number": 8,
+    "original_question_number": 20,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "instruction": "[7~8] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. (     ) 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 완성되는 청소년기에는 ‘권위 있는 아빠’의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.",
+    "passage_template": "요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. (     ) 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 완성되는 청소년기에는 ‘권위 있는 아빠’의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.",
+    "options": [
+      "아이들은 자기 스스로 인성을 완성할 수 있다.",
+      "청소년기에는 친구 같은 아빠의 역할이 더 중요하다.",
+      "친구 같은 아빠는 아이가 바른 길로 가도록 도움을 준다.",
+      "권위 있는 아빠는 아이에게 삶의 판단 기준을 제시할 수 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 8,
+    "target_slots": [
+      8
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 11,
+    "source_printed_page": 7,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "아이들은 자기 스스로 인성을 완성할 수 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "청소년기에는 친구 같은 아빠의 역할이 더 중요하다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "친구 같은 아빠는 아이가 바른 길로 가도록 도움을 준다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "권위 있는 아빠는 아이에게 삶의 판단 기준을 제시할 수 있다."
+      }
+    ],
+    "options_text": [
+      "아이들은 자기 스스로 인성을 완성할 수 있다.",
+      "청소년기에는 친구 같은 아빠의 역할이 더 중요하다.",
+      "친구 같은 아빠는 아이가 바른 길로 가도록 도움을 준다.",
+      "권위 있는 아빠는 아이에게 삶의 판단 기준을 제시할 수 있다."
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "passage_group_id": "47-LT-R007-R008",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "47-R019-R020",
+    "passage_set_lock_id": "47-R019-R020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 8,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R020",
+    "full_exam_question_number": 20,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 8,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT009-ORIG023",
+    "question_number": 9,
+    "original_question_number": 23,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현을 통한 인물의 심정 파악",
+    "instruction": "[9~10] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "계산원으로 일하러 오라는 소식을 듣고 고민에 빠졌다. 마흔을 넘은 늦은 나이 때문이었다. 격려해 주는 남편 덕분에 용기를 냈다. 그러나 계산하는 일은 만만치 않았다. 신입 직원 교육을 받는데 주의 사항을 수첩에 적어 가며 외워도 금방 잊어버리기 일쑤였다. 며칠 뒤 일을 시작한다는 말에 눈앞이 캄캄했다.\n\n일을 시작한 첫날, 아침부터 밀려드는 손님들로 인해 등에서 땀이 흘렀다. 모든 게 미숙했다. 계산을 잘못 해서 창피한 적도 많았다. 그래도 사람을 대하다 보니 웃을 일도 있었다. 외국인 손님이 왔을 때였다. 서투른 영어를 총동원해서 말을 건네려고 하자, 그가 “봉투 하나 주세요.”라며 한국말을 하는 게 아닌가. 순간 놀라면서도 속으로 웃음이 났다.",
+    "passage_template": "계산원으로 일하러 오라는 소식을 듣고 고민에 빠졌다. 마흔을 넘은 늦은 나이 때문이었다. 격려해 주는 남편 덕분에 용기를 냈다. 그러나 계산하는 일은 만만치 않았다. 신입 직원 교육을 받는데 주의 사항을 수첩에 적어 가며 외워도 금방 잊어버리기 일쑤였다. 며칠 뒤 일을 시작한다는 말에 눈앞이 캄캄했다.\n\n일을 시작한 첫날, 아침부터 밀려드는 손님들로 인해 등에서 땀이 흘렀다. 모든 게 미숙했다. 계산을 잘못 해서 창피한 적도 많았다. 그래도 사람을 대하다 보니 웃을 일도 있었다. 외국인 손님이 왔을 때였다. 서투른 영어를 총동원해서 말을 건네려고 하자, 그가 “봉투 하나 주세요.”라며 한국말을 하는 게 아닌가. 순간 놀라면서도 속으로 웃음이 났다.",
+    "options": [
+      "짜증스럽다",
+      "실망스럽다",
+      "불만스럽다",
+      "당황스럽다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "짜증스럽다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "실망스럽다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "불만스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "당황스럽다"
+      }
+    ],
+    "options_text": [
+      "짜증스럽다",
+      "실망스럽다",
+      "불만스럽다",
+      "당황스럽다"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "passage_group_id": "47-LT-R009-R010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "47-R023-R024",
+    "passage_set_lock_id": "47-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      23,
+      24
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "등에서 땀이 흘렀다"
+    ],
+    "underlined_parts": [
+      "등에서 땀이 흘렀다"
+    ],
+    "underline_scope": "passage_group",
+    "underline_review_note": "사용자 제공 캡처와 PDF를 기준으로 23~24번 공통 지문의 밑줄 범위는 ‘등에서 땀이 흘렀다’입니다. 24번 화면에서도 같은 공통 지문이므로 밑줄 유지 여부를 화면에서 확인합니다.",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 9,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R023",
+    "full_exam_question_number": 23,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 9,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT010-ORIG024",
+    "question_number": 10,
+    "original_question_number": 24,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "instruction": "[9~10] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글의 내용과 같은 것을 고르십시오.",
+    "passage": "계산원으로 일하러 오라는 소식을 듣고 고민에 빠졌다. 마흔을 넘은 늦은 나이 때문이었다. 격려해 주는 남편 덕분에 용기를 냈다. 그러나 계산하는 일은 만만치 않았다. 신입 직원 교육을 받는데 주의 사항을 수첩에 적어 가며 외워도 금방 잊어버리기 일쑤였다. 며칠 뒤 일을 시작한다는 말에 눈앞이 캄캄했다.\n\n일을 시작한 첫날, 아침부터 밀려드는 손님들로 인해 등에서 땀이 흘렀다. 모든 게 미숙했다. 계산을 잘못 해서 창피한 적도 많았다. 그래도 사람을 대하다 보니 웃을 일도 있었다. 외국인 손님이 왔을 때였다. 서투른 영어를 총동원해서 말을 건네려고 하자, 그가 “봉투 하나 주세요.”라며 한국말을 하는 게 아닌가. 순간 놀라면서도 속으로 웃음이 났다.",
+    "passage_template": "계산원으로 일하러 오라는 소식을 듣고 고민에 빠졌다. 마흔을 넘은 늦은 나이 때문이었다. 격려해 주는 남편 덕분에 용기를 냈다. 그러나 계산하는 일은 만만치 않았다. 신입 직원 교육을 받는데 주의 사항을 수첩에 적어 가며 외워도 금방 잊어버리기 일쑤였다. 며칠 뒤 일을 시작한다는 말에 눈앞이 캄캄했다.\n\n일을 시작한 첫날, 아침부터 밀려드는 손님들로 인해 등에서 땀이 흘렀다. 모든 게 미숙했다. 계산을 잘못 해서 창피한 적도 많았다. 그래도 사람을 대하다 보니 웃을 일도 있었다. 외국인 손님이 왔을 때였다. 서투른 영어를 총동원해서 말을 건네려고 하자, 그가 “봉투 하나 주세요.”라며 한국말을 하는 게 아닌가. 순간 놀라면서도 속으로 웃음이 났다.",
+    "options": [
+      "나는 남편의 격려 덕분에 계산 실력이 늘었다.",
+      "나는 외국인 손님이 왔을 때 영어로 대화했다.",
+      "나는 늦은 나이였지만 용기를 내어 일을 시작했다.",
+      "나는 신입 직원 교육을 받을 때 수첩을 잃어버렸다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 13,
+    "source_printed_page": 9,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나는 남편의 격려 덕분에 계산 실력이 늘었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "나는 외국인 손님이 왔을 때 영어로 대화했다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 늦은 나이였지만 용기를 내어 일을 시작했다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 신입 직원 교육을 받을 때 수첩을 잃어버렸다."
+      }
+    ],
+    "options_text": [
+      "나는 남편의 격려 덕분에 계산 실력이 늘었다.",
+      "나는 외국인 손님이 왔을 때 영어로 대화했다.",
+      "나는 늦은 나이였지만 용기를 내어 일을 시작했다.",
+      "나는 신입 직원 교육을 받을 때 수첩을 잃어버렸다."
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "passage_group_id": "47-LT-R009-R010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "common_passage_set",
+    "selection_group_id": "47-R023-R024",
+    "passage_set_lock_id": "47-R023-R024",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      23,
+      24
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "selection_unit_size": 2,
+    "underline_targets": [
+      "등에서 땀이 흘렀다"
+    ],
+    "underlined_parts": [
+      "등에서 땀이 흘렀다"
+    ],
+    "underline_scope": "passage_group",
+    "underline_review_note": "23번 심정 문항의 밑줄 범위를 공통 지문 24번 화면에서도 유지하도록 같은 underline_targets를 넣었습니다.",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 10,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R024",
+    "full_exam_question_number": 24,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 10,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT011-ORIG025",
+    "question_number": 11,
+    "original_question_number": 25,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "newspaper_title",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "신문 제목의 함축 의미 파악",
+    "instruction": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "question": "신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "한류 배우 인기 폭발, 해외 광고 요청 줄 이어",
+    "passage_template": "한류 배우 인기 폭발, 해외 광고 요청 줄 이어",
+    "options": [
+      "한류 배우는 떨어진 인기로 해외 광고에 출연할 기회가 줄어들었다.",
+      "한류 배우가 인기를 끌기 위해서는 해외 광고에 많이 출연해야 한다.",
+      "한류 배우는 인기에 상관없이 해외에서 광고 출연 요청을 받고 있다.",
+      "한류 배우가 큰 인기를 얻으면서 해외 광고 출연 요청이 잇따르고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 14,
+    "source_printed_page": 10,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "한류 배우는 떨어진 인기로 해외 광고에 출연할 기회가 줄어들었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "한류 배우가 인기를 끌기 위해서는 해외 광고에 많이 출연해야 한다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "한류 배우는 인기에 상관없이 해외에서 광고 출연 요청을 받고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "한류 배우가 큰 인기를 얻으면서 해외 광고 출연 요청이 잇따르고 있다."
+      }
+    ],
+    "options_text": [
+      "한류 배우는 떨어진 인기로 해외 광고에 출연할 기회가 줄어들었다.",
+      "한류 배우가 인기를 끌기 위해서는 해외 광고에 많이 출연해야 한다.",
+      "한류 배우는 인기에 상관없이 해외에서 광고 출연 요청을 받고 있다.",
+      "한류 배우가 큰 인기를 얻으면서 해외 광고 출연 요청이 잇따르고 있다."
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 11,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R025",
+    "full_exam_question_number": 25,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 11,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT012-ORIG028",
+    "question_number": 12,
+    "original_question_number": 28,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "아이에게 맞는 색이 있다. 그래서 색을 (     ) 활용하는 것이 좋다. 예를 들어 소극적인 아이에게는 밝고 따뜻한 색으로 방을 꾸며 주는 것이 좋다. 빨간 꽃그림이 있는 책장으로 아이 방을 장식하면 경쾌한 느낌을 주어 아이의 감정을 밝게 해 줄 수 있기 때문이다. 반대로 아이의 성격이 공격적이라면 초록색이 잘 맞는다. 초록색은 편안한 분위기를 연출하여 마음을 차분하게 가라앉혀 줄 수 있다.",
+    "passage_template": "아이에게 맞는 색이 있다. 그래서 색을 (     ) 활용하는 것이 좋다. 예를 들어 소극적인 아이에게는 밝고 따뜻한 색으로 방을 꾸며 주는 것이 좋다. 빨간 꽃그림이 있는 책장으로 아이 방을 장식하면 경쾌한 느낌을 주어 아이의 감정을 밝게 해 줄 수 있기 때문이다. 반대로 아이의 성격이 공격적이라면 초록색이 잘 맞는다. 초록색은 편안한 분위기를 연출하여 마음을 차분하게 가라앉혀 줄 수 있다.",
+    "options": [
+      "방의 구조에 맞게",
+      "장식에 따라 다르게",
+      "아이의 성향에 맞게",
+      "그림의 특성이 나타나게"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_pdf_page": 15,
+    "source_printed_page": 11,
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "방의 구조에 맞게"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "장식에 따라 다르게"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "아이의 성향에 맞게"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "그림의 특성이 나타나게"
+      }
+    ],
+    "options_text": [
+      "방의 구조에 맞게",
+      "장식에 따라 다르게",
+      "아이의 성향에 맞게",
+      "그림의 특성이 나타나게"
+    ],
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "blank_key": "blank_1",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "target_slot": 12,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R028",
+    "full_exam_question_number": 28,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 12,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT013-ORIG032",
+    "question_number": 13,
+    "original_question_number": 32,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "설명문 세부 내용 이해",
+    "instruction": "다음을 읽고 내용과 같은 것을 고르십시오.",
+    "question": "내용이 같은 것을 고르십시오.",
+    "passage": "동물원의 동물들은 빠른 번식으로 인해 개체 수 조절이 어렵다. 그러다 보면 한정된 공간에 너무 많은 동물들이 함께 있게 되어 스트레스를 많이 받게 된다. 그래서 서울의 한 동물원에서는 사자의 개체 수를 줄이기 위해 많은 수의 사자를 다른 동물원에 보내고 대신 개체 수가 적은 낙타를 들여오는 방법을 썼다. 그 결과 개체 수가 줄어든 사자들은 스트레스를 덜 받게 되었다. 이러한 동물원 간 교류가 동물의 서식 환경 개선을 위한 하나의 방안이 될 수 있을 것이다.",
+    "passage_template": "동물원의 동물들은 빠른 번식으로 인해 개체 수 조절이 어렵다. 그러다 보면 한정된 공간에 너무 많은 동물들이 함께 있게 되어 스트레스를 많이 받게 된다. 그래서 서울의 한 동물원에서는 사자의 개체 수를 줄이기 위해 많은 수의 사자를 다른 동물원에 보내고 대신 개체 수가 적은 낙타를 들여오는 방법을 썼다. 그 결과 개체 수가 줄어든 사자들은 스트레스를 덜 받게 되었다. 이러한 동물원 간 교류가 동물의 서식 환경 개선을 위한 하나의 방안이 될 수 있을 것이다.",
+    "options": [
+      "동물원의 동물들은 번식으로 개체 수를 조절한다.",
+      "동물원 간의 교류를 통해 동물의 개체 수를 늘린다.",
+      "서식 환경 개선을 위해 많은 새로운 동물을 들여와야 한다.",
+      "좁은 공간에 개체 수가 많으면 동물의 스트레스가 증가한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "동물원의 동물들은 번식으로 개체 수를 조절한다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "동물원 간의 교류를 통해 동물의 개체 수를 늘린다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "서식 환경 개선을 위해 많은 새로운 동물을 들여와야 한다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "좁은 공간에 개체 수가 많으면 동물의 스트레스가 증가한다."
+      }
+    ],
+    "options_text": [
+      "동물원의 동물들은 번식으로 개체 수를 조절한다.",
+      "동물원 간의 교류를 통해 동물의 개체 수를 늘린다.",
+      "서식 환경 개선을 위해 많은 새로운 동물을 들여와야 한다.",
+      "좁은 공간에 개체 수가 많으면 동물의 스트레스가 증가한다."
+    ],
+    "source_pdf_page": 17,
+    "source_printed_page": 13,
+    "template_slot": 13,
+    "target_slots": [
+      13
+    ],
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "target_slot": 13,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R032",
+    "full_exam_question_number": 32,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 13,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT014-ORIG035",
+    "question_number": 14,
+    "original_question_number": 35,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "main_idea",
+    "category": "중심 내용 파악",
+    "diagnostic_area": "글의 주제 파악",
+    "instruction": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "유무선의 통신 수단이 없던 시대에 위급한 상황이 생기면 불이나 연기로 정보를 주고받았다. 보통 멀리서 잘 보이는 산봉우리에서 밤에는 불을, 낮에는 연기를 피우는 방법을 사용했고 이때 알리는 위급의 정도를 다섯 등급으로 나누었다. 그런데 이 방법은 비, 구름, 안개 등의 기상 상태에 영향을 받는다는 문제점이 있었다. 그러나 이러한 한계에도 불구하고 당시에는 국가적인 긴급 상황에 대처하는 데 중요한 역할을 담당했다.",
+    "passage_template": "유무선의 통신 수단이 없던 시대에 위급한 상황이 생기면 불이나 연기로 정보를 주고받았다. 보통 멀리서 잘 보이는 산봉우리에서 밤에는 불을, 낮에는 연기를 피우는 방법을 사용했고 이때 알리는 위급의 정도를 다섯 등급으로 나누었다. 그런데 이 방법은 비, 구름, 안개 등의 기상 상태에 영향을 받는다는 문제점이 있었다. 그러나 이러한 한계에도 불구하고 당시에는 국가적인 긴급 상황에 대처하는 데 중요한 역할을 담당했다.",
+    "options": [
+      "불이나 연기는 위험 상황을 알리는 주요 통신 수단이었다.",
+      "불이나 연기를 쓰는 통신 수단은 날씨의 영향을 많이 받았다.",
+      "긴급 상황에는 날씨에 따라 다섯 단계로 나누어 연기를 피웠다.",
+      "과거의 통신 수단으로는 국가적 긴급 상황에 대처하기 어려웠다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "불이나 연기는 위험 상황을 알리는 주요 통신 수단이었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "불이나 연기를 쓰는 통신 수단은 날씨의 영향을 많이 받았다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "긴급 상황에는 날씨에 따라 다섯 단계로 나누어 연기를 피웠다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "과거의 통신 수단으로는 국가적 긴급 상황에 대처하기 어려웠다."
+      }
+    ],
+    "options_text": [
+      "불이나 연기는 위험 상황을 알리는 주요 통신 수단이었다.",
+      "불이나 연기를 쓰는 통신 수단은 날씨의 영향을 많이 받았다.",
+      "긴급 상황에는 날씨에 따라 다섯 단계로 나누어 연기를 피웠다.",
+      "과거의 통신 수단으로는 국가적 긴급 상황에 대처하기 어려웠다."
+    ],
+    "source_pdf_page": 18,
+    "source_printed_page": 14,
+    "template_slot": 14,
+    "target_slots": [
+      14
+    ],
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "target_slot": 14,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R035",
+    "full_exam_question_number": 35,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 14,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT015-ORIG039",
+    "question_number": 15,
+    "original_question_number": 39,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "instruction": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "옛날에는 책을 눈으로만 읽지 않고 몸을 움직이며 가락에 맞추어 소리 높여 읽었다. ( ㉠ ) 그런데 현대 정보화 사회에 이르러서는 독서 방식이 획기적으로 변하였다. ( ㉡ ) 다 같이 소리를 내서 읽는 방식 대신 혼자 읽는 방식을 선호하게 되었다. ( ㉢ ) 다양한 연결망을 통해 개인적으로 읽을 글을 선택·편집하고, 자유롭게 영역을 이동하는 검색형 독서 방식이 생겨난 것이다. ( ㉣ ) 이와 같이 시대에 따라 독서의 방식은 변화한다.",
+    "passage_template": "옛날에는 책을 눈으로만 읽지 않고 몸을 움직이며 가락에 맞추어 소리 높여 읽었다. ( ㉠ ) 그런데 현대 정보화 사회에 이르러서는 독서 방식이 획기적으로 변하였다. ( ㉡ ) 다 같이 소리를 내서 읽는 방식 대신 혼자 읽는 방식을 선호하게 되었다. ( ㉢ ) 다양한 연결망을 통해 개인적으로 읽을 글을 선택·편집하고, 자유롭게 영역을 이동하는 검색형 독서 방식이 생겨난 것이다. ( ㉣ ) 이와 같이 시대에 따라 독서의 방식은 변화한다.",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "source_pdf_page": 20,
+    "source_printed_page": 16,
+    "insert_sentence": "또한 글의 흐름에 따라 처음부터 끝까지 순서대로 읽던 과거의 독서 방식도 바뀌고 있다.",
+    "sentence_to_insert": "또한 글의 흐름에 따라 처음부터 끝까지 순서대로 읽던 과거의 독서 방식도 바뀌고 있다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "position_labels": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_position": "㉢",
+    "correct_insert_position": "㉢",
+    "interaction_mode": "sentence_insert",
+    "sentence_insert_reviewed": false,
+    "review_note": "47회 39번 문장 삽입 문항입니다. 보기 문장을 ㉢ 위치에 삽입해야 정답 ③입니다. 화면에서 ㉠~㉣ 위치 버튼과 삽입 후 파란색 강조 표시를 검수합니다.",
+    "template_slot": 15,
+    "target_slots": [
+      15
+    ],
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "target_slot": 15,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R039",
+    "full_exam_question_number": 39,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 15,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT016-ORIG042",
+    "question_number": 16,
+    "original_question_number": 42,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 친 부분에 나타난 인물의 심정 파악",
+    "instruction": "[16~17] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 아버지의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "낙천이 아저씨가 돌아가셨다는 소식을 수화기 저편의 아버지에게서 듣는 순간, 내 입에선 아! 짤막한 탄식이 새어 나왔다. 아침부터 희끄무레하던 하늘에서 막 눈이 쏟아지는 참이었다. 수화기를 든 채로 잠시 눈발을 주시했다. 지난 가을 시골집에 들렀을 때 다른 때와는 달리 아버지가 “작은 아버지 한번 보고 갈테냐?”고 물었던 일이 떠올랐다. 아버지는 늘 그를 작은 아버지라 지칭했지만 우리들은 그를 낙천이 아저씨라 불렀다. 뒤늦게 깨닫게 되는 일들. 그때 그랬으면 좋았을 텐데 싶은 일들. (중략)\n“올 테냐?” 수화기 저편의 아버지가 내 대답을 기다렸다. 귀는 수화기에 대고 있고 시선은 점점 굵어지는 창밖의 눈발을 응시하고 있지만 머릿속은 오늘 일정들을 체크해 보느라 분주하게 움직였다. 지금 열한 시. K와 점심. 한 시 부서 회의. 세 시에 전체 회의. 네 시에 설치 미술가의 기자 간담회에 참석한 뒤 여섯 시에는 인터뷰 약속이 잡혀 있었다. (중략)\n“눈이 많이 오네요, 아버지.” 수화기 저편의 아버지 목소리에서 힘이 빠졌다. “못 오겠냐?” 이번에는 내 몸에서 힘이 빠졌다. 당신과 뜻이 달라 실망을 할 때면 상대를 탓하거나 의견을 다시 주장하는 게 아니라 힘이 빠진 목소리로 그러냐며 곧 수납 태세로 들어가는 아버지에게 무력해진 지 오래되었다는 생각.",
+    "passage_template": "낙천이 아저씨가 돌아가셨다는 소식을 수화기 저편의 아버지에게서 듣는 순간, 내 입에선 아! 짤막한 탄식이 새어 나왔다. 아침부터 희끄무레하던 하늘에서 막 눈이 쏟아지는 참이었다. 수화기를 든 채로 잠시 눈발을 주시했다. 지난 가을 시골집에 들렀을 때 다른 때와는 달리 아버지가 “작은 아버지 한번 보고 갈테냐?”고 물었던 일이 떠올랐다. 아버지는 늘 그를 작은 아버지라 지칭했지만 우리들은 그를 낙천이 아저씨라 불렀다. 뒤늦게 깨닫게 되는 일들. 그때 그랬으면 좋았을 텐데 싶은 일들. (중략)\n“올 테냐?” 수화기 저편의 아버지가 내 대답을 기다렸다. 귀는 수화기에 대고 있고 시선은 점점 굵어지는 창밖의 눈발을 응시하고 있지만 머릿속은 오늘 일정들을 체크해 보느라 분주하게 움직였다. 지금 열한 시. K와 점심. 한 시 부서 회의. 세 시에 전체 회의. 네 시에 설치 미술가의 기자 간담회에 참석한 뒤 여섯 시에는 인터뷰 약속이 잡혀 있었다. (중략)\n“눈이 많이 오네요, 아버지.” 수화기 저편의 아버지 목소리에서 힘이 빠졌다. “못 오겠냐?” 이번에는 내 몸에서 힘이 빠졌다. 당신과 뜻이 달라 실망을 할 때면 상대를 탓하거나 의견을 다시 주장하는 게 아니라 힘이 빠진 목소리로 그러냐며 곧 수납 태세로 들어가는 아버지에게 무력해진 지 오래되었다는 생각.",
+    "options": [
+      "서운하다",
+      "억울하다",
+      "조급하다",
+      "괘씸하다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "template_slot": 16,
+    "target_slots": [
+      16
+    ],
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "서운하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "억울하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "조급하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "괘씸하다"
+      }
+    ],
+    "options_text": [
+      "서운하다",
+      "억울하다",
+      "조급하다",
+      "괘씸하다"
+    ],
+    "underline_targets": [
+      "못 오겠냐?"
+    ],
+    "underlined_parts": [
+      "못 오겠냐?"
+    ],
+    "underline_review_note": "2026-07-15 사용자 화면 검수 반영: 42~43번 공통 지문의 실제 밑줄 범위는 '못 오겠냐?'입니다. 이전 '뒤늦게 깨닫게 되는 일들...' 밑줄을 수정했습니다.",
+    "passage_group_id": "47-LT-R016-R017",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "selection_unit": "47-R042-R043",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "47-R042-R043",
+    "passage_set_lock_id": "47-R042-R043",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      42,
+      43
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "selection_unit_size": 2,
+    "target_slot": 16,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R042",
+    "full_exam_question_number": 42,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 16,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT017-ORIG043",
+    "question_number": 17,
+    "original_question_number": 43,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 일치 판단",
+    "instruction": "[16~17] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "낙천이 아저씨가 돌아가셨다는 소식을 수화기 저편의 아버지에게서 듣는 순간, 내 입에선 아! 짤막한 탄식이 새어 나왔다. 아침부터 희끄무레하던 하늘에서 막 눈이 쏟아지는 참이었다. 수화기를 든 채로 잠시 눈발을 주시했다. 지난 가을 시골집에 들렀을 때 다른 때와는 달리 아버지가 “작은 아버지 한번 보고 갈테냐?”고 물었던 일이 떠올랐다. 아버지는 늘 그를 작은 아버지라 지칭했지만 우리들은 그를 낙천이 아저씨라 불렀다. 뒤늦게 깨닫게 되는 일들. 그때 그랬으면 좋았을 텐데 싶은 일들. (중략)\n“올 테냐?” 수화기 저편의 아버지가 내 대답을 기다렸다. 귀는 수화기에 대고 있고 시선은 점점 굵어지는 창밖의 눈발을 응시하고 있지만 머릿속은 오늘 일정들을 체크해 보느라 분주하게 움직였다. 지금 열한 시. K와 점심. 한 시 부서 회의. 세 시에 전체 회의. 네 시에 설치 미술가의 기자 간담회에 참석한 뒤 여섯 시에는 인터뷰 약속이 잡혀 있었다. (중략)\n“눈이 많이 오네요, 아버지.” 수화기 저편의 아버지 목소리에서 힘이 빠졌다. “못 오겠냐?” 이번에는 내 몸에서 힘이 빠졌다. 당신과 뜻이 달라 실망을 할 때면 상대를 탓하거나 의견을 다시 주장하는 게 아니라 힘이 빠진 목소리로 그러냐며 곧 수납 태세로 들어가는 아버지에게 무력해진 지 오래되었다는 생각.",
+    "passage_template": "낙천이 아저씨가 돌아가셨다는 소식을 수화기 저편의 아버지에게서 듣는 순간, 내 입에선 아! 짤막한 탄식이 새어 나왔다. 아침부터 희끄무레하던 하늘에서 막 눈이 쏟아지는 참이었다. 수화기를 든 채로 잠시 눈발을 주시했다. 지난 가을 시골집에 들렀을 때 다른 때와는 달리 아버지가 “작은 아버지 한번 보고 갈테냐?”고 물었던 일이 떠올랐다. 아버지는 늘 그를 작은 아버지라 지칭했지만 우리들은 그를 낙천이 아저씨라 불렀다. 뒤늦게 깨닫게 되는 일들. 그때 그랬으면 좋았을 텐데 싶은 일들. (중략)\n“올 테냐?” 수화기 저편의 아버지가 내 대답을 기다렸다. 귀는 수화기에 대고 있고 시선은 점점 굵어지는 창밖의 눈발을 응시하고 있지만 머릿속은 오늘 일정들을 체크해 보느라 분주하게 움직였다. 지금 열한 시. K와 점심. 한 시 부서 회의. 세 시에 전체 회의. 네 시에 설치 미술가의 기자 간담회에 참석한 뒤 여섯 시에는 인터뷰 약속이 잡혀 있었다. (중략)\n“눈이 많이 오네요, 아버지.” 수화기 저편의 아버지 목소리에서 힘이 빠졌다. “못 오겠냐?” 이번에는 내 몸에서 힘이 빠졌다. 당신과 뜻이 달라 실망을 할 때면 상대를 탓하거나 의견을 다시 주장하는 게 아니라 힘이 빠진 목소리로 그러냐며 곧 수납 태세로 들어가는 아버지에게 무력해진 지 오래되었다는 생각.",
+    "options": [
+      "눈이 많이 오자 아버지는 내가 걱정돼서 전화를 하셨다.",
+      "나는 오늘 일이 많아서 시골집에 가는 것이 망설여진다.",
+      "나는 지난 가을 시골집에 갔을 때 낙천 아저씨를 만났다.",
+      "낙천 아저씨가 돌아가셨다는 소식에 나는 몸에 힘이 빠졌다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "template_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_pdf_page": 22,
+    "source_printed_page": 18,
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "눈이 많이 오자 아버지는 내가 걱정돼서 전화를 하셨다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "나는 오늘 일이 많아서 시골집에 가는 것이 망설여진다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 지난 가을 시골집에 갔을 때 낙천 아저씨를 만났다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "낙천 아저씨가 돌아가셨다는 소식에 나는 몸에 힘이 빠졌다."
+      }
+    ],
+    "options_text": [
+      "눈이 많이 오자 아버지는 내가 걱정돼서 전화를 하셨다.",
+      "나는 오늘 일이 많아서 시골집에 가는 것이 망설여진다.",
+      "나는 지난 가을 시골집에 갔을 때 낙천 아저씨를 만났다.",
+      "낙천 아저씨가 돌아가셨다는 소식에 나는 몸에 힘이 빠졌다."
+    ],
+    "underline_targets": [
+      "못 오겠냐?"
+    ],
+    "underlined_parts": [
+      "못 오겠냐?"
+    ],
+    "underline_review_note": "2026-07-15 사용자 화면 검수 반영: 42~43번 공통 지문의 실제 밑줄 범위는 '못 오겠냐?'입니다. 이전 '뒤늦게 깨닫게 되는 일들...' 밑줄을 수정했습니다.",
+    "passage_group_id": "47-LT-R016-R017",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "selection_unit": "47-R042-R043",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "47-R042-R043",
+    "passage_set_lock_id": "47-R042-R043",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      42,
+      43
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "selection_unit_size": 2,
+    "target_slot": 17,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R043",
+    "full_exam_question_number": 43,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 17,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT018-ORIG048",
+    "question_number": 18,
+    "original_question_number": 48,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_purpose",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "글을 쓴 목적 파악",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "passage_template": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "options": [
+      "실리콘밸리의 주요 성장 동력을 분석하려고",
+      "기업의 역량과 활동을 지원하는 방안을 제시하려고",
+      "첨단과학 중심으로 조직된 기업 단지를 소개하려고",
+      "여건에 맞는 경제 환경 조성의 중요성을 제기하려고"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "template_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "실리콘밸리의 주요 성장 동력을 분석하려고"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "기업의 역량과 활동을 지원하는 방안을 제시하려고"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "첨단과학 중심으로 조직된 기업 단지를 소개하려고"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "여건에 맞는 경제 환경 조성의 중요성을 제기하려고"
+      }
+    ],
+    "options_text": [
+      "실리콘밸리의 주요 성장 동력을 분석하려고",
+      "기업의 역량과 활동을 지원하는 방안을 제시하려고",
+      "첨단과학 중심으로 조직된 기업 단지를 소개하려고",
+      "여건에 맞는 경제 환경 조성의 중요성을 제기하려고"
+    ],
+    "underline_targets": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underlined_parts": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underline_review_note": "사용자 제공 캡처와 PDF를 기준으로 48~50번 공통 지문의 밑줄 범위는 ‘그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다.’입니다.",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "blank_key": "blank_1",
+    "passage_group_id": "47-LT-R018-R020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 1,
+    "selection_unit": "47-R048-R050",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "47-R048-R050",
+    "passage_set_lock_id": "47-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "target_slot": 18,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R048",
+    "full_exam_question_number": 48,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 18,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT019-ORIG049",
+    "question_number": 19,
+    "original_question_number": 49,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 명사구 선택",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 알맞은 것을 고르십시오.",
+    "passage": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "passage_template": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "options": [
+      "문화가 창출될 수 있는",
+      "실패가 용납될 수 있는",
+      "자본력이 형성될 수 있는",
+      "창의성이 발휘될 수 있는"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "template_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "문화가 창출될 수 있는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "실패가 용납될 수 있는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "자본력이 형성될 수 있는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "창의성이 발휘될 수 있는"
+      }
+    ],
+    "options_text": [
+      "문화가 창출될 수 있는",
+      "실패가 용납될 수 있는",
+      "자본력이 형성될 수 있는",
+      "창의성이 발휘될 수 있는"
+    ],
+    "underline_targets": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underlined_parts": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underline_review_note": "50번 태도 문항의 밑줄 범위를 공통 지문 49번 화면에서도 유지하도록 같은 underline_targets를 넣었습니다.",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "blank_key": "blank_1",
+    "passage_group_id": "47-LT-R018-R020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 2,
+    "selection_unit": "47-R048-R050",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "47-R048-R050",
+    "passage_set_lock_id": "47-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "target_slot": 19,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R049",
+    "full_exam_question_number": 49,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 19,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  },
+  {
+    "id": "T2-47-LT020-ORIG050",
+    "question_number": 20,
+    "original_question_number": 50,
+    "source_round": "47",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "type": "common_passage_attitude",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "밑줄 친 부분에 나타난 필자의 태도 파악",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "passage_template": "젊은 인재들이 아이디어 하나로 세상을 바꿔 나가는 일이 거듭되면서, 미국의 실리콘밸리는 전 세계적으로 ‘창의적 기술 혁신’의 상징이 되었다. 이 모든 것이 한데 어우러져 (     ) 최적의 환경을 만들어 낸 것이다. 그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다. 인주시의 경우, 첨단과학기술단지를 조성하여 입주 기업들이 자신의 역량을 펼칠 수 있도록 하였다. 투자 예산 확대나 세금 감면 혜택 등을 통해 창의적 기업 활동의 길을 활짝 열어 준 것이다. 그 결과 기업들은 인주 지역 경제 활성화와 일자리 창출에 핵심적 역할을 하고 있다. 실리콘밸리의 성공 모델을 모방하기는 했지만 지역의 특수성을 고려한 인주시의 첨단과학기술단지는 새로운 경제 성장 동력의 한 모델이 될 수 있을 것이다. 향후 여러 도시에서도 각자의 여건에 맞추어 창의적인 기업 활동 지원책을 마련할 필요가 있다.",
+    "options": [
+      "경제 활성화를 위한 다양한 시도의 긍정적 측면을 인정하고 있다.",
+      "경제 성장의 성공 사례가 활발히 도입되는 현상을 경계하고 있다.",
+      "경제의 성공 방식을 해외에서 찾으려는 노력에 대해 감탄하고 있다.",
+      "경제의 성공 요인을 다르게 파악하려는 자세에 대해 비판하고 있다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "source_file": "47회_문제지_TOPIK2_2교시_읽기(B형).pdf",
+    "source_answer_key_file": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "source_answer_key_type": "B형",
+    "answer_source": "47회_정답 및 배점표_TOPIK2(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "screen_reviewed_by_user",
+    "data_status": "level_test_20_from_47_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-47",
+    "screen_review_status": "source_segments_screen_reviewed_by_user",
+    "bank_source": "reading-47.json",
+    "template_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_pdf_page": 25,
+    "source_printed_page": 21,
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "경제 활성화를 위한 다양한 시도의 긍정적 측면을 인정하고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "경제 성장의 성공 사례가 활발히 도입되는 현상을 경계하고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "경제의 성공 방식을 해외에서 찾으려는 노력에 대해 감탄하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "경제의 성공 요인을 다르게 파악하려는 자세에 대해 비판하고 있다."
+      }
+    ],
+    "options_text": [
+      "경제 활성화를 위한 다양한 시도의 긍정적 측면을 인정하고 있다.",
+      "경제 성장의 성공 사례가 활발히 도입되는 현상을 경계하고 있다.",
+      "경제의 성공 방식을 해외에서 찾으려는 노력에 대해 감탄하고 있다.",
+      "경제의 성공 요인을 다르게 파악하려는 자세에 대해 비판하고 있다."
+    ],
+    "underline_targets": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underlined_parts": [
+      "그런데 실리콘밸리의 모델을 한국의 여러 도시에서 다양한 형태로 적용하려는 움직임이 활발히 이루어지고 있어 고무적이다."
+    ],
+    "underline_review_note": "50번 문항에서 직접 묻는 밑줄 범위입니다. 화면에서는 이 문장 전체만 밑줄로 표시되어야 합니다.",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "blank_key": "blank_1",
+    "passage_group_id": "47-LT-R018-R020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 3,
+    "selection_unit": "47-R048-R050",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "47-R048-R050",
+    "passage_set_lock_id": "47-R048-R050",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "selection_unit_size": 3,
+    "target_slot": 20,
+    "source_full_exam_id": "reading-47",
+    "source_question_id": "T2-47-R050",
+    "full_exam_question_number": 50,
+    "level_test_id": "level-test-47",
+    "level_test_question_number": 20,
+    "level_test_source_rule": "balanced_by_type_with_passage_sets",
+    "source_exam_file": "reading-test/data/exams/reading-47.json"
+  }
+]
