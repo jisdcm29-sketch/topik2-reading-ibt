@@ -1,0 +1,2434 @@
+[
+  {
+    "id": "T2-41-LT01-O001",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "source_pdf_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "grammar_blank",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "template_slot": 1,
+    "target_slot": 1,
+    "instruction": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "형은 차가워(     ) 마음은 따뜻하다.",
+    "options": [
+      "보여도",
+      "보여야",
+      "보이다가",
+      "보이든지"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "겉으로 차가워 보이는 것과 마음이 따뜻한 것을 대조하므로 '보여도'가 알맞습니다.",
+    "image_url": "",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      1
+    ],
+    "passage_template": "형은 차가워(     ) 마음은 따뜻하다.",
+    "options_text": [
+      "보여도",
+      "보여야",
+      "보이다가",
+      "보이든지"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "보여도"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "보여야"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "보이다가"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "보이든지"
+      }
+    ],
+    "level_test_slot": 1,
+    "level_test_question_number": 1,
+    "source_question_number": 1,
+    "source_full_question_number": 1,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 1,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 1,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT02-O003",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "source_pdf_page": 3,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 문법·표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "template_slot": 2,
+    "target_slot": 2,
+    "instruction": "다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "question": "밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "아기가 자고 있어서 깨지 않게 조용히 방 안으로 들어갔다.",
+    "options": [
+      "깨지 않는지",
+      "깨지 않도록",
+      "깨지 않더니",
+      "깨지 않느라"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "'깨지 않게'는 아기가 깨지 않도록 조용히 행동했다는 뜻입니다.",
+    "image_url": "",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "underline_targets": [
+      "깨지 않게"
+    ],
+    "underlined_parts": [
+      "깨지 않게"
+    ],
+    "underline_text": "깨지 않게",
+    "underlined_text": "깨지 않게",
+    "underline_segments": [
+      "깨지 않게"
+    ],
+    "highlighted_parts": [
+      "깨지 않게"
+    ],
+    "passage_html": "아기가 자고 있어서 <u>깨지 않게</u> 조용히 방 안으로 들어갔다.",
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      2
+    ],
+    "passage_template": "아기가 자고 있어서 깨지 않게 조용히 방 안으로 들어갔다.",
+    "options_text": [
+      "깨지 않는지",
+      "깨지 않도록",
+      "깨지 않더니",
+      "깨지 않느라"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "깨지 않는지"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "깨지 않도록"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "깨지 않더니"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "깨지 않느라"
+      }
+    ],
+    "level_test_slot": 2,
+    "level_test_question_number": 2,
+    "source_question_number": 3,
+    "source_full_question_number": 3,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 3,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 2,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT03-O005",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "source_pdf_page": 4,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고 문구의 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "template_slot": 3,
+    "target_slot": 3,
+    "instruction": "다음은 무엇에 대한 글인지 고르십시오.",
+    "question": "무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "options": [
+      "청소기",
+      "선풍기",
+      "세탁기",
+      "전화기"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "시원한 바람과 맑고 깨끗한 자연 느낌을 강조하므로 선풍기 광고로 볼 수 있습니다.",
+    "image_url": "./images/41_R005.png",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "image_only": true,
+    "passage_template": "",
+    "image_alt_text": "시원한 바람을 만나다 / 맑고 깨끗한 자연 느낌 그대로!",
+    "visual_text_for_review": "시원한 바람을 만나다 / 맑고 깨끗한 자연 느낌 그대로!",
+    "image_display_width": "94%",
+    "image_max_height": 310,
+    "reconstructed_image": false,
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      3
+    ],
+    "options_text": [
+      "청소기",
+      "선풍기",
+      "세탁기",
+      "전화기"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "청소기"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "선풍기"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "세탁기"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "전화기"
+      }
+    ],
+    "level_test_slot": 3,
+    "level_test_question_number": 3,
+    "source_question_number": 5,
+    "source_full_question_number": 5,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 5,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 3,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT04-O010",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "source_pdf_page": 5,
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "type": "visual_same_content",
+    "category": "자료 이해",
+    "diagnostic_area": "그래프 세부 정보 이해",
+    "original_question_number": 10,
+    "question_number": 4,
+    "template_slot": 4,
+    "target_slot": 4,
+    "instruction": "다음 글 또는 도표의 내용과 같은 것을 고르십시오.",
+    "question": "내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "options": [
+      "식료품 구입이 2013년보다 늘었다.",
+      "가방류 판매가 2013년에 비해 줄었다.",
+      "두 해 모두 화장품이 가장 많이 판매되었다.",
+      "2014년에는 의류가 먹을 것보다 많이 팔렸다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "2013년과 2014년 모두 화장품 비율이 가장 높게 나타납니다.",
+    "image_url": "./images/41_R010.png",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "image_only": true,
+    "passage_template": "",
+    "image_alt_text": "면세점에서 많이 팔리는 상품은? 2013년/2014년 비교 그래프: 화장품, 의류, 식료품, 가방류",
+    "visual_text_for_review": "면세점에서 많이 팔리는 상품은? 2013년/2014년 비교 그래프: 화장품, 의류, 식료품, 가방류",
+    "image_display_width": "82%",
+    "image_max_height": 420,
+    "reconstructed_image": false,
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      4
+    ],
+    "options_text": [
+      "식료품 구입이 2013년보다 늘었다.",
+      "가방류 판매가 2013년에 비해 줄었다.",
+      "두 해 모두 화장품이 가장 많이 판매되었다.",
+      "2014년에는 의류가 먹을 것보다 많이 팔렸다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "식료품 구입이 2013년보다 늘었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "가방류 판매가 2013년에 비해 줄었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "두 해 모두 화장품이 가장 많이 판매되었다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "2014년에는 의류가 먹을 것보다 많이 팔렸다."
+      }
+    ],
+    "level_test_slot": 4,
+    "level_test_question_number": 4,
+    "source_question_number": 10,
+    "source_full_question_number": 10,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 10,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 4,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT05-O013",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "source_pdf_page": 7,
+    "type": "sentence_order",
+    "category": "문장 순서 배열",
+    "diagnostic_area": "문장 간 논리 관계와 배열 순서 파악",
+    "original_question_number": 13,
+    "question_number": 5,
+    "template_slot": 5,
+    "target_slot": 5,
+    "instruction": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "question": "순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 이것으로 만든 차는 여름철에 마시면 특히 좋다.\n(나) 오미자는 다섯 가지 맛이 난다고 붙여진 이름이다.\n(다) 땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다.\n(라) 또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다.",
+    "options": [
+      "(가)-(라)-(다)-(나)",
+      "(가)-(다)-(라)-(나)",
+      "(나)-(가)-(다)-(라)",
+      "(나)-(다)-(가)-(라)"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "오미자의 이름을 소개한 뒤, 오미자로 만든 차의 효과와 추가 효능을 설명하는 순서가 자연스럽습니다.",
+    "image_url": "",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "이것으로 만든 차는 여름철에 마시면 특히 좋다."
+      },
+      {
+        "label": "(나)",
+        "text": "오미자는 다섯 가지 맛이 난다고 붙여진 이름이다."
+      },
+      {
+        "label": "(다)",
+        "text": "땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다."
+      },
+      {
+        "label": "(라)",
+        "text": "또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다."
+      }
+    ],
+    "sentence_order_items": [
+      {
+        "label": "(가)",
+        "text": "이것으로 만든 차는 여름철에 마시면 특히 좋다."
+      },
+      {
+        "label": "(나)",
+        "text": "오미자는 다섯 가지 맛이 난다고 붙여진 이름이다."
+      },
+      {
+        "label": "(다)",
+        "text": "땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다."
+      },
+      {
+        "label": "(라)",
+        "text": "또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다."
+      }
+    ],
+    "correct_order": [
+      "(나)",
+      "(가)",
+      "(다)",
+      "(라)"
+    ],
+    "correct_answer_order": [
+      "(나)",
+      "(가)",
+      "(다)",
+      "(라)"
+    ],
+    "order_options": [
+      "(가)-(라)-(다)-(나)",
+      "(가)-(다)-(라)-(나)",
+      "(나)-(가)-(다)-(라)",
+      "(나)-(다)-(가)-(라)"
+    ],
+    "interaction_mode": "sentence_order_choice",
+    "passage_template": "(가) 이것으로 만든 차는 여름철에 마시면 특히 좋다.\n(나) 오미자는 다섯 가지 맛이 난다고 붙여진 이름이다.\n(다) 땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다.\n(라) 또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다.",
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      5
+    ],
+    "options_text": [
+      "(가)-(라)-(다)-(나)",
+      "(가)-(다)-(라)-(나)",
+      "(나)-(가)-(다)-(라)",
+      "(나)-(다)-(가)-(라)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "(가)-(라)-(다)-(나)"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "(가)-(다)-(라)-(나)"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "(나)-(가)-(다)-(라)"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "(나)-(다)-(가)-(라)"
+      }
+    ],
+    "level_test_slot": 5,
+    "level_test_question_number": 5,
+    "source_question_number": 13,
+    "source_full_question_number": 13,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 13,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 5,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT06-O016",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "source_pdf_page": 8,
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 중심 내용 삽입",
+    "original_question_number": 16,
+    "question_number": 6,
+    "template_slot": 6,
+    "target_slot": 6,
+    "instruction": "다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "막대에 학생들의 이름을 써서 통에 꽂아 놓고 하나씩 뽑아서 발표를 시키는 수업 방식이 있다. 이것은 (     ) 방식이다. 적극적인 학생들이 먼저 손을 들고 질문에 대답하면 소극적인 학생들이 대답할 기회를 놓치게 된다. 이 방식은 모든 학습자들에게 골고루 수업에 참여할 수 있게 한다는 긍정적인 면이 있다.",
+    "options": [
+      "학생들의 이름을 빨리 기억하기 위한",
+      "수업의 단계를 동일하게 맞추기 위한",
+      "수업의 진행을 좀 더 부드럽게 하기 위한",
+      "적극성이 떨어지는 학생에게도 기회를 주기 위한"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "모든 학습자에게 골고루 발표 기회를 주는 방식이므로 적극성이 떨어지는 학생에게도 기회를 주기 위한 방식이 알맞습니다.",
+    "image_url": "",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "blank_key": "blank_1",
+    "passage_template": "막대에 학생들의 이름을 써서 통에 꽂아 놓고 하나씩 뽑아서 발표를 시키는 수업 방식이 있다. 이것은 (     ) 방식이다. 적극적인 학생들이 먼저 손을 들고 질문에 대답하면 소극적인 학생들이 대답할 기회를 놓치게 된다. 이 방식은 모든 학습자들에게 골고루 수업에 참여할 수 있게 한다는 긍정적인 면이 있다.",
+    "interaction_mode": "blank_option_insert",
+    "blank_display_mode": "insert_selected_option_into_blank",
+    "screen_review_note": "수정: passage_template의 (qXX_blank) 토큰을 실제 빈칸 (     )으로 되돌리고 blank_key를 blank_1로 맞춤. 선택지 클릭 시 괄호 위치에 보기 문장이 삽입되어야 함.",
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      6
+    ],
+    "options_text": [
+      "학생들의 이름을 빨리 기억하기 위한",
+      "수업의 단계를 동일하게 맞추기 위한",
+      "수업의 진행을 좀 더 부드럽게 하기 위한",
+      "적극성이 떨어지는 학생에게도 기회를 주기 위한"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "학생들의 이름을 빨리 기억하기 위한"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "수업의 단계를 동일하게 맞추기 위한"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "수업의 진행을 좀 더 부드럽게 하기 위한"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "적극성이 떨어지는 학생에게도 기회를 주기 위한"
+      }
+    ],
+    "level_test_slot": 6,
+    "level_test_question_number": 6,
+    "source_question_number": 16,
+    "source_full_question_number": 16,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 16,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 6,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_numbers": [],
+    "passage_group_numbers": []
+  },
+  {
+    "id": "T2-41-LT07-O019",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "source_pdf_page": 9,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문의 연결 표현 이해",
+    "original_question_number": 19,
+    "question_number": 7,
+    "template_slot": 7,
+    "target_slot": 7,
+    "instruction": "[7~8] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "options": [
+      "특히",
+      "또는",
+      "역시",
+      "과연"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "활을 쏘는 순간이 중요하다는 설명을 구체화하므로 '특히'가 알맞습니다.",
+    "image_url": "",
+    "passage_group_id": "LT41-007-008",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "shared_passage_text": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "shared_blank_key": "blank_1",
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "passage_template": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "is_shared_blank_source": true,
+    "interaction_mode": "shared_blank_option_insert",
+    "screen_review_note": "수정: 공통 지문 빈칸도 실제 빈칸 (     )으로 표시되게 변경. 19번 선택값이 20번 지문에도 유지되어야 함.",
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      7
+    ],
+    "options_text": [
+      "특히",
+      "또는",
+      "역시",
+      "과연"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "특히"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "또는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "역시"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "과연"
+      }
+    ],
+    "level_test_slot": 7,
+    "level_test_question_number": 7,
+    "source_question_number": 19,
+    "source_full_question_number": 19,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 19,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 7,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "R41-019-020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "level_test_group_id": "LT41-007-008",
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-007-008",
+    "level_test_selection_group_id": "LT41-007-008",
+    "passage_set_lock_id": "LT41-007-008",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[7~8] 공통 지문"
+  },
+  {
+    "id": "T2-41-LT08-O020",
+    "source_round": "41",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "draft",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "source_pdf_page": 9,
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 중심 내용과 세부 정보 이해",
+    "original_question_number": 20,
+    "question_number": 8,
+    "template_slot": 8,
+    "target_slot": 8,
+    "instruction": "[7~8] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "options": [
+      "활쏘기로 판단력을 높일 수 있다.",
+      "활쏘기의 핵심은 숨을 참는 것이다.",
+      "활쏘기로 참을성을 기르기가 어렵다.",
+      "활쏘기는 단순한 운동이라 주목을 받았다."
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "활쏘기는 판단력과 인내심이 필요한 운동이며 판단력이 부족한 사람에게 좋은 운동이라고 했습니다.",
+    "image_url": "",
+    "passage_group_id": "LT41-007-008",
+    "passage_group_title": "[7~8] 공통 지문",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "shared_passage_text": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "shared_blank_key": "blank_1",
+    "blank_key": "blank_1",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "passage_template": "활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (     ) 언제 활을 쏘아야 할지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.",
+    "is_shared_blank_source": false,
+    "screen_review_note": "수정: 공통 지문 빈칸도 실제 빈칸 (     )으로 표시되게 변경. 19번 선택값이 20번 지문에도 유지되어야 함.",
+    "full_exam_id": "reading-41",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "screen_review_status": "needs_user_screen_review",
+    "target_slots": [
+      8
+    ],
+    "options_text": [
+      "활쏘기로 판단력을 높일 수 있다.",
+      "활쏘기의 핵심은 숨을 참는 것이다.",
+      "활쏘기로 참을성을 기르기가 어렵다.",
+      "활쏘기는 단순한 운동이라 주목을 받았다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "활쏘기로 판단력을 높일 수 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "활쏘기의 핵심은 숨을 참는 것이다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "활쏘기로 참을성을 기르기가 어렵다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "활쏘기는 단순한 운동이라 주목을 받았다."
+      }
+    ],
+    "level_test_slot": 8,
+    "level_test_question_number": 8,
+    "source_question_number": 20,
+    "source_full_question_number": 20,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 20,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 8,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "R41-019-020",
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "level_test_group_id": "LT41-007-008",
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-007-008",
+    "level_test_selection_group_id": "LT41-007-008",
+    "passage_set_lock_id": "LT41-007-008",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[7~8] 공통 지문"
+  },
+  {
+    "id": "T2-41-LT09-O023",
+    "question_number": 9,
+    "original_question_number": 23,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "common_passage_underlined_emotion",
+    "category": "밑줄 심정",
+    "diagnostic_area": "밑줄 표현에 드러난 화자의 심정 파악",
+    "instruction": "[9~10] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 부분에 나타난 나의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "할머니를 시골에 두고 혼자 서울로 올라오는 발걸음은 가볍지 않았다. 하지만 무거웠던 마음은 며칠 가지 않았다. 할머니는 날마다 전화를 하더니 급기야 서울로 올라오시고 말았다. 할머니의 손자 사랑은 어쩔 수 없나 보다. 할머니는 청소며 빨래며 나에게는 안 보이던 온갖 집안일들을 찾아서 하기 시작했다. 그냥 쉬다가 내려가시라고 아무리 말해도 들은 척도 하지 않았다. 서른이 넘은 나는 할머니가 보기에 여전히 아이에 불과했다. 서울살이 몇 주 만에 낯선 동네에서 친구까지 사귄 할머니는 친구를 따라 시장에 갔다가 넘어지시고 말았다. 병원에서 온 연락을 받고 걱정이 되어 정신없이 달려갔더니 할머니는 같은 병실 사람들을 모아 놓고 환하게 웃으며 이야기하고 있었다. 다리에 붕대를 감고서 말이다. 그 광경을 보고 난 할 말을 잃었다.",
+    "passage_template": "할머니를 시골에 두고 혼자 서울로 올라오는 발걸음은 가볍지 않았다. 하지만 무거웠던 마음은 며칠 가지 않았다. 할머니는 날마다 전화를 하더니 급기야 서울로 올라오시고 말았다. 할머니의 손자 사랑은 어쩔 수 없나 보다. 할머니는 청소며 빨래며 나에게는 안 보이던 온갖 집안일들을 찾아서 하기 시작했다. 그냥 쉬다가 내려가시라고 아무리 말해도 들은 척도 하지 않았다. 서른이 넘은 나는 할머니가 보기에 여전히 아이에 불과했다. 서울살이 몇 주 만에 낯선 동네에서 친구까지 사귄 할머니는 친구를 따라 시장에 갔다가 넘어지시고 말았다. 병원에서 온 연락을 받고 걱정이 되어 정신없이 달려갔더니 할머니는 같은 병실 사람들을 모아 놓고 환하게 웃으며 이야기하고 있었다. 다리에 붕대를 감고서 말이다. 그 광경을 보고 난 할 말을 잃었다.",
+    "options": [
+      "답답하다",
+      "후련하다",
+      "민망하다",
+      "번거롭다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "답답하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "후련하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "민망하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "번거롭다"
+      }
+    ],
+    "options_text": [
+      "답답하다",
+      "후련하다",
+      "민망하다",
+      "번거롭다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "source_pdf_page": 11,
+    "source_printed_page": 9,
+    "passage_group_id": "LT41-009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "아무리 말해도 들은 척도 하지 않았다"
+    ],
+    "underlined_parts": [
+      "아무리 말해도 들은 척도 하지 않았다"
+    ],
+    "underlined_part": "아무리 말해도 들은 척도 하지 않았다",
+    "underline_note": "PDF 기준 밑줄 범위는 '아무리 말해도 들은 척도 하지 않았다'입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄을 유지합니다.",
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-009-010",
+    "passage_set_lock_id": "LT41-009-010",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[9~10] 공통 지문",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 9,
+    "level_test_question_number": 9,
+    "source_question_number": 23,
+    "source_full_question_number": 23,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 23,
+    "target_slot": 9,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 9,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "R41-023-024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "level_test_group_id": "LT41-009-010",
+    "level_test_selection_group_id": "LT41-009-010",
+    "set_original_question_numbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "T2-41-LT10-O024",
+    "question_number": 10,
+    "original_question_number": 24,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "instruction": "[9~10] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "할머니를 시골에 두고 혼자 서울로 올라오는 발걸음은 가볍지 않았다. 하지만 무거웠던 마음은 며칠 가지 않았다. 할머니는 날마다 전화를 하더니 급기야 서울로 올라오시고 말았다. 할머니의 손자 사랑은 어쩔 수 없나 보다. 할머니는 청소며 빨래며 나에게는 안 보이던 온갖 집안일들을 찾아서 하기 시작했다. 그냥 쉬다가 내려가시라고 아무리 말해도 들은 척도 하지 않았다. 서른이 넘은 나는 할머니가 보기에 여전히 아이에 불과했다. 서울살이 몇 주 만에 낯선 동네에서 친구까지 사귄 할머니는 친구를 따라 시장에 갔다가 넘어지시고 말았다. 병원에서 온 연락을 받고 걱정이 되어 정신없이 달려갔더니 할머니는 같은 병실 사람들을 모아 놓고 환하게 웃으며 이야기하고 있었다. 다리에 붕대를 감고서 말이다. 그 광경을 보고 난 할 말을 잃었다.",
+    "passage_template": "할머니를 시골에 두고 혼자 서울로 올라오는 발걸음은 가볍지 않았다. 하지만 무거웠던 마음은 며칠 가지 않았다. 할머니는 날마다 전화를 하더니 급기야 서울로 올라오시고 말았다. 할머니의 손자 사랑은 어쩔 수 없나 보다. 할머니는 청소며 빨래며 나에게는 안 보이던 온갖 집안일들을 찾아서 하기 시작했다. 그냥 쉬다가 내려가시라고 아무리 말해도 들은 척도 하지 않았다. 서른이 넘은 나는 할머니가 보기에 여전히 아이에 불과했다. 서울살이 몇 주 만에 낯선 동네에서 친구까지 사귄 할머니는 친구를 따라 시장에 갔다가 넘어지시고 말았다. 병원에서 온 연락을 받고 걱정이 되어 정신없이 달려갔더니 할머니는 같은 병실 사람들을 모아 놓고 환하게 웃으며 이야기하고 있었다. 다리에 붕대를 감고서 말이다. 그 광경을 보고 난 할 말을 잃었다.",
+    "options": [
+      "할머니께서는 내 말에 자주 귀를 기울이셨다.",
+      "할머니께서는 시장에 갔다가 다리를 다치셨다.",
+      "할머니께서는 나에게 온갖 집안일을 시키셨다.",
+      "할머니께서는 친구를 만나려고 서울에 올라오셨다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "할머니께서는 내 말에 자주 귀를 기울이셨다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "할머니께서는 시장에 갔다가 다리를 다치셨다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "할머니께서는 나에게 온갖 집안일을 시키셨다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "할머니께서는 친구를 만나려고 서울에 올라오셨다."
+      }
+    ],
+    "options_text": [
+      "할머니께서는 내 말에 자주 귀를 기울이셨다.",
+      "할머니께서는 시장에 갔다가 다리를 다치셨다.",
+      "할머니께서는 나에게 온갖 집안일을 시키셨다.",
+      "할머니께서는 친구를 만나려고 서울에 올라오셨다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "source_pdf_page": 11,
+    "source_printed_page": 9,
+    "passage_group_id": "LT41-009-010",
+    "passage_group_title": "[9~10] 공통 지문",
+    "passage_group_numbers": [
+      9,
+      10
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "underline_targets": [
+      "아무리 말해도 들은 척도 하지 않았다"
+    ],
+    "underlined_parts": [
+      "아무리 말해도 들은 척도 하지 않았다"
+    ],
+    "underlined_part": "아무리 말해도 들은 척도 하지 않았다",
+    "underline_note": "PDF 기준 밑줄 범위는 '아무리 말해도 들은 척도 하지 않았다'입니다. 공통 지문이므로 23번과 24번 모두 같은 밑줄을 유지합니다.",
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-009-010",
+    "passage_set_lock_id": "LT41-009-010",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[9~10] 공통 지문",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 10,
+    "level_test_question_number": 10,
+    "source_question_number": 24,
+    "source_full_question_number": 24,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 24,
+    "target_slot": 10,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 10,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "R41-023-024",
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "level_test_group_id": "LT41-009-010",
+    "level_test_selection_group_id": "LT41-009-010",
+    "set_original_question_numbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "T2-41-LT11-O025",
+    "question_number": 11,
+    "original_question_number": 25,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "신문 제목의 핵심 정보 파악",
+    "instruction": "다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "question": "신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "낮에는 화창, 밤부터 곳에 따라 빗방울 ‘뚝뚝’",
+    "passage_template": "낮에는 화창, 밤부터 곳에 따라 빗방울 ‘뚝뚝’",
+    "options": [
+      "낮에는 흐리고 밤부터 전국에 비가 내리겠다.",
+      "낮에는 맑겠으나 밤부터 전국에 비가 내리겠다.",
+      "낮에는 맑겠으나 밤부터 일부 지역에는 비가 오겠다.",
+      "낮에는 흐리고 밤부터 일부 지역에는 비가 쏟아지겠다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "낮에는 흐리고 밤부터 전국에 비가 내리겠다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "낮에는 맑겠으나 밤부터 전국에 비가 내리겠다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "낮에는 맑겠으나 밤부터 일부 지역에는 비가 오겠다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "낮에는 흐리고 밤부터 일부 지역에는 비가 쏟아지겠다."
+      }
+    ],
+    "options_text": [
+      "낮에는 흐리고 밤부터 전국에 비가 내리겠다.",
+      "낮에는 맑겠으나 밤부터 전국에 비가 내리겠다.",
+      "낮에는 맑겠으나 밤부터 일부 지역에는 비가 오겠다.",
+      "낮에는 흐리고 밤부터 일부 지역에는 비가 쏟아지겠다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "source_pdf_page": 12,
+    "source_printed_page": 10,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 11,
+    "level_test_question_number": 11,
+    "source_question_number": 25,
+    "source_full_question_number": 25,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 25,
+    "target_slot": 11,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 11,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-41-LT12-O028",
+    "question_number": 12,
+    "original_question_number": 28,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "instruction": "다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "동화는 어린이가 읽는 책이라는 인식이 지배적이었다. 그러나 요즘은 동화를 통해 (     ) 어른들이 늘고 있다. 동화 속 이야기는 지난 기억과 소중한 것들을 다시 일깨워 어른들을 동심의 세계로 인도한다. 이는 나이가 많든 적든 가난하든 부유하든 누구나 공감할 수 있는 이야기가 동화 속에 존재하기 때문에 가능하다.",
+    "passage_template": "동화는 어린이가 읽는 책이라는 인식이 지배적이었다. 그러나 요즘은 동화를 통해 (     ) 어른들이 늘고 있다. 동화 속 이야기는 지난 기억과 소중한 것들을 다시 일깨워 어른들을 동심의 세계로 인도한다. 이는 나이가 많든 적든 가난하든 부유하든 누구나 공감할 수 있는 이야기가 동화 속에 존재하기 때문에 가능하다.",
+    "options": [
+      "아이들을 교육하려는",
+      "어린 시절을 되돌아보려는",
+      "가족 사랑을 확인해 보려는",
+      "아이를 위한 글을 써 보려는"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "아이들을 교육하려는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "어린 시절을 되돌아보려는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "가족 사랑을 확인해 보려는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "아이를 위한 글을 써 보려는"
+      }
+    ],
+    "options_text": [
+      "아이들을 교육하려는",
+      "어린 시절을 되돌아보려는",
+      "가족 사랑을 확인해 보려는",
+      "아이를 위한 글을 써 보려는"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "source_pdf_page": 13,
+    "source_printed_page": 11,
+    "blank_key": "blank_1",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 12,
+    "level_test_question_number": 12,
+    "source_question_number": 28,
+    "source_full_question_number": 28,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 28,
+    "target_slot": 12,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 12,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-41-LT13-O032",
+    "question_number": 13,
+    "original_question_number": 32,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "설명문의 세부 내용 이해",
+    "instruction": "다음을 읽고 내용이 같은 것을 고르십시오.",
+    "question": "내용이 같은 것을 고르십시오.",
+    "passage": "보자기는 물건을 싸는 실용적인 용도로 사용된다. 그중에서 쓰고 남은 천 조각으로 만든 것을 조각보라고 한다. 이 조각보를 만들 때는 쓰는 사람이 복을 받기를 바라는 마음으로 바느질을 한다. 이러한 조각보가 오늘날에는 예술적으로도 인정을 받고 있다. 색도, 모양도, 크기도 서로 다른 조각들을 이어 만든 조각보에는 자유분방한 아름다움과 조화로움이 살아 있기 때문이다.",
+    "passage_template": "보자기는 물건을 싸는 실용적인 용도로 사용된다. 그중에서 쓰고 남은 천 조각으로 만든 것을 조각보라고 한다. 이 조각보를 만들 때는 쓰는 사람이 복을 받기를 바라는 마음으로 바느질을 한다. 이러한 조각보가 오늘날에는 예술적으로도 인정을 받고 있다. 색도, 모양도, 크기도 서로 다른 조각들을 이어 만든 조각보에는 자유분방한 아름다움과 조화로움이 살아 있기 때문이다.",
+    "options": [
+      "조각보는 실용성보다 예술성이 강조되어 있다.",
+      "조각보는 큰 천을 여러 조각으로 잘라서 만들었다.",
+      "조각보는 색이 같고 모양이 다른 조각이 이어져 있다.",
+      "조각보에는 복을 기원하는 정성스러운 마음이 담겨 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "조각보는 실용성보다 예술성이 강조되어 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "조각보는 큰 천을 여러 조각으로 잘라서 만들었다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "조각보는 색이 같고 모양이 다른 조각이 이어져 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "조각보에는 복을 기원하는 정성스러운 마음이 담겨 있다."
+      }
+    ],
+    "options_text": [
+      "조각보는 실용성보다 예술성이 강조되어 있다.",
+      "조각보는 큰 천을 여러 조각으로 잘라서 만들었다.",
+      "조각보는 색이 같고 모양이 다른 조각이 이어져 있다.",
+      "조각보에는 복을 기원하는 정성스러운 마음이 담겨 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 13,
+    "target_slots": [
+      13
+    ],
+    "source_pdf_page": 15,
+    "source_printed_page": 13,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 13,
+    "level_test_question_number": 13,
+    "source_question_number": 32,
+    "source_full_question_number": 32,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 32,
+    "target_slot": 13,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 13,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-41-LT14-O035",
+    "question_number": 14,
+    "original_question_number": 35,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "main_idea",
+    "category": "중심 내용",
+    "diagnostic_area": "글의 주제 파악",
+    "instruction": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "question": "글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "메일을 쓰거나 문자 메시지를 주고받을 때 이모티콘을 통해 감정을 표시한다. 초창기 문자나 얼굴 표정 위주에서 발전해 만화 인물을 활용하여 소리를 내기도 하고, 움직임을 더해 웃음을 유발하기도 한다. 1980년대 초 이모티콘이 처음 생긴 이래 끊임없이 진화를 계속하고 있는 것이다. 언어 표현력을 퇴보시킨다는 일부의 비판에도 불구하고 이제 이모티콘은 없어서는 안 될 또 하나의 언어로 자리매김 되었다고 할 수 있다.",
+    "passage_template": "메일을 쓰거나 문자 메시지를 주고받을 때 이모티콘을 통해 감정을 표시한다. 초창기 문자나 얼굴 표정 위주에서 발전해 만화 인물을 활용하여 소리를 내기도 하고, 움직임을 더해 웃음을 유발하기도 한다. 1980년대 초 이모티콘이 처음 생긴 이래 끊임없이 진화를 계속하고 있는 것이다. 언어 표현력을 퇴보시킨다는 일부의 비판에도 불구하고 이제 이모티콘은 없어서는 안 될 또 하나의 언어로 자리매김 되었다고 할 수 있다.",
+    "options": [
+      "초창기 이모티콘은 대부분 얼굴 표정을 나타내는 것이었다.",
+      "이모티콘은 감정을 표현하는 또 하나의 언어로 자리 잡았다.",
+      "이모티콘의 지속적인 사용은 언어 표현력을 떨어뜨릴 수 있다.",
+      "이제는 이모티콘이 없으면 메시지를 주고받기 어려울 정도이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "초창기 이모티콘은 대부분 얼굴 표정을 나타내는 것이었다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "이모티콘은 감정을 표현하는 또 하나의 언어로 자리 잡았다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "이모티콘의 지속적인 사용은 언어 표현력을 떨어뜨릴 수 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "이제는 이모티콘이 없으면 메시지를 주고받기 어려울 정도이다."
+      }
+    ],
+    "options_text": [
+      "초창기 이모티콘은 대부분 얼굴 표정을 나타내는 것이었다.",
+      "이모티콘은 감정을 표현하는 또 하나의 언어로 자리 잡았다.",
+      "이모티콘의 지속적인 사용은 언어 표현력을 떨어뜨릴 수 있다.",
+      "이제는 이모티콘이 없으면 메시지를 주고받기 어려울 정도이다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "template_slot": 14,
+    "target_slots": [
+      14
+    ],
+    "source_pdf_page": 16,
+    "source_printed_page": 14,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 14,
+    "level_test_question_number": 14,
+    "source_question_number": 35,
+    "source_full_question_number": 35,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 35,
+    "target_slot": 14,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 14,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-41-LT15-O039",
+    "question_number": 15,
+    "original_question_number": 39,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "글의 흐름에 맞는 문장 삽입 위치 파악",
+    "instruction": "다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "인주상사가 이번 달부터 ‘자율근무제’를 도입한다. (㉠) 이 제도는 본인의 업무 시간을 스스로 정할 수 있어 기존의 출퇴근 시간이 사라지게 된다. (㉡) 이 회사에서는 오는 10월까지 모든 사원을 대상으로 자율근무제를 시범 운영할 예정이다. (㉢) 시범 운영 기간이 끝나면 이 제도의 장점과 단점을 분석하고 보완하여 정식으로 도입할 예정이다. (㉣) 다른 기업들도 이러한 인주상사의 자율근무제 시행에 큰 관심을 가지고 있다.",
+    "passage_template": "인주상사가 이번 달부터 ‘자율근무제’를 도입한다. (㉠) 이 제도는 본인의 업무 시간을 스스로 정할 수 있어 기존의 출퇴근 시간이 사라지게 된다. (㉡) 이 회사에서는 오는 10월까지 모든 사원을 대상으로 자율근무제를 시범 운영할 예정이다. (㉢) 시범 운영 기간이 끝나면 이 제도의 장점과 단점을 분석하고 보완하여 정식으로 도입할 예정이다. (㉣) 다른 기업들도 이러한 인주상사의 자율근무제 시행에 큰 관심을 가지고 있다.",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "주어진 문장의 연결 관계와 지시 표현을 기준으로 삽입 위치를 판단하는 문항입니다.",
+    "image_url": "",
+    "template_slot": 15,
+    "target_slots": [
+      15
+    ],
+    "source_pdf_page": 18,
+    "source_printed_page": 16,
+    "interaction_mode": "sentence_insert",
+    "sentence_to_insert": "나아가 이 제도의 도입을 계기로 조직 문화의 개선을 위하여 다양한 유형의 시도를 계속할 것이라고 밝혔다.",
+    "given_sentence": "나아가 이 제도의 도입을 계기로 조직 문화의 개선을 위하여 다양한 유형의 시도를 계속할 것이라고 밝혔다.",
+    "insert_sentence": "나아가 이 제도의 도입을 계기로 조직 문화의 개선을 위하여 다양한 유형의 시도를 계속할 것이라고 밝혔다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉣",
+    "correct_position": "㉣",
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 15,
+    "level_test_question_number": 15,
+    "source_question_number": 39,
+    "source_full_question_number": 39,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 39,
+    "target_slot": 15,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 15,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "passage_group_id": null,
+    "passage_group_title": null,
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "id": "T2-41-LT16-O042",
+    "question_number": 16,
+    "original_question_number": 42,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "type": "common_passage_underlined_emotion",
+    "category": "공통 지문 밑줄 심정",
+    "diagnostic_area": "밑줄 표현에 나타난 인물 심정 파악",
+    "instruction": "[16~17] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 여주인의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "딴 데랑은 비교가 안 된다. 모르긴 해도 세계에서 제일 맛있을 것이다. 이 집은 나름대로 격조 있는 표현을 동원해 피자의 미학을 펼친다. 종잇장처럼 얄팍하지만 바삭바삭하고도 탄탄한 빵 반죽, 그 위에 펼쳐지는 절묘한 맛의 파노라마, 큰 피자, 큰 만족.\n\n소탈하면서도 싹싹한 여주인이 메뉴판을 가지고 온다. 내가 시키는 건 정해져 있다. 아이들도 마찬가지다. 아무 문제가 없다.\n“자, 뭘로 하실까요?” 연필을 손에 든 채 그녀가 묻는다.\n“난, 마르그리타로 주세요.”\n“저두요. 근데 치즈는 넣지 마세요.” 큰딸아이가 말한다.\n“피자에다가 치즈를 안 넣어요?” 여주인은 한 방 맞은 기분인가 보다.\n“왜요, 불가능한가요?” 딸애가 꼬치꼬치 따진다.\n“불가능한 게 아니라 맛이 없죠!” 딱하다는 말투다. (중략) 작은딸은 바질향 소스를 넣은 파스타를 주문한다. 근데 바질은 넣지 말란다. 여주인이 이상한 눈으로 나를 훑기 쳐다본다. 도대체 내가 애들을 어떻게 길렀기에 이 모양이지? 치즈 빼고, 바질 빼고, 왜 이렇게들 뺀딱할까.",
+    "passage_template": "딴 데랑은 비교가 안 된다. 모르긴 해도 세계에서 제일 맛있을 것이다. 이 집은 나름대로 격조 있는 표현을 동원해 피자의 미학을 펼친다. 종잇장처럼 얄팍하지만 바삭바삭하고도 탄탄한 빵 반죽, 그 위에 펼쳐지는 절묘한 맛의 파노라마, 큰 피자, 큰 만족.\n\n소탈하면서도 싹싹한 여주인이 메뉴판을 가지고 온다. 내가 시키는 건 정해져 있다. 아이들도 마찬가지다. 아무 문제가 없다.\n“자, 뭘로 하실까요?” 연필을 손에 든 채 그녀가 묻는다.\n“난, 마르그리타로 주세요.”\n“저두요. 근데 치즈는 넣지 마세요.” 큰딸아이가 말한다.\n“피자에다가 치즈를 안 넣어요?” 여주인은 한 방 맞은 기분인가 보다.\n“왜요, 불가능한가요?” 딸애가 꼬치꼬치 따진다.\n“불가능한 게 아니라 맛이 없죠!” 딱하다는 말투다. (중략) 작은딸은 바질향 소스를 넣은 파스타를 주문한다. 근데 바질은 넣지 말란다. 여주인이 이상한 눈으로 나를 훑기 쳐다본다. 도대체 내가 애들을 어떻게 길렀기에 이 모양이지? 치즈 빼고, 바질 빼고, 왜 이렇게들 뺀딱할까.",
+    "options": [
+      "난처하다",
+      "황당하다",
+      "서먹하다",
+      "안타깝다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "난처하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "황당하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "서먹하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "안타깝다"
+      }
+    ],
+    "options_text": [
+      "난처하다",
+      "황당하다",
+      "서먹하다",
+      "안타깝다"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "template_slot": 16,
+    "target_slots": [
+      16
+    ],
+    "source_pdf_page": 20,
+    "source_printed_page": 18,
+    "passage_group_id": "LT41-016-017",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-016-017",
+    "passage_set_lock_id": "LT41-016-017",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[16~17] 공통 지문",
+    "underline_targets": [
+      "여주인은 한 방 맞은 기분인가 보다."
+    ],
+    "underlined_parts": [
+      "여주인은 한 방 맞은 기분인가 보다."
+    ],
+    "shared_passage_index": 1,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 16,
+    "level_test_question_number": 16,
+    "source_question_number": 42,
+    "source_full_question_number": 42,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 42,
+    "target_slot": 16,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 16,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "41-42-43",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "level_test_group_id": "LT41-016-017",
+    "level_test_selection_group_id": "LT41-016-017",
+    "set_original_question_numbers": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "T2-41-LT17-O043",
+    "question_number": 17,
+    "original_question_number": 43,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "type": "common_passage_question",
+    "category": "공통 지문 내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "instruction": "[16~17] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "딴 데랑은 비교가 안 된다. 모르긴 해도 세계에서 제일 맛있을 것이다. 이 집은 나름대로 격조 있는 표현을 동원해 피자의 미학을 펼친다. 종잇장처럼 얄팍하지만 바삭바삭하고도 탄탄한 빵 반죽, 그 위에 펼쳐지는 절묘한 맛의 파노라마, 큰 피자, 큰 만족.\n\n소탈하면서도 싹싹한 여주인이 메뉴판을 가지고 온다. 내가 시키는 건 정해져 있다. 아이들도 마찬가지다. 아무 문제가 없다.\n“자, 뭘로 하실까요?” 연필을 손에 든 채 그녀가 묻는다.\n“난, 마르그리타로 주세요.”\n“저두요. 근데 치즈는 넣지 마세요.” 큰딸아이가 말한다.\n“피자에다가 치즈를 안 넣어요?” 여주인은 한 방 맞은 기분인가 보다.\n“왜요, 불가능한가요?” 딸애가 꼬치꼬치 따진다.\n“불가능한 게 아니라 맛이 없죠!” 딱하다는 말투다. (중략) 작은딸은 바질향 소스를 넣은 파스타를 주문한다. 근데 바질은 넣지 말란다. 여주인이 이상한 눈으로 나를 훑기 쳐다본다. 도대체 내가 애들을 어떻게 길렀기에 이 모양이지? 치즈 빼고, 바질 빼고, 왜 이렇게들 뺀딱할까.",
+    "passage_template": "딴 데랑은 비교가 안 된다. 모르긴 해도 세계에서 제일 맛있을 것이다. 이 집은 나름대로 격조 있는 표현을 동원해 피자의 미학을 펼친다. 종잇장처럼 얄팍하지만 바삭바삭하고도 탄탄한 빵 반죽, 그 위에 펼쳐지는 절묘한 맛의 파노라마, 큰 피자, 큰 만족.\n\n소탈하면서도 싹싹한 여주인이 메뉴판을 가지고 온다. 내가 시키는 건 정해져 있다. 아이들도 마찬가지다. 아무 문제가 없다.\n“자, 뭘로 하실까요?” 연필을 손에 든 채 그녀가 묻는다.\n“난, 마르그리타로 주세요.”\n“저두요. 근데 치즈는 넣지 마세요.” 큰딸아이가 말한다.\n“피자에다가 치즈를 안 넣어요?” 여주인은 한 방 맞은 기분인가 보다.\n“왜요, 불가능한가요?” 딸애가 꼬치꼬치 따진다.\n“불가능한 게 아니라 맛이 없죠!” 딱하다는 말투다. (중략) 작은딸은 바질향 소스를 넣은 파스타를 주문한다. 근데 바질은 넣지 말란다. 여주인이 이상한 눈으로 나를 훑기 쳐다본다. 도대체 내가 애들을 어떻게 길렀기에 이 모양이지? 치즈 빼고, 바질 빼고, 왜 이렇게들 뺀딱할까.",
+    "options": [
+      "나는 같은 피자를 주문하지 않는다.",
+      "큰딸은 바질향이 나는 빵을 좋아한다.",
+      "나는 아이들의 행동이 이해가 안 된다.",
+      "작은딸은 바삭바삭한 피자를 주문했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나는 같은 피자를 주문하지 않는다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "큰딸은 바질향이 나는 빵을 좋아한다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 아이들의 행동이 이해가 안 된다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "작은딸은 바삭바삭한 피자를 주문했다."
+      }
+    ],
+    "options_text": [
+      "나는 같은 피자를 주문하지 않는다.",
+      "큰딸은 바질향이 나는 빵을 좋아한다.",
+      "나는 아이들의 행동이 이해가 안 된다.",
+      "작은딸은 바삭바삭한 피자를 주문했다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "template_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_pdf_page": 20,
+    "source_printed_page": 18,
+    "passage_group_id": "LT41-016-017",
+    "passage_group_title": "[16~17] 공통 지문",
+    "passage_group_numbers": [
+      16,
+      17
+    ],
+    "shared_passage_total": 2,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-016-017",
+    "passage_set_lock_id": "LT41-016-017",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "selection_unit_size": 2,
+    "selection_unit_title": "[16~17] 공통 지문",
+    "underline_targets": [
+      "여주인은 한 방 맞은 기분인가 보다."
+    ],
+    "underlined_parts": [
+      "여주인은 한 방 맞은 기분인가 보다."
+    ],
+    "shared_passage_index": 2,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 17,
+    "level_test_question_number": 17,
+    "source_question_number": 43,
+    "source_full_question_number": 43,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 43,
+    "target_slot": 17,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 17,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "41-42-43",
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "level_test_group_id": "LT41-016-017",
+    "level_test_selection_group_id": "LT41-016-017",
+    "set_original_question_numbers": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "T2-41-LT18-O048",
+    "question_number": 18,
+    "original_question_number": 48,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "type": "common_passage_purpose",
+    "category": "공통 지문 목적",
+    "diagnostic_area": "필자의 글쓰기 목적 파악",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "필자가 이 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+    "passage": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "passage_template": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "options": [
+      "공통된 갈등 해결의 원칙이 필요함을 주장하기 위해",
+      "국가의 지지를 받는 갈등 해결 방안을 요청하기 위해",
+      "현대 사회의 다양한 사회적 갈등에 대해 설명하기 위해",
+      "갈등 당사자 모두에게 이익이 돌아가도록 촉구하기 위해"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "공통된 갈등 해결의 원칙이 필요함을 주장하기 위해"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "국가의 지지를 받는 갈등 해결 방안을 요청하기 위해"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "현대 사회의 다양한 사회적 갈등에 대해 설명하기 위해"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "갈등 당사자 모두에게 이익이 돌아가도록 촉구하기 위해"
+      }
+    ],
+    "options_text": [
+      "공통된 갈등 해결의 원칙이 필요함을 주장하기 위해",
+      "국가의 지지를 받는 갈등 해결 방안을 요청하기 위해",
+      "현대 사회의 다양한 사회적 갈등에 대해 설명하기 위해",
+      "갈등 당사자 모두에게 이익이 돌아가도록 촉구하기 위해"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "template_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "passage_group_id": "LT41-018-020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-018-020",
+    "passage_set_lock_id": "LT41-018-020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit_size": 3,
+    "selection_unit_title": "[18~20] 공통 지문",
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "underlined_parts": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "shared_passage_index": 1,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 18,
+    "level_test_question_number": 18,
+    "source_question_number": 48,
+    "source_full_question_number": 48,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 48,
+    "target_slot": 18,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 18,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "41-48-50",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "level_test_group_id": "LT41-018-020",
+    "level_test_selection_group_id": "LT41-018-020",
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "T2-41-LT19-O049",
+    "question_number": 19,
+    "original_question_number": 49,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 태도·방식 표현 선택",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 알맞은 것을 고르십시오.",
+    "passage": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "passage_template": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "options": [
+      "자율적으로",
+      "중립적으로",
+      "독창적으로",
+      "창의적으로"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "자율적으로"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "중립적으로"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "독창적으로"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "창의적으로"
+      }
+    ],
+    "options_text": [
+      "자율적으로",
+      "중립적으로",
+      "독창적으로",
+      "창의적으로"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "template_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "passage_group_id": "LT41-018-020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-018-020",
+    "passage_set_lock_id": "LT41-018-020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit_size": 3,
+    "selection_unit_title": "[18~20] 공통 지문",
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "underlined_parts": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "shared_passage_index": 2,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 19,
+    "level_test_question_number": 19,
+    "source_question_number": 49,
+    "source_full_question_number": 49,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 49,
+    "target_slot": 19,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 19,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "41-48-50",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "level_test_group_id": "LT41-018-020",
+    "level_test_selection_group_id": "LT41-018-020",
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "T2-41-LT20-O050",
+    "question_number": 20,
+    "original_question_number": 50,
+    "source_round": "41",
+    "test_level": "TOPIK II",
+    "level": "TOPIK II",
+    "section": "reading",
+    "source_file": "41회 TOPIK II_2교시(읽기)_B형.pdf",
+    "answer_source": "41회 TOPIK II_정답표(B형).pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "data_status": "level_test_20_from_41_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-41",
+    "screen_review_status": "needs_user_screen_review",
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "type": "common_passage_underlined_attitude",
+    "category": "공통 지문 밑줄 태도",
+    "diagnostic_area": "밑줄 표현에 나타난 필자의 태도 파악",
+    "instruction": "[18~20] 다음 글을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "passage_template": "현대 사회는 다양한 이익 집단의 관계가 복잡하게 얽혀 있기 때문에 많은 사회적 갈등이 존재한다. 사회 문화적 요소가 포함된 갈등에서부터 경제적 요인이 포함된 갈등, 일상생활과 관련된 갈등까지 사회적 갈등들은 여러 요인에 의해 끊임없이 발생한다. 그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다. 따라서 사회적 갈등을 합리적으로 해결하기 위해 사회 구성원 모두가 합의할 수 있는 해결 원칙을 세울 필요가 있다. 먼저 (     ) 해결하는 것이 중요하다. 즉 당사자 간의 자유로운 대화와 협상을 통해 쟁점을 해결하려는 노력이 우선되어야 한다. 다음으로 갈등의 당사자 모두에게 이익이 되는 방향으로 해결해야 한다. 갈등 해결에 따른 이익이 한쪽에만 돌아가면 쟁점을 둘러싼 갈등이 계속 이어지기 때문이다. 또한 국민 전체의 이익과 부합되는 방향으로 해결되어야 그 해결 방안이 국민의 지지를 받을 수 있다는 점도 잊지 말아야 한다.",
+    "options": [
+      "사회적 갈등 발생에 대해 경계하고 있다.",
+      "타협을 통한 갈등 해결에 대해 회의적이다.",
+      "사회 통합의 어려움에 대해 공감하고 있다.",
+      "사회적 갈등의 긍정적인 측면을 인정하고 있다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "사회적 갈등 발생에 대해 경계하고 있다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "타협을 통한 갈등 해결에 대해 회의적이다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "사회 통합의 어려움에 대해 공감하고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "사회적 갈등의 긍정적인 측면을 인정하고 있다."
+      }
+    ],
+    "options_text": [
+      "사회적 갈등 발생에 대해 경계하고 있다.",
+      "타협을 통한 갈등 해결에 대해 회의적이다.",
+      "사회 통합의 어려움에 대해 공감하고 있다.",
+      "사회적 갈등의 긍정적인 측면을 인정하고 있다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "template_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_pdf_page": 23,
+    "source_printed_page": 21,
+    "passage_group_id": "LT41-018-020",
+    "passage_group_title": "[18~20] 공통 지문",
+    "passage_group_numbers": [
+      18,
+      19,
+      20
+    ],
+    "shared_passage_total": 3,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT41-018-020",
+    "passage_set_lock_id": "LT41-018-020",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "set_lock": true,
+    "set_policy": "keep_all_items_together",
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "selection_unit_size": 3,
+    "selection_unit_title": "[18~20] 공통 지문",
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "underlined_parts": [
+      "그런데 이러한 사회적 갈등이 타협을 통해 합리적으로 조정된다면 사회를 통합하는 동력으로 작용할 수 있을 것이다."
+    ],
+    "shared_passage_index": 3,
+    "source_exam": "41회 TOPIK II 읽기 B형",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "41",
+    "generated_exam_label": "41회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "level_test_slot": 20,
+    "level_test_question_number": 20,
+    "source_question_number": 50,
+    "source_full_question_number": 50,
+    "source_full_exam_id": "reading-41",
+    "source_full_exam_label": "41회 50문항 실전시험",
+    "source_template_slot": 50,
+    "target_slot": 20,
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "level_test_selection_index": 20,
+    "level_test_source_round": "41",
+    "level_test_exam_id": "level-test-41",
+    "source_passage_group_id": "41-48-50",
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "level_test_group_id": "LT41-018-020",
+    "level_test_selection_group_id": "LT41-018-020",
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ]
+  }
+]
