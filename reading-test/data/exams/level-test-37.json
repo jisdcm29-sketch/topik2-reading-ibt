@@ -1,0 +1,2795 @@
+[
+  {
+    "id": "T2-37-LT01-O001",
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_pdf_page": 20,
+    "source_printed_page": 1,
+    "type": "grammar_blank",
+    "category": "문법·표현",
+    "diagnostic_area": "문맥에 맞는 문법 표현 선택",
+    "original_question_number": 1,
+    "question_number": 1,
+    "template_slot": 1,
+    "target_slot": 1,
+    "target_slots": [
+      1
+    ],
+    "instruction": "[1~2] (     )에 들어갈 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 가장 알맞은 것을 고르십시오.",
+    "passage": "아침에 일찍 (     ) 일곱 시 비행기를 탈 수 있다.",
+    "passage_template": "아침에 일찍 (     ) 일곱 시 비행기를 탈 수 있다.",
+    "options": [
+      "일어나야",
+      "일어나려고",
+      "일어나며",
+      "일어나더니"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "일어나야"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "일어나려고"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "일어나며"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "일어나더니"
+      }
+    ],
+    "options_text": [
+      "일어나야",
+      "일어나려고",
+      "일어나며",
+      "일어나더니"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "level_test_slot": 1,
+    "source_question_number": 1,
+    "source_full_question_number": 1,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "T2-37-LT02-O003",
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_pdf_page": 20,
+    "source_printed_page": 1,
+    "type": "similar_expression",
+    "category": "유사 표현",
+    "diagnostic_area": "밑줄 친 문법·표현의 의미 이해",
+    "original_question_number": 3,
+    "question_number": 2,
+    "template_slot": 2,
+    "target_slot": 2,
+    "target_slots": [
+      2
+    ],
+    "instruction": "[3~4] 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오. (각 2점)",
+    "question": "밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+    "passage": "서둘러 나온 탓에 책상 위에 있는 지갑을 안 가지고 나왔다.",
+    "passage_template": "서둘러 나온 탓에 책상 위에 있는 지갑을 안 가지고 나왔다.",
+    "options": [
+      "나오는 김에",
+      "나오는 사이에",
+      "나오는 바람에",
+      "나오는 대신에"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나오는 김에"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "나오는 사이에"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나오는 바람에"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나오는 대신에"
+      }
+    ],
+    "options_text": [
+      "나오는 김에",
+      "나오는 사이에",
+      "나오는 바람에",
+      "나오는 대신에"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "underline_targets": [
+      "나온 탓에"
+    ],
+    "underlined_parts": [
+      "나온 탓에"
+    ],
+    "underline_text": "나온 탓에",
+    "underlined_text": "나온 탓에",
+    "underline_segments": [
+      {
+        "text": "나온 탓에"
+      }
+    ],
+    "level_test_slot": 2,
+    "source_question_number": 3,
+    "source_full_question_number": 3,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "T2-37-LT03-O005",
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_pdf_page": 21,
+    "source_printed_page": 2,
+    "type": "visual_topic",
+    "category": "자료 이해",
+    "diagnostic_area": "광고 문구의 대상 파악",
+    "original_question_number": 5,
+    "question_number": 3,
+    "template_slot": 3,
+    "target_slot": 3,
+    "target_slots": [
+      3
+    ],
+    "instruction": "[5~8] 다음은 무엇에 대한 글인지 고르십시오. (각 2점)",
+    "question": "무엇에 대한 글인지 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "연필",
+      "휴지",
+      "책상",
+      "거울"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "연필"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "휴지"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "책상"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "거울"
+      }
+    ],
+    "options_text": [
+      "연필",
+      "휴지",
+      "책상",
+      "거울"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/37_R005.png",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "image_only": true,
+    "image_alt_text": "언제 어디서나 깨끗하게 싹싹! / 잘 풀리고 잘 닦입니다.",
+    "image_display_width": "94%",
+    "image_max_height": 310,
+    "reconstructed_image": false,
+    "level_test_slot": 3,
+    "source_question_number": 5,
+    "source_full_question_number": 5,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "T2-37-LT04-O010",
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "source_pdf_page": 22,
+    "source_printed_page": 3,
+    "type": "visual_same_content",
+    "category": "자료 이해",
+    "diagnostic_area": "그래프 세부 정보 이해",
+    "original_question_number": 10,
+    "question_number": 4,
+    "template_slot": 4,
+    "target_slot": 4,
+    "target_slots": [
+      4
+    ],
+    "instruction": "[9~12] 다음 글 또는 도표의 내용과 같은 것을 고르십시오. (각 2점)",
+    "question": "내용과 같은 것을 고르십시오.",
+    "passage": "",
+    "passage_template": "",
+    "options": [
+      "여성은 잠보다 운동을 더 중요하게 여긴다.",
+      "남녀 모두 자는 것을 가장 중요하게 생각한다.",
+      "아침을 먹는 사람은 여성보다 남성이 더 많다.",
+      "남성은 밥보다 건강 검진을 더 많이 선택했다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "여성은 잠보다 운동을 더 중요하게 여긴다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "남녀 모두 자는 것을 가장 중요하게 생각한다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "아침을 먹는 사람은 여성보다 남성이 더 많다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "남성은 밥보다 건강 검진을 더 많이 선택했다."
+      }
+    ],
+    "options_text": [
+      "여성은 잠보다 운동을 더 중요하게 여긴다.",
+      "남녀 모두 자는 것을 가장 중요하게 생각한다.",
+      "아침을 먹는 사람은 여성보다 남성이 더 많다.",
+      "남성은 밥보다 건강 검진을 더 많이 선택했다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "./images/37_R010.png",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "image_only": true,
+    "image_alt_text": "남녀 직장인의 건강 관리법 그래프: 건강 검진, 운동, 수면 시간, 아침 식사",
+    "image_display_width": "82%",
+    "image_max_height": 420,
+    "reconstructed_image": false,
+    "level_test_slot": 4,
+    "source_question_number": 10,
+    "source_full_question_number": 10,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "id": "T2-37-LT05-O013",
+    "source_pdf_page": 24,
+    "source_printed_page": 5,
+    "type": "sentence_order",
+    "category": "문장 순서",
+    "diagnostic_area": "문장 간 논리 관계와 배열 순서 파악",
+    "original_question_number": 13,
+    "question_number": 5,
+    "template_slot": 5,
+    "target_slot": 5,
+    "target_slots": [
+      5
+    ],
+    "instruction": "[13~15] 다음을 순서대로 맞게 배열한 것을 고르십시오. (각 2점)",
+    "question": "다음을 순서대로 맞게 배열한 것을 고르십시오.",
+    "passage": "(가) 그런 과정이 반복되면서 자연스럽게 광고가 된다.\n(나) 온라인에서 새로운 광고 기법이 주목을 받고 있다.\n(다) 이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다.\n(라) 동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다.",
+    "passage_template": "(가) 그런 과정이 반복되면서 자연스럽게 광고가 된다.\n(나) 온라인에서 새로운 광고 기법이 주목을 받고 있다.\n(다) 이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다.\n(라) 동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다.",
+    "options": [
+      "(나)-(가)-(라)-(다)",
+      "(나)-(다)-(라)-(가)",
+      "(라)-(가)-(나)-(다)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "(나)-(가)-(라)-(다)"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "(나)-(다)-(라)-(가)"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "(라)-(가)-(나)-(다)"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "(라)-(나)-(다)-(가)"
+      }
+    ],
+    "options_text": [
+      "(나)-(가)-(라)-(다)",
+      "(나)-(다)-(라)-(가)",
+      "(라)-(가)-(나)-(다)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "sentence_labels": [
+      "가",
+      "나",
+      "다",
+      "라"
+    ],
+    "sentence_parts": {
+      "가": "그런 과정이 반복되면서 자연스럽게 광고가 된다.",
+      "나": "온라인에서 새로운 광고 기법이 주목을 받고 있다.",
+      "다": "이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다.",
+      "라": "동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다."
+    },
+    "sentence_items": [
+      {
+        "label": "(가)",
+        "text": "그런 과정이 반복되면서 자연스럽게 광고가 된다."
+      },
+      {
+        "label": "(나)",
+        "text": "온라인에서 새로운 광고 기법이 주목을 받고 있다."
+      },
+      {
+        "label": "(다)",
+        "text": "이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다."
+      },
+      {
+        "label": "(라)",
+        "text": "동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다."
+      }
+    ],
+    "sentence_blocks": [
+      {
+        "label": "(가)",
+        "text": "그런 과정이 반복되면서 자연스럽게 광고가 된다."
+      },
+      {
+        "label": "(나)",
+        "text": "온라인에서 새로운 광고 기법이 주목을 받고 있다."
+      },
+      {
+        "label": "(다)",
+        "text": "이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다."
+      },
+      {
+        "label": "(라)",
+        "text": "동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다."
+      }
+    ],
+    "correct_answer_order": [
+      "나",
+      "다",
+      "라",
+      "가"
+    ],
+    "correct_answer_order_text": "(나)-(다)-(라)-(가)",
+    "level_test_slot": 5,
+    "source_question_number": 13,
+    "source_full_question_number": 13,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "id": "T2-37-LT06-O016",
+    "source_pdf_page": 25,
+    "source_printed_page": 6,
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 16,
+    "question_number": 6,
+    "template_slot": 6,
+    "target_slot": 6,
+    "target_slots": [
+      6
+    ],
+    "instruction": "[16~18] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "의심과 믿음을 색깔로 비유한다면 의심은 검은색과 같고 믿음은 하얀색과 같다. 아무리 흰색 물감을 많이 넣어도 검은색은 하얀색이 되지 않는다. 하지만 흰색 물감은 검은색 물감 한 방울만으로도 금방 회색으로 변한다. 이는 사람 사이에서도 마찬가지이다. 한번 의심하게 되면 (     ).",
+    "passage_template": "의심과 믿음을 색깔로 비유한다면 의심은 검은색과 같고 믿음은 하얀색과 같다. 아무리 흰색 물감을 많이 넣어도 검은색은 하얀색이 되지 않는다. 하지만 흰색 물감은 검은색 물감 한 방울만으로도 금방 회색으로 변한다. 이는 사람 사이에서도 마찬가지이다. 한번 의심하게 되면 (     ).",
+    "options": [
+      "자신감이 줄어든다",
+      "고민거리가 많아진다",
+      "문제점 파악이 힘들다",
+      "관계를 되돌리기 어렵다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "자신감이 줄어든다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "고민거리가 많아진다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "문제점 파악이 힘들다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "관계를 되돌리기 어렵다"
+      }
+    ],
+    "options_text": [
+      "자신감이 줄어든다",
+      "고민거리가 많아진다",
+      "문제점 파악이 힘들다",
+      "관계를 되돌리기 어렵다"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "blank_key": "blank_1",
+    "level_test_slot": 6,
+    "source_question_number": 16,
+    "source_full_question_number": 16,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "LT37-007-008",
+    "passage_group_title": "[19~20] 미술품 감정",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "id": "T2-37-LT07-O019",
+    "source_pdf_page": 26,
+    "source_printed_page": 7,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "공통 지문의 연결 표현 이해",
+    "original_question_number": 19,
+    "question_number": 7,
+    "template_slot": 7,
+    "target_slot": 7,
+    "target_slots": [
+      7
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 알맞은 것을 고르십시오.",
+    "passage": "대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. (     ) 미술 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.",
+    "passage_template": "대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. (     ) 미술 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.",
+    "options": [
+      "과연",
+      "만약",
+      "아마",
+      "하필"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "과연"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "만약"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "아마"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "하필"
+      }
+    ],
+    "options_text": [
+      "과연",
+      "만약",
+      "아마",
+      "하필"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "shared_blank_key": "blank_1",
+    "blank_key": "blank_1",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-007-008",
+    "passage_set_lock_id": "LT37-007-008",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 7,
+    "source_question_number": 19,
+    "source_full_question_number": 19,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "random_selection_group_id": "LT37-007-008",
+    "level_test_selection_group_id": "LT37-007-008",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[19~20] 미술품 감정"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "LT37-007-008",
+    "passage_group_title": "[19~20] 미술품 감정",
+    "passage_group_numbers": [
+      7,
+      8
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "id": "T2-37-LT08-O020",
+    "source_pdf_page": 26,
+    "source_printed_page": 7,
+    "type": "common_passage_question",
+    "category": "공통 지문 주제",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "original_question_number": 20,
+    "question_number": 8,
+    "template_slot": 8,
+    "target_slot": 8,
+    "target_slots": [
+      8
+    ],
+    "instruction": "[19~20] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. (     ) 미술 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.",
+    "passage_template": "대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. (     ) 미술 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.",
+    "options": [
+      "서명이 있는 작품은 감정이 필요 없다.",
+      "미술품 감정 대상은 고미술품에 한정된다.",
+      "고미술품은 작품 고유의 번호를 가지고 있다.",
+      "미술품을 감정할 때 과학적인 방법이 사용된다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "서명이 있는 작품은 감정이 필요 없다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "미술품 감정 대상은 고미술품에 한정된다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "고미술품은 작품 고유의 번호를 가지고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "미술품을 감정할 때 과학적인 방법이 사용된다."
+      }
+    ],
+    "options_text": [
+      "서명이 있는 작품은 감정이 필요 없다.",
+      "미술품 감정 대상은 고미술품에 한정된다.",
+      "고미술품은 작품 고유의 번호를 가지고 있다.",
+      "미술품을 감정할 때 과학적인 방법이 사용된다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "shared_blank_source_question_number": 7,
+    "shared_blank_target_questions": [
+      7,
+      8
+    ],
+    "shared_blank_key": "blank_1",
+    "blank_key": "blank_1",
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-007-008",
+    "passage_set_lock_id": "LT37-007-008",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 8,
+    "source_question_number": 20,
+    "source_full_question_number": 20,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      7,
+      8
+    ],
+    "set_original_question_numbers": [
+      19,
+      20
+    ],
+    "source_passage_group_numbers": [
+      19,
+      20
+    ],
+    "random_selection_group_id": "LT37-007-008",
+    "level_test_selection_group_id": "LT37-007-008",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[19~20] 미술품 감정"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "LT37-009-010",
+    "passage_group_title": "[23~24] 세 딸 목욕과 첫째의 마음",
+    "passage_group_numbers": [
+      9,
+      4
+    ],
+    "shared_passage_index": 1,
+    "shared_passage_total": 2,
+    "id": "T2-37-LT09-O023",
+    "source_pdf_page": 28,
+    "source_printed_page": 9,
+    "type": "emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현에 나타난 인물의 심정 파악",
+    "original_question_number": 23,
+    "question_number": 9,
+    "template_slot": 9,
+    "target_slot": 9,
+    "target_slots": [
+      9
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 나의 기분으로 알맞은 것을 고르십시오.",
+    "passage": "정신없이 세 아이를 키우면서 내가 미처 생각하지 못한 것이 있었다. 그것을 깨닫게 된 것은 얼마 전 세 딸을 목욕시키면서였다. 나는 늘 그랬듯이 씻기기 편한 막내부터 씻겨 욕실에서 내보냈고 그 다음에는 둘째를 씻겼다. 그리고 나서 첫째를 씻기려고 하는데 아이가 고개를 푹 숙인 채 앉아서 꼼짝도 하지 않았다. 내가 몇 번이나 좋은 말로 타이르자 그제야 “왜 내가 항상 마지막이야?”라고 울먹이며 말했다. 순간 머리를 한 대 얻어맞은 것 같았다. 어린이집에 보내려고 옷을 입히고 머리를 빗겨 줄 때 항상 “동생들 하고 나서 해 줄게.”라고 하며 첫째를 기다리게 했던 나의 모습이 떠올랐다.",
+    "passage_template": "정신없이 세 아이를 키우면서 내가 미처 생각하지 못한 것이 있었다. 그것을 깨닫게 된 것은 얼마 전 세 딸을 목욕시키면서였다. 나는 늘 그랬듯이 씻기기 편한 막내부터 씻겨 욕실에서 내보냈고 그 다음에는 둘째를 씻겼다. 그리고 나서 첫째를 씻기려고 하는데 아이가 고개를 푹 숙인 채 앉아서 꼼짝도 하지 않았다. 내가 몇 번이나 좋은 말로 타이르자 그제야 “왜 내가 항상 마지막이야?”라고 울먹이며 말했다. 순간 머리를 한 대 얻어맞은 것 같았다. 어린이집에 보내려고 옷을 입히고 머리를 빗겨 줄 때 항상 “동생들 하고 나서 해 줄게.”라고 하며 첫째를 기다리게 했던 나의 모습이 떠올랐다.",
+    "options": [
+      "답답하다",
+      "서운하다",
+      "당황스럽다",
+      "불만스럽다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "답답하다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "서운하다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "당황스럽다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "불만스럽다"
+      }
+    ],
+    "options_text": [
+      "답답하다",
+      "서운하다",
+      "당황스럽다",
+      "불만스럽다"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "underline_targets": [
+      "순간 머리를 한 대 얻어맞은 것 같았다"
+    ],
+    "underlined_parts": [
+      "순간 머리를 한 대 얻어맞은 것 같았다"
+    ],
+    "underline_text": "순간 머리를 한 대 얻어맞은 것 같았다",
+    "underlined_text": "순간 머리를 한 대 얻어맞은 것 같았다",
+    "underline_segments": [
+      {
+        "text": "순간 머리를 한 대 얻어맞은 것 같았다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-009-010",
+    "passage_set_lock_id": "LT37-009-010",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 9,
+    "source_question_number": 23,
+    "source_full_question_number": 23,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "random_selection_group_id": "LT37-009-010",
+    "level_test_selection_group_id": "LT37-009-010",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[23~24] 세 딸 목욕과 첫째의 마음"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "LT37-009-010",
+    "passage_group_title": "[23~24] 세 딸 목욕과 첫째의 마음",
+    "passage_group_numbers": [
+      9,
+      4
+    ],
+    "shared_passage_index": 2,
+    "shared_passage_total": 2,
+    "id": "T2-37-LT10-O024",
+    "source_pdf_page": 28,
+    "source_printed_page": 9,
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "공통 지문의 세부 내용 이해",
+    "original_question_number": 24,
+    "question_number": 10,
+    "template_slot": 10,
+    "target_slot": 10,
+    "target_slots": [
+      10
+    ],
+    "instruction": "[23~24] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "정신없이 세 아이를 키우면서 내가 미처 생각하지 못한 것이 있었다. 그것을 깨닫게 된 것은 얼마 전 세 딸을 목욕시키면서였다. 나는 늘 그랬듯이 씻기기 편한 막내부터 씻겨 욕실에서 내보냈고 그 다음에는 둘째를 씻겼다. 그리고 나서 첫째를 씻기려고 하는데 아이가 고개를 푹 숙인 채 앉아서 꼼짝도 하지 않았다. 내가 몇 번이나 좋은 말로 타이르자 그제야 “왜 내가 항상 마지막이야?”라고 울먹이며 말했다. 순간 머리를 한 대 얻어맞은 것 같았다. 어린이집에 보내려고 옷을 입히고 머리를 빗겨 줄 때 항상 “동생들 하고 나서 해 줄게.”라고 하며 첫째를 기다리게 했던 나의 모습이 떠올랐다.",
+    "passage_template": "정신없이 세 아이를 키우면서 내가 미처 생각하지 못한 것이 있었다. 그것을 깨닫게 된 것은 얼마 전 세 딸을 목욕시키면서였다. 나는 늘 그랬듯이 씻기기 편한 막내부터 씻겨 욕실에서 내보냈고 그 다음에는 둘째를 씻겼다. 그리고 나서 첫째를 씻기려고 하는데 아이가 고개를 푹 숙인 채 앉아서 꼼짝도 하지 않았다. 내가 몇 번이나 좋은 말로 타이르자 그제야 “왜 내가 항상 마지막이야?”라고 울먹이며 말했다. 순간 머리를 한 대 얻어맞은 것 같았다. 어린이집에 보내려고 옷을 입히고 머리를 빗겨 줄 때 항상 “동생들 하고 나서 해 줄게.”라고 하며 첫째를 기다리게 했던 나의 모습이 떠올랐다.",
+    "options": [
+      "나는 첫째부터 목욕시키려고 했다.",
+      "첫째는 늘 동생에게 양보해야 했다.",
+      "첫째는 자신의 마음을 자주 표현했다.",
+      "나는 첫째가 씻기 싫어하고 해서 화를 냈다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "나는 첫째부터 목욕시키려고 했다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "첫째는 늘 동생에게 양보해야 했다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "첫째는 자신의 마음을 자주 표현했다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 첫째가 씻기 싫어하고 해서 화를 냈다."
+      }
+    ],
+    "options_text": [
+      "나는 첫째부터 목욕시키려고 했다.",
+      "첫째는 늘 동생에게 양보해야 했다.",
+      "첫째는 자신의 마음을 자주 표현했다.",
+      "나는 첫째가 씻기 싫어하고 해서 화를 냈다."
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "underline_targets": [
+      "순간 머리를 한 대 얻어맞은 것 같았다"
+    ],
+    "underlined_parts": [
+      "순간 머리를 한 대 얻어맞은 것 같았다"
+    ],
+    "underline_text": "순간 머리를 한 대 얻어맞은 것 같았다",
+    "underlined_text": "순간 머리를 한 대 얻어맞은 것 같았다",
+    "underline_segments": [
+      {
+        "text": "순간 머리를 한 대 얻어맞은 것 같았다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-009-010",
+    "passage_set_lock_id": "LT37-009-010",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 10,
+    "source_question_number": 24,
+    "source_full_question_number": 24,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      9,
+      10
+    ],
+    "set_original_question_numbers": [
+      23,
+      24
+    ],
+    "source_passage_group_numbers": [
+      23,
+      24
+    ],
+    "random_selection_group_id": "LT37-009-010",
+    "level_test_selection_group_id": "LT37-009-010",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[23~24] 세 딸 목욕과 첫째의 마음"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "id": "T2-37-LT11-O025",
+    "source_pdf_page": 29,
+    "source_printed_page": 10,
+    "type": "newspaper_headline",
+    "category": "신문 제목 이해",
+    "diagnostic_area": "신문 제목의 핵심 의미 파악",
+    "original_question_number": 25,
+    "question_number": 11,
+    "template_slot": 11,
+    "target_slot": 11,
+    "target_slots": [
+      11
+    ],
+    "instruction": "[25~27] 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오. (각 2점)",
+    "question": "신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+    "passage": "중부 지방 비 오락가락, 내일까지 이어져",
+    "passage_template": "중부 지방 비 오락가락, 내일까지 이어져",
+    "options": [
+      "중부 지방은 내일 하루 종일 비가 내릴 것이다.",
+      "중부 지방은 비가 그쳤다가 내일 다시 내릴 것이다.",
+      "중부 지방은 내일까지 쉬지 않고 비가 내릴 것이다.",
+      "중부 지방은 내일까지 비가 내렸다 그쳤다를 반복할 것이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "중부 지방은 내일 하루 종일 비가 내릴 것이다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "중부 지방은 비가 그쳤다가 내일 다시 내릴 것이다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "중부 지방은 내일까지 쉬지 않고 비가 내릴 것이다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "중부 지방은 내일까지 비가 내렸다 그쳤다를 반복할 것이다."
+      }
+    ],
+    "options_text": [
+      "중부 지방은 내일 하루 종일 비가 내릴 것이다.",
+      "중부 지방은 비가 그쳤다가 내일 다시 내릴 것이다.",
+      "중부 지방은 내일까지 쉬지 않고 비가 내릴 것이다.",
+      "중부 지방은 내일까지 비가 내렸다 그쳤다를 반복할 것이다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "level_test_slot": 11,
+    "source_question_number": 25,
+    "source_full_question_number": 25,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "passage_group_id": "",
+    "passage_group_title": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null,
+    "id": "T2-37-LT12-O028",
+    "source_pdf_page": 30,
+    "source_printed_page": 11,
+    "type": "blank_expression",
+    "category": "빈칸 표현",
+    "diagnostic_area": "문맥에 맞는 서술 내용 선택",
+    "original_question_number": 28,
+    "question_number": 12,
+    "template_slot": 12,
+    "target_slot": 12,
+    "target_slots": [
+      12
+    ],
+    "instruction": "[28~31] 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+    "passage": "아무리 훌륭한 내용의 글이라도 제목이 읽는 이의 시선을 끌지 못한다면 그 글은 사람들의 관심을 얻지 못한다. 독자의 관심을 끌 수 있는 방법은 (     ) 제목을 짓는 것이다. 예를 들면 ‘돈을 관리하는 방법’보다는 ‘어느 날 당신에게 천만 원이 생긴다면?’이라는 제목이 더 좋다. 이렇게 독자의 입장에서 제목을 붙이면 흥미를 유발하여 독자의 시선을 끌 수 있다.",
+    "passage_template": "아무리 훌륭한 내용의 글이라도 제목이 읽는 이의 시선을 끌지 못한다면 그 글은 사람들의 관심을 얻지 못한다. 독자의 관심을 끌 수 있는 방법은 (     ) 제목을 짓는 것이다. 예를 들면 ‘돈을 관리하는 방법’보다는 ‘어느 날 당신에게 천만 원이 생긴다면?’이라는 제목이 더 좋다. 이렇게 독자의 입장에서 제목을 붙이면 흥미를 유발하여 독자의 시선을 끌 수 있다.",
+    "options": [
+      "독자에게 신뢰를 주는",
+      "독자에게 새로운 정보를 주는",
+      "독자가 자기 일처럼 느껴지게 하는",
+      "독자가 내용을 쉽게 추측하게 하는"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "독자에게 신뢰를 주는"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "독자에게 새로운 정보를 주는"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "독자가 자기 일처럼 느껴지게 하는"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "독자가 내용을 쉽게 추측하게 하는"
+      }
+    ],
+    "options_text": [
+      "독자에게 신뢰를 주는",
+      "독자에게 새로운 정보를 주는",
+      "독자가 자기 일처럼 느껴지게 하는",
+      "독자가 내용을 쉽게 추측하게 하는"
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "blank_key": "blank_1",
+    "level_test_slot": 12,
+    "source_question_number": 28,
+    "source_full_question_number": 28,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT13-O032",
+    "question_number": 13,
+    "original_question_number": 32,
+    "template_slot": 13,
+    "target_slot": 13,
+    "target_slots": [
+      13
+    ],
+    "source_pdf_page": 32,
+    "source_printed_page": 13,
+    "type": "same_content",
+    "category": "내용 일치",
+    "diagnostic_area": "짧은 글의 세부 내용 이해",
+    "instruction": "[32~34] 다음을 읽고 내용이 같은 것을 고르십시오. (각 2점)",
+    "question": "다음을 읽고 내용이 같은 것을 고르십시오.",
+    "passage": "한 회사가 사내 커피숍을 장애인 단체에 위탁하여 운영하도록 하고 있다. 커피숍의 모든 직원들은 장애인 단체에서 마련한 직업 교육 프로그램에 참여한 사람들이다. 이들은 커피숍에서 주문을 받거나 빵을 만드는 일을 담당하고 있다. 이러한 사업 방식은 장애인들에게 일할 수 있는 기회를 제공한다는 점에서 긍정적으로 평가된다. 회사는 앞으로 이 사업을 확대해 장애인들의 자립을 도울 예정이다.",
+    "passage_template": "한 회사가 사내 커피숍을 장애인 단체에 위탁하여 운영하도록 하고 있다. 커피숍의 모든 직원들은 장애인 단체에서 마련한 직업 교육 프로그램에 참여한 사람들이다. 이들은 커피숍에서 주문을 받거나 빵을 만드는 일을 담당하고 있다. 이러한 사업 방식은 장애인들에게 일할 수 있는 기회를 제공한다는 점에서 긍정적으로 평가된다. 회사는 앞으로 이 사업을 확대해 장애인들의 자립을 도울 예정이다.",
+    "options": [
+      "위탁 사업에 대해 걱정하는 사람들이 많다.",
+      "커피숍에서 일하는 사람들은 회사의 직원들이다.",
+      "회사는 더 많은 장애인 단체에 일을 맡길 계획이다.",
+      "커피숍의 직원들은 회사가 제공하는 직업 교육을 받았다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "위탁 사업에 대해 걱정하는 사람들이 많다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "커피숍에서 일하는 사람들은 회사의 직원들이다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "회사는 더 많은 장애인 단체에 일을 맡길 계획이다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "커피숍의 직원들은 회사가 제공하는 직업 교육을 받았다."
+      }
+    ],
+    "options_text": [
+      "위탁 사업에 대해 걱정하는 사람들이 많다.",
+      "커피숍에서 일하는 사람들은 회사의 직원들이다.",
+      "회사는 더 많은 장애인 단체에 일을 맡길 계획이다.",
+      "커피숍의 직원들은 회사가 제공하는 직업 교육을 받았다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "짧은 설명문에서 세부 내용과 일치하는 선택지를 고르는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "level_test_slot": 13,
+    "source_question_number": 32,
+    "source_full_question_number": 32,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "passage_group_id": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT14-O035",
+    "question_number": 14,
+    "original_question_number": 35,
+    "template_slot": 14,
+    "target_slot": 14,
+    "target_slots": [
+      14
+    ],
+    "source_pdf_page": 33,
+    "source_printed_page": 14,
+    "type": "main_idea",
+    "category": "중심 내용 파악",
+    "diagnostic_area": "글의 주제 파악",
+    "instruction": "[35~38] 다음 글의 주제로 가장 알맞은 것을 고르십시오. (각 2점)",
+    "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+    "passage": "21세기는 음악 구입과 청취가 온라인으로 이루어지고 있어 음악을 소비하는 시대라고 불린다. 그런데 최근 음악 애호가들을 중심으로 이미 구식이 되어 버린 카세트테이프를 구매하려는 사람들이 늘어나고 있다. 그들은 카세트테이프를 단순히 음악 감상의 도구가 아닌 소장하고 싶은 물건으로 생각한다. 여기에는 카세트테이프를 구매함으로써 자신이 좋아하는 음악인의 앨범을 오랫동안 간직하고 싶다는 마음이 담겨 있다.",
+    "passage_template": "21세기는 음악 구입과 청취가 온라인으로 이루어지고 있어 음악을 소비하는 시대라고 불린다. 그런데 최근 음악 애호가들을 중심으로 이미 구식이 되어 버린 카세트테이프를 구매하려는 사람들이 늘어나고 있다. 그들은 카세트테이프를 단순히 음악 감상의 도구가 아닌 소장하고 싶은 물건으로 생각한다. 여기에는 카세트테이프를 구매함으로써 자신이 좋아하는 음악인의 앨범을 오랫동안 간직하고 싶다는 마음이 담겨 있다.",
+    "options": [
+      "카세트테이프 인기는 음악 소비 시장의 확장을 의미한다.",
+      "카세트테이프 발매로 음악에 대한 발전이 이루어지고 있다.",
+      "카세트테이프 복원으로 옛 음악에 대한 관심이 커지고 있다.",
+      "카세트테이프 구매는 앨범 소장에 대한 욕구가 반영된 것이다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "카세트테이프 인기는 음악 소비 시장의 확장을 의미한다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "카세트테이프 발매로 음악에 대한 발전이 이루어지고 있다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "카세트테이프 복원으로 옛 음악에 대한 관심이 커지고 있다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "카세트테이프 구매는 앨범 소장에 대한 욕구가 반영된 것이다."
+      }
+    ],
+    "options_text": [
+      "카세트테이프 인기는 음악 소비 시장의 확장을 의미한다.",
+      "카세트테이프 발매로 음악에 대한 발전이 이루어지고 있다.",
+      "카세트테이프 복원으로 옛 음악에 대한 관심이 커지고 있다.",
+      "카세트테이프 구매는 앨범 소장에 대한 욕구가 반영된 것이다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "글 전체의 중심 내용을 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "level_test_slot": 14,
+    "source_question_number": 35,
+    "source_full_question_number": 35,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "passage_group_id": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT15-O039",
+    "question_number": 15,
+    "original_question_number": 39,
+    "template_slot": 15,
+    "target_slot": 15,
+    "target_slots": [
+      15
+    ],
+    "source_pdf_page": 35,
+    "source_printed_page": 16,
+    "type": "sentence_insert",
+    "category": "문장 삽입",
+    "diagnostic_area": "주어진 문장과 앞뒤 문맥의 응집성 판단",
+    "instruction": "[39~41] 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오. (각 2점)",
+    "question": "주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+    "passage": "그동안 한국에서는 고구마 꽃이 잘 피지 않아 백 년에 한 번 피는 진귀한 꽃으로 생각되었다. (㉠) 최근에는 이 고구마 꽃이 희귀성을 잃고 반갑지 않은 존재라는 인상을 주고 있다. (㉡) 본래 고구마 꽃은 고온 건조한 날씨가 지속되는 아열대 기후에서만 피는 꽃으로 알려져 있다. (㉢) 그러나 지구 온난화로 인해 한국에서 이상 고온 현상이 발생하면서 현재는 전국 각지에서 이 꽃이 심심찮게 발견되고 있다. (㉣)",
+    "passage_template": "그동안 한국에서는 고구마 꽃이 잘 피지 않아 백 년에 한 번 피는 진귀한 꽃으로 생각되었다. (㉠) 최근에는 이 고구마 꽃이 희귀성을 잃고 반갑지 않은 존재라는 인상을 주고 있다. (㉡) 본래 고구마 꽃은 고온 건조한 날씨가 지속되는 아열대 기후에서만 피는 꽃으로 알려져 있다. (㉢) 그러나 지구 온난화로 인해 한국에서 이상 고온 현상이 발생하면서 현재는 전국 각지에서 이 꽃이 심심찮게 발견되고 있다. (㉣)",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "㉠"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "㉡"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "㉢"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "㉣"
+      }
+    ],
+    "options_text": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "주어진 문장의 연결 관계와 지시 표현을 기준으로 삽입 위치를 판단하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "interaction_mode": "sentence_insert",
+    "sentence_to_insert": "고구마 꽃이 기상 이변에 의해 쉽게 개화한다는 것이 밝혀졌기 때문이다.",
+    "given_sentence": "고구마 꽃이 기상 이변에 의해 쉽게 개화한다는 것이 밝혀졌기 때문이다.",
+    "insert_sentence": "고구마 꽃이 기상 이변에 의해 쉽게 개화한다는 것이 밝혀졌기 때문이다.",
+    "insert_positions": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "correct_insert_position": "㉡",
+    "correct_position": "㉡",
+    "level_test_slot": 15,
+    "source_question_number": 39,
+    "source_full_question_number": 39,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "passage_group_id": "",
+    "passage_group_numbers": [],
+    "shared_passage_index": null,
+    "shared_passage_total": null
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT16-O042",
+    "question_number": 16,
+    "original_question_number": 42,
+    "template_slot": 16,
+    "target_slot": 16,
+    "target_slots": [
+      16
+    ],
+    "source_pdf_page": 37,
+    "source_printed_page": 18,
+    "type": "common_passage_underlined_emotion",
+    "category": "심정 파악",
+    "diagnostic_area": "밑줄 표현에 나타난 인물 심정 파악",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 나의 심정으로 알맞은 것을 고르십시오.",
+    "passage": "나는 오전에 자전거를 끌고 사람이 없는 운동장으로 갔다. 시멘트 계단 옆에 자전거를 세운 뒤 안장에 올라가서 발로 연단을 차는 힘으로 자전거의 주차 장치가 풀리면서 앞으로 나가도록 했다. 바퀴가 두 번도 구르기 전에 자전거는 멈췄고 나는 넘어졌다. 같은 식의 시행착오가 수백 번 거듭되었다. 정강이와 허벅지에 멍 자국이 생겨났고 팔과 손의 피부가 벗겨졌다. 나중에는 자전거를 일으키는 일조차 힘이 들었다. 마지막으로 쓰러졌을 때 어둠이 다가오고 있는 걸 알고는 막막한 마음에 자전거 옆에 한참 누워 있다가 일어났다. (중략)\n\n그럼에도 불구하고 나는 돌을 딛고 자전거에 올라섰다. 어차피 가지 않으면 안 될 길. 나는 몸을 앞뒤로 흔들어 자전거를 출발시켰다. 자전거는 앞으로 나아가기 시작했다. 페달을 밟지 않고도 가속이 붙었다. 나는 난생처음 봄을 맞는 장끼처럼 나도 모를 이상한 소리를 내지르며 자전거와 한 몸이 되어 달려 내려갔다. 가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다.",
+    "passage_template": "나는 오전에 자전거를 끌고 사람이 없는 운동장으로 갔다. 시멘트 계단 옆에 자전거를 세운 뒤 안장에 올라가서 발로 연단을 차는 힘으로 자전거의 주차 장치가 풀리면서 앞으로 나가도록 했다. 바퀴가 두 번도 구르기 전에 자전거는 멈췄고 나는 넘어졌다. 같은 식의 시행착오가 수백 번 거듭되었다. 정강이와 허벅지에 멍 자국이 생겨났고 팔과 손의 피부가 벗겨졌다. 나중에는 자전거를 일으키는 일조차 힘이 들었다. 마지막으로 쓰러졌을 때 어둠이 다가오고 있는 걸 알고는 막막한 마음에 자전거 옆에 한참 누워 있다가 일어났다. (중략)\n\n그럼에도 불구하고 나는 돌을 딛고 자전거에 올라섰다. 어차피 가지 않으면 안 될 길. 나는 몸을 앞뒤로 흔들어 자전거를 출발시켰다. 자전거는 앞으로 나아가기 시작했다. 페달을 밟지 않고도 가속이 붙었다. 나는 난생처음 봄을 맞는 장끼처럼 나도 모를 이상한 소리를 내지르며 자전거와 한 몸이 되어 달려 내려갔다. 가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다.",
+    "options": [
+      "희열을 느끼다",
+      "기대에 들뜨다",
+      "가슴이 먹먹하다",
+      "마음이 홀가분하다"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "희열을 느끼다"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "기대에 들뜨다"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "가슴이 먹먹하다"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "마음이 홀가분하다"
+      }
+    ],
+    "options_text": [
+      "희열을 느끼다",
+      "기대에 들뜨다",
+      "가슴이 먹먹하다",
+      "마음이 홀가분하다"
+    ],
+    "correct_answer": 1,
+    "answer": 1,
+    "points": 2,
+    "description": "공통 지문을 읽고 밑줄 표현의 심정 또는 내용 일치를 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "passage_group_id": "LT37-016-017",
+    "passage_group_title": "[42~43] 자전거 연습",
+    "passage_group_numbers": [
+      6,
+      17
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 1,
+    "underline_targets": [
+      "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+    ],
+    "underlined_parts": [
+      "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+    ],
+    "underline_text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다",
+    "underlined_text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다",
+    "underline_segments": [
+      {
+        "text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-016-017",
+    "passage_set_lock_id": "LT37-016-017",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 16,
+    "source_question_number": 42,
+    "source_full_question_number": 42,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "random_selection_group_id": "LT37-016-017",
+    "level_test_selection_group_id": "LT37-016-017",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[42~43] 자전거 연습"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT17-O043",
+    "question_number": 17,
+    "original_question_number": 43,
+    "template_slot": 17,
+    "target_slot": 17,
+    "target_slots": [
+      17
+    ],
+    "source_pdf_page": 37,
+    "source_printed_page": 18,
+    "type": "common_passage_question",
+    "category": "내용 일치",
+    "diagnostic_area": "서사 글의 사건 전개와 세부 내용 이해",
+    "instruction": "[42~43] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "이 글의 내용과 같은 것을 고르십시오.",
+    "passage": "나는 오전에 자전거를 끌고 사람이 없는 운동장으로 갔다. 시멘트 계단 옆에 자전거를 세운 뒤 안장에 올라가서 발로 연단을 차는 힘으로 자전거의 주차 장치가 풀리면서 앞으로 나가도록 했다. 바퀴가 두 번도 구르기 전에 자전거는 멈췄고 나는 넘어졌다. 같은 식의 시행착오가 수백 번 거듭되었다. 정강이와 허벅지에 멍 자국이 생겨났고 팔과 손의 피부가 벗겨졌다. 나중에는 자전거를 일으키는 일조차 힘이 들었다. 마지막으로 쓰러졌을 때 어둠이 다가오고 있는 걸 알고는 막막한 마음에 자전거 옆에 한참 누워 있다가 일어났다. (중략)\n\n그럼에도 불구하고 나는 돌을 딛고 자전거에 올라섰다. 어차피 가지 않으면 안 될 길. 나는 몸을 앞뒤로 흔들어 자전거를 출발시켰다. 자전거는 앞으로 나아가기 시작했다. 페달을 밟지 않고도 가속이 붙었다. 나는 난생처음 봄을 맞는 장끼처럼 나도 모를 이상한 소리를 내지르며 자전거와 한 몸이 되어 달려 내려갔다. 가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다.",
+    "passage_template": "나는 오전에 자전거를 끌고 사람이 없는 운동장으로 갔다. 시멘트 계단 옆에 자전거를 세운 뒤 안장에 올라가서 발로 연단을 차는 힘으로 자전거의 주차 장치가 풀리면서 앞으로 나가도록 했다. 바퀴가 두 번도 구르기 전에 자전거는 멈췄고 나는 넘어졌다. 같은 식의 시행착오가 수백 번 거듭되었다. 정강이와 허벅지에 멍 자국이 생겨났고 팔과 손의 피부가 벗겨졌다. 나중에는 자전거를 일으키는 일조차 힘이 들었다. 마지막으로 쓰러졌을 때 어둠이 다가오고 있는 걸 알고는 막막한 마음에 자전거 옆에 한참 누워 있다가 일어났다. (중략)\n\n그럼에도 불구하고 나는 돌을 딛고 자전거에 올라섰다. 어차피 가지 않으면 안 될 길. 나는 몸을 앞뒤로 흔들어 자전거를 출발시켰다. 자전거는 앞으로 나아가기 시작했다. 페달을 밟지 않고도 가속이 붙었다. 나는 난생처음 봄을 맞는 장끼처럼 나도 모를 이상한 소리를 내지르며 자전거와 한 몸이 되어 달려 내려갔다. 가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다.",
+    "options": [
+      "자전거의 바퀴가 고장 나서 집으로 끌고 가야 했다.",
+      "주차 장치가 풀려서 계단 옆에 세워 놓은 자전거가 쓰러졌다.",
+      "나는 자전거를 탈 줄 몰라서 늦은 시간까지 연습을 거듭했다.",
+      "나는 다른 사람의 자전거와 부딪치면서 온몸에 상처를 입었다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "자전거의 바퀴가 고장 나서 집으로 끌고 가야 했다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "주차 장치가 풀려서 계단 옆에 세워 놓은 자전거가 쓰러졌다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "나는 자전거를 탈 줄 몰라서 늦은 시간까지 연습을 거듭했다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "나는 다른 사람의 자전거와 부딪치면서 온몸에 상처를 입었다."
+      }
+    ],
+    "options_text": [
+      "자전거의 바퀴가 고장 나서 집으로 끌고 가야 했다.",
+      "주차 장치가 풀려서 계단 옆에 세워 놓은 자전거가 쓰러졌다.",
+      "나는 자전거를 탈 줄 몰라서 늦은 시간까지 연습을 거듭했다.",
+      "나는 다른 사람의 자전거와 부딪치면서 온몸에 상처를 입었다."
+    ],
+    "correct_answer": 3,
+    "answer": 3,
+    "points": 2,
+    "description": "공통 지문을 읽고 밑줄 표현의 심정 또는 내용 일치를 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "passage_group_id": "LT37-016-017",
+    "passage_group_title": "[42~43] 자전거 연습",
+    "passage_group_numbers": [
+      6,
+      17
+    ],
+    "shared_passage_total": 2,
+    "shared_passage_index": 2,
+    "underline_targets": [
+      "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+    ],
+    "underlined_parts": [
+      "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+    ],
+    "underline_text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다",
+    "underlined_text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다",
+    "underline_segments": [
+      {
+        "text": "가슴이 터질 듯 부풀었고 어질어질한 속도감에 사로잡혔다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-016-017",
+    "passage_set_lock_id": "LT37-016-017",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 17,
+    "source_question_number": 43,
+    "source_full_question_number": 43,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      16,
+      17
+    ],
+    "set_original_question_numbers": [
+      42,
+      43
+    ],
+    "source_passage_group_numbers": [
+      42,
+      43
+    ],
+    "random_selection_group_id": "LT37-016-017",
+    "level_test_selection_group_id": "LT37-016-017",
+    "set_lock": true,
+    "selection_unit_size": 2,
+    "selection_unit_title": "[42~43] 자전거 연습"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT18-O048",
+    "question_number": 18,
+    "original_question_number": 48,
+    "template_slot": 18,
+    "target_slot": 18,
+    "target_slots": [
+      18
+    ],
+    "source_pdf_page": 40,
+    "source_printed_page": 21,
+    "type": "common_passage_purpose",
+    "category": "필자 의도·주장",
+    "diagnostic_area": "필자의 글쓰기 목적 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "필자가 이 글을 쓴 목적을 고르십시오.",
+    "passage": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "passage_template": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "options": [
+      "인류에 잔재하는 반문명적 요소를 고발하기 위해",
+      "시대에 걸맞은 가치의 변화가 필요함을 주장하기 위해",
+      "인류가 간과해 온 충돌에 대한 경각심을 촉구하기 위해",
+      "시대의 흐름에 따른 문명의 변화 양상을 설명하기 위해"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "인류에 잔재하는 반문명적 요소를 고발하기 위해"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "시대에 걸맞은 가치의 변화가 필요함을 주장하기 위해"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "인류가 간과해 온 충돌에 대한 경각심을 촉구하기 위해"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "시대의 흐름에 따른 문명의 변화 양상을 설명하기 위해"
+      }
+    ],
+    "options_text": [
+      "인류에 잔재하는 반문명적 요소를 고발하기 위해",
+      "시대에 걸맞은 가치의 변화가 필요함을 주장하기 위해",
+      "인류가 간과해 온 충돌에 대한 경각심을 촉구하기 위해",
+      "시대의 흐름에 따른 문명의 변화 양상을 설명하기 위해"
+    ],
+    "correct_answer": 2,
+    "answer": 2,
+    "points": 2,
+    "description": "공통 지문을 읽고 필자의 목적, 빈칸, 밑줄 표현의 태도를 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "passage_group_id": "LT37-018-020",
+    "passage_group_title": "[48~50] 동질성과 다름",
+    "passage_group_numbers": [
+      18,
+      7,
+      8
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 1,
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underlined_parts": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underline_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underlined_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underline_segments": [
+      {
+        "text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-018-020",
+    "passage_set_lock_id": "LT37-018-020",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 18,
+    "source_question_number": 48,
+    "source_full_question_number": 48,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "random_selection_group_id": "LT37-018-020",
+    "level_test_selection_group_id": "LT37-018-020",
+    "set_lock": true,
+    "selection_unit_size": 3,
+    "selection_unit_title": "[48~50] 동질성과 다름"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT19-O049",
+    "question_number": 19,
+    "original_question_number": 49,
+    "template_slot": 19,
+    "target_slot": 19,
+    "target_slots": [
+      19
+    ],
+    "source_pdf_page": 40,
+    "source_printed_page": 21,
+    "type": "common_passage_blank_choice",
+    "category": "공통 지문 빈칸",
+    "diagnostic_area": "문맥에 맞는 표현 선택",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "(     )에 들어갈 내용으로 알맞은 것을 고르십시오.",
+    "passage": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "passage_template": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "options": [
+      "상대에 대한 관심이",
+      "자립에 대한 동경이",
+      "이질성에 대한 집착이",
+      "차이에 대한 적대감이"
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "상대에 대한 관심이"
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "자립에 대한 동경이"
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "이질성에 대한 집착이"
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "차이에 대한 적대감이"
+      }
+    ],
+    "options_text": [
+      "상대에 대한 관심이",
+      "자립에 대한 동경이",
+      "이질성에 대한 집착이",
+      "차이에 대한 적대감이"
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "공통 지문을 읽고 필자의 목적, 빈칸, 밑줄 표현의 태도를 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "passage_group_id": "LT37-018-020",
+    "passage_group_title": "[48~50] 동질성과 다름",
+    "passage_group_numbers": [
+      18,
+      7,
+      8
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 2,
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underlined_parts": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underline_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underlined_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underline_segments": [
+      {
+        "text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-018-020",
+    "passage_set_lock_id": "LT37-018-020",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 19,
+    "source_question_number": 49,
+    "source_full_question_number": 49,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "random_selection_group_id": "LT37-018-020",
+    "level_test_selection_group_id": "LT37-018-020",
+    "set_lock": true,
+    "selection_unit_size": 3,
+    "selection_unit_title": "[48~50] 동질성과 다름"
+  },
+  {
+    "source_round": "37",
+    "source_exam": "제37회 TOPIK II 읽기 B형",
+    "source_file": "37회TOPIK2(듣기쓰기읽기)_B형.pdf",
+    "level": "TOPIK II",
+    "test_level": "TOPIK II",
+    "section": "reading",
+    "answer_source": "37회 TOPIK2_정답표.pdf",
+    "answer_key_status": "user_provided_answer_table_B_type",
+    "is_official_answer_key": false,
+    "needs_text_review": false,
+    "needs_answer_review": false,
+    "review_confidence": "pdf_visual_review_required",
+    "generated_exam_mode": "level-test-round",
+    "generated_exam_round": "37",
+    "generated_exam_label": "37회 레벨테스트 20문항",
+    "test_scope": "TOPIK II 읽기 레벨테스트 20문항",
+    "is_full_50_question_set": false,
+    "expected_total_questions": 20,
+    "question_number_start": 1,
+    "question_number_end": 20,
+    "total_possible_points": 40,
+    "time_limit_minutes": 30,
+    "id": "T2-37-LT20-O050",
+    "question_number": 20,
+    "original_question_number": 50,
+    "template_slot": 20,
+    "target_slot": 20,
+    "target_slots": [
+      20
+    ],
+    "source_pdf_page": 40,
+    "source_printed_page": 21,
+    "type": "common_passage_underlined_attitude",
+    "category": "필자 태도",
+    "diagnostic_area": "밑줄 표현에 나타난 필자의 태도 파악",
+    "instruction": "[48~50] 다음을 읽고 물음에 답하십시오. (각 2점)",
+    "question": "밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "passage_template": "인류의 지난 문명은 동질성이 지배해 왔다. 동질성 위주의 사고방식은 씨족사회 시절부터 오늘에 이르기까지 공동체의 힘을 결집시켜 주었고 그것은 곧 인류 발전의 원동력이 되었다. 그러나 지금도 곳곳에서 발생하고 있는 무력 충돌이라는 부작용을 초래하기도 한다. 동질성이 강조될수록 (     ) 커지기 때문이다. 교통 통신의 발달로 변방과 국경이 사라진 지구촌의 인류에게 필요한 덕목은 더 이상 동질성이 아니다. 그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다. 이 시대 인류 전체의 화두는 ‘다름’이 되어야 한다. 다른 것은 또 다른 것을 보완하고 완성시키며 성장케 하는 조력자이다. 또한 서로 다른 것의 결합은 기존의 것과 구별되는 창조의 원천이다. 도래하는 신문명 시대의 가치는 동질성이 아닌 다름에서 찾아야 한다. 이제 새로운 사고의 틀로 인류의 역사를 새롭게 쓸 때이다.",
+    "options": [
+      "이질성이 없어진 후 발생할 문제점을 염려한다.",
+      "서로 다른 것의 공존이 가져올 혼란을 걱정한다.",
+      "획일성이 지배하는 어두운 현실에 대해 고민한다.",
+      "동질성을 강조할 때 나타날 부정적 결과를 우려한다."
+    ],
+    "option_objects": [
+      {
+        "label": "1",
+        "number": 1,
+        "text": "이질성이 없어진 후 발생할 문제점을 염려한다."
+      },
+      {
+        "label": "2",
+        "number": 2,
+        "text": "서로 다른 것의 공존이 가져올 혼란을 걱정한다."
+      },
+      {
+        "label": "3",
+        "number": 3,
+        "text": "획일성이 지배하는 어두운 현실에 대해 고민한다."
+      },
+      {
+        "label": "4",
+        "number": 4,
+        "text": "동질성을 강조할 때 나타날 부정적 결과를 우려한다."
+      }
+    ],
+    "options_text": [
+      "이질성이 없어진 후 발생할 문제점을 염려한다.",
+      "서로 다른 것의 공존이 가져올 혼란을 걱정한다.",
+      "획일성이 지배하는 어두운 현실에 대해 고민한다.",
+      "동질성을 강조할 때 나타날 부정적 결과를 우려한다."
+    ],
+    "correct_answer": 4,
+    "answer": 4,
+    "points": 2,
+    "description": "공통 지문을 읽고 필자의 목적, 빈칸, 밑줄 표현의 태도를 파악하는 문항입니다.",
+    "image_url": "",
+    "data_status": "level_test_20_from_37_full_balanced_by_type_with_sets",
+    "full_exam_id": "reading-37",
+    "screen_review_status": "level_test_screen_review_required",
+    "bank_source": "reading-37.json",
+    "passage_group_id": "LT37-018-020",
+    "passage_group_title": "[48~50] 동질성과 다름",
+    "passage_group_numbers": [
+      18,
+      7,
+      8
+    ],
+    "shared_passage_total": 3,
+    "shared_passage_index": 3,
+    "blank_key": "blank_1",
+    "shared_blank_key": "blank_1",
+    "shared_blank_source_question_number": 19,
+    "shared_blank_target_questions": [
+      18,
+      19,
+      20
+    ],
+    "underline_targets": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underlined_parts": [
+      "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+    ],
+    "underline_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underlined_text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다",
+    "underline_segments": [
+      {
+        "text": "그것은 자칫 다름을 철저히 배격함으로써 지구촌 차원의 불행을 야기할 수도 있다"
+      }
+    ],
+    "must_travel_together": true,
+    "split_allowed": false,
+    "selection_unit": "passage_set",
+    "selection_unit_type": "passage_set",
+    "selection_group_id": "LT37-018-020",
+    "passage_set_lock_id": "LT37-018-020",
+    "set_policy": "keep_all_items_together",
+    "level_test_slot": 20,
+    "source_question_number": 50,
+    "source_full_question_number": 50,
+    "level_test_exam_id": "level-test-37",
+    "level_test_selection_rule": "balanced_by_type_with_passage_sets",
+    "source_original_question_numbers": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      28,
+      32,
+      35,
+      39,
+      42,
+      43,
+      48,
+      49,
+      50
+    ],
+    "set_question_numbers": [
+      18,
+      19,
+      20
+    ],
+    "set_original_question_numbers": [
+      48,
+      49,
+      50
+    ],
+    "source_passage_group_numbers": [
+      48,
+      49,
+      50
+    ],
+    "random_selection_group_id": "LT37-018-020",
+    "level_test_selection_group_id": "LT37-018-020",
+    "set_lock": true,
+    "selection_unit_size": 3,
+    "selection_unit_title": "[48~50] 동질성과 다름"
+  }
+]
